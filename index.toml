@@ -4040,14 +4040,13 @@ hash = "5529fab4cd1c7f4bd6ad12cda0196d73cab74f5fb5bda828074897b4ae30f1c5"
 metafile = true
 
 [[files]]
-file = "mods/backported-wolves-biomes-o-plenty-compat.pw.toml"
-hash = "d164032a698303b808f8ed2a326cd53d42fe0a14efd7d333b14289d7e384c98a"
-metafile = true
-
-[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "753778e7deed4b8c321e21dee45f455ecac427eef70b45c7ffd82675af09945d"
 metafile = true
+
+[[files]]
+file = "mods/backported_wolves_bopcompat_1.20.1.jar"
+hash = "439dc17a7deb8e5facc320dc1b7b2b077342efb9fa45add20a27355498ac222a"
 
 [[files]]
 file = "mods/be-style-wither.pw.toml"
