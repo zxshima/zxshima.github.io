@@ -1,0 +1,13 @@
+name = "Damage Indicator Reborn"
+filename = "DamageIndicatorReborn-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31d19a8f854568612a5ebde0bcf40ce64b40acde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5512460
+project-id = 1059519

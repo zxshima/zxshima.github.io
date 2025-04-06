@@ -1,0 +1,82 @@
+[
+  {
+    "mob": ["friendsandfoes:glare"],
+    "dimension": "minecraft:overworld",
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:camel"],
+    "biome": "minecraft:desert",
+    "result": "allow"
+  },
+  {
+    "mob": ["cataclysm:koboleton","specialmobs:spitfireskeleton","rottencreatures:mummy"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5
+  },
+  {
+    "mob": ["rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:hunter_wolf","rottencreatures:immortal","rottencreatures:swampy","rottencreatures:undead_miner","rottencreatures:zap","specialmobs:bruteskeleton","specialmobs:brutewitherskeleton","specialmobs:brutedrowned","specialmobs:brutezombie","specialmobs:brutezombifiedpiglin","mowziesmobs:umvuthana_raptor","rottencreatures:dead_beard"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "healthmultiply": 2,
+    "damagemultiply": 1.5
+  },
+  {
+    "mob": ["specialmobs:madscientistzombie"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5,
+    "speedmultiply": 2
+  },
+  {
+    "mob": ["quark:forgotten","rottencreatures:scarab","mowziesmobs:umvuthana","mowziesmobs:umvuthi","specialmobs:huskzombie","specialmobs:strayskeleton","trials:bogged"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5
+  },
+  {
+    "mob": ["specialmobs:armoredblaze"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "armorset": 12,
+    "damagemultiply": 1.5
+  },
+  {
+    "mob": ["rottencreatures:skeleton_lackey","rottencreatures:zombie_lackey"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "armorset": 4,
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5,
+    "speedmultiply": 1.33,
+    "potion": "terramity:amped,250,1"
+  },
+  {
+    "mob": ["specialmobs:desertspider"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "healthmultiply": 1.5,
+    "potion": "trials:weaving,2500,1"
+  },
+  {
+    "mob": ["guardvillagers:guard"],
+    "when": "onjoin",
+    "dimension": "minecraft:overworld",
+    "result": "allow",
+    "healthmultiply": 1.5,
+    "damagemultiply": 2,
+    "armorset": 12
+  }
+
+]

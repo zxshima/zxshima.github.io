@@ -1,0 +1,13 @@
+name = "Crust"
+filename = "crust-1.20.1-2.5.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2687030641ce3b25ae75103aa03c9f6e98fdf82c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6241113
+project-id = 873570

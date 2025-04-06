@@ -1,0 +1,13 @@
+name = "Backported wolves - Biomes O' Plenty Compat"
+filename = "backported_wolves_bopcompat_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40398814c9f4b7142e47e86c7a333947dc59aa43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5585753
+project-id = 1075352

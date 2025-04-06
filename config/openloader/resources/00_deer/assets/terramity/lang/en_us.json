@@ -1,0 +1,14 @@
+{
+  "enchantment.terramity.bottomless_magazine.desc": "Increases maximum gun ammo, the amount varies between guns.",
+  "enchantment.terramity.curse_of_misfiring.desc": "Doubles recoil of any gun.",
+  "enchantment.terramity.gentle_explosives.desc": "Makes rocket launcher-type weapons not destroy blocks.",
+  "enchantment.terramity.leadfoot.desc": "Removes recoil of any gun.",
+  "enchantment.terramity.lucky_blanks.desc": "Adds the ability to save on ammo on reload.",
+  "enchantment.terramity.narrowed_pellets.desc": "Reduces the spread of shotguns. Incompatible with Slug Conversion.",
+  "enchantment.terramity.overclocked.desc": "Reduces wind-up speed on railgun-type weapons.",
+  "enchantment.terramity.quicker_cooling.desc": "Reduces cooldown on railgun-type weapons by 12% per level.",
+  "enchantment.terramity.rapid_reload.desc": "Increases reload speed. Incompatible with Semi-Auto.",
+  "enchantment.terramity.semi_auto.desc": "Turns automatic weapons, pump-action shotguns and bolt-action sniper rifles into semi-automatic. Incompatible with Rapid Reload.",
+  "enchantment.terramity.sharper_rounds.desc": "Increases bullet damage by 6.66% per level.",
+  "enchantment.terramity.slug_conversion.desc": "Makes shotgun fire a single high-damage shot instead of pellet spread. Incompatible with Narrowed Pellets."
+}

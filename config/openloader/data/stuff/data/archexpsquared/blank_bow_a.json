@@ -1,0 +1,21 @@
+{
+  "cooldown": 10,
+  "base_damage": 1.5,
+  "draw_time": 12,
+  "range": 3,
+  "player_speed": 0.6,
+  "break_resist": 0.5,
+  "break_chance": 0.3,
+  "on_fire_effects": [
+    {
+      "effect": "archeryexp:quickdraw",
+      "lvl": 2,
+      "length": 20,
+      "particles": false
+    }
+  ],
+  "recoil": 0.3,
+
+  "arrow_offset_x": 0.0,
+  "arrow_offset_y": 0.0
+}

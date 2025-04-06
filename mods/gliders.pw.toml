@@ -1,0 +1,13 @@
+name = "Gliders"
+filename = "gliders-forge-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "463c4a1aa9af83c16552bdc11d84af2417c22cba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5857763
+project-id = 828331

@@ -1,0 +1,13 @@
+name = "Alex's Mobs Interaction"
+filename = "alexsmobsinteraction-5.3.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d360c61e971adc6763c0da0b606daf6302ed0b46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6351457
+project-id = 975640

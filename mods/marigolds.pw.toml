@@ -1,0 +1,13 @@
+name = "Marigold Flower!"
+filename = "marigolds-1.0.5-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2debb383c422de5868f2758a7fd558a8bd4a6f56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5171470
+project-id = 855153
