@@ -865,34 +865,6 @@ file = "config/openloader/resources/00_deer/assets/cataclysm/lang/en_us.json"
 hash = "2df6f4a606ec1cb9fd69109ea28adebd67ef4f05ea261af742431dd616c013e1"
 
 [[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/2cd8563eb9b75d67a902203851ffdc8346b1ab1f"
-hash = "762e1b8d3388ed4693859d659866b2efd1f00888e12d10ec967135174b1e48f6"
-
-[[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/59eb3dbb5f86130e09b3c62d89b9525ee01cf52d"
-hash = "87752484e42310f7c675d71a27a595cd247190a29c7a1c4c16a94325d487514d"
-
-[[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/8d953653dde4df66bbafcef5c554a84bc04fe843"
-hash = "b59f0d66d8e414c2281d2faec0f3aae41ac6232dfb0fbd0560e7cce67cc01f0a"
-
-[[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/9c9c95e556241414acf09a873fcee60768d4904b"
-hash = "0fbabc720318296b5c78fcdf059af1683ee37e84bc6ee2b723bf51527c0b807f"
-
-[[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/9fb1092f32d4fcbf9e061ffd718d4ec689c6c95e"
-hash = "d10a71d99ef25755c906609491218346dab6d296611d1f770ab135ee2baff4eb"
-
-[[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/a1256ff260e49af2a6cf25653641b77e50a51bbf"
-hash = "6d0c0494071ffe2e516082ac22f9e97ef1f77906d5c6d33de037dc829b3eb0dc"
-
-[[files]]
-file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/.cache/c622617f6fabf890a00b9275cd5f643584a8a2c8"
-hash = "2067bcb2a7097d5b4c90075c9d32c749c5ae47710577c7d09c64c2c2bab726bb"
-
-[[files]]
 file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/redwood_bookshelf.png"
 hash = "e2ce645c3a594cca66723a3171d23147c6897af33f8f0ddaa1829958b0738af2"
 
