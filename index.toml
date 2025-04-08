@@ -3963,7 +3963,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+hash = "c51928175be6640cc4fc40a9a0b92454f4ad50c4ff93c8db4c802b29389a45a6"
 metafile = true
 
 [[files]]
@@ -4132,7 +4132,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+hash = "c4db369eb3a610068fcbe3a55677f4a6cd571f6cb6e0875247e1f500e65e3955"
 metafile = true
 
 [[files]]
