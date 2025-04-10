@@ -58,7 +58,11 @@ hash = "f8ce66504ae24394d427f4dec8694ef65e01dc8e96532a53e0c303ae04270aec"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "5402021756da894453b6470b21afaa51974527ba7c9cada7da8c074d22417f0d"
+hash = "37e1afa4fcd3bed76717ab830808b5c04b7c263dcc6851ba15f50ebe46616ced"
+
+[[files]]
+file = "config/keybindhider.json"
+hash = "ba99c3141fd40e176c0d4dd60b014daf48b86e90fb362106f6f6081efc4e7da2"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -3922,7 +3926,7 @@ hash = "65638c18ded361bbdc668c899cdf6592caf77e82a5c117dbe17ad071f0387407"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "535ca05f370249c795cf40267a56ac617dadc76778a8cd8ff5794354291c09c1"
+hash = "de3546e294d817d1ec167bf3d23589a2bf12a254e2c0ca650b739cce93bfbef3"
 
 [[files]]
 file = "config/tide.toml"
@@ -3950,7 +3954,7 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "c9267d658ea0c77af08fbde64cbad3cedfb3c0182337a4e1f9ae43d7458eb62b"
+hash = "5125d69e9701e48f100b540a36aea3506bcf633b421c0c6f0b40d075a0a24536"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -4507,6 +4511,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "3e3a275ab58bd1939d2eebe22095b5db265e33716113ebdee659a78d392b6072"
+metafile = true
+
+[[files]]
+file = "mods/keybindhider.pw.toml"
+hash = "82897c801f4ee778783d585ac9f351c0c91cd877ac0a7df2d59f3cab5f44b727"
 metafile = true
 
 [[files]]
