@@ -1,0 +1,66 @@
+{
+	"targets": [
+	 {
+	  "id": "minecraft:dripstone_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "minecraft:lush_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:cold_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:dirt_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:frozen_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:inferno",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:lukewarm_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:warm_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "alexscaves:magnetic_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "terramity:scorched_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:spider_nest",
+	  "required": false
+	 },
+	 {
+	  "id": "quark:glimmering_weald",
+	  "required": false
+	 },
+	 {
+	  "id": "yungscavebiomes:frosted_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "yungscavebiomes:lost_caves",
+	  "required": false
+	 }
+	],
+	"fog_end": 0.5,
+	"fog_start": 10
+}

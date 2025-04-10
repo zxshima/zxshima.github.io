@@ -1,0 +1,7 @@
+{
+	"require_mods": [
+     "alexscaves"  
+   ],
+	"fog_end": 0.95,
+	"fog_start": 10.25
+}

@@ -1,0 +1,7 @@
+{
+  "effect.trials.infested.description": "This effect has a 10% chance to make entities spawn 1-2 silverfish on getting hit.",
+  "effect.trials.oozing.description": "This effect makes affected entities spawn two slimes upon death.",
+  "effect.trials.trial_curse.description": "This effect causes nearby trial spawners to become ominous trial spawners.",
+  "effect.trials.weaving.description": "This effect makes affected entities spread 2-3 cobweb blocks upon death.",
+  "effect.trials.winded.description": "This effect makes affected entities emit a wind burst upon death."
+}
