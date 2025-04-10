@@ -94,6 +94,9 @@ to make editing this file much easier.
 	   		"biomesoplenty:maple_log": "autumnity:maple_log",
 	   		"biomesoplenty:red_maple_leaves": "autumnity:red_maple_leaves",
 	   		"biomesoplenty:orange_maple_leaves": "autumnity:orange_maple_leaves",
-	   		"biomesoplenty:yellow_maple_leaves": "autumnity:yellow_maple_leaves"
+	   		"biomesoplenty:yellow_maple_leaves": "autumnity:yellow_maple_leaves",
+	   		"terramity:stone_tiles": "supplementaries:stone_tile",
+	   		"terramity:stone_tile_stairs": "supplementaries:stone_tile_stairs",
+	   		"terramity:stone_tile_slab": "supplementaries:stone_tile_slab"
 	   	}
 }

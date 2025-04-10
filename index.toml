@@ -30,7 +30,7 @@ hash = "d0a08a602753a4090c49fa47a1eb744a2887d757a51780a4654ed52557b833fa"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "b0646663ab701cfa4f76c12c5ebc653cc052c9a79ad59131d88bb0bb08c287a3"
+hash = "8668f060e99a681813c31a74c8626eb5e96f259419d9dd7d2d5380a1a5f642b8"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -50,7 +50,7 @@ hash = "6ae9019a83774c688c06b5519dd8f3feaf43b8d7c978425cb2c095ae82918b9c"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "8f8481b9b803bb1fda08089af9e084309e126a870fe8f8228df4785959e50d0e"
+hash = "c251bd412fde58a08336ae096db0601ae34d1a1b8ed17d97f82cd373f4a15e11"
 
 [[files]]
 file = "config/incontrol/spawner.json"
@@ -58,7 +58,7 @@ hash = "f8ce66504ae24394d427f4dec8694ef65e01dc8e96532a53e0c303ae04270aec"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
-hash = "eb6d6d3d843b6f6e5241d899b99cfa5962e3e7205914ec66a95016397516dc40"
+hash = "5402021756da894453b6470b21afaa51974527ba7c9cada7da8c074d22417f0d"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -745,8 +745,48 @@ file = "config/openloader/data/stuff/data/archexpsquared/blank_bow_a.json"
 hash = "818e26b0d068ba8d61d04007da950a21428d49ad3936fdb03ffb64e6c80712a4"
 
 [[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_ashen_wolf.json"
+hash = "f8762eb9f78b3813ce77b2419ecdece9bf7a015cfa72f768d7efe99b49f31e11"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_black_wolf.json"
+hash = "50611275fba4ce246ee77717759c1871ca13a9874196ba4d6535f23398a14494"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_chestnut_wolf.json"
+hash = "2029ef9f504ae031a71e23ea942309d656fb12213db5d0669264c13810c11a6a"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_pale_wolf.json"
+hash = "be626527a6015cd4c3a2cf3eb2194c428cea2ae4d7cadf72e73879cd57825c25"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_rusty_wolf.json"
+hash = "87c53b8671bfcfc80ee37baa46834db50ca6cd9ff16f8d0b9e0cac5b001ea54a"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_snowy_wolf.json"
+hash = "525f634bce9544afb3c53423e5a533e5654fe9d9d4c4329248e550a6c5cc3281"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_spotted_wolf.json"
+hash = "3e322f4ae34f934d9cb7e990543d17c649f0f1455c2163a32b79aec8d4f27efe"
+
+[[files]]
+file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_striped_wolf.json"
+hash = "48ba3fbb28a4f96816958b6629e008cc16eb2de71dba4e274f01149a323f985b"
+
+[[files]]
 file = "config/openloader/data/stuff/data/biomesoplenty/recipes/cutting/roses.json"
 hash = "e95e0fcac2d120f945909a9f8b5c40252daaf9cd74b88218d47c14500e1e68d4"
+
+[[files]]
+file = "config/openloader/data/stuff/data/enchantmentdisabletag/tags/enchantment/disabled.json"
+hash = "0e1d84a4a119bfb65177a89928fb20902cbf9a729051ac54562155a03746e861"
+
+[[files]]
+file = "config/openloader/data/stuff/data/environmental/tags/items/deer_food.json"
+hash = "361b534e8818aeecf7714978ea706b4690f01ad0a16eac18daa1279b5a24f88a"
 
 [[files]]
 file = "config/openloader/data/stuff/data/environmental/tags/worldgen/biome/has_spawn/duck.json"
@@ -841,6 +881,22 @@ file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/block/
 hash = "6b5075f276d7809030a27fcb01e24e579a6c040bcf28ff519aba91f9c247295b"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/entity/boat/fir.png"
+hash = "62c8b52a65c14c33d8de9cd36d1a98a694aed1f19d3bfaf6b484dda3f0cfe4ac"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/entity/chest_boat/fir.png"
+hash = "feba47c07fc5b19747454154a431a77f9aaaa82143b7afe9015f6bc54aa0e7f2"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/entity/signs/fir.png"
+hash = "985f0fa5134e71eb342ab3d3819f63522816800966b5c96e548dabe6a69e7121"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/entity/signs/hanging/fir.png"
+hash = "8042e3dcc3af9ed8a46817513aefc78197984b9cf9b32662236b550c1a47f763"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/item/fir_boat.png"
 hash = "44f3d21521a98608df81258ec1f170c584e0c5321e52e3c0e629c397b4086154"
 
@@ -863,6 +919,42 @@ hash = "ec85e900cc569cd4aae6baf7d885e14e12ef60025f6eb68776ad1328566f5a5d"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/cataclysm/lang/en_us.json"
 hash = "2df6f4a606ec1cb9fd69109ea28adebd67ef4f05ea261af742431dd616c013e1"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_bookshelf.png"
+hash = "c515e2c5378dca8cbd88522cdc978ef03540668610f3c78802b9dfda13d0b078"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_cabinet_front.png"
+hash = "fd3748114d78bbed8c668ec5529d532320f191cb19c1f4b15516934ac78192d4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_cabinet_front_open.png"
+hash = "9bf3bebfc3fd6f9c1922240f1e1913e5aedca2de2164993829c82a75652218b6"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_cabinet_side.png"
+hash = "47cff22354d4348b25ae3394e9b0ecb267c6195aeadaa2704294acc0e7aaeac4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_cabinet_top.png"
+hash = "82be63d752b568b0d9d92b8c931b636b891aa52b11ac7eed8d345d8d3fe71712"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_ladder.png"
+hash = "9f77bc2251b906897b9ca2e216b418318a6ba76187c54a6a83eb40ff2e5d12b9"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_table.png"
+hash = "a5c0bde5f0d9984c575217f8b9e524ef6453e32c03094578818533c4c8538cf9"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_table_bottom.png"
+hash = "196e1bce4f8b42ca6b20eb1a30bfd7249dc00f07b0369df607c146ee3ba54695"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/fir_table_top.png"
+hash = "15623c355691c8199c24bbe69983925db7b57a7f54f54e6703788c544b7487bd"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/redwood_bookshelf.png"
@@ -901,6 +993,58 @@ file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/bloc
 hash = "6fdd525a5dc60049d2fd907bfaaf2ef46dff5dc224af06b169e63d342ea744be"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/2cd8563eb9b75d67a902203851ffdc8346b1ab1f"
+hash = "762e1b8d3388ed4693859d659866b2efd1f00888e12d10ec967135174b1e48f6"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/59eb3dbb5f86130e09b3c62d89b9525ee01cf52d"
+hash = "87752484e42310f7c675d71a27a595cd247190a29c7a1c4c16a94325d487514d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/8d953653dde4df66bbafcef5c554a84bc04fe843"
+hash = "b59f0d66d8e414c2281d2faec0f3aae41ac6232dfb0fbd0560e7cce67cc01f0a"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/9c9c95e556241414acf09a873fcee60768d4904b"
+hash = "0fbabc720318296b5c78fcdf059af1683ee37e84bc6ee2b723bf51527c0b807f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/9fb1092f32d4fcbf9e061ffd718d4ec689c6c95e"
+hash = "d10a71d99ef25755c906609491218346dab6d296611d1f770ab135ee2baff4eb"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/a1256ff260e49af2a6cf25653641b77e50a51bbf"
+hash = "6d0c0494071ffe2e516082ac22f9e97ef1f77906d5c6d33de037dc829b3eb0dc"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/.cache/c622617f6fabf890a00b9275cd5f643584a8a2c8"
+hash = "2067bcb2a7097d5b4c90075c9d32c749c5ae47710577c7d09c64c2c2bab726bb"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/normal.png"
+hash = "3ce789d0c4c9c88d4cab5bd12e14d9baa41b3c479918fa9b617523ea7962f910"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/normal_left.png"
+hash = "99f2ee047b913bfa7b73017728a4bb84e43c2645550ccb0fb49c150499e07903"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/normal_right.png"
+hash = "5e34d673c071cff54b667169a8bbd099528c7c475af9177ff35b399674a1f045"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/trapped.png"
+hash = "6da4e4d0fa8a3e4780be5f6b68e34ed44279e68327df160ff805f28bc714d647"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/trapped_left.png"
+hash = "7bac3dae8f5a53d1825a029d2b55c6c0dc812c97167b1d5c8dac455aef60429b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/fir/trapped_right.png"
+hash = "8e534e17a370d72756c3d9974856a9c578b575172fefddc3e6f1adec048e9728"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/redwood/normal.png"
 hash = "2f463dc8963115fbd372b544cf3fc4986f38b6d105e2f89d32a4b25181d5d225"
 
@@ -923,6 +1067,10 @@ hash = "6665cc12c762f24ea5c9017ff551e9326e8f9c4da634494f04beae9042f73a09"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/entity/chest/redwood/trapped_right.png"
 hash = "72dfd3816c3fbebdc4d8b227abdf6fea29b412f005236a59042d4a313e04cdf5"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/conjurer_illager/lang/en_us.json"
+hash = "a6c02acc32b8ff1da637c8b1d4801e20e4ce7d9a852134b0ed3822de3adce644"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/decorative_blocks/textures/block/acacia_beam_end.png"
@@ -1011,6 +1159,10 @@ hash = "e0d592ba5881cb009ba846c065694e7114ed66378aff0fc0cc59afca15563e49"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/friendsandfoes/lang/en_us.json"
 hash = "eea51d565200515b6cdf3ccb64e88eac4897779bd27c0f408c8a214b35b45bbd"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/deer_cracker.png"
+hash = "1dc1779135229fa035e44a77b69d986e6c85b4ba11e4578de33b0b2faee808fe"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -2081,38 +2233,6 @@ file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/bl
 hash = "786d2943762ebb32c0b44836dd2ea4150975398bc00a9f4ebb889264e6db9ae9"
 
 [[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_door_bottom.png"
-hash = "358e1950fc003cd1500e53f4128b071787e3f31d0671a3b44a6268478c230fca"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_door_top.png"
-hash = "589dfd25908fc10192ffe50da79935ecb79b7ba3646be9b1a1b1c123b58b0a6c"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_leaves.png"
-hash = "f726ba9896f1d953ea0e781d066537c9b4707e13b5db5fee99acc08226bd6ef9"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_log.png"
-hash = "dc20c3ec64ae83f01e541516d7c6f563bb9abeb260915230e1d2c4ecd52150e4"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_log_top.png"
-hash = "0f948acce5d9a80af0896c88ab4970473fc93e309da763e6eb545eadc63ed0bd"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_planks.png"
-hash = "8fc79d970c67d14a16f96d527517bc58d19e1e374c1485c7a0e9296f5d0887e1"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_sapling.png"
-hash = "8b084985dac80e8e3ad77393ac9ee6191800aff9f19712c5dd9159d71275ae2b"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/fir_trapdoor.png"
-hash = "818be1bd8a510ea14f39d4aa18870e9dd57d874345f56c771d96abdc18fe2eb4"
-
-[[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/flesh.png"
 hash = "1c2fe8d15c44b5fc027b81075d3e0f5debe7b7998f62d47a7442041882a1465e"
 
@@ -2817,14 +2937,6 @@ file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/bl
 hash = "fb198d39b29783f6ffe478816ac8709ec03d9f3bb07865e96f2ed6a24308acd6"
 
 [[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/stripped_fir_log.png"
-hash = "6fc83cb842bac6b19b2bf36826198093d14143c9f44e978451d7831d269df413"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/stripped_fir_log_top.png"
-hash = "5b7856f10d34302b394ddb884a2e9aa691f2a277c455d85394b18b747867e329"
-
-[[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/stripped_hellbark_log.png"
 hash = "70aff208c1ce2d224b9733e2e2f1a3b61eddc597359a6e05e7e13779f44f3b56"
 
@@ -3133,10 +3245,6 @@ file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/en
 hash = "3d0f416246cce1fe67a9cfcaa3cf7a9c66067e430c1b199bc1fd1a3ec190f0ba"
 
 [[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/boat/fir.png"
-hash = "a3fde7e948fb690a68632f5a343d2e247bf3c9d4f835a3a5ce38313ae9843c11"
-
-[[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/boat/hellbark.png"
 hash = "741c570d55ddf0cb67d1c07a9f796b59d10f428718c5de13dcb7861974ab1b5f"
 
@@ -3183,10 +3291,6 @@ hash = "358cecbd842bbf4fd9e29bc343853f1aec8536d787af7b9bbd4fa69eac1bb562"
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/chest_boat/empyreal.png"
 hash = "8df3de9c1c025063d1e99e0ee8186c27ec2d032c3b1abc0a15eb4c839004aa51"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/chest_boat/fir.png"
-hash = "1f3fde2d469fdee4a4ffdf0bdbb38c4d34af42faaded99117ec11d43f98e7ada"
 
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/chest_boat/hellbark.png"
@@ -3237,20 +3341,12 @@ file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/en
 hash = "78cd902b0436badc1c6447b40273bd67646bb5dcc04bd1a344091a658b7e10f5"
 
 [[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/signs/fir.png"
-hash = "721fb40ecb279c33baf852043dcd8c6b6208e8a398a9614a3b0ebf8e460924d6"
-
-[[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/signs/hanging/dead.png"
 hash = "3c5ffd19d669b1096734df35f823cbef1908a7f56accc953363699c1cdcfaa70"
 
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/signs/hanging/empyreal.png"
 hash = "f3fdbd632aabf6d407ef52ade0758e2f7c4e0db72bcbc1a9ec3354122464dfe0"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/signs/hanging/fir.png"
-hash = "ebe6714942008c11bfa543adc2c2623b37a497bbcd45dd5f973630aca1def285"
 
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/entity/signs/hanging/hellbark.png"
@@ -3355,10 +3451,6 @@ hash = "da4596a0631fa742762a8e013a66db2f624fa9b5d63d3aacc05b77bc94ae91f5"
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/gui/hanging_signs/empyreal.png"
 hash = "b077f13d81bb15d1a59691231b2110c2aabc1afd7b5ef785974c74ffdcddfd70"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/gui/hanging_signs/fir.png"
-hash = "73b5daa4b532cacf0dfeab5e57c3886536d8f99a154f4d95a167b9aaa72ec36b"
 
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/gui/hanging_signs/hellbark.png"
@@ -3479,26 +3571,6 @@ hash = "764c7a3bc06542c6c81b3361668d1c6129aaa23e94981379d9842648bc1f432f"
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/eyebulb.png"
 hash = "887bc6964afec94e5501b04d4a199203acf28930925117c8e3c0365502d9420b"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/fir_boat.png"
-hash = "989aed8b2f12c31a4b7b7487c894e3eb7d5a4ee64e4939c7768389b6ee1e84ea"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/fir_chest_boat.png"
-hash = "103b3d7d3f63ef71ffea5c769506b8409c97dedc7c47e24f02c6d4cf06cf3af3"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/fir_door.png"
-hash = "f45f9a54a390f6eef275e5cc818eb094e422ecbce4d1ae12ec9f07c3e7347258"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/fir_hanging_sign.png"
-hash = "62db72bee5f82a357bf0a8d117c2dc59568897e7baed80e98614507569e0cd30"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/fir_sign.png"
-hash = "aef7dcd7324089ad5b7ce9478e1e59fac7771ddd37681c89ca59159e70821289"
 
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/item/glowworm_silk.png"
@@ -3878,7 +3950,7 @@ hash = "65638c18ded361bbdc668c899cdf6592caf77e82a5c117dbe17ad071f0387407"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "32dbbc8483b6c8c77908ace853217b1891c282781f98c87fedb1fc4ccc3f5103"
+hash = "535ca05f370249c795cf40267a56ac617dadc76778a8cd8ff5794354291c09c1"
 
 [[files]]
 file = "config/tide.toml"
@@ -3906,7 +3978,7 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "fd0eb06dd40e3f2ad498bde2f8d914a53a7061c15b385c0fae945aaa1715b8ee"
+hash = "c9267d658ea0c77af08fbde64cbad3cedfb3c0182337a4e1f9ae43d7458eb62b"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -3914,7 +3986,7 @@ hash = "e34964afecab08eceba76476b59f0457925783cddd1afbb64aab63689b00482e"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
-hash = "54ff2af05e833a6da063755ecadba5161a85bf40588aa18dbb83525148c45902"
+hash = "b44c5bc1d82cbcda2dc511f64ff6d602346219a9e16256ac89968a9a0845f9c9"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -3947,8 +4019,12 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/alexsmobsinteraction.pw.toml"
-hash = "6016960ed095c7fb5d07f0ec97b289fbd115ba39a7c60e49a878744b65addff5"
+file = "mods/alexsmobsinteraction-5.3.1_fixed.jar"
+hash = "5317b766c78282956f964545e610f581c9d9e28d16a2ae2350b44317166d2ab2"
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "415c1bb058287bd60abb4ffc9210963699259862e32b039ececf3c0b497e968b"
 metafile = true
 
 [[files]]
@@ -4019,15 +4095,6 @@ metafile = true
 [[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "753778e7deed4b8c321e21dee45f455ecac427eef70b45c7ffd82675af09945d"
-metafile = true
-
-[[files]]
-file = "mods/backported_wolves_bopcompat_1.20.1.jar"
-hash = "439dc17a7deb8e5facc320dc1b7b2b077342efb9fa45add20a27355498ac222a"
-
-[[files]]
-file = "mods/be-style-wither.pw.toml"
-hash = "8be05ac0b2a171420037b8733c9eecf644bd20b165553500b009c177696e1164"
 metafile = true
 
 [[files]]
@@ -4123,6 +4190,11 @@ metafile = true
 [[files]]
 file = "mods/cobweb.pw.toml"
 hash = "bc5bde51620622b9f415bcc3dfea4dca5bd17171383cf4290e1075b7352adbe0"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "d398f8bed91bb94f6cac8128e7894df7cb9db1016fe3f6bb5f6a402b1af38be7"
 metafile = true
 
 [[files]]
@@ -4246,6 +4318,11 @@ hash = "0428859074e9be199e700f0a9724fbe6541f081529198a74e719175b539c5051"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-disable-tag.pw.toml"
+hash = "1911750d5ebd8d801a8bdb0a916a5c76b72c268085b10bac670a409a92e932f4"
+metafile = true
+
+[[files]]
 file = "mods/end-of-mending.pw.toml"
 hash = "0ac6e954b99a1a817ffdfead0239e07d3a91b78cc6fd6e74b185526869e7d107"
 metafile = true
@@ -4331,6 +4408,16 @@ hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "3cac9f3d4dc792068b030c9f260eee8cef70f307d98daa7e6814e0e4375de6e8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-freeze-fix.pw.toml"
+hash = "ce630a2aa444f9711d755529f73a6d6490932c1851a179792fbdf88d4e440bc5"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
 metafile = true
@@ -4366,6 +4453,11 @@ hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
 metafile = true
 
 [[files]]
+file = "mods/goated.pw.toml"
+hash = "1786c8a0c754b8cf45de9706965262e4e82d7196f38d14a3e122603dd4474994"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "79c21229b464ad11c93b89f6a0d4bf15dd866b7b47ea0f67aedad6951790b3bf"
 metafile = true
@@ -4393,6 +4485,11 @@ metafile = true
 [[files]]
 file = "mods/infinitybuttons.pw.toml"
 hash = "b1c65e423034d9339fa6d1af991386b294cb8ce398233b9d7dad1ec0973ac60e"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "815b4191dd612bc6d1b1b714c507ba4e0884cadff7355b799b5dad39a6e9574a"
 metafile = true
 
 [[files]]
@@ -4428,6 +4525,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "7142644b6ee70047ec0eec880a44050cf4fd7e42c94f93dbe85ea7630f2d4500"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7609ae004707875b55172b445beb0275331a08254a6ed2b74ffb47afa7203925"
 metafile = true
 
 [[files]]
@@ -4616,6 +4718,11 @@ hash = "2a0cb33fb2c23f157e0295ae75f48c7531441e451187cc9fedf5054d728be929"
 metafile = true
 
 [[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "50f7bc61571deecee3d281fb323646aa6e8b942f262d16de5999a5183e45684e"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "be00342cb8a221251aabbd291da2b6be9fc327b750b9e5818313a9da39349180"
 metafile = true
@@ -4796,11 +4903,6 @@ hash = "30c98d8056b580253b642de3a14cdbab495142a55db4e9e517b02860bdff6198"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
-hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
-metafile = true
-
-[[files]]
 file = "mods/twigs.pw.toml"
 hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
 metafile = true
@@ -4886,4 +4988,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e1ce936d3e81440ada3e3f0640fc27458830c44acd3e4521ccbb62978176f48d"
+hash = "65f0a92a8e06015544871bfa85432555c9284bb88079c89454b5db34688f65fd"

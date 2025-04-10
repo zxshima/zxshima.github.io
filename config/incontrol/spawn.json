@@ -35,7 +35,7 @@
     "speedmultiply": 2
   },
   {
-    "mob": ["quark:forgotten","rottencreatures:scarab","mowziesmobs:umvuthana","mowziesmobs:umvuthi","specialmobs:huskzombie","specialmobs:strayskeleton","trials:bogged"],
+    "mob": ["quark:forgotten","rottencreatures:scarab","mowziesmobs:umvuthana","mowziesmobs:umvuthi","specialmobs:huskzombie","specialmobs:strayskeleton","trials:bogged","conjurer_illager:conjurer"],
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",
@@ -78,5 +78,4 @@
     "damagemultiply": 2,
     "armorset": 12
   }
-
 ]

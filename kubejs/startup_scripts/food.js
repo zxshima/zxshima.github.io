@@ -21,3 +21,10 @@ ItemEvents.modification(event => {
   })
 })
 
+StartupEvents.registry('item', event => {
+	event.create('deer_cracker').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(0.33)
+        	})
+})

@@ -47,6 +47,10 @@
       "structure": "minecraft:village_taiga",
       "factor": 2
     },
+    {
+      "structure": "conjurer_illager:theater",
+      "factor": 0.8
+    },
     // add the structures you want to modify in the format:
     // {
     //     "structure": "namespace:structure_name",
