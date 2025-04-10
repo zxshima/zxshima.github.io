@@ -61,10 +61,6 @@ file = "config/jei/blacklist.cfg"
 hash = "37e1afa4fcd3bed76717ab830808b5c04b7c263dcc6851ba15f50ebe46616ced"
 
 [[files]]
-file = "config/keybindhider.json"
-hash = "ba99c3141fd40e176c0d4dd60b014daf48b86e90fb362106f6f6081efc4e7da2"
-
-[[files]]
 file = "config/map_atlases-client.toml"
 hash = "7f8005aaafdf3abcb856b90b7b5b0763a0ec1a84e40c77451b4ac0c89f8d7882"
 
@@ -4511,11 +4507,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "3e3a275ab58bd1939d2eebe22095b5db265e33716113ebdee659a78d392b6072"
-metafile = true
-
-[[files]]
-file = "mods/keybindhider.pw.toml"
-hash = "82897c801f4ee778783d585ac9f351c0c91cd877ac0a7df2d59f3cab5f44b727"
 metafile = true
 
 [[files]]
