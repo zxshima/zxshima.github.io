@@ -4,14 +4,32 @@
 	filename: "intro"
 	group: "66214D72CDB9B621"
 	id: "0AFF0192450CCCD2"
-	images: [{
-		height: 2.0d
-		image: "minecraft:block/chiseled_bookshelf_empty"
-		rotation: 0.0d
-		width: 2.0d
-		x: 0.0d
-		y: 0.0d
-	}]
+	images: [
+		{
+			height: 2.0d
+			image: "minecraft:block/chiseled_bookshelf_empty"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/chiseled_bookshelf_occupied"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.75d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/chiseled_bookshelf_occupied"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.75d
+			y: 0.0d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -114,6 +132,28 @@
 			title: "Ars Nouveau"
 			x: -0.375d
 			y: -0.425d
+		}
+		{
+			description: [
+				"I hope you enjoy your stay! Or else..."
+				"Go get some tutorial books!"
+				"(this is a placeholder, i think)"
+			]
+			id: "3169210DE08CA878"
+			rewards: [{
+				id: "5CD8173DF2561711"
+				item: "kubejs:deer_cracker"
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "392570D6A46B99D7"
+				optional_task: true
+				title: "Welcome to Deerscape pack!"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
 		}
 	]
 	title: "Intro"

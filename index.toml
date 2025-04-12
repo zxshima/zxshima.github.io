@@ -62,7 +62,7 @@ hash = "acc2b364337141fe75e6aab9048009dc3e905f1f3d52b31c75a1601e0c0e32e8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/intro.snbt"
-hash = "19780ee9e6cb56ca9349b9b0f025cc67a7d6c701b8e18c9dd9e89370fc21019a"
+hash = "453f4b2e1c9459cd47ba016ce9b55ad9e27e1b4d3f1709b780c089d280ac16f4"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -71,10 +71,6 @@ hash = "6b85c9288797ecbcd159e612756837cd5d1fac3790aaa13556dce44d4f57c790"
 [[files]]
 file = "config/incontrol/spawn.json"
 hash = "c251bd412fde58a08336ae096db0601ae34d1a1b8ed17d97f82cd373f4a15e11"
-
-[[files]]
-file = "config/incontrol/spawner.json"
-hash = "f8ce66504ae24394d427f4dec8694ef65e01dc8e96532a53e0c303ae04270aec"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -4322,7 +4318,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "dbebcab51da752a59d057d50f02ced6d3cce3270389f52c414d034f000674790"
+hash = "9d8aa7099214afda8a0bb23e48c05e772827257a2768bb2629e096b480fb8e9f"
 metafile = true
 
 [[files]]
