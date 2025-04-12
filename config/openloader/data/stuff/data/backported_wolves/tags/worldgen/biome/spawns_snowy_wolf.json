@@ -2,7 +2,7 @@
     "values": [
         "minecraft:grove",
         "biomesoplenty:snowy_coniferous_forest",
-        "biomesoplenty:snowy_maple_forest",
-        "biomesoplenty:snowy_taiga"
+        "biomesoplenty:snowy_maple_woods",
+        "minecraft:snowy_taiga"
     ]
 }

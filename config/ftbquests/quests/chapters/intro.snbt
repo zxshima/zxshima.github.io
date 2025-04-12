@@ -1,0 +1,120 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "intro"
+	group: "66214D72CDB9B621"
+	id: "0AFF0192450CCCD2"
+	images: [{
+		height: 2.0d
+		image: "minecraft:block/chiseled_bookshelf_empty"
+		rotation: 0.0d
+		width: 2.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: "alexsmobs:animal_dictionary"
+			icon_scale: 1.25d
+			id: "5E52032876DE23BC"
+			optional: true
+			rewards: [{
+				id: "1CE52090AC341C91"
+				item: "alexsmobs:animal_dictionary"
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "08485992550BD8B9"
+				title: "Claim the book!"
+				type: "checkmark"
+			}]
+			title: "Alex's Mobs"
+			x: -0.375d
+			y: 0.375d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: {
+				Count: 1
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "terramity:terramity_guidebook"
+				}
+			}
+			icon_scale: 1.25d
+			id: "7F339CBAE606CB2E"
+			optional: true
+			rewards: [{
+				id: "4F187A026BB1F21B"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "terramity:terramity_guidebook"
+					}
+				}
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "2BCE60E7AE780D11"
+				title: "Get the book!"
+				type: "checkmark"
+			}]
+			title: "Terramity"
+			x: 0.375d
+			y: -0.425d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: "tide:fishing_journal"
+			icon_scale: 1.25d
+			id: "3C560229A6E994AC"
+			optional: true
+			rewards: [{
+				id: "62EF71EE4E1A054F"
+				item: "tide:fishing_journal"
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "6E0680E9504A6E72"
+				title: "Catch the book!"
+				type: "checkmark"
+			}]
+			title: "Tide"
+			x: 0.375d
+			y: 0.375d
+		}
+		{
+			can_repeat: true
+			disable_toast: true
+			icon: "ars_nouveau:worn_notebook"
+			icon_scale: 1.25d
+			id: "077CE88EE1D8CD8C"
+			optional: true
+			rewards: [{
+				id: "401DD7155C1E60DC"
+				item: "ars_nouveau:worn_notebook"
+				type: "item"
+			}]
+			size: 0.75d
+			tasks: [{
+				id: "2E708623B388035E"
+				title: "Receive the book!"
+				type: "checkmark"
+			}]
+			title: "Ars Nouveau"
+			x: -0.375d
+			y: -0.425d
+		}
+	]
+	title: "Intro"
+}

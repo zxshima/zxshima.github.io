@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:end_onyx_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "terramity:onyx"
+    },
+    {
+      "chance": 0.75,
+      "item": "terramity:onyx"
+    },
+    {
+      "chance": 0.25,
+      "item": "terramity:onyx"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:end_stone"
+    }
+  ]
+}

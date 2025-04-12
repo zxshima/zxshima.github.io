@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:igneo_ruby_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "terramity:ruby"
+    },
+    {
+      "chance": 0.75,
+      "item": "terramity:ruby"
+    },
+    {
+      "chance": 0.25,
+      "item": "terramity:ruby"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "terramity:igneostone"
+    }
+  ]
+}

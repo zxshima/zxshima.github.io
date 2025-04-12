@@ -58,13 +58,14 @@ ServerEvents.recipes(event => {
     }
     );
 	event.shaped('backpacked:backpack', [
-		'AAA', 
-		'BCB',
+		'ACA', 
+		'BDB',
 		'AAA'
 	], 	{
 		A: 'minecraft:leather',
-		B: 'minecraft:string',
-		C: 'minecraft:iron_ingot'
+		B: 'minecraft:tripwire_hook',
+		C: 'minecraft:string',
+		D: 'minecraft:iron_ingot',
 	}
 	);
     event.shaped('archexpsquared:blank_bow_a', [

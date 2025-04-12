@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:nether_iridium_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "terramity:iridium_chunk"
+    },
+    {
+      "chance": 0.75,
+      "item": "terramity:iridium_chunk"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:netherrack"
+    }
+  ]
+}

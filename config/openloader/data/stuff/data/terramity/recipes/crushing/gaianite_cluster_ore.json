@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:gaianite_cluster_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "terramity:gaianite_cluster"
+    },
+    {
+      "chance": 0.75,
+      "item": "terramity:gaianite_cluster"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ]
+}

@@ -28,3 +28,13 @@ StartupEvents.registry('item', event => {
     		.saturation(0.33)
         	})
 })
+
+StartupEvents.registry('item', event => {
+	event.create('lava_chicken').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(0.66)
+            .effect('alexsmobs:earthquake', 200, 0, 1.0)
+            .effect('minecraft:speed', 200, 1, 1.0)
+        	})
+})

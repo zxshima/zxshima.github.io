@@ -1,8 +1,6 @@
 {
     "values": [
         "minecraft:wooded_badlands",
-        "biomesoplenty:burnt_forest",
-        "biomesoplenty:dead_forest",
-        "biomesoplenty:tall_dead_forest"
+        "biomesoplenty:dead_forest"
     ]
 }

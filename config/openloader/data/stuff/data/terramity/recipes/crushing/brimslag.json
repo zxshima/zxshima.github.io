@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:brimslag"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "item": "terramity:chthonic_crystal"
+    },
+    {
+      "chance": 0.75,
+      "item": "terramity:chthonic_crystal"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:blackstone"
+    }
+  ]
+}

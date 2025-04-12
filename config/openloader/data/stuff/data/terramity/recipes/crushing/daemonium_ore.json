@@ -1,0 +1,33 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:daemonium_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "count": 3,
+      "item": "terramity:daemonium_chunk"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
+      "item": "terramity:daemonium_chunk"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "item": "terramity:daemonium_chunk"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:netherrack"
+    }
+  ]
+}

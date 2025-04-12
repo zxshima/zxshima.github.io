@@ -5,8 +5,16 @@ file = "config/Crust/client_config_editor.toml"
 hash = "17b9f135a9dea0fabdaab5eb3d05c2a4894797eace0dd93c87abd44621b8b7e4"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "8c94dc654ac89e15d65d3123bc9d7eccf48807c9dd4f6f2b3623ee3332dfbe54"
+
+[[files]]
 file = "config/alexsmobsinteraction-client.toml"
 hash = "72cbc6cc811c6463d8bc5e1dc633a665ec1c6bed6f736627f8f5da2a00194549"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "93d329f4856d0041b94db2bba6d3a73fce420774be07b51d0fd05400ef22ca75"
 
 [[files]]
 file = "config/ars_nouveau/glyph_break.toml"
@@ -47,6 +55,18 @@ hash = "f8a5dc23c76bb228dbbad11e540dfdf5a564ac68cfdb6f840e253977b3beb7e5"
 [[files]]
 file = "config/everycomp-entries.toml"
 hash = "6ae9019a83774c688c06b5519dd8f3feaf43b8d7c978425cb2c095ae82918b9c"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "acc2b364337141fe75e6aab9048009dc3e905f1f3d52b31c75a1601e0c0e32e8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/intro.snbt"
+hash = "19780ee9e6cb56ca9349b9b0f025cc67a7d6c701b8e18c9dd9e89370fc21019a"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "6b85c9288797ecbcd159e612756837cd5d1fac3790aaa13556dce44d4f57c790"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -746,7 +766,7 @@ hash = "818e26b0d068ba8d61d04007da950a21428d49ad3936fdb03ffb64e6c80712a4"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_ashen_wolf.json"
-hash = "f8762eb9f78b3813ce77b2419ecdece9bf7a015cfa72f768d7efe99b49f31e11"
+hash = "dcb4cad9e958536e195d17b8e8233019e991b7b095c76e74b1d1c0b25053e406"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_black_wolf.json"
@@ -758,7 +778,7 @@ hash = "2029ef9f504ae031a71e23ea942309d656fb12213db5d0669264c13810c11a6a"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_pale_wolf.json"
-hash = "be626527a6015cd4c3a2cf3eb2194c428cea2ae4d7cadf72e73879cd57825c25"
+hash = "8279e9f99648a95f2e3e9e3f8c1c4f5d28f27bedffda7e7341bdc24783a54e87"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_rusty_wolf.json"
@@ -766,15 +786,15 @@ hash = "87c53b8671bfcfc80ee37baa46834db50ca6cd9ff16f8d0b9e0cac5b001ea54a"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_snowy_wolf.json"
-hash = "525f634bce9544afb3c53423e5a533e5654fe9d9d4c4329248e550a6c5cc3281"
+hash = "63a32e8eac31b4c2d5cd8d46488f630bbe9b0391894c6b2491f3c0de49884c5a"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_spotted_wolf.json"
-hash = "3e322f4ae34f934d9cb7e990543d17c649f0f1455c2163a32b79aec8d4f27efe"
+hash = "e4d7e30e738309faa2329a3f4d21ed1eb5e682516fb5ffd11017f24fdc80d564"
 
 [[files]]
 file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/spawns_striped_wolf.json"
-hash = "48ba3fbb28a4f96816958b6629e008cc16eb2de71dba4e274f01149a323f985b"
+hash = "2ab6e7cd64ece358de32386faf9123603a6d600873c4eadb256234a7f41483f8"
 
 [[files]]
 file = "config/openloader/data/stuff/data/biomesoplenty/recipes/cutting/roses.json"
@@ -805,12 +825,84 @@ file = "config/openloader/data/stuff/data/marigolds/forge/biome_modifier/add_mar
 hash = "bc2dc1cbf62c8fa7c7bd150921157405483069bba15b05deaa55b10fce45ab09"
 
 [[files]]
+file = "config/openloader/data/stuff/data/minecraft/loot_tables/gameplay/terramity_guidebook_loot.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/brimslag.json"
+hash = "24471899577ae08ba8d55fa6563e88ff427d11b5e2d7443e57b456a8a313523b"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/daemonium_ore.json"
+hash = "3e3b9403a70d832d697977dfb01604d40d508171e402669e171bafbd7d37990e"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_dimlite_ore.json"
+hash = "f1cabf6ecd330f6e394a2348c83179e5e55778d0ea707c2ecb5dae15fcc9ff57"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_iridescent_ore.json"
+hash = "281067e3626c4488c690c51f7e9963658361b2c3506650885222d0153cebf2e1"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_iridium_ore.json"
+hash = "4d8b9c9b38c926664c8b87c23d2c6d9fff1563f34d7a2d30a2e2fb996c570db7"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_sapphire_ore.json"
+hash = "273967f6560dc96f568c5f3c5531842e3b4dd510d3a855950cebae9b167b7a24"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_topaz_ore.json"
+hash = "95be3e42d987174ec98c7097b730bcad0ce44110a6bc8c024726b8a05b577a18"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/end_iridium_ore.json"
+hash = "8f903f7428295f05b49fce016e2126bc2da69c3454274f1eb80de30cff765774"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/end_onyx_ore.json"
+hash = "946335e4d86589807913a1e0a2cd46dbabd80997b460b195cfa79153b9e21c62"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/gaianite_cluster_ore.json"
+hash = "5a21ab902818259219e51797d7e9c7deef0d59c9c31bb98091c0b41e814f01e8"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/igneo_ruby_ore.json"
+hash = "4be74a987d427594b748a2df7c77c477601dd9ff65f65006f7403ac455c76b83"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/nether_iridium_ore.json"
+hash = "0549dfe7cc1a19a369dd765154ee7622e3c5113ecfc617cb84cb15b8f126b3f3"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/nether_ruby_ore.json"
+hash = "61fe91c030e06bcb467746d40a503e69520a0b421f50373658950791a5cd8d30"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/profane.json"
+hash = "19686d7573738ce1a6a275be5c965020fbac67cfc8eef324dbe4dca1d65a293b"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/sapphire_ore.json"
+hash = "178027decbbb6b7902e730df4b22739d9a429368a752c04606a0689ec14f531a"
+
+[[files]]
+file = "config/openloader/data/stuff/data/terramity/recipes/crushing/topaz_ore.json"
+hash = "98a5a46f04feb3825ecfcf531b1730c4589fda2470b58d1143d0353354e15cea"
+
+[[files]]
 file = "config/openloader/data/stuff/pack.mcmeta"
 hash = "e094631024ab6aaaf5d2b3a37d34ebca2caa1fd2ab7a886328c4e23f9fbe3ea9"
 
 [[files]]
 file = "config/openloader/data/stuff/pack.png"
 hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/akashictome/textures/item/tome.png"
+hash = "899f7672e14d70919270ca28d5baed015bc18cbf0c3a88057c8f7234c93fb2f4"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/archexpsquared/lang/en_us.json"
@@ -997,8 +1089,16 @@ file = "config/openloader/resources/00_deer/assets/friendsandfoes/lang/en_us.jso
 hash = "eea51d565200515b6cdf3ccb64e88eac4897779bd27c0f408c8a214b35b45bbd"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/insanelib/lang/en_us.json"
+hash = "145faaeb358badc361d0dce303f67b08cf4f5fb668396dfc4b4b2b4a17777a90"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/deer_cracker.png"
-hash = "1dc1779135229fa035e44a77b69d986e6c85b4ba11e4578de33b0b2faee808fe"
+hash = "abfbe404a9917d0e0053b45e3d3999d5057d6f4b934724fb95988c1439f86b4b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/lava_chicken.png"
+hash = "e987bae5307a314fa7cf8a5a943b2b902c2e653cee17d25744fe882fb82ffb4e"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -3793,60 +3893,44 @@ file = "config/openloader/resources/Fogulous_v1.1.1/Changelog.txt"
 hash = "8c586f2bc6c7db44bbc408e41b5711ccb40c4d79c5f454c460b896beb67519e6"
 
 [[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/alexscaves/polytone/biome_modifiers/candy_cavity.json"
-hash = "d8dd11d6ad294d9040bd33fb0f2dab842ce9ecdbd810ac97297123b23f57c241"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/alexscaves/polytone/biome_modifiers/primordial_caves.json"
-hash = "d8dd11d6ad294d9040bd33fb0f2dab842ce9ecdbd810ac97297123b23f57c241"
-
-[[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/caves.json"
 hash = "55b2861996088c27e4bab6b8bdbc6bbebc55770ce896402c750d5f585b4b16e3"
 
 [[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/default.json"
-hash = "6ac2143ad53edda49e283dbbc1739ee140eb70aca8a11650d8b3384167707175"
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/atmospheric/polytone/biome_modifiers/rainforest.json"
+hash = "0599f70646956bc0c2664abe0219af5db70f07232c97cbfff105075732894b50"
 
 [[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/dense_forest.json"
-hash = "95c9491ecc1cb6382b631de64b5dc59b9113d64307987c9a23cb79a5e5e2b693"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/desert.json"
-hash = "6ecc258f93457750d33f5c718bde467e6de4d181db7c50899bb3fb139726966a"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/forest.json"
-hash = "ac1e6217007cc197f2b53f3159c7d2df096ce803ee451a202c095c1916ddacd5"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/mountain.json"
-hash = "6089cfbd9448c6e527391bd672dcb02f79714bd7b5ae5e53099b697727c43586"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/nether.json"
-hash = "156fa4917f2cb03c71217ba0ce7a9c999e5228b40fceb765f343c8ffa18aa418"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/snowy.json"
-hash = "24249341b203f011a71f213ef011a261880a32682c0e0ac8615707d171ab3992"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/swamp.json"
-hash = "78413bba93be1e9c53381d8a102b357c9d3a39c3f23b1b851b84e7635d480406"
-
-[[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/the_end.json"
-hash = "d34413e1d1dcd89750fb581de28e710a21a274c750b91058054b26135f0644d0"
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/atmospheric/polytone/biome_modifiers/rainforest_basin.json"
+hash = "0599f70646956bc0c2664abe0219af5db70f07232c97cbfff105075732894b50"
 
 [[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/assets/atmospheric/polytone/biome_modifiers/scrubland.json"
 hash = "4db8e7415fd1db3be6c41605046e8d8fdf1d5363a8a376a164d665656af85112"
 
 [[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/biomesoplenty/polytone/biome_modifiers/bayou.json"
+hash = "4ae0e46124261567391a22c01d44a7a4cd32f626f73cf0bfbdb11afd52f8fcfc"
+
+[[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/assets/biomesoplenty/polytone/biome_modifiers/dryland.json"
 hash = "4db8e7415fd1db3be6c41605046e8d8fdf1d5363a8a376a164d665656af85112"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/biomesoplenty/polytone/biome_modifiers/floodplain.json"
+hash = "0599f70646956bc0c2664abe0219af5db70f07232c97cbfff105075732894b50"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/biomesoplenty/polytone/biome_modifiers/marsh.json"
+hash = "4ae0e46124261567391a22c01d44a7a4cd32f626f73cf0bfbdb11afd52f8fcfc"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/biomesoplenty/polytone/biome_modifiers/rainforest.json"
+hash = "0599f70646956bc0c2664abe0219af5db70f07232c97cbfff105075732894b50"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/environmental/polytone/biome_modifiers/marsh.json"
+hash = "4ae0e46124261567391a22c01d44a7a4cd32f626f73cf0bfbdb11afd52f8fcfc"
 
 [[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/assets/minecraft/polytone/biome_modifiers/badlands.json"
@@ -4061,10 +4145,6 @@ file = "config/openloader/resources/Fogulous_v1.1.1/assets/minecraft/polytone/bi
 hash = "ffac6fa7b6bfff59d697b26298e2560e447f7f1acab1605d2ddb54f68788c28a"
 
 [[files]]
-file = "config/openloader/resources/Fogulous_v1.1.1/assets/vanillabackport/polytone/biome_modifiers/pale_garden.json"
-hash = "729239accfce8f8e5be7855d55dc9b492775588475d8adc5e4dcbba8efb61458"
-
-[[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/pack.mcmeta"
 hash = "e0831fd259a37aa49c44dc73aaad1f735377304184c9745af146d5cd5f13f274"
 
@@ -4162,7 +4242,7 @@ hash = "de3546e294d817d1ec167bf3d23589a2bf12a254e2c0ca650b739cce93bfbef3"
 
 [[files]]
 file = "config/tide.toml"
-hash = "d1330a986dd50395ad5b2703607144a90e1e979cfe38f22482258d789969aaf9"
+hash = "149e8e44ec1b46dabf6ce0c6404f58517d93668add7f4180e1e98fefbf3a381c"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
@@ -4174,11 +4254,11 @@ hash = "d0362aecc0288c869dafdcfd6ef2ee26fe1b53809c630f27d1be4c9e31c40d34"
 
 [[files]]
 file = "kubejs/server_scripts/drops.js"
-hash = "6f8b384667c3d8d3fc458c707e484efe61b442354711b4297396988b92feeae3"
+hash = "6ab03f3eb6f6e111ed7e4fd3409beddadbcd39f2f6073a41fe5a08680f6031d9"
 
 [[files]]
 file = "kubejs/server_scripts/giveOnFirstJoin.js"
-hash = "65e15833e4b124a48043148cb6f08e96de2235b536c797fb942b0a48c0fdf3ec"
+hash = "ba4e02a4b567fb94e7f0f338e6a6bd01f84c93f187db8260a2161f53bc8dbb55"
 
 [[files]]
 file = "kubejs/server_scripts/interactions.js"
@@ -4186,15 +4266,15 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "5125d69e9701e48f100b540a36aea3506bcf633b421c0c6f0b40d075a0a24536"
+hash = "f24970b14dd0c5f800ff190274adc0e68c8fba790e03cb651c9602174b20fe5a"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "e34964afecab08eceba76476b59f0457925783cddd1afbb64aab63689b00482e"
+hash = "056d0af014d4919339f9dfe9985ab2f8ebed2f1a3dc72bc2f5518101cf831194"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
-hash = "b44c5bc1d82cbcda2dc511f64ff6d602346219a9e16256ac89968a9a0845f9c9"
+hash = "622d2f87971f47618c708130f67db88d5834284ff19c3214811a62f398c9ad2e"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -4238,6 +4318,11 @@ metafile = true
 [[files]]
 file = "mods/allurement.pw.toml"
 hash = "ade685fecb6727ffbb0dca173fbab2ac74bf3760af8b2325d437382195da9baf"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "dbebcab51da752a59d057d50f02ced6d3cce3270389f52c414d034f000674790"
 metafile = true
 
 [[files]]
@@ -5133,11 +5218,6 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "62ca870c6d8ce9ac3721d25e4f283d0916f0fd673260c497e109b03ad7b304fe"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "965a96f9d4b2af49ef7744f18429c69dd91439c283bac91822615597aa24df09"
 metafile = true
 
 [[files]]

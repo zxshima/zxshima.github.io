@@ -1,0 +1,33 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:deepslate_iridescent_ore"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 3,
+      "item": "terramity:iridescent_shard"
+    },
+    {
+      "chance": 0.75,
+      "count": 2,
+      "item": "terramity:iridescent_shard"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "terramity:iridescent_shard"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ]
+}

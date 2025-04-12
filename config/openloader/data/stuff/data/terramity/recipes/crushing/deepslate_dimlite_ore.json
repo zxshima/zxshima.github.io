@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "terramity:deepslate_dimlite_ore"
+    }
+  ],
+  "processingTime": 350,
+  "results": [
+    {
+      "item": "terramity:untapped_dimlite"
+    },
+    {
+      "chance": 0.75,
+      "item": "terramity:untapped_dimlite"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ]
+}
