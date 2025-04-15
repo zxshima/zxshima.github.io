@@ -97,6 +97,7 @@ to make editing this file much easier.
 	   		"biomesoplenty:yellow_maple_leaves": "autumnity:yellow_maple_leaves",
 	   		"terramity:stone_tiles": "supplementaries:stone_tile",
 	   		"terramity:stone_tile_stairs": "supplementaries:stone_tile_stairs",
-	   		"terramity:stone_tile_slab": "supplementaries:stone_tile_slab"
+	   		"terramity:stone_tile_slab": "supplementaries:stone_tile_slab",
+            "minecraft:emerald_ore": "minecraft:stone"
 	   	}
 }

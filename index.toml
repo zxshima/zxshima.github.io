@@ -5,12 +5,20 @@ file = "config/Crust/client_config_editor.toml"
 hash = "17b9f135a9dea0fabdaab5eb3d05c2a4894797eace0dd93c87abd44621b8b7e4"
 
 [[files]]
+file = "config/SpecialMobs/cave_spiders/_normal_cave_spiders.toml"
+hash = "4eae40cfcaef636f9eabcaea5418e527567a33816148280d25fbac927b4c264e"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "8c94dc654ac89e15d65d3123bc9d7eccf48807c9dd4f6f2b3623ee3332dfbe54"
 
 [[files]]
 file = "config/alexsmobsinteraction-client.toml"
-hash = "72cbc6cc811c6463d8bc5e1dc633a665ec1c6bed6f736627f8f5da2a00194549"
+hash = "257f0b168f335742173a833024c547348d01c0020d4dcb68b01527737dc014b5"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "5872c2a2cfb16c925019c970af9b07e2877dfad8e50056c20878f81edbd6cef7"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -38,11 +46,11 @@ hash = "d0a08a602753a4090c49fa47a1eb744a2887d757a51780a4654ed52557b833fa"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "8668f060e99a681813c31a74c8626eb5e96f259419d9dd7d2d5380a1a5f642b8"
+hash = "c006f24044c27ead7b47bfdd3ae36fb5c29ddf4cc800565390a66a29775e1ee4"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "c5d020891cb6ae4d3ab684ca271502bdc564b353a0c5c2d433898e23cdedee0b"
+hash = "a3e1623dedd9cf54408b6f6e4fdd1cba50805260c22ce3e04269f2b910ae0233"
 
 [[files]]
 file = "config/emi.css"
@@ -62,15 +70,19 @@ hash = "acc2b364337141fe75e6aab9048009dc3e905f1f3d52b31c75a1601e0c0e32e8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/intro.snbt"
-hash = "453f4b2e1c9459cd47ba016ce9b55ad9e27e1b4d3f1709b780c089d280ac16f4"
+hash = "32c35cd146e3ddf6154647a72b8910393f39131f27be9a93da106e44105b46d7"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "6b85c9288797ecbcd159e612756837cd5d1fac3790aaa13556dce44d4f57c790"
 
 [[files]]
+file = "config/incontrol/events.json"
+hash = "f2630f92b65a96d2c3a2c8f6e521a4d0b2a3051f918bfa1cebc761179ff9a69f"
+
+[[files]]
 file = "config/incontrol/spawn.json"
-hash = "c251bd412fde58a08336ae096db0601ae34d1a1b8ed17d97f82cd373f4a15e11"
+hash = "a22f4563d73060b88c4707c86f294eca8eca4756256c758188ccca82a9240c6d"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -79,6 +91,10 @@ hash = "5509fb2b60e834cbb6953054346cc3f3bb060b4837bbc1f0a5ef12242480e92f"
 [[files]]
 file = "config/map_atlases-client.toml"
 hash = "7f8005aaafdf3abcb856b90b7b5b0763a0ec1a84e40c77451b4ac0c89f8d7882"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "d3f35e405421a42959ac6c893856f5480671dc1ae4a05b10315208b7e1c06e24"
 
 [[files]]
 file = "config/openloader/data/Ars Tree Reducer/data/ars_elemental/forge/biome_modifier/common_flashing_archwood.json"
@@ -899,6 +915,10 @@ hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/akashictome/textures/item/tome.png"
 hash = "899f7672e14d70919270ca28d5baed015bc18cbf0c3a88057c8f7234c93fb2f4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/alexsmobs/lang/en_us.json"
+hash = "630a453f005d473ebfd1316eeffd882ce2bc03852f56999aa06b800be0bac817"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/archexpsquared/lang/en_us.json"
@@ -4234,7 +4254,7 @@ hash = "65638c18ded361bbdc668c899cdf6592caf77e82a5c117dbe17ad071f0387407"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "de3546e294d817d1ec167bf3d23589a2bf12a254e2c0ca650b739cce93bfbef3"
+hash = "0c9f95bc68bc85e3efa70f50d75a94180e5c030f9673f1c911102d8b7ff1c99b"
 
 [[files]]
 file = "config/tide.toml"
@@ -4262,7 +4282,7 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "f24970b14dd0c5f800ff190274adc0e68c8fba790e03cb651c9602174b20fe5a"
+hash = "940f9efb383b8a38fdc83a30ff1f65ee293a1391a13f46324c7f86dab9b4aa8b"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -4271,6 +4291,10 @@ hash = "056d0af014d4919339f9dfe9985ab2f8ebed2f1a3dc72bc2f5518101cf831194"
 [[files]]
 file = "kubejs/startup_scripts/food.js"
 hash = "622d2f87971f47618c708130f67db88d5834284ff19c3214811a62f398c9ad2e"
+
+[[files]]
+file = "kubejs/startup_scripts/tool.js"
+hash = "3e6148281f1eaed2c734e066ddeaa7fb06b01303c49f87e5cbe9a689a09b6390"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -4303,8 +4327,9 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/alexsmobsinteraction-5.3.1_fixed.jar"
-hash = "5317b766c78282956f964545e610f581c9d9e28d16a2ae2350b44317166d2ab2"
+file = "mods/alexsmobsinteraction.pw.toml"
+hash = "7ba1a162b634f1f802f0175a39ed42b414cda9e86dca06fe90a16d22991aed80"
+metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -4323,7 +4348,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "40c5d14fb408697758a083547956206d176ea646ad00d8cd0680aa2c9883b61f"
+hash = "04c7583252021f44efcbc61d980315aae25aebd3e82aa953c280a3c1866d6a91"
 metafile = true
 
 [[files]]
@@ -4428,7 +4453,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "5d2dd77dc29740392a279e07fb8ba56546d35d7bb0bdacacd72103d3bc246655"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
 metafile = true
 
 [[files]]
@@ -4469,6 +4494,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
+metafile = true
+
+[[files]]
+file = "mods/clean-swing-through-grass.pw.toml"
+hash = "47fb31c0dd8d57b949af33591d811bad064e29599d5753ea8a6011e0e1498d0c"
 metafile = true
 
 [[files]]
@@ -4563,7 +4593,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "c38ab0fa16d0c0a29bbfa59ff6aad0241a9cc3abf621ff663fac92b7a6d58573"
+hash = "e3869746bbdfdd35f1423383cd1b1a9d2734cf7ec6473fbfdcc2ab61de2047cc"
 metafile = true
 
 [[files]]
@@ -4573,7 +4603,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "68960354be9294d5761b636b94e4f54715119602e83c4dd107698021dbeca16b"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
@@ -4608,7 +4638,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9d3696f53fd440a23e7861b255b5637d6dbf2b9753005c9a930f6688d3e8ac49"
+hash = "96931e67766446431e92b359854ed7a48f47a734d64bacb82c713c24724c1713"
 metafile = true
 
 [[files]]
@@ -4868,7 +4898,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "cd83db35b6b89863701cd587bd0f215cbb4e2b6282f0868ffb8e7445c00639d2"
+hash = "49757c03e4ee7c1f3fc4ff9aa0d4f9065139d045b6eb1eb7f83a311ca155a821"
 metafile = true
 
 [[files]]
@@ -4967,6 +4997,11 @@ hash = "5b43f76702dde99cd2763d90b8d2e8d1d688b26ddc06192fdee9671de62164aa"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "4c0251ac6bb2f84ae540ddd3c5619fa1d126ca6f55679ed898a1cdf0f5932135"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
@@ -5023,7 +5058,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
-hash = "50f7bc61571deecee3d281fb323646aa6e8b942f262d16de5999a5183e45684e"
+hash = "92dfb18f8e9e5c83b916419efaf9c5324958f8bbd11b3ac512ada70f46c9d2db"
 metafile = true
 
 [[files]]
@@ -5163,7 +5198,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e7cacbfc09f20dd5da90496d3667a5d936e6eb7894c398ff8f766ace81c563c1"
+hash = "45a53404a7460d30dbf6d7689d267059106243423edb75844946e1d56f4dcc0e"
 metafile = true
 
 [[files]]
@@ -5214,6 +5249,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "62ca870c6d8ce9ac3721d25e4f283d0916f0fd673260c497e109b03ad7b304fe"
+metafile = true
+
+[[files]]
+file = "mods/uwrad-forge.pw.toml"
+hash = "b63ebe6cc4d17a6b2e3bbb3583edafe59ef48425ae91ed104cef0bd9a3388dbc"
 metafile = true
 
 [[files]]

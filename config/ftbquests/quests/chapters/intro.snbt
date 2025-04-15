@@ -29,6 +29,38 @@
 			x: 1.75d
 			y: 0.0d
 		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.75d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/crafting_table_side"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/barrel_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: 0.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -152,8 +184,54 @@
 				title: "Welcome to Deerscape pack!"
 				type: "checkmark"
 			}]
+			title: "Welcome to Deerscape!"
 			x: 0.0d
 			y: -2.0d
+		}
+		{
+			description: [
+				"You may have noticed a book in your inventory called an \"&bAtlas&r\"... but the chance is, that it doesn't really work yet."
+				"Have these free &eEmpty Maps&r! Combine them with your &bAtlas&r in a crafting menu!"
+				"That's how you fill your &lMap Atlas&r!"
+			]
+			icon: "minecraft:map"
+			icon_scale: 1.25d
+			id: "50B2D27CB7CACD6F"
+			rewards: [{
+				count: 9
+				id: "6ED55621DE289288"
+				item: "minecraft:map"
+				type: "item"
+			}]
+			size: 0.75d
+			subtitle: "Why am i looking at my hands?"
+			tasks: [{
+				id: "53F8D09C777FB6B7"
+				title: "Got it!"
+				type: "checkmark"
+			}]
+			title: "Map Atlas"
+			x: -1.75d
+			y: -1.5d
+		}
+		{
+			description: [
+				"You may have noticed a large table of items in your inventory. No, you can't take them yet."
+				"Press &aR&r hovering over an item to see how it's crafted..."
+				"and press &aU&r, to see what you can craft with it."
+			]
+			icon: "minecraft:crafting_table"
+			icon_scale: 1.25d
+			id: "458307772D551DD5"
+			size: 0.75d
+			subtitle: "Too Many Items"
+			tasks: [{
+				id: "27FF1035350B5558"
+				title: "Crafting"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -1.5d
 		}
 	]
 	title: "Intro"

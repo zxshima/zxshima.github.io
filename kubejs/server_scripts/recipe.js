@@ -5,6 +5,9 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'upgrade_aquatic:mulberry_pie' })
     event.remove({id: 'geodes:tuning/diamond_tuning'})
     event.remove({id: 'geodes:tuning/echo_tuning'})
+    event.remove({id: 'upgrade_aquatic:trident'})
+    event.remove({id: 'progressivebosses:trident'})
+
 
     event.remove({ output: 'alloyed:steel_fishing_rod' })
     event.remove({ output: 'trials:crafter' })
@@ -76,6 +79,15 @@ ServerEvents.recipes(event => {
 		A: 'alloyed:steel_ingot',
 		B: 'minecraft:stick',
 		C: 'minecraft:string'
+	}
+	);
+    event.shaped('minecraft:trident', [
+		' AA', 
+		' BA',
+		'B  '
+	], 	{
+		A: 'progressivebosses:elder_guardian_spike',
+		B: 'upgrade_aquatic:prismarine_rod'
 	}
 	);
 	event.shapeless('kubejs:deer_cracker', ['2x minecraft:wheat', 'farmersdelight:rice']);

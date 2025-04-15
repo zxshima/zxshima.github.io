@@ -1,6 +1,7 @@
 name = "AmbientSounds 6"
 filename = "AmbientSounds_FORGE_v6.1.8_mc1.20.1.jar"
 side = "client"
+optional = "true"
 
 [download]
 hash-format = "sha1"

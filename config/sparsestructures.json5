@@ -21,7 +21,7 @@
     },
     {
       "structure": "terramity:subterranean_shrine",
-      "factor": 2
+      "factor": 2.5
     },
     {
       "structure": "atmospheric:village_scrubland",
@@ -50,6 +50,14 @@
     {
       "structure": "conjurer_illager:theatre",
       "factor": 0.8
+    },
+    {
+      "structure": "idas:enchantingtower",
+      "factor": 3
+    },
+    {
+      "structure": "mowziesmobs:umvuthana_grove",
+      "factor": 2
     },
     // add the structures you want to modify in the format:
     // {

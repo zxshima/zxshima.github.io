@@ -18,7 +18,7 @@
     "damagemultiply": 1.5
   },
   {
-    "mob": ["rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:hunter_wolf","rottencreatures:immortal","rottencreatures:swampy","rottencreatures:undead_miner","rottencreatures:zap","specialmobs:bruteskeleton","specialmobs:brutewitherskeleton","specialmobs:brutedrowned","specialmobs:brutezombie","specialmobs:brutezombifiedpiglin","mowziesmobs:umvuthana_raptor","rottencreatures:dead_beard"],
+    "mob": ["rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:hunter_wolf","rottencreatures:immortal","rottencreatures:swampy","rottencreatures:undead_miner","rottencreatures:zap","specialmobs:bruteskeleton","specialmobs:brutewitherskeleton","specialmobs:brutedrowned","specialmobs:brutezombie","specialmobs:brutezombifiedpiglin","mowziesmobs:umvuthana_raptor","rottencreatures:dead_beard","specialmobs:giantzombie"],
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",
@@ -35,7 +35,7 @@
     "speedmultiply": 2
   },
   {
-    "mob": ["quark:forgotten","rottencreatures:scarab","mowziesmobs:umvuthana","mowziesmobs:umvuthi","specialmobs:huskzombie","specialmobs:strayskeleton","trials:bogged","conjurer_illager:conjurer"],
+    "mob": ["quark:forgotten","rottencreatures:scarab","mowziesmobs:umvuthana","mowziesmobs:umvuthi","specialmobs:huskzombie","specialmobs:strayskeleton","trials:bogged","conjurer_illager:conjurer","specialmobs:firezombie","specialmobs:poisonskeleton"],
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",
@@ -51,7 +51,7 @@
     "damagemultiply": 1.5
   },
   {
-    "mob": ["rottencreatures:skeleton_lackey","rottencreatures:zombie_lackey"],
+    "mob": ["rottencreatures:skeleton_lackey","rottencreatures:zombie_lackey","specialmobs:pirateskeleton"],
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",
@@ -77,5 +77,27 @@
     "healthmultiply": 1.5,
     "damagemultiply": 2,
     "armorset": 12
+  },
+  {
+    "mob": "minecraft:zombie_villager",
+    "spawner": true,
+    "customevent": "zombie_instead",
+    "when": "onjoin",
+    "result": "deny_with_actions"
+  },
+  {
+    "mob": "friendsandfoes:rascal",
+    "mincount": 1,
+    "result": "deny"
+  },
+  {
+    "mob": "trials:bogged",
+    "mincount": 5,
+    "result": "deny"
+  },
+  {
+    "mob": "terramity:cave_gnome",
+    "mincount": 5,
+    "result": "deny"
   }
 ]
