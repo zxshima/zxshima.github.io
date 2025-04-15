@@ -5,10 +5,6 @@ file = "config/Crust/client_config_editor.toml"
 hash = "17b9f135a9dea0fabdaab5eb3d05c2a4894797eace0dd93c87abd44621b8b7e4"
 
 [[files]]
-file = "config/SpecialMobs/cave_spiders/_normal_cave_spiders.toml"
-hash = "4eae40cfcaef636f9eabcaea5418e527567a33816148280d25fbac927b4c264e"
-
-[[files]]
 file = "config/alexsmobs.toml"
 hash = "8c94dc654ac89e15d65d3123bc9d7eccf48807c9dd4f6f2b3623ee3332dfbe54"
 
@@ -4282,7 +4278,7 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "940f9efb383b8a38fdc83a30ff1f65ee293a1391a13f46324c7f86dab9b4aa8b"
+hash = "91fd5269a1bf804e1f4ba7176b151c44f0329f8f372ba3858c21c8c32313c6c6"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"

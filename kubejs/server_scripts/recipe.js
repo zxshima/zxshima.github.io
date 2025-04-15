@@ -43,6 +43,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'decorative_blocks:rocky_dirt' })
     event.remove({ output: 'infinitybuttons:cherry_bookshelf_secret_button' })
     event.remove({ output: 'oreganized:bush_hammer' })
+    event.remove({ input: 'minecraft:emerald_ore' })
 
 
     event.shaped('minecraft:map', [
