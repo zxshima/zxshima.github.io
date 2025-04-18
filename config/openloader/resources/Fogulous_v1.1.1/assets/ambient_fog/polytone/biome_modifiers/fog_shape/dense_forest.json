@@ -1,0 +1,90 @@
+{
+	"targets": ["minecraft:bamboo_jungle", "minecraft:dark_forest", "minecraft:jungle", "minecraft:old_growth_birch_forest", "minecraft:old_growth_pine_taiga", "minecraft:old_growth_spruce_taiga",
+	 {
+	  "id": "clifftree:snowy_old_growth_taiga",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:tropical_river",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:amber_covert",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:aspen_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:bamboo_wetlands",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:blooming_sugi_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:maple_woodlands",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:redwood_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "atmospheric:aspen_parkland",
+	  "required": false
+	 },
+	 {
+	  "id": "atmospheric:rainforest",
+	  "required": false
+	 },
+	 {
+	  "id": "atmospheric:rainforest_basin",
+	  "required": false
+	 },
+	 {
+	  "id": "atmospheric:sparse_rainforest",
+	  "required": false
+	 },
+	 {
+	  "id": "atmospheric:sparse_rainforest_basin",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:coniferous_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:floodplain",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:rainforest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:redwood_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:rocky_rainforest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:snowy_coniferous_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:wetland",
+	  "required": false
+	 },
+	 {
+	  "id": "natures_spirit:tropical_woods",
+	  "required": false
+	 }
+	],
+	"fog_end": "1.55 - max(0, min(0.25, (DAY_TIME%24000 > 23000) + (DAY_TIME%24000 < 1000) + (RAIN * 0.25) - max(0, 11 - SKY_LIGHT)))",
+	"fog_start": "10.5 + max(-0.75, min(0.5, (DAY_TIME%24000 > 23000) + (DAY_TIME%24000 < 1000) + (RAIN * 0.25)- max(0, 11 - SKY_LIGHT)*100))"
+}

@@ -50,7 +50,7 @@ hash = "a3e1623dedd9cf54408b6f6e4fdd1cba50805260c22ce3e04269f2b910ae0233"
 
 [[files]]
 file = "config/emi.css"
-hash = "91db54c182ea751fbd44bb07ecda04b4a034bdddf123453f3edd071c04a5c307"
+hash = "da903fdc4cac02c74de19431830c4689633ab609854cfbb479cd178616827ebd"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -81,12 +81,20 @@ file = "config/incontrol/spawn.json"
 hash = "a22f4563d73060b88c4707c86f294eca8eca4756256c758188ccca82a9240c6d"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "fa40ca70c18148c8d83615dc8264fa68cc9c165601246328f49cbec35a278f08"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "29cb8a74452a95f895305354688267c865749354de7f118893adc3cc926ef340"
+
+[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "5509fb2b60e834cbb6953054346cc3f3bb060b4837bbc1f0a5ef12242480e92f"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "7f8005aaafdf3abcb856b90b7b5b0763a0ec1a84e40c77451b4ac0c89f8d7882"
+hash = "c1990ec46ec00ab690d0472ef957d6da6962039aff308bf3b7965254509ebbb6"
 
 [[files]]
 file = "config/map_atlases-common.toml"
@@ -3906,7 +3914,43 @@ hash = "8c586f2bc6c7db44bbc408e41b5711ccb40c4d79c5f454c460b896beb67519e6"
 
 [[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/caves.json"
-hash = "55b2861996088c27e4bab6b8bdbc6bbebc55770ce896402c750d5f585b4b16e3"
+hash = "83d739ed2028c8139ac8733b80d09f877cba9c07dda9c3d7d00becb5c85ac566"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/default.json"
+hash = "4db46c573f7a04662653e0ada9e725d952a8f27ab5d30b0cfa8ab0bf2e3a2283"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/dense_forest.json"
+hash = "007d3a9ff9ae268d0c8ee6704b530490cbf7602c46c69670071cea5144651912"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/desert.json"
+hash = "b96aa7473d68fc12df68f87511e2cdc605f3cd4de4a7fc09e2a44818d3e6b110"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/forest.json"
+hash = "5c71971c6a19481adc5554c4e1a32541ab205477e04ce42a3625caf71f7186b0"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/mountain.json"
+hash = "2c35c925f8bd34f5c222efaef54070a4c645a798b027dbaf3cdefdd40e917bbc"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/nether.json"
+hash = "156fa4917f2cb03c71217ba0ce7a9c999e5228b40fceb765f343c8ffa18aa418"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/snowy.json"
+hash = "c7db240a41e9da0377758566bf00d9c6eb7197f5fa92639d5f10ef2a11c4d9e0"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/swamp.json"
+hash = "b6e1241fac3515b8b199ead06be092be3bb3b5257bea5377367dd5d36472ca1f"
+
+[[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/ambient_fog/polytone/biome_modifiers/fog_shape/the_end.json"
+hash = "d34413e1d1dcd89750fb581de28e710a21a274c750b91058054b26135f0644d0"
 
 [[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/assets/atmospheric/polytone/biome_modifiers/rainforest.json"
@@ -4253,8 +4297,16 @@ file = "config/sparsestructures.json5"
 hash = "0c9f95bc68bc85e3efa70f50d75a94180e5c030f9673f1c911102d8b7ff1c99b"
 
 [[files]]
+file = "config/stylisheffects-client.toml"
+hash = "16c4d2636be96d6d1193bf5a11254e57e3e46020ac4a51e1e2fd100d567b4fd1"
+
+[[files]]
 file = "config/tide.toml"
 hash = "149e8e44ec1b46dabf6ce0c6404f58517d93668add7f4180e1e98fefbf3a381c"
+
+[[files]]
+file = "config/tradingpost-server.toml"
+hash = "1f78fac1fb0cf483bdf8027b012c1ed82441b6422629804bb5a015b4d1ba7c4b"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
@@ -4344,7 +4396,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "04c7583252021f44efcbc61d980315aae25aebd3e82aa953c280a3c1866d6a91"
+hash = "29e88ebf823841d7278eadc986825dbf5a38bd54ef25ffc75dcff976b54edd2f"
 metafile = true
 
 [[files]]
@@ -4565,11 +4617,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "e673e00e449d905f73a346967f7957a4c6cb4d932d525749a8b36f56bf09c819"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "77cc97055c62c20185c31781c0be40db248dc04a728085bec7cfea37d018df16"
 metafile = true
 
 [[files]]
@@ -4999,7 +5046,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
+hash = "78b46904906d6b41d6e304627299aae0d5c237aa8a175334625468f46dc37c76"
 metafile = true
 
 [[files]]
@@ -5180,6 +5227,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
+metafile = true
+
+[[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "4dd15cfa3513eba6c179f0553cf3a09506a669cf5fbed81d48fdb1d5ad05fffb"
 metafile = true
 
 [[files]]

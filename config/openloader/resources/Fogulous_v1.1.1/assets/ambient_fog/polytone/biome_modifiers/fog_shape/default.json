@@ -1,0 +1,135 @@
+{
+	"targets": [
+	 {
+	  "id": "clifftree:cold_river",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:diorite_shore",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:granite_shore",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:gravelly_beach",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:stone_ocean",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:temperate_beach",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:warm_river",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:tundra",
+	  "required": false
+	 },
+	 {
+	  "id": "alexscaves:abyssal_chasm",
+	  "required": false
+	 },
+	 {
+	  "id": "atmospheric:snowy_scrubland",
+	  "required": false
+	 },
+	 {
+	  "id": "neapolitan:strawberry_fields",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:bog",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:dead_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:field",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:fir_clearing",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:fungal_jungle",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:grassland",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:hot_springs",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:lavender_field",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:lush_savanna",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:mediterranean_forest",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:moor",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:orchard",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:origin_valley",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:pasture",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:prairie",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:rocky_shrubland",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:scrubland",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:shrubland",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:tropics",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:tundra",
+	  "required": false
+	 },
+	 {
+	  "id": "biomesoplenty:wintry_origin_valley",
+	  "required": false
+	 },
+	 "minecraft:beach", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:meadow", "minecraft:mushroom_fields", "minecraft:ocean", "minecraft:plains", "minecraft:river", "minecraft:savanna", "minecraft:stony_shore", "minecraft:sunflower_plains", "minecraft:warm_ocean"
+	 ],
+	"fog_end": "2.0 - max(0, min(0.5, (DAY_TIME%24000 > 23000) + (DAY_TIME%24000 < 1000) + (RAIN * 0.5) - max(0, 11 - SKY_LIGHT)))",
+	"fog_start": "10 + max(-0.25, min(0.25, (DAY_TIME%24000 > 23000) + (DAY_TIME%24000 < 1000) + (RAIN * 0.25) - max(0, 11 - SKY_LIGHT) * 100))"
+}

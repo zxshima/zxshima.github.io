@@ -59,8 +59,12 @@
 	 {
 	  "id": "yungscavebiomes:lost_caves",
 	  "required": false
+	 },
+	 {
+	  "id": "minecraft:deep_dark",
+	  "required": false
 	 }
 	],
 	"fog_end": 0.5,
-	"fog_start": 10
+	"fog_start": 5
 }
