@@ -4396,7 +4396,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "29e88ebf823841d7278eadc986825dbf5a38bd54ef25ffc75dcff976b54edd2f"
+hash = "65d2c4fe555bc80c5048ba8dff2f909cf5291e35c8962c3519529ad340cd657c"
 metafile = true
 
 [[files]]
@@ -5051,7 +5051,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "78b46904906d6b41d6e304627299aae0d5c237aa8a175334625468f46dc37c76"
+hash = "06a65fc537baec2d1fdd22a002e2fc8a776062484916894f2a34eadc3e2e8cc5"
 metafile = true
 
 [[files]]
