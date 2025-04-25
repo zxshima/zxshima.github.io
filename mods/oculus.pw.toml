@@ -9,6 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
+description = "Mod for shaders support. Uncheck if you don't use shaders!"
 
 [update]
 [update.curseforge]

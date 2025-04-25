@@ -77,7 +77,7 @@ ServerEvents.recipes(event => {
 		'B C',
 		'ABC'
 	], 	{
-		A: 'alloyed:steel_ingot',
+		A: '#ad_astra:steel_ingots',
 		B: 'minecraft:stick',
 		C: 'minecraft:string'
 	}

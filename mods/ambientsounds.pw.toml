@@ -9,6 +9,7 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
+description = "Enables dynamic ambient sounds for different biomes and environment. Shouldn't be heavy to run, but will load about 84 MB of assets."
 
 [update]
 [update.curseforge]

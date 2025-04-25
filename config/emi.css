@@ -167,7 +167,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites, craftables;
+	left-sidebar-pages: craftables, favorites;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -197,7 +197,7 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: modern;
+	left-sidebar-theme: transparent;
 
 	/**
 	 * The pages in the right sidebar

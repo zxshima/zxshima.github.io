@@ -50,7 +50,7 @@ hash = "a3e1623dedd9cf54408b6f6e4fdd1cba50805260c22ce3e04269f2b910ae0233"
 
 [[files]]
 file = "config/emi.css"
-hash = "da903fdc4cac02c74de19431830c4689633ab609854cfbb479cd178616827ebd"
+hash = "9ac587e3d35553022dcf02807f9966a365e84a7b10afc55500529908ed27409b"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -82,11 +82,11 @@ hash = "a22f4563d73060b88c4707c86f294eca8eca4756256c758188ccca82a9240c6d"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "fa40ca70c18148c8d83615dc8264fa68cc9c165601246328f49cbec35a278f08"
+hash = "7756b9a4fee823f9e92fd5989da5ad172b46d01df9d80eb284d7e0e2109fac7a"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "29cb8a74452a95f895305354688267c865749354de7f118893adc3cc926ef340"
+hash = "858c6fe8da9cd7cbd2a6003b7972850b995f4debdd269c3b898db7b6155fef66"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -777,6 +777,10 @@ file = "config/openloader/data/no_geode_ores/pack.mcmeta"
 hash = "f23e636c77154a1fff108c78e6bf535dfbaba3e60c761ef59d34687117b32b09"
 
 [[files]]
+file = "config/openloader/data/stuff/data/alloyed/recipes/mixing/steel_ingot.json"
+hash = "68d1596de45bd6276639510537e328c8b3d18a87ca3869d895f01eddaf242d76"
+
+[[files]]
 file = "config/openloader/data/stuff/data/archexpsquared/blank_bow_a.json"
 hash = "818e26b0d068ba8d61d04007da950a21428d49ad3936fdb03ffb64e6c80712a4"
 
@@ -1119,6 +1123,14 @@ hash = "abfbe404a9917d0e0053b45e3d3999d5057d6f4b934724fb95988c1439f86b4b"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/lava_chicken.png"
 hash = "e987bae5307a314fa7cf8a5a943b2b902c2e653cee17d25744fe882fb82ffb4e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/icons.png"
+hash = "3c3c4a6b0ed9f655ae226aa38d5fa9edc6be91233e5b5b6b3384133e0e5366d9"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets.png"
+hash = "812ca6162121d8cef16f2954307768db0208845196d595edab97db83d7daa418"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -4330,7 +4342,7 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "91fd5269a1bf804e1f4ba7176b151c44f0329f8f372ba3858c21c8c32313c6c6"
+hash = "24c015826c58a4155a69759d0693b66b284fc7fffce20022417fca432a5d5ad4"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -4396,7 +4408,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "65d2c4fe555bc80c5048ba8dff2f909cf5291e35c8962c3519529ad340cd657c"
+hash = "ba95395c7e1f18418c2717b7c8cc8ba3a294e81c7896ceba49873d6bb44bee09"
 metafile = true
 
 [[files]]
@@ -5051,7 +5063,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "06a65fc537baec2d1fdd22a002e2fc8a776062484916894f2a34eadc3e2e8cc5"
+hash = "c6502d453daabfac075b7a7cda62df58946762b4dd67121366ce8954696b5001"
 metafile = true
 
 [[files]]
@@ -5127,6 +5139,11 @@ metafile = true
 [[files]]
 file = "mods/rotten-creatures.pw.toml"
 hash = "afc52db9d7a39cd5af53d3b5a8e4627df8db8df5f9e05086bd65cf3f79e7d93d"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "b6c84acc6f32d012f1bf0da41c8ebda66e26f2d70614a96779e9d6139b186532"
 metafile = true
 
 [[files]]
@@ -5385,4 +5402,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "65f0a92a8e06015544871bfa85432555c9284bb88079c89454b5db34688f65fd"
+hash = "f9b37283458a8b54d8b9135c9dfe95afe4f82e4facda1820a11ce42f8cc3af5e"

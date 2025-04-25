@@ -89,7 +89,7 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": false
+    "mod_name": true
   },
   "infinitybuttons": {
     "hide_secret_buttons": true,
