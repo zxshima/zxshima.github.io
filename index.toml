@@ -42,7 +42,7 @@ hash = "d0a08a602753a4090c49fa47a1eb744a2887d757a51780a4654ed52557b833fa"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "c006f24044c27ead7b47bfdd3ae36fb5c29ddf4cc800565390a66a29775e1ee4"
+hash = "6c3b9f393c9d9ac1e8391e3ff9bdf507375cd993d0ecdb54507150dc3c0d4f33"
 
 [[files]]
 file = "config/carryon-common.toml"
