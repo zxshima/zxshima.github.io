@@ -4368,7 +4368,7 @@ metafile = true
 
 [[files]]
 file = "mods/aileron.pw.toml"
-hash = "5f51558531f20212e8eed2983c576835d30065b7a534a5c7a1ff5f0bb2497f1c"
+hash = "07cb9c805f09fd20ef750db282c18ff909f7de6cf1ffe45a8b03b5e049df59e9"
 metafile = true
 
 [[files]]
@@ -4408,7 +4408,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "ba95395c7e1f18418c2717b7c8cc8ba3a294e81c7896ceba49873d6bb44bee09"
+hash = "1b4f930f3b8f73ae2f6182f3f8bf5027d5a0c45e6743686019668ffcdea98e29"
 metafile = true
 
 [[files]]
@@ -4423,12 +4423,12 @@ metafile = true
 
 [[files]]
 file = "mods/archery-expansion-squared.pw.toml"
-hash = "01245476d8a07c04139a726b6be6c17852064ea3db13b857a6c0627369474688"
+hash = "a91b02a04665a89f32058d20840e27c9808911a33fb2bcc26d9c2d057dba22cb"
 metafile = true
 
 [[files]]
 file = "mods/archery-expansion.pw.toml"
-hash = "080bb7c1f025e47e366a8ad008e335654ffdf074b9587626659b0ce2d8868475"
+hash = "3fa5730a539e587006b1c4cb4c700e4dccb00c85500e143f40bf1e5e960edeef"
 metafile = true
 
 [[files]]
@@ -4743,12 +4743,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "8d1837a31fdfc4692e50cff294e293be77095f063049d9912e486250f0191641"
+hash = "b95877b8d6f69db8f0c2fb3a4f76f7c6bc2f86896aec004acf350b1102ce27a1"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "4835b66cd4c26a027d52b4d15916f010c326537bebaa81350ddd40b9df61cf27"
+hash = "b913a4cd873ed0b32990101771291986a4a781c1e0330abdcd6a5d4fa59fa2b3"
 metafile = true
 
 [[files]]
@@ -4798,7 +4798,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "3cac9f3d4dc792068b030c9f260eee8cef70f307d98daa7e6814e0e4375de6e8"
+hash = "2ec083ed1872a8886a63c8f112958fdda1cf802d01c90400272e0d95a82c976d"
 metafile = true
 
 [[files]]
@@ -5008,7 +5008,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "854c34183553ce0af5beed4d4583339398b4904ec8144a51d4c75e07c6ae432b"
+hash = "72f1a5bebbe6f81c877e31325022a22e08d831bab9b85d86f084fe60d930331e"
 metafile = true
 
 [[files]]
@@ -5043,7 +5043,7 @@ metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "55875730ed8ce244b56bf08d818a4ffb3c347a5280a62ba636b82b6aee125e3d"
+hash = "dc95cb62ee91e8314cf504aaec5b77c1500c38e41f9b78abc179dfe94e76423f"
 metafile = true
 
 [[files]]
@@ -5108,12 +5108,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "2a0cb33fb2c23f157e0295ae75f48c7531441e451187cc9fedf5054d728be929"
+hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0f7cc9e205fdb174dd1fb5188730f13ca4d68e9d423165e4a3792a6a67cd7853"
+hash = "7fec42e373ac49e3a514966b8d382136a105fa435b91b0e2c170b8ec4c77c0c9"
 metafile = true
 
 [[files]]
@@ -5128,7 +5128,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
@@ -5163,7 +5163,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "74605dbc168a001511741a85318364fc67d83f975528d279005304a182d87762"
+hash = "e7d596f25bd16e1cd85b34896f69c8801312de601f5af48cb412a2be505f09fb"
 metafile = true
 
 [[files]]
@@ -5183,7 +5183,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "703a46fa7d4918e855cc6ee841d4542741494851023ff49ba4087092a8d70b20"
+hash = "1f24b43be5efacc252ef6df1d794ea811fd3f33e6f76d6d999e11e28018e553e"
 metafile = true
 
 [[files]]
@@ -5238,7 +5238,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "217bd9a286ec59ed77d6535b18ccae6aadf460e2381e4bfc7a6b494e566ab45a"
+hash = "cbff74079a4c93fe1c22337e1ecbedc7e609e85af9dccc1ce73ed9362ee118f7"
 metafile = true
 
 [[files]]
@@ -5268,7 +5268,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "45a53404a7460d30dbf6d7689d267059106243423edb75844946e1d56f4dcc0e"
+hash = "8986e6f46fb7a38b79dd2ede394c62716b6f863e74d6edfc396a5a301a375cda"
 metafile = true
 
 [[files]]
@@ -5342,7 +5342,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "dc0d70ca47ea0da60a460e26279b670559418e1f91e9d29ad8cf76bbb671650a"
+hash = "7109c28cd8cd4e32634ad3c6d167bc7c717b17e2598a078cbab7fa73f7f8caa5"
 metafile = true
 
 [[files]]
@@ -5397,7 +5397,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
