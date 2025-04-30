@@ -58,6 +58,86 @@
 			image: "minecraft:block/barrel_top"
 			rotation: 0.0d
 			width: 2.0d
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "tradingpost:block/trading_post_front"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.75d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: 2.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "create:block/andesite_casing_piston"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.75d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.75d
+			y: -1.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/fletching_table_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:item/item_shelf"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/beehive_front_honey"
+			rotation: 0.0d
+			width: 2.0d
 			x: 3.5d
 			y: 0.0d
 		}
@@ -178,6 +258,7 @@
 				type: "item"
 			}]
 			shape: "heart"
+			subtitle: "My Deer!"
 			tasks: [{
 				id: "392570D6A46B99D7"
 				optional_task: true
@@ -219,6 +300,7 @@
 				"You may have noticed a large table of items in your inventory. No, you can't take them yet."
 				"Press &aR&r hovering over an item to see how it's crafted..."
 				"and press &aU&r, to see what you can craft with it."
+				"Also, press &aA&r to add an item to favorites menu on the left!"
 			]
 			icon: "minecraft:crafting_table"
 			icon_scale: 1.25d
@@ -232,6 +314,145 @@
 			}]
 			x: -3.5d
 			y: -1.5d
+		}
+		{
+			description: [
+				"Get this bad boy and smack a painting into it - it will let you get the variant that you want."
+				"I'm sure you don't want to play a gambling mini-game trying to get the exact painting from so many variants. Unless you do."
+			]
+			id: "2C8AC542010171CB"
+			rewards: [{
+				count: 2
+				id: "7E1AD1B0A9668F73"
+				item: "minecraft:painting"
+				type: "item"
+			}]
+			subtitle: "Easel Does It?"
+			tasks: [{
+				id: "03F903AC716425E7"
+				item: "easel_does_it:easel"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			description: ["This block lets you trade with &ball nearby villagers&r through the same UI. Convenient, isn't it?"]
+			id: "2C98B6F88AD2ECC6"
+			rewards: [{
+				id: "22CD499AB1EE8276"
+				item: "minecraft:emerald"
+				type: "item"
+			}]
+			subtitle: "9750000 coins"
+			tasks: [{
+				id: "752C204D3ABE32C1"
+				item: "tradingpost:trading_post"
+				type: "item"
+			}]
+			x: -2.75d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Spyglass is now quite useful. "
+				"Put it in the Belt slot of your curio menu, then you can press &aC&r to quickly zoom-in without equipping it!"
+				"Use &ascroll wheel&r to change zoom level!"
+			]
+			id: "793391927EF92050"
+			rewards: [{
+				id: "51F229083B784190"
+				item: "simplehats:monocle"
+				type: "item"
+			}]
+			subtitle: "Optimally Fine"
+			tasks: [{
+				id: "4E5B0C240F750CB3"
+				item: "minecraft:spyglass"
+				type: "item"
+			}]
+			x: 2.75d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Press &aShift+Right-Click&r on a tile (like a chest!) or a small mob/entity to carry them!"
+				"Then, &aRight-Click&r again to place."
+			]
+			id: "7972545E20BB1ABB"
+			rewards: [{
+				id: "5CCCDA1F4EB9A0F5"
+				item: "environmental:duck_egg"
+				type: "item"
+			}]
+			subtitle: "I'll Carry On"
+			tasks: [{
+				id: "0BA1822B27FE0062"
+				title: "Got you!"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"You've killed something, and it dropped a bag with a random hat. Is this Team Fortress 2?"
+				"You may have noticed in the tooltip something like &o\"Slot: Head\"&r - this means the item can be equipped in &bHats&r &eCurio slot&r."
+				"Open your inventory and click on a little diamond in top left of your portrait to open &eCurio Menu&r - hats are not the only thing you can equip there."
+				"On your adventure, you'll get (or &ocraft!&r) a good amount of &eCurios&r - items that give you &6stats&r. Make sure to equip as many as you can - you'll need it!"
+			]
+			id: "5557BD9C5B76D743"
+			rewards: [{
+				id: "36D82F3E103BA9FD"
+				item: "simplehats:hatbag_rare"
+				type: "item"
+			}]
+			subtitle: "Got you curious?"
+			tasks: [
+				{
+					id: "4BA15D62D4174150"
+					item: "simplehats:hatbag_common"
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "7901942338F127F6"
+					item: "simplehats:hatbag_uncommon"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Curios and Hats"
+			x: 1.75d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Glider allows you to glide smoothly across rough terrain!"
+				"Be careful, as it has limited durability! Upgrade it to glide farther and for more durability."
+			]
+			id: "735A252D7C47C2D0"
+			rewards: [{
+				id: "2363FB019796B137"
+				item: "quark:bonded_leather"
+				type: "item"
+			}]
+			subtitle: "Daily Bird"
+			tasks: [{
+				id: "449B526AB8277D60"
+				item: {
+					Count: 1
+					id: "vc_gliders:paraglider_wood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Gliders"
+			x: 4.5d
+			y: 1.5d
 		}
 	]
 	title: "Intro"

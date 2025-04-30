@@ -1,0 +1,78 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "adventure"
+	group: "66214D72CDB9B621"
+	id: "4B6FEB048DFAEEF2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["To remote lands, hidden from light of day and bustling life, a talented and mysterious illager brought a spectacle..."]
+			icon: {
+				Count: 1
+				id: "conjurer_illager:conjurer_hat"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "683365D0CA6158BB"
+			rewards: [{
+				id: "16339F5D9659DBC9"
+				item: {
+					Count: 1
+					id: "minecraft:painting"
+					tag: {
+						EntityTag: {
+							variant: "conjurer_illager:theater"
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "The Prophecy, and a Nightmare"
+			tasks: [{
+				entity: "conjurer_illager:conjurer"
+				id: "772C47869DC7C4BF"
+				title: "Kill Conjurer"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["683365D0CA6158BB"]
+			description: ["Lost your very cool and unique painting reward? You can get another one here!"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			id: "51E11FBA72982D46"
+			optional: true
+			rewards: [{
+				id: "174FEEA3B4E9B1CA"
+				item: {
+					Count: 1
+					id: "minecraft:painting"
+					tag: {
+						EntityTag: {
+							variant: "conjurer_illager:theater"
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "All the World's a Stage"
+			tasks: [{
+				id: "7B9274860C553BC5"
+				item: "minecraft:painting"
+				type: "item"
+			}]
+			title: "Painting: Theater"
+			x: -0.5d
+			y: 0.5d
+		}
+	]
+	title: "Adventure"
+}

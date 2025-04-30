@@ -1,0 +1,78 @@
+{
+  "config_version": "1.0.11",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structures": [
+    {
+      "name": "idas:train_ruins",
+      "is_disabled": false,
+      "enable_flatness_check": true,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    }
+  ],
+  "structure_sets": [
+    {
+      "name": "atmospheric:kousa_sanctums",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 51,
+      "separation": 32
+    },
+    {
+      "name": "betterdeserttemples:desert_temples",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 41,
+      "separation": 20
+    },
+    {
+      "name": "conjurer_illager:theatre",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 32,
+      "separation": 28
+    },
+    {
+      "name": "idas:idas_common",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 25,
+      "separation": 18
+    },
+    {
+      "name": "idas:idas_rare",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 50,
+      "separation": 25
+    },
+    {
+      "name": "idas:idas_small",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 25,
+      "separation": 18
+    },
+    {
+      "name": "minecraft:villages",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 51,
+      "separation": 32
+    },
+    {
+      "name": "mowziesmobs:umvuthana_groves",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 50,
+      "separation": 24
+    },
+    {
+      "name": "terramity:subterranean_shrine",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 13,
+      "separation": 5
+    }
+  ]
+}

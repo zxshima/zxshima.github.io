@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6101745
 project-id = 654373
+
+[option]
+optional = true
+description = "Disable if you don't need to change any graphical effects (e.g. disabling individual effects like sky/fog)."

@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6455606
 project-id = 958094
+
+[option]
+optional = true
+description = "Adds effects like biome-dependant sky colors and more dense fog. Disable if you want better FPS!"

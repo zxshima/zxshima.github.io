@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6241090
 project-id = 463155
+
+[option]
+optional = true
+description = "Disable if you don't want the falling leaves effect. Might help a little with FPS!"
