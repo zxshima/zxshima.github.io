@@ -4951,6 +4951,11 @@ hash = "1755530acc84b0e9152cbf68da07fc239b78ac5357e552d1fbb99483bcb6c24e"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
 metafile = true
@@ -5287,7 +5292,7 @@ metafile = true
 
 [[files]]
 file = "mods/species.pw.toml"
-hash = "411d9fcda9212342f8da7bfb1a7624779bb90b9488949ceb403fde50cda4bdb3"
+hash = "3c1c303483fd5bc44aa5ca939ecb4dc69b5a9de1d817a723a69ec2805c238414"
 metafile = true
 
 [[files]]
