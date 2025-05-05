@@ -1,6 +1,8 @@
 ServerEvents.tags('item', event => {
 	event.get('minecraft:stone_tool_materials')
 		.add('terramity:igneostone')
+	event.get('aileron:elytra')
+		.add('cataclysm:ignitium_elytra_chestplate')
     event.get('c:ores')
 		.add('terramity:decayed_black_matter_ore')
 		.add('terramity:sapphire_ore')

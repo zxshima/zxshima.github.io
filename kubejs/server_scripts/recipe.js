@@ -1,22 +1,19 @@
 ServerEvents.recipes(event => {
     event.remove({ output: 'minecraft:map', type: 'minecraft:crafting_shaped' })
 	event.remove({ output: 'backpacked:backpack' })
-
     event.remove({ output: 'upgrade_aquatic:mulberry_pie' })
-    event.remove({id: 'geodes:tuning/diamond_tuning'})
-    event.remove({id: 'geodes:tuning/echo_tuning'})
-    event.remove({id: 'upgrade_aquatic:trident'})
-    event.remove({id: 'progressivebosses:trident'})
     event.remove({id: 'ars_nouveau:novice_spell_book'})
     event.remove({id: 'ars_nouveau:apprentice_spell_book_upgrade'})
     event.remove({id: 'ars_nouveau:archmage_spell_book_upgrade'})
+    event.remove({id: 'upgrade_aquatic:trident'})
+    event.remove({id: 'progressivebosses:trident'})
+    event.remove({id: 'minecraft:lead'})
+    event.remove({id: 'minecraft:lodestone'})
 
-
+    event.remove({id: 'geodes:tuning/diamond_tuning'})
+    event.remove({id: 'geodes:tuning/echo_tuning'})
     event.remove({ output: 'alloyed:steel_fishing_rod' })
     event.remove({ output: 'trials:crafter' })
-    event.remove({ output: 'alexsmobs:tarantula_hawk_elytra' })
-    event.remove({ output: 'cataclysm:ignitium_elytra_chestplate' })
-
     event.remove({ output: 'caverns_and_chasms:cobblestone_bricks' })
     event.remove({ output: 'caverns_and_chasms:cobblestone_brick_slab' })
     event.remove({ output: 'caverns_and_chasms:cobblestone_brick_wall' })
@@ -55,6 +52,13 @@ ServerEvents.recipes(event => {
     event.remove({ input: 'minecraft:deepslate_emerald_ore' })
     event.remove({ input: 'minecraft:lapis_ore' })
     event.remove({ input: 'minecraft:deepslate_lapis_ore' })
+    event.remove({ output: 'functionalstorage:framed_1' })
+    event.remove({ output: 'functionalstorage:framed_2' })
+    event.remove({ output: 'functionalstorage:framed_4' })
+    event.remove({ output: 'functionalstorage:framed_simple_compacting_drawer' })
+    event.remove({ output: 'functionalstorage:compacting_framed_drawer' })
+    event.remove({ output: 'functionalstorage:framed_storage_controller' })
+    event.remove({ output: 'functionalstorage:framed_controller_extension' })
 
 
     event.shaped('minecraft:map', [
@@ -148,9 +152,36 @@ ServerEvents.recipes(event => {
 	);
 	event.shapeless('kubejs:deer_cracker', ['2x minecraft:wheat', 'farmersdelight:rice']);
     event.replaceInput(
-        { not: { output: 'ars_nouveau:starbuncle_charm' }, mod: 'ars_nouveau'},
+        {not: { output: 'ars_nouveau:starbuncle_charm' }, mod: 'ars_nouveau'},
         'minecraft:gold_ingot',
         'create:brass_ingot'
     );
-
+    event.shaped('minecraft:lead', [
+        'AA ',
+        'AA ',
+        '  A'
+    ], 	{
+        A: 'minecraft:string'
+    }
+    );
+    event.shaped('minecraft:lodestone', [
+        'AAA',
+        'ABA',
+        'AAA'
+    ], 	{
+        A: 'minecraft:chiseled_stone_bricks',
+        B: 'minecraft:iron_ingot'
+    }
+    );
+    event.replaceInput(
+        [{id: 'ironchests:iron_chest'}, {id: 'ironchests:iron_chest_upgrade'}, {id: 'ironchests:iron_barrel'}],
+        'minecraft:iron_ingot',
+        'create:iron_sheet'
+    );
+    event.replaceInput(
+        {not: { output: 'ironchests:lock' }, mod: 'ironchests'},
+        'minecraft:gold_ingot',
+        'create:golden_sheet'
+    );
+    event.blasting('3x minecraft:iron_nugget', 'kubejs:iron_scrap');
 })

@@ -50,7 +50,7 @@ hash = "6c3b9f393c9d9ac1e8391e3ff9bdf507375cd993d0ecdb54507150dc3c0d4f33"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "a75591f2297b209bd8993e19f63cbbda36cf73294412c46abdffae64007a636f"
+hash = "5db9e213628018be83b688fc756f17aaaf1b50b9156a7e3ff21ed910a798bab7"
 
 [[files]]
 file = "config/dolt_mod_how-common.toml"
@@ -70,7 +70,43 @@ hash = "f8a5dc23c76bb228dbbad11e540dfdf5a564ac68cfdb6f840e253977b3beb7e5"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "6ae9019a83774c688c06b5519dd8f3feaf43b8d7c978425cb2c095ae82918b9c"
+hash = "686bce14e49b6b6d94c3b68822365139ae8c372041a044cf583c19ba6e877936"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "8f5dd6de75af74381a0f094c4ab0dba04249c775b8f280ab60b8456d784232c2"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "eb12e243d43510b3c791a6f055b33a934238d0978e4d9129d88ccf88c38320e2"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -105,8 +141,8 @@ file = "config/jade/plugins.json"
 hash = "858c6fe8da9cd7cbd2a6003b7972850b995f4debdd269c3b898db7b6155fef66"
 
 [[files]]
-file = "config/jei/blacklist.cfg"
-hash = "f89cb4bdc1f1a262f460dda6a202a087d6503b550d25b1012383dab0bdc0f581"
+file = "config/jei/blacklist.json"
+hash = "c1e138340f70de2ba90b2974080162941341cdc3a896c81a74b4018f47b30385"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -1123,6 +1159,10 @@ hash = "145faaeb358badc361d0dce303f67b08cf4f5fb668396dfc4b4b2b4a17777a90"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/deer_cracker.png"
 hash = "abfbe404a9917d0e0053b45e3d3999d5057d6f4b934724fb95988c1439f86b4b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/iron_scrap.png"
+hash = "65d29d154aea3f4fa578f8d0a64af49bc87c78ed9c9f9c22c148f74ca96424c4"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/lava_chicken.png"
@@ -4305,8 +4345,12 @@ file = "config/packmenu.cfg"
 hash = "06265b1eccbc82783856625b8641b30fccc06306e3fce5c9b863f125455e30bf"
 
 [[files]]
+file = "config/personality-client.toml"
+hash = "253427324a027ed91094af07e3329b8849cfe60ac1cf4ff11293c5c015ddf5de"
+
+[[files]]
 file = "config/quark-common.toml"
-hash = "ddd039926e6bd527ba7644478c9e9e16a5e3bcf75027d574c34e2d906768bbe8"
+hash = "97315cb4af67d698eef42c4d9a23109caedac50d6bd2fec6721d8d43046ccbea"
 
 [[files]]
 file = "config/simplebackups-common.toml"
@@ -4346,7 +4390,7 @@ hash = "b9951edbf8ca218cc14f0a2f2d5410128e6c4c4037a6152cd8cbda0e17cc4b5e"
 
 [[files]]
 file = "kubejs/server_scripts/drops.js"
-hash = "6ab03f3eb6f6e111ed7e4fd3409beddadbcd39f2f6073a41fe5a08680f6031d9"
+hash = "a04779ae769338e62e00b8814ee3774a134fe8eed486b0a88611f8620345b1dd"
 
 [[files]]
 file = "kubejs/server_scripts/giveOnFirstJoin.js"
@@ -4358,11 +4402,15 @@ hash = "11bfc3dacbbae3832a49b5e170be0ee750eac90ccfe763aabe729186af509c44"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "9ec272eb57411c479ce672bdffb23f38e7652389878e065656fa0805af860ac3"
+hash = "be6e9c8e9d59b9c98ce441e1b7ef97bf633bf698397f065a162e04af161864a2"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "056d0af014d4919339f9dfe9985ab2f8ebed2f1a3dc72bc2f5518101cf831194"
+hash = "ddb1d8647736f5f7e252bd9f2085d5d91a9b5df2d99c52d597692502048b337a"
+
+[[files]]
+file = "kubejs/startup_scripts/drops.js"
+hash = "607aaf20b06ed3a2c278851a4318f59c2ed82d76875ce2b5eea4ae9621e24f34"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
@@ -4422,7 +4470,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "415c1bb058287bd60abb4ffc9210963699259862e32b039ececf3c0b497e968b"
+hash = "e5ebb747553799e65aa1a2222ea07e24a151f269e1388c4726b752c098b43fee"
 metafile = true
 
 [[files]]
@@ -4747,12 +4795,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "53d5d1b9287e8f53e4fff7405dcf7bfe90d5686571031bda1a6eba87a65bfa57"
+hash = "c2a77e2394b72095ffa5f89f3f91ab6e3683f3f2605cb600a8ac4c57f100de31"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "daef210e9d3922c541bfa5e62acf19f30202682b143b651cb6c9959e6a53821d"
+hash = "28a98b5993716e6fb2c3b70ec591653861a92a9e59e692329318ea76fa681ba8"
 metafile = true
 
 [[files]]
@@ -4808,6 +4856,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "873094cefae0a272ca96597baa80e55b1abc2c7b54095f9c785f9875d7c34ef9"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "7247ef2c898e3a2f1d739037798abfdc6bfe0a875912ded63d9f24c64c04c924"
 metafile = true
 
 [[files]]
@@ -4966,11 +5019,6 @@ hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "8a970ab740cc67c17619839274f7e74aef78473bc4d6be10f0b618d86f02b199"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "7142644b6ee70047ec0eec880a44050cf4fd7e42c94f93dbe85ea7630f2d4500"
 metafile = true
@@ -4983,6 +5031,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "23260a47a743f0467824393d26f7ebcc8020af94c6e65475d38ea56cdbf5b9b0"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "4242e765c5223608ca97a2d27bdef34c88f327a0688fe4459e36e4ae5b61364d"
 metafile = true
 
 [[files]]
@@ -5068,6 +5121,11 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "72f1a5bebbe6f81c877e31325022a22e08d831bab9b85d86f084fe60d930331e"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
 
 [[files]]
@@ -5257,7 +5315,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "bc27f1c5d89c0718c6e71af525d59b68c623a9d8ac9b9ff67a0ab1d5f23efd31"
+hash = "f6d26d2048bfa2dd9e3d485cc116db5e011e76397a47a9e412482998e64c8531"
 metafile = true
 
 [[files]]
@@ -5371,6 +5429,11 @@ hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
 metafile = true
 
 [[files]]
+file = "mods/tmrv.pw.toml"
+hash = "d2274c23ca703a4b4ef064772ee243dc13080cd3b6a7e1022c223af2a8135db0"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "d4230c3d47d1630348daf1ef7bba1201367aa39cdf6ad585ae3aca59e1bb6614"
 metafile = true
@@ -5476,4 +5539,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f9b37283458a8b54d8b9135c9dfe95afe4f82e4facda1820a11ce42f8cc3af5e"
+hash = "3001062cb1dc32f5420b8d53d1588a6d60ad47069da8f4d28b08af4f6d413523"

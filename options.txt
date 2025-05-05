@@ -184,7 +184,7 @@ key_key.cataclysm.ability:key.keyboard.x
 key_key.cataclysm.helmet_ability:key.keyboard.c
 key_key.cataclysm.chestplate_ability:key.keyboard.h
 key_key.cataclysm.boots_ability:key.keyboard.y
-key_key.spyglass-improvements.use:key.keyboard.z
+key_key.spyglass-improvements.use:key.keyboard.c
 key_key.curios.open.desc:key.keyboard.j
 key_key.ars_nouveau.open_book:key.keyboard.c
 key_key.ars_nouveau.selection_hud:key.keyboard.v

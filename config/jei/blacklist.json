@@ -1,9 +1,5 @@
-alexsmobs:tarantula_hawk_wing
 upgrade_aquatic:tall_beachgrass
 upgrade_aquatic:beachgrass
-cataclysm:ignitium_elytra_chestplate
-alexsmobs:tarantula_hawk_wing_fragment
-alexsmobs:tarantula_hawk_elytra
 environmental:pine_log
 environmental:pine_wood
 environmental:stripped_pine_log
@@ -161,3 +157,10 @@ mowziesmobs:thatch_block
 upgrade_aquatic:beachgrass_thatch
 upgrade_aquatic:beachgrass_thatch_stairs
 upgrade_aquatic:beachgrass_thatch_slab
+functionalstorage:framed_1
+functionalstorage:framed_2
+functionalstorage:framed_4
+functionalstorage:compacting_framed_drawer
+functionalstorage:framed_simple_compacting_drawer
+functionalstorage:framed_storage_controller
+functionalstorage:framed_controller_extension
