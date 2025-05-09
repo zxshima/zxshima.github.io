@@ -1,0 +1,300 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "building"
+	group: "66214D72CDB9B621"
+	id: "3391707544E7BD37"
+	images: [
+		{
+			height: 2.0d
+			image: "structurify:textures/gui/config/images/biomes/plains.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "structurify:textures/gui/config/images/biomes/mountain_edge.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/deepslate_column"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/deepslate_column"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -1.25d
+		}
+		{
+			height: 2.0d
+			image: "twigs:block/deepslate_column"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 0.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Works exactly the same as a stonecutter, but helps you quickly create wooden decoration and utility blocks."
+				"Some blocks have better conversion ratios than crafting table!"
+			]
+			id: "5032C9ADF3068DB4"
+			rewards: [{
+				id: "6B4B48C5ACDFA0DB"
+				item: "minecraft:oak_wood"
+				type: "item"
+			}]
+			subtitle: "See Saw"
+			tasks: [{
+				id: "7F32BDE5F76F532B"
+				item: "sawmill:sawmill"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"You know it, you love it. Works exactly the same as vanilla, but has a much larger variety of blocks."
+				"Try putting a zinc ingot into it and see what happens!"
+			]
+			id: "1F94E330596CEC91"
+			rewards: [{
+				id: "4ED560A4298F127B"
+				item: "minecraft:lodestone"
+				type: "item"
+			}]
+			subtitle: "Mountain Shaper and Moon Carver"
+			tasks: [{
+				id: "126B5401CB251FB0"
+				item: "minecraft:stonecutter"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Get this bad boy and smack a painting into it - it will let you get the variant that you want."
+				"I'm sure you don't want to play a gambling mini-game trying to get the exact painting from so many variants. Unless you do."
+			]
+			id: "2C8AC542010171CB"
+			rewards: [{
+				count: 2
+				id: "7E1AD1B0A9668F73"
+				item: "minecraft:painting"
+				type: "item"
+			}]
+			subtitle: "Easel Does It?"
+			tasks: [{
+				id: "03F903AC716425E7"
+				item: "easel_does_it:easel"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1F94E330596CEC91"]
+			description: [
+				"Copycat blocks let you create any block variant (slabs, stairs, and even functional blocks such as doors!) with any full block texture you could think of. All the zinc you've collected so far will finally have some aesthetic use!"
+				"Hold &eShift&r while hovering over a copycat in your inventory to see how to use them!"
+			]
+			id: "0F58C5AD0F44D363"
+			subtitle: "Capricot"
+			tasks: [{
+				id: "7C0DCBACA4F0D5A2"
+				item: "copycats:copycat_block"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Decorative Blocks mod comes with two very unique blocks - &bseats&r and &bsupports&r."
+				""
+				"&bSeat&r has two modes - with and without the extra wooden bit on the top, which you can switch between using &eShift+RightClick&r while holding it in your inventory. You can combine two blocks to build simple wooden railings!"
+				""
+				"&bSupport&r has modes too - with face side at the top, and at the bottom but it can also be interacted with an axe - &eRightClick&r it while holding axe to make face sides appear smaller or larger, or &eShift+RightClick&r to disable one of the sides completely, turning the block into a &bPanel&r."
+			]
+			id: "6BB830B395E9E1AA"
+			rewards: [{
+				id: "7A51227A219589E6"
+				item: "biomesoplenty:flowering_oak_sapling"
+				type: "item"
+			}]
+			subtitle: "Seats and Supports"
+			tasks: [
+				{
+					id: "60031EA828AE8EAC"
+					item: "decorative_blocks:oak_seat"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "117A2194AE4616D9"
+					item: "decorative_blocks:oak_support"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Decorative Blocks"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Makes a loud ring when you &eRightClick&r it. Yes, that's it."
+				"Can also be activated by &4Redstone&r, which you may utilize to build a clock tower that you can hear ringing from afar every morning!"
+			]
+			id: "2FB56F6515B7846B"
+			rewards: [{
+				id: "59F092A33F5B03D9"
+				item: "minecraft:daylight_detector"
+				type: "item"
+			}]
+			subtitle: "Vine Boom"
+			tasks: [{
+				id: "0784748FFE722412"
+				item: "alloyed:bronze_bell"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"This new set of tools lets you quickly build and replicate simple repetitive patterns. It has its own configuration menu, so to see the controls, check the Info tab in "
+				"{ \"text\": \"Recipe Menu\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"458307772D551DD5\" } }"
+			]
+			id: "4E217BE71CEB5D08"
+			rewards: [{
+				count: 64
+				id: "7D58EDBC9516B5B1"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			subtitle: "Repetition"
+			tasks: [
+				{
+					id: "7BB15A55C492E5A0"
+					item: {
+						Count: 1
+						id: "constructionwand:stone_wand"
+						tag: {
+							Damage: 0
+							wand_options: { }
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0B8845D9977D95CD"
+					item: {
+						Count: 1
+						id: "constructionwand:iron_wand"
+						tag: {
+							Damage: 0
+							wand_options: { }
+						}
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			description: ["There are several ways to increase block reach to help you with building, and a Reach potion lets you extend it further beyond to help with building, no matter how much you already have!"]
+			id: "1A15E202577E84AE"
+			rewards: [{
+				id: "6E8FD4B96FA341AF"
+				item: {
+					Count: 1
+					id: "ecologics:crab_claw"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Carcinization"
+			tasks: [{
+				id: "5F03902F735A9632"
+				item: {
+					Count: 1
+					id: "minecraft:potion"
+					tag: {
+						Potion: "friendsandfoes:reaching"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Magnum Torches and Koi fishes are &osome&r of the ways to prevent mob spawns."
+				""
+				"Living Koi fishes have a &6Serenity&r effect in a 32x32x8 block radius around them, preventing mob spawns. Area is under effect as long as you also have the effect active inside it."
+				""
+				"Magnum Torches are more effective and have larger active radius, but are also more expensive."
+				"There's 3 types of them:"
+				"&bDiamond&r prevents hostile mob spawns"
+				"&2Emerald&r prevents passive mob spawns"
+				"&dAmethyst&r prevents aquatic spawns"
+			]
+			id: "59D391469ACE08F8"
+			rewards: [{
+				id: "1CF948BE57CD0506"
+				item: {
+					Count: 1
+					id: "environmental:koi_bucket"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "24C0441E51143269"
+					item: "magnumtorch:diamond_magnum_torch"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "677698E2B08EF6E4"
+					item: {
+						Count: 1
+						id: "environmental:koi_bucket"
+						tag: { }
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -0.5d
+		}
+	]
+	title: "Building"
+}

@@ -316,27 +316,6 @@
 			y: -1.5d
 		}
 		{
-			description: [
-				"Get this bad boy and smack a painting into it - it will let you get the variant that you want."
-				"I'm sure you don't want to play a gambling mini-game trying to get the exact painting from so many variants. Unless you do."
-			]
-			id: "2C8AC542010171CB"
-			rewards: [{
-				count: 2
-				id: "7E1AD1B0A9668F73"
-				item: "minecraft:painting"
-				type: "item"
-			}]
-			subtitle: "Easel Does It?"
-			tasks: [{
-				id: "03F903AC716425E7"
-				item: "easel_does_it:easel"
-				type: "item"
-			}]
-			x: -4.5d
-			y: 1.5d
-		}
-		{
 			description: ["This block lets you trade with &ball nearby villagers&r through the same UI. Convenient, isn't it?"]
 			id: "2C98B6F88AD2ECC6"
 			rewards: [{
@@ -452,6 +431,28 @@
 			}]
 			title: "Gliders"
 			x: 4.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Backpack mods are boring and overly complicated. Thankfully, the author of this pack thought of your well-being."
+				"This trusty backpack lets you store a whole double chest of items anywhere you go!"
+				"&eRightClick&r it and it will automatically equip in the &6Back&r &bCurio slot&r. Once you've done so, press &eB&r to access it anytime."
+				"You can even customize its appearance with unlocks! For that, find the button once inside the backpack menu."
+			]
+			id: "32B037AACD311AAF"
+			rewards: [{
+				id: "0078B31346E00EE1"
+				item: "farmersdelight:canvas"
+				type: "item"
+			}]
+			subtitle: "Whole Pack on your Back!"
+			tasks: [{
+				id: "4917FE001E7A5AFE"
+				item: "backpacked:backpack"
+				type: "item"
+			}]
+			x: -4.5d
 			y: 1.5d
 		}
 	]

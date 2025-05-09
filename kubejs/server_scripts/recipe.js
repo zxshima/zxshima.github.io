@@ -9,6 +9,7 @@ ServerEvents.recipes(event => {
     event.remove({id: 'progressivebosses:trident'})
     event.remove({id: 'minecraft:lead'})
     event.remove({id: 'minecraft:lodestone'})
+    event.remove({id: 'constructionwand:diamond_wand'})
 
     event.remove({id: 'geodes:tuning/diamond_tuning'})
     event.remove({id: 'geodes:tuning/echo_tuning'})
@@ -59,7 +60,10 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'functionalstorage:compacting_framed_drawer' })
     event.remove({ output: 'functionalstorage:framed_storage_controller' })
     event.remove({ output: 'functionalstorage:framed_controller_extension' })
-
+    event.remove({ output: 'geodes:lapis_crystal_block' })
+    event.remove({ output: 'geodes:diamond_crystal_block' })
+    event.remove({ output: 'geodes:quartz_crystal_block' })
+    event.remove({ output: 'geodes:emerald_crystal_block' })
 
     event.shaped('minecraft:map', [
         'AAA',
@@ -173,10 +177,24 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     }
     );
+    event.shaped('constructionwand:diamond_wand', [
+        '  B',
+        ' A ',
+        'A  '
+    ], 	{
+        A: 'minecraft:stick',
+        B: 'quark:diamond_heart'
+    }
+    );
     event.replaceInput(
         [{id: 'ironchests:iron_chest'}, {id: 'ironchests:iron_chest_upgrade'}, {id: 'ironchests:iron_barrel'}],
         'minecraft:iron_ingot',
         'create:iron_sheet'
+    );
+    event.replaceInput(
+        {mod: 'magnumtorch'},
+        'minecraft:gold_ingot',
+        'create:brass_ingot'
     );
     event.replaceInput(
         {not: { output: 'ironchests:lock' }, mod: 'ironchests'},

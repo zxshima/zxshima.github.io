@@ -19,6 +19,26 @@ ItemEvents.modification(event => {
         food.saturation(0.33)
     }
   })
+  event.modify('neapolitan:vanilla_pudding', item => {
+    item.foodProperties = food => {
+      food.saturation(0.5)
+    }
+  })
+  event.modify('minecraft:cooked_porkchop', item => {
+    item.foodProperties = food => {
+      food.saturation(0.6)
+    }
+  })
+  event.modify('minecraft:cooked_beef', item => {
+    item.foodProperties = food => {
+      food.saturation(0.6)
+    }
+  })
+  event.modify('minecraft:golden_carrot', item => {
+    item.foodProperties = food => {
+      food.saturation(0.8)
+    }
+  })
 })
 
 StartupEvents.registry('item', event => {
