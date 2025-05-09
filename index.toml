@@ -4377,6 +4377,10 @@ file = "config/stylisheffects-client.toml"
 hash = "16c4d2636be96d6d1193bf5a11254e57e3e46020ac4a51e1e2fd100d567b4fd1"
 
 [[files]]
+file = "config/tide.toml"
+hash = "aa6a0421df68a9ae70c8997818b4c3ed5072e09e671c55993a6c3418e43fff2e"
+
+[[files]]
 file = "config/tradingpost-server.toml"
 hash = "1f78fac1fb0cf483bdf8027b012c1ed82441b6422629804bb5a015b4d1ba7c4b"
 
@@ -4583,7 +4587,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "ce67892bdb1211993f6d7089317305a91ad049b8ce582e6525c67a422898f8a6"
+hash = "84b6113c5935b681f3dd134285cd0306c4803f2cfa67f637565db6854bd21600"
 metafile = true
 
 [[files]]
