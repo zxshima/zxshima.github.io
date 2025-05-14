@@ -4599,6 +4599,11 @@ hash = "753778e7deed4b8c321e21dee45f455ecac427eef70b45c7ffd82675af09945d"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "1b912abaf6db8c9107e2de1b891c0900aa9db637b90e926dcdee9688e6f49b32"
+metafile = true
+
+[[files]]
 file = "mods/berry-good.pw.toml"
 hash = "ebbde8e5cd1fc05113f61fb32d98277292474aef5a2cb6892e3b263c9130002d"
 metafile = true
