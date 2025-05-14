@@ -14,4 +14,4 @@ project-id = 654373
 
 [option]
 optional = true
-description = "Disable if you don't need to change any graphical effects (e.g. disabling individual effects like sky/fog)."
+description = "Lets you change more graphical effects (e.g. individual effects like sky/fog). If your PC isn't strong enough, can help with performance!"

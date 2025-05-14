@@ -177,6 +177,15 @@ ServerEvents.recipes(event => {
         B: 'minecraft:iron_ingot'
     }
     );
+    event.shaped('minecraft:saddle', [
+        ' A ',
+        'ABA',
+        '   '
+    ], 	{
+        A: 'minecraft:leather',
+        B: 'minecraft:iron_ingot'
+    }
+    );
     event.shaped('constructionwand:diamond_wand', [
         '  B',
         ' A ',

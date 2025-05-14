@@ -73,6 +73,67 @@
 			x: -0.5d
 			y: 0.5d
 		}
+		{
+			id: "148847FADD250246"
+			tasks: [{
+				icon: "trials:chiseled_tuff_bulb"
+				id: "4C2C2D7E4403048C"
+				structure: "trials:trials_chambers"
+				title: "Trial Chamber"
+				type: "structure"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "68831C0995CD1E5D"
+			invisible: true
+			optional: true
+			rewards: [{
+				count: 3
+				id: "12FDF9431AD2B5E8"
+				item: "minecraft:bone_block"
+				type: "item"
+			}]
+			subtitle: "Longing..."
+			tasks: [{
+				id: "06DB0404B5AC9796"
+				item: "addurdisc:disc_tears"
+				type: "item"
+			}]
+			title: "&eTears"
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			description: ["Congratulations! You are now a proud owner of a Fortune Ancient Tome. Unfortunately, Fortune enchantment is disabled, so here's a choice of alternatives for you, so you don't feel so lost."]
+			id: "09B3F950C5CDC5FA"
+			invisible: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34D0EF5887297E7A"
+				table_id: 4650450379584613974L
+				type: "choice"
+			}]
+			subtitle: "Consolation Prize"
+			tasks: [{
+				id: "54C2040B04EC7792"
+				item: {
+					Count: 1
+					id: "quark:ancient_tome"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:fortune"
+							lvl: 3s
+						}]
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
 	]
 	title: "Adventure"
 }

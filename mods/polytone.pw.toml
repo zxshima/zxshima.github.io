@@ -14,4 +14,4 @@ project-id = 958094
 
 [option]
 optional = true
-description = "Adds effects like biome-dependant sky colors and more dense fog. Disable if you want better FPS!"
+description = "Adds effects like biome-dependant sky colors and more dense fog. Might affect performance, disable if you have problems!"

@@ -1,0 +1,13 @@
+name = "Corpse x Cosmetic Armor Reworked Compat"
+filename = "cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdb7766393892570a46769bc6c8f207686819e20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6238931
+project-id = 1208436

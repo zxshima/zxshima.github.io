@@ -5,6 +5,10 @@ file = "config/Crust/client_config_editor.toml"
 hash = "17b9f135a9dea0fabdaab5eb3d05c2a4894797eace0dd93c87abd44621b8b7e4"
 
 [[files]]
+file = "config/addurdisc-common.toml"
+hash = "d7e426ab1e4e19b1944e3d76df37735dc3c25cc4c64de9452c9f983df2040222"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "8c94dc654ac89e15d65d3123bc9d7eccf48807c9dd4f6f2b3623ee3332dfbe54"
 
@@ -69,6 +73,10 @@ file = "config/emi_ores-client.json"
 hash = "856df01bdd2e529fb6df5a6561bf82bd033295bbb3150f3f8158945587579e68"
 
 [[files]]
+file = "config/enchantmentblacklist-common.toml"
+hash = "deeb5d6aa24a5ac95687b2d3b8a65058d4f2945df207bbfdb4d1690e7e18fb32"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "f8a5dc23c76bb228dbbad11e540dfdf5a564ac68cfdb6f840e253977b3beb7e5"
 
@@ -90,7 +98,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "8f5dd6de75af74381a0f094c4ab0dba04249c775b8f280ab60b8456d784232c2"
+hash = "02484a09a37ecae7453c13a8a8df180ed61912a05fec96b5190c56c676dd2587"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -122,7 +130,7 @@ hash = "acc2b364337141fe75e6aab9048009dc3e905f1f3d52b31c75a1601e0c0e32e8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/adventure.snbt"
-hash = "ebdff568f54682447672c4380c2e817f630ae9021f4f5b855ac2c74fba753af7"
+hash = "c8c887158ab13e9d1b461ab152a8673e751cca39a62d38e295f5a7cb9e9c4a51"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/building.snbt"
@@ -130,11 +138,15 @@ hash = "e7392549042243c48d91134d04678819da74f592f06717e6711a9b8e0c072920"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/intro.snbt"
-hash = "303110d167c155736d88dac11221aa72b612458e6b70b6c7f291332520517ecb"
+hash = "81ece0f52b0d3558c7b1b68927b345772a1bad3f15e2bcd7de6bcf4dc7c81709"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "df96e2556f1d8d75ebd8807479243c716a2572a99eeae07a136dd0d115b7332b"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/ancient_tome.snbt"
+hash = "8d09dcf9eb3222221d39ef50153e8260ff09b24fb85ca702adc538e5de102313"
 
 [[files]]
 file = "config/geodes.properties"
@@ -1218,6 +1230,22 @@ hash = "3a1df5fdcf998bef144bdecf63232e307e6764a6892adef508597f164c12f1a2"
 
 [[files]]
 file = "config/openloader/resources/00_deer/pack.png"
+hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
+
+[[files]]
+file = "config/openloader/resources/01_parity/assets/minecraft/textures/entity/ghast/ghast.png"
+hash = "50bb277c7bd76b95501845b30d4245bd51c8169e86b819edf47627efe104bd4a"
+
+[[files]]
+file = "config/openloader/resources/01_parity/assets/minecraft/textures/entity/ghast/ghast_shooting.png"
+hash = "dc8e796a7df956f6cd559ec739c01c4c550776a297b18ba5162614ba7046ac56"
+
+[[files]]
+file = "config/openloader/resources/01_parity/pack.mcmeta"
+hash = "29cea44baa55644a6fb022306f048310d8a13e2aad1fe392ea67720bfa0a1410"
+
+[[files]]
+file = "config/openloader/resources/01_parity/pack.png"
 hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
 
 [[files]]
@@ -4406,7 +4434,7 @@ hash = "b9951edbf8ca218cc14f0a2f2d5410128e6c4c4037a6152cd8cbda0e17cc4b5e"
 
 [[files]]
 file = "kubejs/server_scripts/drops.js"
-hash = "a04779ae769338e62e00b8814ee3774a134fe8eed486b0a88611f8620345b1dd"
+hash = "b578b45214d30beae61e12c8b57c9a39184a683f3ee5bf16b55ddcba7915b949"
 
 [[files]]
 file = "kubejs/server_scripts/giveOnFirstJoin.js"
@@ -4414,7 +4442,7 @@ hash = "ba4e02a4b567fb94e7f0f338e6a6bd01f84c93f187db8260a2161f53bc8dbb55"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "9158776e8071f3c952772c12763f26c91d0c6aecb4394dd83786eddc0668563a"
+hash = "e7ef6a9af2644e221fbf8a1c1a6571ae54031b2ebe39cf2402c5702c08704ead"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -4448,6 +4476,11 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "da42d2a6e6e3f7bd10df625ab23d6ba8a50ecb3545c1c3c6bda4f826caa5d51b"
+metafile = true
+
+[[files]]
+file = "mods/addurdisc.pw.toml"
+hash = "77018671072fc535f77416a9606bdfd9a6772652c49f856157d4ac6918df731e"
 metafile = true
 
 [[files]]
@@ -4497,7 +4530,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "1b4f930f3b8f73ae2f6182f3f8bf5027d5a0c45e6743686019668ffcdea98e29"
+hash = "e193c2a81180c9c12f0a82b0eea5e92a8c4dacc58f5b5640e201ae2ce6946259"
 metafile = true
 
 [[files]]
@@ -4701,8 +4734,13 @@ hash = "97de09e03269bb98e10bd9d2a18e7dffff337fda987f72a5af81f547683f44be"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "1128b299817da38ad68c51b419f93914eedc6affcb5de3a1dd10b0c99aad2f78"
+metafile = true
+
+[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "c14d5968d01d05bc9e71fd1a8a6b7d80130ee11e6b60c30603941a26e824ae7c"
+hash = "165120409c5f62bd32c2f05126d7e9f49fb58f95a7db43616a749eddaa0b2e32"
 metafile = true
 
 [[files]]
@@ -4727,7 +4765,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "e673e00e449d905f73a346967f7957a4c6cb4d932d525749a8b36f56bf09c819"
+hash = "b6a72e03796007d5a6eabc4451753d0cb3fcd162c0c5da44be595ae22627f30e"
 metafile = true
 
 [[files]]
@@ -4747,7 +4785,7 @@ metafile = true
 
 [[files]]
 file = "mods/crust.pw.toml"
-hash = "2a5656d8f4cb4c2ec7dd152abaa6a2c1e123dea54e8019c3a556d4201178a6f8"
+hash = "e62e61a5a12f08fa355f489cfea44d3fcc680a5fc9877612b713e03c7076847f"
 metafile = true
 
 [[files]]
@@ -4782,7 +4820,7 @@ metafile = true
 
 [[files]]
 file = "mods/dolt-mod-how.pw.toml"
-hash = "85d75de403ed34106e5ef55c77247bf432b29ae0c036c6f321372ca5fa82fe4c"
+hash = "eaa68702576c628661192322770d2277022c3bc62023d9f294b989ca7fbbf122"
 metafile = true
 
 [[files]]
@@ -4831,6 +4869,10 @@ hash = "0428859074e9be199e700f0a9724fbe6541f081529198a74e719175b539c5051"
 metafile = true
 
 [[files]]
+file = "mods/enchantmentblacklist-1.0.jar"
+hash = "40aa77e8d6dd4a15dae95e1a9961d590f932579bb00934c7ba0dd7ce6b504465"
+
+[[files]]
 file = "mods/end-of-mending.pw.toml"
 hash = "0ac6e954b99a1a817ffdfead0239e07d3a91b78cc6fd6e74b185526869e7d107"
 metafile = true
@@ -4862,7 +4904,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a3a8b64a740899255e4589a25a72dbb1358b3eb9394fd674225482ad5fb0c045"
+hash = "426c885b514f3ae9ad6a556b9b8971cc036b3b2dcb44c2fbb7b4ebd4b106804c"
 metafile = true
 
 [[files]]
@@ -4872,12 +4914,12 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
-hash = "873094cefae0a272ca96597baa80e55b1abc2c7b54095f9c785f9875d7c34ef9"
+hash = "5dbe9196ead1e9fd7fda8391abe641acb0c4f4013bb30f1d9914a6735d2e8460"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "7247ef2c898e3a2f1d739037798abfdc6bfe0a875912ded63d9f24c64c04c924"
+hash = "f85e5629c40d4480668078ac0fcaf0e932a76668af2a950efa449f74219a8220"
 metafile = true
 
 [[files]]
@@ -4952,7 +4994,7 @@ metafile = true
 
 [[files]]
 file = "mods/gliders.pw.toml"
-hash = "272387bb8a10be25f81b04ec60bec1aff7925a2b9b232f7ed14050439bdc882e"
+hash = "d0f97810728b1c07977992ec5e3aa1fed8e57fb7a2003782f07850df19731a45"
 metafile = true
 
 [[files]]
@@ -5177,7 +5219,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "c6502d453daabfac075b7a7cda62df58946762b4dd67121366ce8954696b5001"
+hash = "d3ac6056e8862ab43975a15541d5ea9c534525f43268ee3b03d1f2ecd86ff215"
 metafile = true
 
 [[files]]
@@ -5232,7 +5274,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "376eea5010c470e359228a39e6cb3ebb14df3e40213e229de675c8bb202e907e"
+hash = "fd401b3379f52a017efb7c571acb1c105c789c06fe02113124ff485940cc1fa8"
 metafile = true
 
 [[files]]
@@ -5272,12 +5314,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "06a00a8a0312a60ad510745560c71d116e3930d490b216e1cc1c8b07da107b99"
+hash = "263f3b370b1ce216c9725a7dd9951e44049d17008f2b076bfdc16bdd80fee465"
 metafile = true
 
 [[files]]
 file = "mods/runiclib.pw.toml"
-hash = "f41e2164a6c1aa347211781d8e1c1ddea4a2b2dad617647c381198f8b7215e33"
+hash = "8843daee9a5c8cfd30f5f0e2062872e428fcca3c032ff9b8270b309b1a2cc83f"
 metafile = true
 
 [[files]]
@@ -5357,7 +5399,7 @@ metafile = true
 
 [[files]]
 file = "mods/special-mobs.pw.toml"
-hash = "5f82dfb42701d8714ae3996d148cae9ee9148a3a65b60624fa5d24a011d1ed07"
+hash = "45e42c552d71c3053184865178087fe8d65dc44d1ebf3e6b2792c3f686d885a1"
 metafile = true
 
 [[files]]
@@ -5372,7 +5414,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "2d7d0f7efe715a515fffe750123c064d94bebf85608f4fe8fa013bebc5463db9"
+hash = "8edc862074bbdf9651ecd6c9e35b5d05aba770ffe9cd2f0b873c7b01324662da"
 metafile = true
 
 [[files]]
@@ -5543,6 +5585,30 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
+
+[[files]]
+file = "music/assets/addurdisc/lang/en_us.json"
+hash = "61f612fda8b3fa0fbd43d542511078194023436aeb01b93df883e534f9790682"
+
+[[files]]
+file = "music/assets/addurdisc/models/item/disc_tears.json"
+hash = "7dba2a5b34064ddf69d70101f483c5ce4f3af23997cb143a6987f2de0bce7d22"
+
+[[files]]
+file = "music/assets/addurdisc/sounds.json"
+hash = "e760caa483314f0eb22b758aa6cf6ed3bc71d1f5101198988e6830c3cceda82e"
+
+[[files]]
+file = "music/assets/addurdisc/sounds/tears.ogg"
+hash = "98af0f3fa5ef204bd1c547ca39c64dbbc25c335ad2d4b1877f7c8bcf31fad468"
+
+[[files]]
+file = "music/assets/addurdisc/textures/item/disc_tears.png"
+hash = "df166cc2071c5faf3c8824dd02c040de048863d0af34d2d0af99ebeaa4262b9a"
+
+[[files]]
+file = "music/pack.mcmeta"
+hash = "c2aabef419ae03c19f6efc48ca8b0d9fb4ecfcac6e2eb5ad0d7794d65ab06228"
 
 [[files]]
 file = "options.txt"

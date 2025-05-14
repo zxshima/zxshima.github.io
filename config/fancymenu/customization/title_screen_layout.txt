@@ -33,7 +33,7 @@ layout_action_executable_blocks {
 
 element {
   interactable = true
-  source = Deerscape 0.7-pre2%n%Beta - everything may change!
+  source = Deerscape 0.7-pre6%n%Beta - everything may change!
   source_mode = direct
   shadow = true
   scale = 1.0

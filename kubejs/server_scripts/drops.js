@@ -20,3 +20,12 @@ LootJS.modifiers((event) => {
 LootJS.modifiers((event) => {
     event.addEntityLootModifier("minecraft:iron_golem").replaceLoot("minecraft:poppy", "biomesoplenty:rose", true)
 })
+
+LootJS.modifiers((event) => {
+    event
+    .addEntityLootModifier("specialmobs:ghast")
+    .matchDirectKiller((entity) => {
+        entity.anyType("fireball")
+    })
+    .addLoot("addurdisc:disc_tears")
+})

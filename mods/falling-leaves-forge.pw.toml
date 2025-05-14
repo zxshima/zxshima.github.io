@@ -14,4 +14,4 @@ project-id = 463155
 
 [option]
 optional = true
-description = "Disable if you don't want the falling leaves effect. Might help a little with FPS!"
+description = "Adds falling leaves effect to leaf blocks. Might affect performance a little."

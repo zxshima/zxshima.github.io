@@ -355,7 +355,7 @@
 		}
 		{
 			description: [
-				"Press &aShift+Right-Click&r on a tile (like a chest!) or a small mob/entity to carry them!"
+				"Press &aShift+Right-Click&r on an small entity (or tile entity, like a chest!) to carry them!"
 				"Then, &aRight-Click&r again to place."
 			]
 			id: "7972545E20BB1ABB"
@@ -454,6 +454,34 @@
 			}]
 			x: -4.5d
 			y: 1.5d
+		}
+		{
+			dependencies: ["7972545E20BB1ABB"]
+			description: [
+				"Metal chests (except copper) are heavy and can't just be picked up. You'll need a tool to work around this!"
+				"Controls are simpler, just &aRight-Click&r a chest."
+			]
+			hide_until_deps_complete: true
+			id: "4B18E2EA0083D50C"
+			rewards: [{
+				id: "375BBD645952EB82"
+				item: "kubejs:lava_chicken"
+				type: "item"
+			}]
+			subtitle: "Carry the Weight"
+			tasks: [{
+				id: "5BD2A2BF535002EC"
+				item: {
+					Count: 1
+					id: "ironchests:iron_dolly"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
 		}
 	]
 	title: "Intro"
