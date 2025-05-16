@@ -98,6 +98,8 @@ to make editing this file much easier.
 	   		"terramity:stone_tiles": "supplementaries:stone_tile",
 	   		"terramity:stone_tile_stairs": "supplementaries:stone_tile_stairs",
 	   		"terramity:stone_tile_slab": "supplementaries:stone_tile_slab",
-            "minecraft:emerald_ore": "minecraft:stone"
+            "minecraft:emerald_ore": "minecraft:stone",
+            "trials:polished_tuff": "quark:polished_tuff",
+            "trials:tuff_bricks": "quark:tuff_bricks"
 	   	}
 }

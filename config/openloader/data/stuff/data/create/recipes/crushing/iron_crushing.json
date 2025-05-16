@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:iron_unstackable"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+	{
+      "count": 1,
+      "item": "kubejs:iron_scrap"
+    }
+  ]
+}

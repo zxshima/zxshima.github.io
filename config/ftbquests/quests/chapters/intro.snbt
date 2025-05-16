@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "intro"
 	group: "66214D72CDB9B621"
+	icon: "kubejs:deer_cracker"
 	id: "0AFF0192450CCCD2"
 	images: [
 		{

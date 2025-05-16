@@ -3,6 +3,13 @@
 	default_quest_shape: ""
 	filename: "adventure"
 	group: "66214D72CDB9B621"
+	icon: {
+		Count: 1
+		id: "terramity:void_sword"
+		tag: {
+			Damage: 0
+		}
+	}
 	id: "4B6FEB048DFAEEF2"
 	order_index: 1
 	quest_links: [ ]
@@ -82,7 +89,7 @@
 				title: "Trial Chamber"
 				type: "structure"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: -0.5d
 		}
 		{
@@ -102,8 +109,8 @@
 				type: "item"
 			}]
 			title: "&eTears"
-			x: -3.5d
-			y: -2.0d
+			x: -1.5d
+			y: 1.5d
 		}
 		{
 			description: ["Congratulations! You are now a proud owner of a Fortune Ancient Tome. Unfortunately, Fortune enchantment is disabled, so here's a choice of alternatives for you, so you don't feel so lost."]
@@ -131,8 +138,8 @@
 				match_nbt: true
 				type: "item"
 			}]
-			x: -3.5d
-			y: 2.0d
+			x: -1.5d
+			y: -1.5d
 		}
 	]
 	title: "Adventure"

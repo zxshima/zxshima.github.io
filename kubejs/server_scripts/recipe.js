@@ -10,6 +10,21 @@ ServerEvents.recipes(event => {
     event.remove({id: 'minecraft:lead'})
     event.remove({id: 'minecraft:lodestone'})
     event.remove({id: 'constructionwand:diamond_wand'})
+    event.remove({id: 'ecologics:mushroom_stew_from_coconut_husk'})
+    event.remove({id: 'ecologics:beetroot_soup_from_coconut_husk'})
+    event.remove({id: 'ecologics:rabbit_stew_from_brown_mushroom_and_coconut_husk'})
+    event.remove({id: 'ecologics:rabbit_stew_from_red_mushroom_and_coconut_husk'})
+    event.remove({id: 'trials:polished_tuff_wall'})
+    event.remove({id: 'trials:polished_tuff_wall_1'})
+    event.remove({id: 'trials:chiseled_tuff'})
+    event.remove({id: 'trials:chiseled_tuff_bricks'})
+    event.remove({id: 'trials:chiseled_tuff_bricks_1'})
+    event.remove({id: 'trials:chiseled_tuff_bricks_2'})
+    event.remove({id: 'quark:building/crafting/stonevariants/chiseled_tuff_bricks'})
+    event.remove({id: 'minecraft:iron_nugget_from_smelting'})
+    event.remove({id: 'minecraft:iron_nugget_from_blasting'})
+    event.remove({id: 'minecraft:gold_nugget_from_smelting'})
+    event.remove({id: 'minecraft:gold_nugget_from_blasting'})
 
     event.remove({id: 'geodes:tuning/diamond_tuning'})
     event.remove({id: 'geodes:tuning/echo_tuning'})
@@ -23,6 +38,34 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'caverns_and_chasms:mossy_cobblestone_brick_slab' })
     event.remove({ output: 'caverns_and_chasms:mossy_cobblestone_brick_wall' })
     event.remove({ output: 'caverns_and_chasms:mossy_cobblestone_brick_stairs' })
+    event.remove({ output: 'caverns_and_chasms:tuff_stairs' })
+    event.remove({ output: 'caverns_and_chasms:tuff_slab' })
+    event.remove({ output: 'caverns_and_chasms:tuff_wall' })
+    event.remove({ output: 'caverns_and_chasms:polished_tuff' })
+    event.remove({ output: 'caverns_and_chasms:polished_tuff_stairs' })
+    event.remove({ output: 'caverns_and_chasms:polished_tuff_slab' })
+    event.remove({ output: 'trials:tuff_stairs' })
+    event.remove({ output: 'trials:tuff_slab' })
+    event.remove({ output: 'trials:tuff_wall' })
+    event.remove({ output: 'trials:polished_tuff' })
+    event.remove({ output: 'trials:polished_tuff_stairs' })
+    event.remove({ output: 'trials:polished_tuff_slab' })
+    event.remove({ output: 'trials:tuff_bricks' })
+    event.remove({ output: 'trials:tuff_brick_stairs' })
+    event.remove({ output: 'trials:tuff_brick_slab' })
+    event.remove({ output: 'trials:tuff_brick_wall' })
+    event.remove({ output: 'quark:tuff_pillar' })
+    event.remove({ output: 'twigs:tuff_stairs' })
+    event.remove({ output: 'twigs:tuff_slab' })
+    event.remove({ output: 'twigs:tuff_wall' })
+    event.remove({ output: 'twigs:polished_tuff' })
+    event.remove({ output: 'twigs:polished_tuff_stairs' })
+    event.remove({ output: 'twigs:polished_tuff_slab' })
+    event.remove({ output: 'twigs:polished_tuff_bricks' })
+    event.remove({ output: 'twigs:cracked_polished_tuff_bricks' })
+    event.remove({ output: 'twigs:polished_tuff_brick_stairs' })
+    event.remove({ output: 'twigs:polished_tuff_brick_slab' })
+    event.remove({ output: 'twigs:polished_tuff_brick_wall' })
     event.remove({ output: 'twigs:cobblestone_bricks' })
     event.remove({ output: 'twigs:cobblestone_brick_slab' })
     event.remove({ output: 'twigs:cobblestone_brick_wall' })
@@ -64,6 +107,30 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'geodes:diamond_crystal_block' })
     event.remove({ output: 'geodes:quartz_crystal_block' })
     event.remove({ output: 'geodes:emerald_crystal_block' })
+    event.remove({ output: 'caverns_and_chasms:copper_button' })
+    event.remove({ output: 'caverns_and_chasms:exposed_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:weathered_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:oxidized_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:waxed_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:waxed_exposed_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:waxed_weathered_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:waxed_oxidized_copper_button' })
+    event.remove({ output: 'caverns_and_chasms:tmt' })
+    event.remove({ output: 'caverns_and_chasms:waxed_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:exposed_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:weathered_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:oxidized_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:waxed_exposed_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:waxed_weathered_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:waxed_oxidized_lightning_rod' })
+    event.remove({ output: 'caverns_and_chasms:toolbox' })
+    event.remove({ output: 'caverns_and_chasms:exposed_toolbox' })
+    event.remove({ output: 'caverns_and_chasms:weathered_toolbox' })
+    event.remove({ output: 'caverns_and_chasms:oxidized_toolbox' })
+    event.remove({ output: 'caverns_and_chasms:waxed_toolbox' })
+    event.remove({ output: 'caverns_and_chasms:waxed_exposed_toolbox' })
+    event.remove({ output: 'caverns_and_chasms:waxed_weathered_toolbox' })
+    event.remove({ output: 'caverns_and_chasms:waxed_oxidized_toolbox' })
 
     event.shaped('minecraft:map', [
         'AAA',
@@ -195,6 +262,40 @@ ServerEvents.recipes(event => {
         B: 'quark:diamond_heart'
     }
     );
+    event.shaped('trials:polished_tuff_wall', [
+        'AAA',
+        'AAA',
+        '   '
+    ], 	{
+        A: 'quark:polished_tuff'
+    }
+    );
+    event.shaped('quark:chiseled_tuff_bricks', [
+        ' A ',
+        ' A ',
+        '   '
+    ], 	{
+        A: 'quark:polished_tuff_slab'
+    }
+    );
+    event.shaped('trials:chiseled_tuff_bricks', [
+        ' A ',
+        ' A ',
+        '   '
+    ], 	{
+        A: 'quark:tuff_bricks_slab'
+    }
+    );
+    event.shaped('trials:chiseled_tuff', [
+        ' A ',
+        ' A ',
+        '   '
+    ], 	{
+        A: 'quark:tuff_slab'
+    }
+    );
+    event.stonecutting('trials:polished_tuff_wall', 'quark:polished_tuff');
+    event.stonecutting('trials:chiseled_tuff_bricks', 'quark:polished_tuff');
     event.replaceInput(
         [{id: 'ironchests:iron_chest'}, {id: 'ironchests:iron_chest_upgrade'}, {id: 'ironchests:iron_barrel'}],
         'minecraft:iron_ingot',
@@ -211,4 +312,5 @@ ServerEvents.recipes(event => {
         'create:golden_sheet'
     );
     event.blasting('3x minecraft:iron_nugget', 'kubejs:iron_scrap');
+    event.blasting('3x minecraft:gold_nugget', 'kubejs:gold_scrap');
 })

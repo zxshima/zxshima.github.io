@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "building"
 	group: "66214D72CDB9B621"
+	icon: "sawmill:sawmill"
 	id: "3391707544E7BD37"
 	images: [
 		{
@@ -37,14 +38,6 @@
 			x: 0.0d
 			y: -1.25d
 		}
-		{
-			height: 2.0d
-			image: "twigs:block/deepslate_column"
-			rotation: 0.0d
-			width: 2.0d
-			x: 0.0d
-			y: 0.5d
-		}
 	]
 	order_index: 2
 	quest_links: [ ]
@@ -66,7 +59,7 @@
 				item: "sawmill:sawmill"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -1.25d
 			y: -1.5d
 		}
 		{
@@ -86,7 +79,7 @@
 				item: "minecraft:stonecutter"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -2.25d
 			y: -1.5d
 		}
 		{
@@ -220,7 +213,7 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
+			x: 1.25d
 			y: -1.5d
 		}
 		{
@@ -247,9 +240,10 @@
 						Potion: "friendsandfoes:reaching"
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
-			x: 2.5d
+			x: 2.25d
 			y: -1.5d
 		}
 		{

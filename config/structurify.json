@@ -17,6 +17,17 @@
       "biome_check_distance": 0,
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
+    },
+    {
+      "name": "species:paleontology_dig_site",
+      "is_disabled": false,
+      "enable_flatness_check": true,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
     }
   ],
   "structure_sets": [

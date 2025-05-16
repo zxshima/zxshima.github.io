@@ -29,3 +29,10 @@ LootJS.modifiers((event) => {
     })
     .addLoot("addurdisc:disc_tears")
 })
+
+LootJS.modifiers((event) => {
+    event
+    .addEntityLootModifier("specialmobs:zombifiedpiglin")
+    .removeLoot('minecraft:gold_ingot')
+    .removeLoot('minecraft:gold_nugget')
+})

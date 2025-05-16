@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "ecologics:coconut_husk"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "minecraft:bowl"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}
