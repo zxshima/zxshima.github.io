@@ -1094,7 +1094,7 @@ hash = "72dfd3816c3fbebdc4d8b227abdf6fea29b412f005236a59042d4a313e04cdf5"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/conjurer_illager/lang/en_us.json"
-hash = "3c38337fa4641e4f48c08f136ab773503039ac4de51248e237dc61e640022379"
+hash = "dcaf5f095f992d78dce3c554bb00e461196455f97c070c3099dacb6ff51743d6"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/create/lang/en_us.json"
