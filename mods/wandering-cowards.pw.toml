@@ -1,0 +1,13 @@
+name = "Wandering Cowards"
+filename = "Wandering_Cowards_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35bf68f4aa8cee960f0b63e16b62acc67e9e9875"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5169868
+project-id = 925231

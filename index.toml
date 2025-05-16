@@ -5,10 +5,6 @@ file = "config/Crust/client_config_editor.toml"
 hash = "17b9f135a9dea0fabdaab5eb3d05c2a4894797eace0dd93c87abd44621b8b7e4"
 
 [[files]]
-file = "config/SpecialMobs/slimes/_family_of_slimes.toml"
-hash = "4e5d6afda7b89df39af5dab1abf0647b0b62591e2d7555d8083e5e01cb77f5a1"
-
-[[files]]
 file = "config/addurdisc-common.toml"
 hash = "d7e426ab1e4e19b1944e3d76df37735dc3c25cc4c64de9452c9f983df2040222"
 
@@ -990,7 +986,7 @@ hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/ad_astra/lang/en_us.json"
-hash = "8ffa8810655b5badcb9d0a5b72ed58f5c48f7b5646a8797e0ad8c2d1ba9a61f0"
+hash = "0c4a9b6ed71da0e4800b59e9cdd870c290d43e0e768bca5360227f9dad1e7ec4"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/akashictome/textures/item/tome.png"
@@ -1098,7 +1094,7 @@ hash = "72dfd3816c3fbebdc4d8b227abdf6fea29b412f005236a59042d4a313e04cdf5"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/conjurer_illager/lang/en_us.json"
-hash = "bdb66af73faa50645ef50713b9bbf1a8ae81cfd050256ee4873f0ca58bd2d7a8"
+hash = "3c38337fa4641e4f48c08f136ab773503039ac4de51248e237dc61e640022379"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/create/lang/en_us.json"
@@ -5557,6 +5553,11 @@ metafile = true
 [[files]]
 file = "mods/villager-restock-balance-1.0.0.jar"
 hash = "ec08860128691c97c1dcf33b14477edc887be191088b084751ed239c43e528ab"
+
+[[files]]
+file = "mods/wandering-cowards.pw.toml"
+hash = "6e038005c245e7251e5dac5b3b5f5996717d65c782279fdc22a6a9a792286fe4"
+metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
