@@ -2,14 +2,14 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "forge:gold_crushable"
+      "tag": "forge:lead_crushable"
     }
   ],
   "processingTime": 100,
   "results": [
 	{
       "count": 1,
-      "item": "kubejs:gold_scrap"
+      "item": "kubejs:lead_scrap"
     }
   ]
 }

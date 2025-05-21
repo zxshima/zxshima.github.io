@@ -131,6 +131,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'caverns_and_chasms:waxed_exposed_toolbox' })
     event.remove({ output: 'caverns_and_chasms:waxed_weathered_toolbox' })
     event.remove({ output: 'caverns_and_chasms:waxed_oxidized_toolbox' })
+    event.remove({ output: 'oreganized:glance' })
 
     event.shaped('minecraft:map', [
         'AAA',
@@ -313,4 +314,8 @@ ServerEvents.recipes(event => {
     );
     event.blasting('3x minecraft:iron_nugget', 'kubejs:iron_scrap');
     event.blasting('3x minecraft:gold_nugget', 'kubejs:gold_scrap');
+    event.blasting('3x oreganized:lead_nugget', 'kubejs:lead_scrap');
+    event.smoking('kubejs:cooked_chevon', 'kubejs:chevon').xp(0.35);
+    event.campfireCooking('kubejs:cooked_chevon', 'kubejs:chevon', 0.35, 600);
+    event.smelting('kubejs:cooked_chevon', 'kubejs:chevon').xp(0.35);
 })

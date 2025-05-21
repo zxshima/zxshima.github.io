@@ -5,7 +5,7 @@
 	group: "66214D72CDB9B621"
 	icon: {
 		Count: 1
-		id: "terramity:void_sword"
+		id: "cataclysm:black_steel_sword"
 		tag: {
 			Damage: 0
 		}
@@ -139,6 +139,24 @@
 				type: "item"
 			}]
 			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "39F893E982946369"
+			tasks: [{
+				id: "790C6F1153A97191"
+				item: {
+					Count: 1
+					id: "quark:pathfinders_quill"
+					tag: {
+						targetBiome: "minecraft:snowy_plains"
+						targetBiomeColor: 8381695
+						targetBiomeUnderground: 0b
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
 			y: -1.5d
 		}
 	]

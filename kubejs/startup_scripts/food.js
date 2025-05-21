@@ -58,3 +58,19 @@ StartupEvents.registry('item', event => {
             .effect('minecraft:speed', 200, 1, 1.0)
         	})
 })
+
+StartupEvents.registry('item', event => {
+  event.create('chevon').food(food => {
+    food
+    .hunger(3)
+    .saturation(0.6)
+  })
+})
+
+StartupEvents.registry('item', event => {
+  event.create('cooked_chevon').food(food => {
+    food
+    .hunger(8)
+    .saturation(0.6)
+  })
+})

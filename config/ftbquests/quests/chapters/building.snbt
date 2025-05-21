@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "building"
 	group: "66214D72CDB9B621"
-	icon: "sawmill:sawmill"
+	icon: "minecraft:stonecutter"
 	id: "3391707544E7BD37"
 	images: [
 		{

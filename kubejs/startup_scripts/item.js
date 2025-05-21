@@ -5,3 +5,7 @@ StartupEvents.registry('item', event => {
 StartupEvents.registry('item', event => {
     event.create('gold_scrap')
 })
+
+StartupEvents.registry('item', event => {
+    event.create('lead_scrap')
+})

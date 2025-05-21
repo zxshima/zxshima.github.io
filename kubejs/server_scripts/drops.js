@@ -36,3 +36,17 @@ LootJS.modifiers((event) => {
     .removeLoot('minecraft:gold_ingot')
     .removeLoot('minecraft:gold_nugget')
 })
+
+
+
+LootJS.modifiers((event) => {
+    const cookedWhenAspect = LootEntry.of("kubejs:cooked_chevon").limitCount([1, 3]).applyLootingBonus([0, 1, 2, 3]).when((c) =>
+    c.matchMainHand(ItemFilter.hasEnchantment("minecraft:fire_aspect"))
+    );
+    const chevon = LootEntry.of('kubejs:chevon').limitCount([1, 3]).applyLootingBonus([0, 1, 2, 3])
+    event
+    .addEntityLootModifier("minecraft:goat")
+    .matchDamageSource((source) => source.isFire)
+    .removeLoot(Ingredient.all)
+    .addAlternativesLoot(cookedWhenAspect, chevon)
+})
