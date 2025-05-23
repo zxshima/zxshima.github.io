@@ -7,41 +7,60 @@
 	id: "0AE50BE9986D754B"
 	order_index: 3
 	quest_links: [ ]
-	quests: [{
-		description: [
-			"Metal Scrap is item obtainable from crushing some metal tools and armor in a Create using Crushing Wheel."
-			"It allows you to get some of the crafting cost back at a better rate than in vanilla game!"
-		]
-		id: "1705049183D3D27F"
-		rewards: [{
-			id: "66463159F7C58555"
-			item: "create:iron_sheet"
-			type: "item"
-		}]
-		subtitle: "Reduce, Reuse, Recycle"
-		tasks: [
-			{
-				id: "3A3937030A0EFCD5"
-				item: "kubejs:iron_scrap"
-				optional_task: true
+	quests: [
+		{
+			description: [
+				"Metal Scrap is item obtainable from crushing some metal tools and armor in a Create using Crushing Wheel."
+				"It allows you to get some of the crafting cost back at a better rate than in vanilla game!"
+			]
+			id: "1705049183D3D27F"
+			rewards: [{
+				id: "66463159F7C58555"
+				item: "create:iron_sheet"
 				type: "item"
-			}
-			{
-				id: "79D2491555723356"
-				item: "kubejs:gold_scrap"
-				optional_task: true
+			}]
+			subtitle: "Reduce, Reuse, Recycle"
+			tasks: [
+				{
+					id: "3A3937030A0EFCD5"
+					item: "kubejs:iron_scrap"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "79D2491555723356"
+					item: "kubejs:gold_scrap"
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "737AD4F191A601C3"
+					item: "kubejs:lead_scrap"
+					optional_task: true
+					type: "item"
+				}
+			]
+			title: "Metal Scrap"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"The Crafter has made its way back from future versions of Minecraft."
+				"As the name says, it lets you craft things automatically!"
+				""
+				"Click on slots in the UI to lock them, put the ingredients in remaining slots, supply it with a redstone signal, and watch it do the magic. It is there to co-exist with a similar Mechanical Crafter from Create, but only has 9 slots and no recipe locking."
+			]
+			id: "6EFD2EF5680D225A"
+			subtitle: "A Crafting Table!"
+			tasks: [{
+				id: "263B028EFC91A88E"
+				item: "quark:crafter"
 				type: "item"
-			}
-			{
-				id: "737AD4F191A601C3"
-				item: "kubejs:lead_scrap"
-				optional_task: true
-				type: "item"
-			}
-		]
-		title: "Metal Scrap"
-		x: -3.0d
-		y: -2.0d
-	}]
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+	]
 	title: "Craft"
 }

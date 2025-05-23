@@ -1,0 +1,6 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	LowerGrass
+	LowerSnow
+	LowerPodzol

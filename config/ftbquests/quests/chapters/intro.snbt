@@ -490,9 +490,9 @@
 				"Regardless, press &a, (comma)&r button on your keyboard to see the coordinates of your last death."
 				"Atlas stays with you on death, so follow the coordinates!"
 			]
-			hide_until_deps_complete: true
 			icon: "fantasyfurniture:decorations/gravestone"
 			id: "7A640F8AECFA9D21"
+			invisible: true
 			rewards: [{
 				id: "66959B5BE955F0E2"
 				item: "minecraft:bread"

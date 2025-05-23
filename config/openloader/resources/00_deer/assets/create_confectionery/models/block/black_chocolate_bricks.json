@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "create_confectionery:block/black_chocolate_bricks",
+    "up": "create_confectionery:block/black_chocolate_bricks",
+    "north": "create_confectionery:block/black_chocolate_bricks_side",
+    "east": "create_confectionery:block/black_chocolate_bricks_side",
+    "south": "create_confectionery:block/black_chocolate_bricks_side",
+    "west": "create_confectionery:block/black_chocolate_bricks_side",
+    "particle": "create_confectionery:block/black_chocolate_bricks"
+  },
+  "render_type": "solid"
+}

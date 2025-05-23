@@ -25,6 +25,12 @@ ServerEvents.recipes(event => {
     event.remove({id: 'minecraft:iron_nugget_from_blasting'})
     event.remove({id: 'minecraft:gold_nugget_from_smelting'})
     event.remove({id: 'minecraft:gold_nugget_from_blasting'})
+    event.remove({id: 'terramity:igneo_sword'})
+    event.remove({id: 'terramity:igneo_pick'})
+    event.remove({id: 'terramity:igneo_axe'})
+    event.remove({id: 'terramity:igneo_shovel'})
+    event.remove({id: 'terramity:igneo_hoe'})
+
 
     event.remove({id: 'geodes:tuning/diamond_tuning'})
     event.remove({id: 'geodes:tuning/echo_tuning'})
@@ -132,6 +138,16 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'caverns_and_chasms:waxed_weathered_toolbox' })
     event.remove({ output: 'caverns_and_chasms:waxed_oxidized_toolbox' })
     event.remove({ output: 'oreganized:glance' })
+    event.remove({ output: 'neapolitan:chocolate_block' })
+    event.remove({ output: 'neapolitan:chocolate_bricks' })
+    event.remove({ output: 'neapolitan:chocolate_brick_stairs' })
+    event.remove({ output: 'neapolitan:chocolate_brick_slab' })
+    event.remove({ output: 'neapolitan:chocolate_brick_wall' })
+    event.remove({ output: 'neapolitan:chiseled_chocolate_bricks' })
+    event.remove({ output: 'neapolitan:chocolate_tiles' })
+    event.remove({ output: 'neapolitan:chocolate_tile_stairs' })
+    event.remove({ output: 'neapolitan:chocolate_tile_slab' })
+    event.remove({ output: 'neapolitan:chocolate_tile_wall' })
 
     event.shaped('minecraft:map', [
         'AAA',
@@ -263,6 +279,11 @@ ServerEvents.recipes(event => {
         B: 'quark:diamond_heart'
     }
     );
+    event.replaceInput(
+        { input: '#quark:stone_tool_materials' },
+        '#quark:stone_tool_materials',
+        'minecraft:copper_ingot'
+    );
     event.shaped('trials:polished_tuff_wall', [
         'AAA',
         'AAA',
@@ -311,6 +332,11 @@ ServerEvents.recipes(event => {
         {not: { output: 'ironchests:lock' }, mod: 'ironchests'},
         'minecraft:gold_ingot',
         'create:golden_sheet'
+    );
+    event.replaceInput(
+        { input: 'neapolitan:chocolate_bar' },
+        'neapolitan:chocolate_bar',
+        'create:bar_of_chocolate'
     );
     event.blasting('3x minecraft:iron_nugget', 'kubejs:iron_scrap');
     event.blasting('3x minecraft:gold_nugget', 'kubejs:gold_scrap');

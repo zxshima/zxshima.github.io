@@ -18,7 +18,7 @@
     "damagemultiply": 1.5
   },
   {
-    "mob": ["rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:hunter_wolf","rottencreatures:immortal","rottencreatures:swampy","rottencreatures:undead_miner","rottencreatures:zap","specialmobs:bruteskeleton","specialmobs:brutewitherskeleton","specialmobs:brutedrowned","specialmobs:brutezombie","specialmobs:brutezombifiedpiglin","mowziesmobs:umvuthana_raptor","rottencreatures:dead_beard","specialmobs:giantzombie"],
+    "mob": ["rottencreatures:burned","rottencreatures:frostbitten","rottencreatures:glacial_hunter","rottencreatures:hunter_wolf","rottencreatures:immortal","rottencreatures:swampy","rottencreatures:undead_miner","rottencreatures:zap","specialmobs:bruteskeleton","specialmobs:brutewitherskeleton","specialmobs:brutedrowned","specialmobs:brutezombie","specialmobs:brutezombifiedpiglin","mowziesmobs:umvuthana_raptor","rottencreatures:dead_beard","specialmobs:giantzombie","specialmobs:hungryzombie","specialmobs:hungryspider","specialmobs:hungrydrowned"],
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",

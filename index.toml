@@ -22,7 +22,7 @@ hash = "a8065b90d300769be707470ef5001d884098621bc6a5f2d5bdcf16da62bbea31"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "5872c2a2cfb16c925019c970af9b07e2877dfad8e50056c20878f81edbd6cef7"
+hash = "e3d5a0414f4517752fc304b26694877ca1cdefecd02c28f0a149366f81506b5b"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -54,7 +54,7 @@ hash = "75cbbfd6992703571e5f01d886832c4ebec3d10f201b43d66f414514a5c94b17"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "5db9e213628018be83b688fc756f17aaaf1b50b9156a7e3ff21ed910a798bab7"
+hash = "b9285d241f5897436013fb1053842dd3a3d4b11da831e40347202389fc96696d"
 
 [[files]]
 file = "config/defaultoptions/extra/config/sodium-extra-options.json"
@@ -110,7 +110,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "648850cd97be13139407178493959c44eb6944b8f792c052eebdefb4e5568b7f"
+hash = "af67600869a892ddb14684cb078c597a32fdf1a3f72c7e7df6caf0b2f93aaf2e"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -142,7 +142,7 @@ hash = "acc2b364337141fe75e6aab9048009dc3e905f1f3d52b31c75a1601e0c0e32e8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/adventure.snbt"
-hash = "ee9700076cad050b4ae0a290f29bc1a84dd061941b77d6345616f1974e739765"
+hash = "c266dd7e2318071f5af112437dad1f9b622bd581abfa554abbf3e2f1266dd69f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/building.snbt"
@@ -150,11 +150,15 @@ hash = "5bce6d6e4884f08935be1d465c294a252357d9007474bbc604c61a9226a6236b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/craft.snbt"
-hash = "b6c067e6dbf255eb9c728733c0c76c8100b120d6e16587c303810a71af5abcc2"
+hash = "29e4b9d84479cc4e76d368ed9cdc872b90e9ae79f5a39e7fb86bf5550ab869ea"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/debug.snbt"
+hash = "e6d4bb39a1266fb6e8d2b6d180181ef83f055b0ba82aecdf064dbc5579f90730"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/intro.snbt"
-hash = "d4018a54a39e60037fde9fbd72f39f119de9059b5cac2f6ebb2f9a7f49df1ece"
+hash = "6489bd2ee6b02b34221aa4e5210ebbeaf1d7f40f7223e3b90690c34329538620"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -174,7 +178,7 @@ hash = "f2630f92b65a96d2c3a2c8f6e521a4d0b2a3051f918bfa1cebc761179ff9a69f"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "a22f4563d73060b88c4707c86f294eca8eca4756256c758188ccca82a9240c6d"
+hash = "194a6335797245837b169070792bb5ae3ad19508d0bfae85fd36ed192534ef43"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -186,7 +190,7 @@ hash = "858c6fe8da9cd7cbd2a6003b7972850b995f4debdd269c3b898db7b6155fef66"
 
 [[files]]
 file = "config/jei/blacklist.json"
-hash = "63d86048232b18a63bbde73d4aa2178c1b3c5640154fe665757a066ec67adc79"
+hash = "af5b64259168b238f4455c53ba9e4af48913063dbcf9b370a3fceb8b262188c0"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -849,22 +853,6 @@ file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/
 hash = "2ab6e7cd64ece358de32386faf9123603a6d600873c4eadb256234a7f41483f8"
 
 [[files]]
-file = "config/openloader/data/stuff/data/biomesoplenty/recipes/cutting/roses.json"
-hash = "e95e0fcac2d120f945909a9f8b5c40252daaf9cd74b88218d47c14500e1e68d4"
-
-[[files]]
-file = "config/openloader/data/stuff/data/create/recipes/crushing/gold_crushing.json"
-hash = "e5814709a4d330f940df1af46fa6ead1e52c6c1584166c010f6cdd0b211fe4ed"
-
-[[files]]
-file = "config/openloader/data/stuff/data/create/recipes/crushing/iron_crushing.json"
-hash = "9196fdfea0ac9e969108e54f46392fbed4dedb4038be2bb97bf8bbdc163982c3"
-
-[[files]]
-file = "config/openloader/data/stuff/data/create/recipes/crushing/lead_crushing.json"
-hash = "fc47228f043aaeb10ae2bb9242dbc3ca6f3e62caa7771eecd704abf6fa9d28ad"
-
-[[files]]
 file = "config/openloader/data/stuff/data/ecologics/recipes/cutting/coconut_husk_to_bowl.json"
 hash = "f3f11b39323f19fbabd00dc4b53f2765ff467866a01b004693a57997c467054a"
 
@@ -929,68 +917,92 @@ file = "config/openloader/data/stuff/data/minecraft/worldgen/processor_list/spru
 hash = "1f9f4881b42a5cb6e664b473694c43227b7c1356edbd55021d749888cae450dd"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/brimslag.json"
+file = "config/openloader/data/stuff/data/stuff/carryon/scripts/cat.json"
+hash = "d6562019ad4e39e564274e97a57b333893654c17fee5215b8eb13e455ed9141a"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/carryon/scripts/dog.json"
+hash = "804d05aeba39583cb60c43fc14becd3c2562733d30af12626ba7b889fa33c24c"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/brimslag.json"
 hash = "24471899577ae08ba8d55fa6563e88ff427d11b5e2d7443e57b456a8a313523b"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/daemonium_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/daemonium_ore.json"
 hash = "3e3b9403a70d832d697977dfb01604d40d508171e402669e171bafbd7d37990e"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_dimlite_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_dimlite_ore.json"
 hash = "f1cabf6ecd330f6e394a2348c83179e5e55778d0ea707c2ecb5dae15fcc9ff57"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_iridescent_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_iridescent_ore.json"
 hash = "281067e3626c4488c690c51f7e9963658361b2c3506650885222d0153cebf2e1"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_iridium_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_iridium_ore.json"
 hash = "4d8b9c9b38c926664c8b87c23d2c6d9fff1563f34d7a2d30a2e2fb996c570db7"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_sapphire_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_sapphire_ore.json"
 hash = "273967f6560dc96f568c5f3c5531842e3b4dd510d3a855950cebae9b167b7a24"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/deepslate_topaz_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_topaz_ore.json"
 hash = "95be3e42d987174ec98c7097b730bcad0ce44110a6bc8c024726b8a05b577a18"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/end_iridium_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/end_iridium_ore.json"
 hash = "8f903f7428295f05b49fce016e2126bc2da69c3454274f1eb80de30cff765774"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/end_onyx_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/end_onyx_ore.json"
 hash = "946335e4d86589807913a1e0a2cd46dbabd80997b460b195cfa79153b9e21c62"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/gaianite_cluster_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/gaianite_cluster_ore.json"
 hash = "5a21ab902818259219e51797d7e9c7deef0d59c9c31bb98091c0b41e814f01e8"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/igneo_ruby_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/gold_crushing.json"
+hash = "e5814709a4d330f940df1af46fa6ead1e52c6c1584166c010f6cdd0b211fe4ed"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/igneo_ruby_ore.json"
 hash = "4be74a987d427594b748a2df7c77c477601dd9ff65f65006f7403ac455c76b83"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/nether_iridium_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/iron_crushing.json"
+hash = "9196fdfea0ac9e969108e54f46392fbed4dedb4038be2bb97bf8bbdc163982c3"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/lead_crushing.json"
+hash = "fc47228f043aaeb10ae2bb9242dbc3ca6f3e62caa7771eecd704abf6fa9d28ad"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/nether_iridium_ore.json"
 hash = "0549dfe7cc1a19a369dd765154ee7622e3c5113ecfc617cb84cb15b8f126b3f3"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/nether_ruby_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/nether_ruby_ore.json"
 hash = "61fe91c030e06bcb467746d40a503e69520a0b421f50373658950791a5cd8d30"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/profane.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/profane.json"
 hash = "19686d7573738ce1a6a275be5c965020fbac67cfc8eef324dbe4dca1d65a293b"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/sapphire_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/sapphire_ore.json"
 hash = "178027decbbb6b7902e730df4b22739d9a429368a752c04606a0689ec14f531a"
 
 [[files]]
-file = "config/openloader/data/stuff/data/terramity/recipes/crushing/topaz_ore.json"
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/topaz_ore.json"
 hash = "98a5a46f04feb3825ecfcf531b1730c4589fda2470b58d1143d0353354e15cea"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/cutting/roses.json"
+hash = "e95e0fcac2d120f945909a9f8b5c40252daaf9cd74b88218d47c14500e1e68d4"
 
 [[files]]
 file = "config/openloader/data/stuff/pack.mcmeta"
@@ -1047,6 +1059,10 @@ hash = "e2f25d0687a00afe8215318e3828f18f3c4b6dc55e848cda73191b8be57a927d"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/block/dune_grass.png"
 hash = "720b8a49865f7d2f700a9a30317090cf8f1614790a034b96cb7a1aefe62d9a5d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/cataclysm/textures/item/black_steel_axe.png"
+hash = "0a004869179e3fe716bae4fcbb7333a93bcdba80bb39ecb72635e566c436bc05"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/compat_o_plenty/textures/block/redwood_bookshelf.png"
@@ -1113,8 +1129,344 @@ file = "config/openloader/resources/00_deer/assets/conjurer_illager/lang/en_us.j
 hash = "dcaf5f095f992d78dce3c554bb00e461196455f97c070c3099dacb6ff51743d6"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/constructionwand/lang/en_us.json"
+hash = "7d1322ab36016cfc36743c6e60f3f8b29b75bd6094a4eed23236373c70dfc9f5"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/constructionwand/textures/item/stone_wand.png"
+hash = "a8f4e758fc97c0006f8ddbfd53786e8c0a41ecdf9a90ffb186253929b6d3b976"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/create/lang/en_us.json"
 hash = "120f8e26cd50a2377e26f87615dd220ed40d476026724decc7c967035a16c302"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks.json"
+hash = "b428f82d171a4a6193a790809480301229a8410505c23912caa2e03b77242a83"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks_slab.json"
+hash = "1ea9c05dc80d8b95d41ec44cec547c590dc3ae9a1b4f4803cef563fa6fc40da6"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks_slab_full.json"
+hash = "155d73624cb1a9b0286e614fb18fbbf33f8c063377594e917a22d1c0cda49348"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks_slab_top.json"
+hash = "6b36735b46da4e194285abc07a9ac20252dee42e773f4fd10e373021e8408c11"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks_stairs.json"
+hash = "c39aa2a6f8c7f15dec03996a899e24603a22051586643fbb3cc40e05e6abb067"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks_stairs_inner.json"
+hash = "78acab7c3e2615817e4c386efd35baa72be0dd7d7314a2caa0669fa20ed935fd"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/black_chocolate_bricks_stairs_outer.json"
+hash = "7e14c19db0c4f9f60553bdc1d8c0cfad5f41654118b8c16e2c81f66c56ce34ac"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/caramel_bricks_slab.json"
+hash = "da57d52a2574d7a80c2fc5a997ae5ee5090a0ed84df43b430ed58569a35684a5"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/caramel_bricks_slab_full.json"
+hash = "c453919e02673f181161d1f40350167c2fb6844276a4ea83aad051c8f12a9b1f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/caramel_bricks_slab_top.json"
+hash = "fe55e2761372d91b613eff143707dcd2375c1516fb9ddc416bdef0db00d217d8"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/caramel_bricks_stairs.json"
+hash = "31b5e7f922177016898bdd3c1d38cbffb1d38e5a29e94a1e4d02b1c58e248060"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/caramel_bricks_stairs_inner.json"
+hash = "26db15f5ee7a2d2dbe063597fd22dfe8b5278e43b24fe2a6dbac5b9ee0d09c26"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/caramel_bricks_stairs_outer.json"
+hash = "b567c8aec7dd7710dd326145aab1b2f074a0de5c955ab451f1eab44c423d1693"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/chocolate_bricks_slab.json"
+hash = "ecc89db9bbdcf8d8ce2bb248894c33a0068b77628377d9a4855a0e3094c4e1a3"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/chocolate_bricks_slab_full.json"
+hash = "1a72c8754933029503b00e9395618d68d46536943ad05d2c039cee1cac912442"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/chocolate_bricks_slab_top.json"
+hash = "45c404ebb7efa24c7cf96bad0a63b5dd3982eb6276f9969185ea9672f90239b0"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/chocolate_bricks_stairs.json"
+hash = "ec35bff0f897ef4a53a4b3c863c46a50246135ca0e0af1bf2f1bbd3245cff97e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/chocolate_bricks_stairs_inner.json"
+hash = "9898f2a4f9f1931c5712079c61897a8807326adf21efac28c651aba7d8d1fced"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/chocolate_bricks_stairs_outer.json"
+hash = "4720c03bee72dbe849599f5f3b0ead073abc31b233e5af1d626e8137c86e8280"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_block.json"
+hash = "ac82dec63fa868db251c59ab1bb1e444a898bedcdfe2f61bd0ebb3a2e968d099"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_brick_slab.json"
+hash = "e2c17018b5c0882a450711b3839f8d26722354278017d61e7383dee018ccaa0f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_brick_slab_full.json"
+hash = "f9f16ae57f62451b9c559a4a60556e504a8fafe7a94420a577347ca677e577a9"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_brick_slab_top.json"
+hash = "c482aabae0cc51d1f21d6c7e20bd89a954ab0cc1745f5df18faec83d4cc53e94"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_brick_stairs.json"
+hash = "98071df882ab91c1d4a51df49f0c7a106ec8aadecd2f4a916f34e464aa12d76e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_brick_stairs_inner.json"
+hash = "91f16e15f13ed72150b936e6fd92950169b0c8d4d8b51054c67e67cc86552119"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_brick_stairs_outer.json"
+hash = "e6f54f5f805922a088155e119a6b167ef04907b947ee3aa395701d7c5bea465e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_slab.json"
+hash = "5ad1a102da70ed5418afcd0438c8ca790711817832175fb0192cfa28d8243dde"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_slab_full.json"
+hash = "9cbe0285132915f296e002b8b72638c6698218f376b571216b8ddba611c18f7b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_slab_top.json"
+hash = "e679473559dcdc825b6bf2af5e7bcee1f765a4d1d07868129de089bff70bc1b4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_stairs.json"
+hash = "8b6c7355721a480763fd9b4bbed063954094afe93b77c2301098086dd9dbbd85"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_stairs_inner.json"
+hash = "f77af7b5dafa3bb9df1cc8c9369ecf0e3578b61f4fce9197e197ff010c5c2c81"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbread_stairs_outer.json"
+hash = "3b79abe12eedfa8139e8564f15722fe98660d9aaae82995c383d27143e8c1f72"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/gingerbreak_bricks.json"
+hash = "3c60d2d1aa2627e1ac3586c93ad52c314befe6cb2e5ccd92b02962812618e151"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/ruby_chocolate_brick_slab.json"
+hash = "6495b6cfebcd2f22807eb6b341d78ad85f181a320256a421f5a5fb3936d59dcd"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/ruby_chocolate_brick_slab_full.json"
+hash = "643b144c62028226c515271fcc6cf1b9a1af377dcd21517f32df315ac3122f14"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/ruby_chocolate_brick_slab_top.json"
+hash = "70a33527930079fa93acd8663b14b77f36cc802756e8180ae624323d2bc5214d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/ruby_chocolate_brick_stairs.json"
+hash = "8f956d6c3b7743ff2e37b9b1ef378a487943f57e6496e804fcf7e073a9173e46"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/ruby_chocolate_brick_stairs_inner.json"
+hash = "efac530f508afe2ac5f909c903f029b4e44274fc9bd0537ff241965a73d3f09a"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/ruby_chocolate_brick_stairs_outer.json"
+hash = "2d9a2691a3cae53850269672cc6fc7d3d8ffe5cad6ac6c71825734e34d662565"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/white_chocolate_bricks_slab.json"
+hash = "9d335718a25ad6fc41187a75c2e6c864a2c1ea0bce17c816ddaf08bf08de0223"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/white_chocolate_bricks_slab_full.json"
+hash = "336a60265c940a838c832e246492f21be30968f48c56b90e185f533554bf992c"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/white_chocolate_bricks_slab_top.json"
+hash = "dc880beeba3246893cd3c39facaeda92c46bf21481ac1fc227005f1a082eba5c"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/white_chocolate_bricks_stairs.json"
+hash = "4751f077b0944727ccb23cb3bbeb5bb72c83341cc9ecb7f2f5dd892942c6fd4d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/white_chocolate_bricks_stairs_inner.json"
+hash = "de1b54ff0f8629d61c49849ff6e47ef22ce1c4e84774469203deab398536687b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/models/block/white_chocolate_bricks_stairs_outer.json"
+hash = "3f6c74ddcce5b6a525a0159fcf5696a8fd3ff4fab9028bc2b11fd09762f15136"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/black_chocolate_bricks.png"
+hash = "e6489cf8ee1be7d32e278fffb579bff762238c22d9a30a0063759dbb52fd4e5e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/black_chocolate_bricks_side.png"
+hash = "61d2d917972f252ca48cdcf8c96ecd52be6e1cf834caa1dec50d72a303b77794"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/black_chocolate_bricks_slab.png"
+hash = "11c5f7d6f8f07baed7c2ecf27dd79d4613e2d51ef31b766e0df8fc5f750e4bc6"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/black_chocolate_bricks_stairs.png"
+hash = "5d04c65f4701191406abc0004c7e5a62fe4b49928dd4e60579ae711bb04eb436"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/candy_cane_face.png"
+hash = "c01a60b57ade1cff493880ecd5035110e4c3e46bce0f07ed6ac595b18fd439cf"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/candy_cane_top.png"
+hash = "8c9c8ae1c2150513065c37267a0f07cf3e3dae20821d4d6336784e7a3e3bc62e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/caramel_bricks.png"
+hash = "85a0be5977b8303de36f42d9bad723e21202fe3b089eec3e0d065b84aea3ff7c"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/chocolate_bricks.png"
+hash = "5d814b7c2a7a3d7c24d7bf3b7d985b2ce7fdb4560d8ef2782d735c2a7d0ad4bc"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/chocolate_bricks_slab.png"
+hash = "7703c2c87929b666a76989e7b217e01af9306410fac26bfcfa12d6f779111ffc"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/chocolate_bricks_stairs.png"
+hash = "9c4461f3a35bca9dfa8b8a7d9032dc362554ee72d414b860bc1da09df0a5b297"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/gingerbread_block.png"
+hash = "dc6df35f4e70de194c902ce4cd03a31a07616a2e85cfd4770ce508f5851263bc"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/gingerbread_block_2.png"
+hash = "3090182033a895b420e49f8b8150f6938baf7e75e5d97e8ee8a9d005a316b038"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/gingerbread_bricks.png"
+hash = "1b1099618a979c433cc34782476dffb1849407a4a35d06c0b50f0e4bf65d9679"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/gingerbread_bricks_2.png"
+hash = "88fdd5cb8f8746a9005243659714bbb201ed6d608f94aa82074379b68cbbe14f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/ruby_chocolate_bricks.png"
+hash = "d4b250c1c786f0e455ad55b019909f34dd4ae80edae4a0599947200f215d44d5"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/ruby_chocolate_bricks_slab.png"
+hash = "ee51dfc2aad644bf83b03e4b6d21bc2798e39d480d59d3982c184e844b353b03"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/ruby_chocolate_bricks_stairs.png"
+hash = "a60fda4dea5063c5441cabc25b44a90e1316d6951b3d0e9ab465fead172252a4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/white_chocolate_bricks.png"
+hash = "2a55ddba0d669c3bcb9f614109f2cd7fe0feec4ba25df4f9b338741e75905b42"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/white_chocolate_bricks_slab.png"
+hash = "a9e8f98b1fb28cad5ea592467a8d1777d79d7a25e0b207ea2a87a2714c0b61f9"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/block/white_chocolate_bricks_stairs.png"
+hash = "62ac56c026962e0ee05823a4bf641f644364a5a39d084ca8cce05d726c9ce4d9"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/black_chocolate_candy.png"
+hash = "50645e632ed8ee389176c964337fee765f55f703682936bab63ad650f2b8ea84"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/black_chocolate_candy_1.png"
+hash = "5e56e4eb036fc5a82c762192d4e4b5dcb385abb83c6977068fb808364e6b96b1"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/black_chocolate_candy_2.png"
+hash = "318d29047beed387cf91a38727b3ec11df722bee8d5fb0221dabab001f4aeb42"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/black_chocolate_candy_3.png"
+hash = "15ffcfc5d8945e4d919d2282a1b22d225fa3ee2376af0302bc447fb2642f736c"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/chocolate_candy.png"
+hash = "1387827c7b3cdbed62b107ece530bf7a9bc73f4a44c5b89bdeedda382d528bf0"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/chocolate_candy_1.png"
+hash = "78ea8969e6ad7ad68545e00467df7ee9bc83b5ddca02e7a9aea2d7324ffb68ef"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/chocolate_candy_2.png"
+hash = "1be48a51ac62376dfc589866902a4ec1df103b567cb8d69103aa72a0954a5abe"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/chocolate_candy_3.png"
+hash = "717082af07b41926f35134525ffb051080bbc587255d77e6a949e890b573d5e8"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/honey_candy.png"
+hash = "3d58fcc7aeb6d180988dcd52003c1c62309d50c65913434f9ce7e00c5664d24d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/ruby_chocolate_candy.png"
+hash = "19147f309d3376232a0730b1b2da95a8c06df73955fbd26ab5234c541b68735e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/ruby_chocolate_candy_1.png"
+hash = "f0380102ec12946b4c5bc3819483d517ee9e36acdaf9dcd7828f09acb324c854"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/ruby_chocolate_candy_2.png"
+hash = "924e8d558c1489ec69f8a3572578a57f37b9dd52843d7229615f8125aaa74d00"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/ruby_chocolate_candy_3.png"
+hash = "0943377fe1a409c155656b65497f013941a5bedd6de1498e785a62484dd38897"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/white_chocolate_candy.png"
+hash = "7e252131b335b483169d1c6e9b4b2f041e05068ade5749209f9ca7a922170e6a"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/white_chocolate_candy_1.png"
+hash = "66f9ac942cf30cf2dd76261cc3f6d4cd812661f4fd98a5d0775358e5f34bdb09"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/white_chocolate_candy_2.png"
+hash = "c10e51a84eb3404d4a386d31269d95cef281ce77acfd9302c03867bf1e6fbc42"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/create_confectionery/textures/item/white_chocolate_candy_3.png"
+hash = "97ebd59d441e03f6e63f9d9d7e75d7415e340c6cb981cf7fcdac3c0110f440c9"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/decorative_blocks/textures/block/acacia_beam_end.png"
@@ -1197,6 +1549,42 @@ file = "config/openloader/resources/00_deer/assets/decorative_blocks/textures/bl
 hash = "9298572b22e8faa62d9c599a869c3066c22f20f517fd35d0a21df3441aa70155"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/dungeonsdelight/textures/item/hoss.png"
+hash = "6ab0d6cedee6a34645b8ccceec1b72efd1152f5077d578bdc924cafe97b3d410"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/models/block/easel.json"
+hash = "f9e0e5a62c53b9a229d789cf800163fdfff5ec1ecb196d0690b540462df928e7"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/models/block/easel_painting.json"
+hash = "4112be78fdeda41b7f10b50e53546998048ca995d42790c15f3fd7bf14838624"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/models/block/statue_bottom.json"
+hash = "2c63f183b7fe4be79daae209010ef7e997ded867769c191868fababa329ed959"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/models/block/statue_top.json"
+hash = "654aa619cc141bb47e89d04f841752ba17e83e64a13d8095e7ed039a3567b0e5"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/textures/block/easel.png"
+hash = "02ee439d3212ef81acb891454e16a4f19fe4bdc81bc4b900a3c4439df2240640"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/textures/block/easel_painting.png"
+hash = "1ce67307a093a3adb60b0dfb94fd18f9ac752fcdfff5f12d3385a691b522ad79"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/textures/block/statue_bottom.png"
+hash = "b7d58a4b8347b612ae969d356e160a076e0f6237581830f593ec3ebe06b54a51"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/easel_does_it/textures/block/statue_top.png"
+hash = "624e836d0c06e1329cad7456b92591d2a16a8be7d0eb3f86c1d5308136ecc2cf"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/endrem/lang/en_us.json"
 hash = "e0d592ba5881cb009ba846c065694e7114ed66378aff0fc0cc59afca15563e49"
 
@@ -1245,12 +1633,48 @@ file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/lead_scr
 hash = "add1447371209ffdbc50e15a82cb59ef1226dc3cd360c0781aad8d881b41e468"
 
 [[files]]
-file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/icons.png"
-hash = "3c3c4a6b0ed9f655ae226aa38d5fa9edc6be91233e5b5b6b3384133e0e5366d9"
+file = "config/openloader/resources/00_deer/assets/minecraft/lang/en_us.json"
+hash = "47d17fa54b4744dd77effd256956e1c1215751e87551378c5e5d76e10f6fc351"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets-number-alt.png"
+hash = "b293adf266163ec6723f4900b3382a15b67efdd5393a7d386c8b5b580b42e11b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets-number-live-bottom.png"
+hash = "4e197d7ff7c640ba79c1c7a6b87ace80a3eaadb98376ad04bbd7e4b121406df5"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets-number-live.png"
+hash = "812ca6162121d8cef16f2954307768db0208845196d595edab97db83d7daa418"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets-number-none.png"
+hash = "b381f89a9f822de23d489dde590d26b7030807e114cded9bb45d79aa0c366aa6"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets.png"
 hash = "812ca6162121d8cef16f2954307768db0208845196d595edab97db83d7daa418"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/stone_axe.png"
+hash = "353b4a289587beea0aeed10a4aac1668e62b96801ee926bd82dd3db6654c794d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/stone_hoe.png"
+hash = "9cead2004cfc15063e653937e02afaa16800321a55fdb5e3c81737c385c6ab4f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/stone_pickaxe.png"
+hash = "cbd2a20d1c7d822c2f1a81dae7292656317c1fc2b5e1600396efa5baf528d642"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/stone_shovel.png"
+hash = "900441522137a878cb9c726d05c93f27da9922ab707b3737a463f781ca4c173a"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/stone_sword.png"
+hash = "9d9e16c66c34e89c9acbc6d7a69c703385d35ab69612a3436206f2eeb21e5850"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -1261,12 +1685,148 @@ file = "config/openloader/resources/00_deer/assets/quark/lang/en_us.json"
 hash = "17803bfdd2f165a457e274caa490762e4fac27939d8bd0ec63a8a43f5cfee50f"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/sherdsapi/textures/entity/decorated_pot/api.png"
+hash = "b670ddd076d5e606cef3e013d9bb2027a6bc20c7aa96c9ebc733f7a68c1b04cc"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/supplementaries/lang/en_us.json"
 hash = "ef43294079e32bf7c3fea43200ff03024ab114364dc114299dbbee3019d119ee"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/advanced_burst_rifle.geo.json"
+hash = "7fb91bf2c8f85966c264873278dcd0970edcb37e6a46daccd41827907a6f0809"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/antimatter_rifle.geo.json"
+hash = "5e8c7f45ce04f8b827440f7bc47ae566293c583558113dc36087c0b61e2b2533"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/asphodel.geo.json"
+hash = "2b5b7abc7b96fc545ce24f44ff67748b8ddbca800b30925e102e5d1f959cfe2b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/big_iron.geo.json"
+hash = "6306e9f8bfc5331b660b9eebc1c9aa09017b2fa0b31908d96eb5e482d4b84d47"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/gob.geo.json"
+hash = "0cd0567d527d73f49a1710ed18e6ba7b8967c27e9dd17b218290f6b33a2c6a5a"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/handcannon.geo.json"
+hash = "68d5a89e4c63852d53448086f620a4d91477a4eaa4dc5c4c7b3d0fc3d87a3f5a"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/sawed_off_shotgun.geo.json"
+hash = "49739d948c3caded22a974d2a120558bea836b8befe42161ac1aac406b8d0006"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/geo/stairway_to_heaven.geo.json"
+hash = "1a527529eb3906376ad8361f63458045c472ed879a92dec5a6096d10a43f1e75"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/terramity/lang/en_us.json"
 hash = "86826f594f4404920eaafd80fcf6779d8742a0e85624da429008c1790e1e2d55"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/custom/duskrok_greatsword.json"
+hash = "c4490dc546ce656c668340f2e2500bd1d5ca0f194c38c49f2e2d204e1efd1f6e"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/custom/gobs_claymore.json"
+hash = "4f93b3a0dcc35053e51bdf07e87babbc0e0e7f36ad5ee53732d9f1dd88d5e639"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/custom/hellrokgigatonhammer.json"
+hash = "f001959a068e6042d574eaeae3f65eaaa7e77b30464aa2e7d09e4484f12039fb"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/advanced_burst_rifle.item.json"
+hash = "bf9c85f7acaff42c32c02cc3ed284b934899cf89fb46f447f51472fcaf148531"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/antimatter_rifle.item.json"
+hash = "6c0f692aea15b0a8b29765c0ff7df2be2fda53dd61737f242793525eb554d82b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/asphodel.item.json"
+hash = "0f308e53a2820996e190fe48cd5060005f19351a0a7581c33e1f23f909ba1592"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/big_iron.item.json"
+hash = "16adf64bd70433416c56fc9b139db7a4ea6a459038c57f0ad1e9e5c7b71dd9de"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/handcannon.item.json"
+hash = "70b936f629c5982a657e3f8bc550dd3715d2f6fd3a587b00360fe777ba780d5f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/sawed_off_shotgun.item.json"
+hash = "890a4b480b202d409bf03c604acc87abac72771b39bddbe3744271f9e0ce1664"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/models/displaysettings/stairway_to_heaven.item.json"
+hash = "d39236070984ff2724b45b9f71b489f443d9553fd22e96d305048e6beddb51b1"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/block/duskrok_greatsword.png"
+hash = "66fc654488e4650d11de8a02d9f480ec1d544b57ebfba42555affee13f31edae"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/block/gob.png"
+hash = "f31dd1e6da5834d5806e24ee3cd97cf2ea27d7c59604ab91092e1c068c6e9b47"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/block/hellrok_gigaton_hammer.png"
+hash = "196942c95037374e784c831b51e204120a9b51b8d68112cc1d46365c090873e4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/block/wood.png"
+hash = "a3387157bbf9f1e974864657d8d60ec0645f405f34989d2904eb37684ede105f"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/advanced_burst_rifle.png"
+hash = "2169a657104e8d91df34e5be877fe67f91255069e0872088dcfd9b5d6c0a5fb8"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/antimatter_rifle.png"
+hash = "0cc9b3ee496a811c3ca7133f1f24d88aebb32b184f84e90444c40e75afb22f9d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/asphodel.png"
+hash = "91810c9968eac027f20b9b087b29ff42c34408e6dcf14af447e5cac361f4ad28"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/big_iron.png"
+hash = "e32cc1dad3d09b598e502f9c0d4bdd2dfc05d2bfbd9cb5d2cc1df95f5de1956d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/cannonfull.png"
+hash = "57ca3cd3911225f3ecafd16a1ba38d7544bcd3577d152baa67500f82b510e7ec"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/duskrok_greatsword.png"
+hash = "66fc654488e4650d11de8a02d9f480ec1d544b57ebfba42555affee13f31edae"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/gob.png"
+hash = "f31dd1e6da5834d5806e24ee3cd97cf2ea27d7c59604ab91092e1c068c6e9b47"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/hellrok_gigaton_hammer.png"
+hash = "196942c95037374e784c831b51e204120a9b51b8d68112cc1d46365c090873e4"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/hellspec_super_shotgun.png"
+hash = "54c2f56f00677b15906b73627e4eb9471a39b5133409dc02c984721229839f05"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/sawed_off_shotgun.png"
+hash = "6396c2b1a36ff4e215691fc46275592bef82b2a3b5f32655df187955ec504b63"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/terramity/textures/item/stairway_to_heaven.png"
+hash = "591f7f4d6b22d375cd9a4ee09f123d57caed279ee688377bcbd5cb8df2e68dfc"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/trials/lang/en_us.json"
@@ -4401,27 +4961,207 @@ file = "config/openloader/resources/Soft-Weather/pack.png"
 hash = "91c314b8bdd96b3d46f6ce9ccdaa9a5ce8f1ed66f251d179bd495b76b6005d29"
 
 [[files]]
-file = "config/openloader/resources/VanillaTweaks_r433437_MC1.19.x/Selected Packs.txt"
-hash = "9a07168bc2b03235145be48b019bb5fcea033a02a117f0504c6385d99b8548fe"
+file = "config/openloader/resources/VanillaTweaks119/Selected Packs.txt"
+hash = "d7166d376cf1fe388253a91a26af4b3effd6344ccc8b6da42c232929852a31ac"
 
 [[files]]
-file = "config/openloader/resources/VanillaTweaks_r433437_MC1.19.x/assets/minecraft/textures/block/grass_block_side_overlay.png"
+file = "config/openloader/resources/VanillaTweaks119/assets/minecraft/textures/block/grass_block_side_overlay.png"
 hash = "148e2376e330a642bf828cac7da6689e1e93e9c41f689c0fec456797ce3c9b39"
 
 [[files]]
-file = "config/openloader/resources/VanillaTweaks_r433437_MC1.19.x/assets/minecraft/textures/block/grass_block_snow.png"
+file = "config/openloader/resources/VanillaTweaks119/assets/minecraft/textures/block/grass_block_snow.png"
 hash = "348067a854b26661794f6dcb8e9c7ad8a8d32e5a6dc64da38255261b5595ac0a"
 
 [[files]]
-file = "config/openloader/resources/VanillaTweaks_r433437_MC1.19.x/assets/minecraft/textures/block/podzol_side.png"
+file = "config/openloader/resources/VanillaTweaks119/assets/minecraft/textures/block/podzol_side.png"
 hash = "96e6a302300fb6de254538dfd6fc5d65e1cbaf12a5f97195f446fe9f26ead283"
 
 [[files]]
-file = "config/openloader/resources/VanillaTweaks_r433437_MC1.19.x/pack.mcmeta"
+file = "config/openloader/resources/VanillaTweaks119/pack.mcmeta"
 hash = "df26be3d405da5b56edb028ec4210d627ba68817aae3008b3232906423bf4ac6"
 
 [[files]]
-file = "config/openloader/resources/VanillaTweaks_r433437_MC1.19.x/pack.png"
+file = "config/openloader/resources/VanillaTweaks119/pack.png"
+hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/Selected Packs.txt"
+hash = "5ba63add25863cb1b832f907ebd0ee8d8c1804bf5b01075e6b863b2fe7f3bcfa"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/models/block/piston_head.json"
+hash = "9b0cf420c9346fb1c87eae23c4c956026bddca4de58b5c21c75f8c1b872bfea5"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/models/block/piston_head_sticky.json"
+hash = "5d3b6caf3eb04e30f1b04fd640f55be103126ebeecbccedfb8b089ba9423cd11"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/models/item/slime_ball.json"
+hash = "580b141e7bf99715be6340bf217e491224eb472af22fdee991ed19dd202be838"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/shaders/core/position.fsh"
+hash = "fdc15237dbbce2611bc55b72d95824358d98a616b26a289c21deb6888c9518bf"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/shaders/core/position.json"
+hash = "3112dbb0f0e142da2a26948d8e833622f7df869b1bcae1f440525810e8cafd78"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/shaders/core/position.vsh"
+hash = "f4e0ec84586d4d67821d615bd2705740efd4d4f4aaa47096d54df09eeba71498"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/shaders/core/position_tex_color_normal.fsh"
+hash = "2e04f4c32ad2c9153488681184f2b6e0d71e05a5ed574d92458bf98c275e065f"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/shaders/core/position_tex_color_normal.json"
+hash = "b92a86d3de360b4d4d913044028c5112268ec86ea24bd1ce3207d5328823b897"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/shaders/core/position_tex_color_normal.vsh"
+hash = "225e288c2b241611dad4701c8ef2abac49790639275881f9124e472a1292b776"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/block/oak_log.png"
+hash = "09e4991749a53da42072b64d37f87471ee734d69a1d7ddafdd77063da5c48272"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/block/piston_arm.png"
+hash = "ceee22195fa99279b4ce6028e4feab9940175261cd537bbe5b3967b9fb39ed7b"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/block/piston_inner.png"
+hash = "af9eac99a067dcc7675ab15efe5c5b3cd1a78217f287f1653814ae033a8d1c72"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/colormap/grass.png"
+hash = "3211a14903adf82f0199d986666afab54a208248a7220110f99fbf1237ca72ff"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/entity/blaze.png"
+hash = "153bbc1df6bb4e00c13747440dc95f60bf1c3420d52710d736cdf8c9dda1888e"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/gui/icons.png"
+hash = "d6818351d8d26d690393543b92a5493e5c1d057be7ab67d6a021fc22c958e64f"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/diamond_helmet.png"
+hash = "64c94e5cb8bdd071694f26e5ab7d37c2c023dc1d14898be7cb52deaa7059d168"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/golden_helmet.png"
+hash = "4632e73f13771d514bd3db37f70236681164d5a106a49c6545f51629cca673ac"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/iron_helmet.png"
+hash = "c2e450c6b0b26ceaedfdc09f23f07a8ac4cfb2262aaadd27e6fc72a6dd9e3cad"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_full.png"
+hash = "c978518b8351f2a8d8b07d91348c240316f14eecea55d4fa447a547865ff43cb"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_full_blinking.png"
+hash = "e15c9201c466370b801c021bc6b281d28574da667d9fbb86f0bcdd69e08333ac"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_half.png"
+hash = "d23423917dec138bf998c0cf3293d30ec04615b88abdffde939d6ab7c005ffc3"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_half_blinking.png"
+hash = "d4a889f1f55bb86e2e1e6d3abb3e6880a7852ba64ea8a8b7f6f509bcf61808eb"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_full.png"
+hash = "e034009f4a49941bbbe9d0784adca81d86d76fb5a4cb4bf6cfcf75e65e2b105b"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_full_blinking.png"
+hash = "bda2b6a8ec146d1b0d3c17facce8efb12d7bb339db6dbcc2b07236e2133dcd4c"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_half.png"
+hash = "00930246e0140dad8d4801eab377388f350d3617d9733a36ca5a09dc8b8aecf7"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_hardcore_half_blinking.png"
+hash = "f0c7af8ae0ef63c21dead6cf6af290abff35d68b572025214b66abae0a85a5e5"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/icon/ping_1.png"
+hash = "75d3c6c0a2440a765e2059364d0bbb81b201880448249a138a76e29df368efd3"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/icon/ping_2.png"
+hash = "ad4acc1aec3c6479e536c78238006b031af9f866d960e54aeb3c12a00f481818"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/icon/ping_3.png"
+hash = "c1bf7847380b0e5b09d35277a55d1b1640c7eeea99d0ece701f262956263764d"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/icon/ping_4.png"
+hash = "61152a99dbad6ca70f19cdae3ff378948712879c8eec04abe8964a45f29330e7"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/icon/ping_5.png"
+hash = "621d32e4282974ecc0161047f727563d31e7a90bfbcba41751384088ddb0e64d"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/server_list/ping_1.png"
+hash = "75d3c6c0a2440a765e2059364d0bbb81b201880448249a138a76e29df368efd3"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/server_list/ping_2.png"
+hash = "ad4acc1aec3c6479e536c78238006b031af9f866d960e54aeb3c12a00f481818"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/server_list/ping_3.png"
+hash = "c1bf7847380b0e5b09d35277a55d1b1640c7eeea99d0ece701f262956263764d"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/server_list/ping_4.png"
+hash = "61152a99dbad6ca70f19cdae3ff378948712879c8eec04abe8964a45f29330e7"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/server_list/ping_5.png"
+hash = "621d32e4282974ecc0161047f727563d31e7a90bfbcba41751384088ddb0e64d"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_32/assets/minecraft/shaders/core/position.fsh"
+hash = "fdc15237dbbce2611bc55b72d95824358d98a616b26a289c21deb6888c9518bf"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_32/assets/minecraft/shaders/core/position.json"
+hash = "3112dbb0f0e142da2a26948d8e833622f7df869b1bcae1f440525810e8cafd78"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_32/assets/minecraft/shaders/core/position.vsh"
+hash = "24f8175669e11cde6ede607a4f624049ab5643280cf748bc993ef6cb3f2deaf9"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_32/assets/minecraft/shaders/core/rendertype_clouds.fsh"
+hash = "d53a2ca3fc926863acd8b712ccb9f1e54f2ebc9063ea22b9fbf694557fad02c4"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_32/assets/minecraft/shaders/core/rendertype_clouds.json"
+hash = "aa4c6c42830a3984ad59799f29876d2a1c366946363930c4c779d0c32d55e87f"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/overlay_32/assets/minecraft/shaders/core/rendertype_clouds.vsh"
+hash = "465841c41a2ae5560e7c862abe0e6ff8b128459c8f8f150cc989d8536b327d3d"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/pack.mcmeta"
+hash = "a12ff61dcc68059fbcb6be47722f8b96be34b91248fbd3caa04bd6e9c58d0f03"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/pack.png"
 hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
@@ -4447,6 +5187,10 @@ hash = "06265b1eccbc82783856625b8641b30fccc06306e3fce5c9b863f125455e30bf"
 [[files]]
 file = "config/personality-client.toml"
 hash = "253427324a027ed91094af07e3329b8849cfe60ac1cf4ff11293c5c015ddf5de"
+
+[[files]]
+file = "config/propertymodifier-common.toml"
+hash = "379e207c5fa4e15e1da662abf4b418ae1444c365af46403b7cfaea3c2077c890"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -4502,11 +5246,15 @@ hash = "ba4e02a4b567fb94e7f0f338e6a6bd01f84c93f187db8260a2161f53bc8dbb55"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "292fa050ac0da6935024341d4ebb3d9b797b77bc6d440e910a9937258c8a3495"
+hash = "97d6f6a21d370846753d15c819fb83d8fb9f6911e35221209547951bd092eab5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "8c5d051aa229fc6d78b98929156f43a901b0e16b68fd11cee00ca785b4a6f809"
+hash = "1cc93751a4888547373fb54f1bdde5be933947ad0e437d7fabce5552888290b0"
+
+[[files]]
+file = "kubejs/startup_scripts/block.js"
+hash = "34c0878af5428ab46b884f7e60f9d73a1a1f7ebc372bba0c9a737405d5caadea"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
@@ -4519,10 +5267,6 @@ hash = "834cc78ca2ec32ffd346df181de235c5f60c94166e27405eae8ef08deddeeb62"
 [[files]]
 file = "kubejs/startup_scripts/other.js"
 hash = "32c01c2a26e0c73261c4ca6848aa6c511a0029cc5fa8677bc42366f6c7597f5a"
-
-[[files]]
-file = "kubejs/startup_scripts/tool.js"
-hash = "3e6148281f1eaed2c734e066ddeaa7fb06b01303c49f87e5cbe9a689a09b6390"
 
 [[files]]
 file = "mods/Oreganized-1.20.1-3.1.4-logfix.jar"
@@ -4900,7 +5644,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeonsdelight.pw.toml"
-hash = "a91cc1e466ad13059e682de113b241e4bc12ee78885e0763e1ed4b47f92a11f1"
+hash = "02adec035ce82bd5fb371af0322ce2644e03d38d5f04842ee695340544e39a6b"
 metafile = true
 
 [[files]]
@@ -5293,11 +6037,6 @@ hash = "4c0251ac6bb2f84ae540ddd3c5619fa1d126ca6f55679ed898a1cdf0f5932135"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "d3ac6056e8862ab43975a15541d5ea9c534525f43268ee3b03d1f2ecd86ff215"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "f1a2d3a570a6ce0722f0136b4b57371fc067ad7f329e1df9cd3cd765619ac759"
 metafile = true
@@ -5559,7 +6298,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "d2274c23ca703a4b4ef064772ee243dc13080cd3b6a7e1022c223af2a8135db0"
+hash = "2e03e311c5acce97bea07bc986fb3bc0653335fee34eea20c12dfc3614baa72c"
 metafile = true
 
 [[files]]

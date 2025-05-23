@@ -1,6 +1,4 @@
 ServerEvents.tags('item', event => {
-	event.get('minecraft:stone_tool_materials')
-		.add('terramity:igneostone')
 	event.get('aileron:elytra')
 		.add('cataclysm:ignitium_elytra_chestplate')
     event.get('c:ores')
@@ -80,4 +78,15 @@ ServerEvents.tags('item', event => {
 		.add('kubejs:chevon')
 	event.get('brewinandchewin:raw_meats')
 		.add('kubejs:chevon')
+	event.get('forge:copper_tools')
+		.add('minecraft:stone_sword')
+		.add('minecraft:stone_axe')
+		.add('minecraft:stone_shovel')
+		.add('minecraft:stone_hoe')
+		.add('minecraft:stone_pickaxe')
+})
+
+ServerEvents.tags('block', event => {
+	event.remove('minecraft:needs_stone_tool', 'minecraft:copper_ore')
+	event.remove('minecraft:needs_stone_tool', 'minecraft:deepslate_copper_ore')
 })

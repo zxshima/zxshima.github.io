@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "create_confectionery:block/white_chocolate_bricks",
+    "bottom": "create_confectionery:block/white_chocolate_bricks",
+    "top": "create_confectionery:block/white_chocolate_bricks",
+    "side": "create_confectionery:block/white_chocolate_bricks_slab"
+  },
+  "render_type": "solid"
+}

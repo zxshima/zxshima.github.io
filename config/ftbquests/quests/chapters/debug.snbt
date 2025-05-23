@@ -1,0 +1,12 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "debug"
+	group: "66214D72CDB9B621"
+	id: "6B589B6D759AA695"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Debug"
+}
