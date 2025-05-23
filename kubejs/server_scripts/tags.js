@@ -84,6 +84,7 @@ ServerEvents.tags('item', event => {
 		.add('minecraft:stone_shovel')
 		.add('minecraft:stone_hoe')
 		.add('minecraft:stone_pickaxe')
+		.add('constructionwand:stone_wand')
 })
 
 ServerEvents.tags('block', event => {

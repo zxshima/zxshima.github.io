@@ -216,6 +216,7 @@ caverns_and_chasms:waxed_toolbox
 caverns_and_chasms:waxed_exposed_toolbox
 caverns_and_chasms:waxed_weathered_toolbox
 caverns_and_chasms:waxed_oxidized_toolbox
+neapolitan:chocolate_bar
 neapolitan:chocolate_block
 neapolitan:chocolate_bricks
 neapolitan:chocolate_brick_stairs
@@ -226,3 +227,4 @@ neapolitan:chocolate_tiles
 neapolitan:chocolate_tile_stairs
 neapolitan:chocolate_tile_slab
 neapolitan:chocolate_tile_wall
+caverns_and_chasms:copper_nugget

@@ -190,7 +190,7 @@ hash = "858c6fe8da9cd7cbd2a6003b7972850b995f4debdd269c3b898db7b6155fef66"
 
 [[files]]
 file = "config/jei/blacklist.json"
-hash = "af5b64259168b238f4455c53ba9e4af48913063dbcf9b370a3fceb8b262188c0"
+hash = "a6674f93bf334f88212fdc08108a7349ea08bed07ab5c946317209d2f621bb77"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -5246,11 +5246,11 @@ hash = "ba4e02a4b567fb94e7f0f338e6a6bd01f84c93f187db8260a2161f53bc8dbb55"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "97d6f6a21d370846753d15c819fb83d8fb9f6911e35221209547951bd092eab5"
+hash = "f58cbbf04d8d9f3964b854ec6653246c66ea45588d678833141a0196d950be55"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "1cc93751a4888547373fb54f1bdde5be933947ad0e437d7fabce5552888290b0"
+hash = "615378722ced0aa03049ac1aeb7bfc0e8e6d2c1985491240f348843e5b9061b6"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"

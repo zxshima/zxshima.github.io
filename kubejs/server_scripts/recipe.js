@@ -138,6 +138,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'caverns_and_chasms:waxed_weathered_toolbox' })
     event.remove({ output: 'caverns_and_chasms:waxed_oxidized_toolbox' })
     event.remove({ output: 'oreganized:glance' })
+    event.remove({ output: 'neapolitan:chocolate_bar' })
     event.remove({ output: 'neapolitan:chocolate_block' })
     event.remove({ output: 'neapolitan:chocolate_bricks' })
     event.remove({ output: 'neapolitan:chocolate_brick_stairs' })
@@ -148,6 +149,7 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'neapolitan:chocolate_tile_stairs' })
     event.remove({ output: 'neapolitan:chocolate_tile_slab' })
     event.remove({ output: 'neapolitan:chocolate_tile_wall' })
+    event.remove({ output: 'caverns_and_chasms:copper_nugget' })
 
     event.shaped('minecraft:map', [
         'AAA',
@@ -280,7 +282,7 @@ ServerEvents.recipes(event => {
     }
     );
     event.replaceInput(
-        { input: '#quark:stone_tool_materials' },
+        { input: '#quark:stone_tool_materials', output: '#forge:copper_tools' },
         '#quark:stone_tool_materials',
         'minecraft:copper_ingot'
     );
