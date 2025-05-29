@@ -30,7 +30,7 @@
 			soul_sandstone = true
 			midori = true
 			duskbound = true
-			limestone = true
+			limestone = false
 			jasper = true
 			shale = true
 			myalite = true

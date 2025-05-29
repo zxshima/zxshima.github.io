@@ -1,13 +1,13 @@
 name = "Progressive Bosses"
-filename = "ProgressiveBosses-4.3.3-mc1.20.1.jar"
+filename = "progressivebosses-4.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2d2314f57eca5a33ff9e52c1fa445f93c632c314"
+hash = "4b67cf1b84053d7444ef0a0fa61584aa6e68c39f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6414270
+file-id = 6570197
 project-id = 289466

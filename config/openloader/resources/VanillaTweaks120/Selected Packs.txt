@@ -11,3 +11,4 @@ Packs:
 	SmootherOakLog
 	TwinklingStars
 	GoldenSavanna
+	UniqueDyes

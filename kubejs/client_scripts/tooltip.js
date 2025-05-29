@@ -6,3 +6,23 @@ ItemEvents.tooltip(event => {
   event.add(['terramity:throwing_bomb'], '§8§oCan be thrown')
   event.add(['terramity:throwing_bomb'], '§7§oBreaks terrain!')
   })
+
+ItemEvents.tooltip(event => {
+  event.addAdvanced(['kubejs:common_smithing_template'], (item, advanced, text) => {
+    text.add(1, Text.gray('Common Upgrade'))
+    text.add(2, Text.gray('Applies to:'))
+    text.add(3, Text.blue(' Leather Equipment'))
+    text.add(4, Text.gray('Ingredients:'))
+    text.add(5, Text.blue(' Iron Ingot'))
+  })
+})
+
+ItemEvents.tooltip(event => {
+  event.addAdvanced(['kubejs:gemstone_smithing_template'], (item, advanced, text) => {
+    text.add(1, Text.gray('Gemstone Upgrade'))
+    text.add(2, Text.gray('Applies to:'))
+    text.add(3, Text.blue(' Iron Equipment'))
+    text.add(4, Text.gray('Ingredients:'))
+    text.add(5, Text.blue(' Gemstones'))
+  })
+})

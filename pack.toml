@@ -1,11 +1,11 @@
 name = "deerscape"
-version = "0.7.2.2"
+version = "0.7.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eb914995fc3f6ea5b3134d88cdcdfd827e68f955ec471479b2748ffd9e06cdd9"
+hash = "ce8bb44e1d97597a78d2318aec9f1a8f4996055146cc7ce41de2bf36c0676cd6"
 
 [versions]
 forge = "47.4.0"

@@ -1,0 +1,190 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "caverns_and_chasms:copper_button",
+    "caverns_and_chasms:exposed_copper_button",
+    "caverns_and_chasms:weathered_copper_button",
+    "caverns_and_chasms:oxidized_copper_button",
+    "caverns_and_chasms:waxed_copper_button",
+    "caverns_and_chasms:waxed_exposed_copper_button",
+    "caverns_and_chasms:waxed_weathered_copper_button",
+    "caverns_and_chasms:waxed_oxidized_copper_button",
+    "caverns_and_chasms:waxed_lightning_rod",
+    "caverns_and_chasms:exposed_lightning_rod",
+    "caverns_and_chasms:weathered_lightning_rod",
+    "caverns_and_chasms:oxidized_lightning_rod",
+    "caverns_and_chasms:waxed_exposed_lightning_rod",
+    "caverns_and_chasms:waxed_weathered_lightning_rod",
+    "caverns_and_chasms:waxed_oxidized_lightning_rod",
+    "caverns_and_chasms:toolbox",
+    "caverns_and_chasms:exposed_toolbox",
+    "caverns_and_chasms:weathered_toolbox",
+    "caverns_and_chasms:oxidized_toolbox",
+    "caverns_and_chasms:waxed_toolbox",
+    "caverns_and_chasms:waxed_exposed_toolbox",
+    "caverns_and_chasms:waxed_weathered_toolbox",
+    "caverns_and_chasms:waxed_oxidized_toolbox",
+    "caverns_and_chasms:polished_calcite",
+    "caverns_and_chasms:polished_calcite_slab",
+    "caverns_and_chasms:polished_calcite_stairs",
+    "caverns_and_chasms:calcite_slab",
+    "caverns_and_chasms:calcite_stairs",
+    "caverns_and_chasms:calcite_wall",
+    "caverns_and_chasms:cobblestone_bricks",
+    "caverns_and_chasms:cobblestone_brick_slab",
+    "caverns_and_chasms:cobblestone_brick_stairs",
+    "caverns_and_chasms:cobblestone_brick_wall",
+    "caverns_and_chasms:mossy_cobblestone_bricks",
+    "caverns_and_chasms:mossy_cobblestone_brick_slab",
+    "caverns_and_chasms:mossy_cobblestone_brick_stairs",
+    "caverns_and_chasms:mossy_cobblestone_brick_wall",
+    "caverns_and_chasms:tuff_slab",
+    "caverns_and_chasms:tuff_stairs",
+    "caverns_and_chasms:tuff_wall",
+    "caverns_and_chasms:polished_tuff",
+    "caverns_and_chasms:polished_tuff_stairs",
+    "caverns_and_chasms:polished_tuff_slab",
+    "geodes:calcite_stairs",
+    "geodes:calcite_slab",
+    "geodes:calcite_wall",
+    "trials:tuff_stairs",
+    "trials:tuff_slab",
+    "trials:tuff_wall",
+    "trials:polished_tuff_stairs",
+    "trials:polished_tuff_slab",
+    "trials:tuff_brick_stairs",
+    "trials:tuff_brick_slab",
+    "trials:tuff_brick_wall",
+    "twigs:calcite_stairs",
+    "twigs:calcite_slab",
+    "twigs:calcite_wall",
+    "twigs:polished_calcite",
+    "twigs:polished_calcite_stairs",
+    "twigs:polished_calcite_slab",
+    "twigs:cracked_polished_calcite_bricks",
+    "twigs:polished_calcite_bricks",
+    "twigs:polished_calcite_brick_stairs",
+    "twigs:polished_calcite_brick_slab",
+    "twigs:polished_calcite_brick_wall",
+    "twigs:tuff_stairs",
+    "twigs:tuff_slab",
+    "twigs:tuff_wall",
+    "twigs:polished_tuff",
+    "twigs:polished_tuff_stairs",
+    "twigs:polished_tuff_slab",
+    "twigs:cracked_polished_tuff_bricks",
+    "twigs:polished_tuff_bricks",
+    "twigs:polished_tuff_brick_stairs",
+    "twigs:polished_tuff_brick_slab",
+    "twigs:polished_tuff_brick_wall",
+    "twigs:cobblestone_bricks",
+    "twigs:cobblestone_brick_slab",
+    "twigs:cobblestone_brick_wall",
+    "twigs:cobblestone_brick_stairs",
+    "twigs:cracked_cobblestone_bricks",
+    "twigs:mossy_cobblestone_bricks",
+    "twigs:mossy_cobblestone_brick_slab",
+    "twigs:mossy_cobblestone_brick_wall",
+    "twigs:mossy_cobblestone_brick_stairs",
+    "cataclysm:stone_tiles",
+    "cataclysm:stone_tile_slab",
+    "cataclysm:stone_tile_stairs",
+    "cataclysm:stone_tile_wall",
+    "quark:tuff_pillar",
+    "neapolitan:chocolate_bar",
+    "neapolitan:chocolate_block",
+    "neapolitan:chocolate_bricks",
+    "neapolitan:chocolate_brick_stairs",
+    "neapolitan:chocolate_brick_slab",
+    "neapolitan:chocolate_brick_wall",
+    "neapolitan:chiseled_chocolate_bricks",
+    "neapolitan:chocolate_tiles",
+    "neapolitan:chocolate_tile_stairs",
+    "neapolitan:chocolate_tile_slab",
+    "neapolitan:chocolate_tile_wall",
+    "twigs:rocky_dirt",
+    "decorative_blocks:rocky_dirt",
+    "mowziesmobs:thatch_block",
+    "upgrade_aquatic:beachgrass_thatch",
+    "upgrade_aquatic:beachgrass_thatch_slab",
+    "upgrade_aquatic:beachgrass_thatch_stairs",
+    "trials:crafter",
+    "ad_astra:etrionic_blast_furnace",
+    "etcetera:nether_bismuth_ore",
+    "ad_astra:glacio_lapis_ore",
+    "caverns_and_chasms:raw_silver",
+    "caverns_and_chasms:silver_ore",
+    "caverns_and_chasms:silver_ingot",
+    "caverns_and_chasms:silver_nugget",
+    "caverns_and_chasms:deepslate_silver_ore",
+    "caverns_and_chasms:bejeweled_apple",
+    "alloyed:steel_ingot",
+    "alloyed:steel_nugget",
+    "alloyed:steel_sheet",
+    "caverns_and_chasms:copper_nugget",
+    "oreganized:bush_hammer",
+    "functionalstorage:framed_1",
+    "functionalstorage:framed_2",
+    "functionalstorage:framed_4",
+    "functionalstorage:framed_simple_compacting_drawer",
+    "functionalstorage:compacting_framed_drawer",
+    "functionalstorage:framed_storage_controller",
+    "functionalstorage:framed_controller_extension",
+    "alloyed:steel_catwalk",
+    "alloyed:steel_catwalk_stairs",
+    "alloyed:steel_fishing_rod",
+    "infinitybuttons:chiseled_polished_limestone_brick_secret_button",
+    "infinitybuttons:polished_limestone_brick_secret_button",
+    "infinitybuttons:cherry_bookshelf_secret_button",
+    "caverns_and_chasms:tmt"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": true
+}

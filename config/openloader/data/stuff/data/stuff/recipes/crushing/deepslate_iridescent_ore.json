@@ -8,7 +8,7 @@
   "processingTime": 250,
   "results": [
     {
-      "count": 3,
+      "count": 2,
       "item": "terramity:iridescent_shard"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "chance": 0.25,
-      "count": 2,
+      "count": 1,
       "item": "terramity:iridescent_shard"
     },
     {

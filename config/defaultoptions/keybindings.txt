@@ -39,9 +39,6 @@ key_info.structure_gel.building_tool.undo:key.keyboard.z:CONTROL
 key_info.structure_gel.building_tool.redo:key.keyboard.y:CONTROL
 key_key.structure_gel.open_building_tool_gui:key.keyboard.r:NONE
 key_key.corpse.death_history:key.keyboard.comma:NONE
-key_iris.keybind.reload:key.keyboard.r:NONE
-key_iris.keybind.toggleShaders:key.keyboard.k:NONE
-key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
 key_key.veinmining.activate.desc:key.keyboard.grave.accent:NONE
 key_key.damageindicatorreborn.hideIndicator.desc:key.keyboard.unknown:NONE
 key_key.terramity.slam:key.keyboard.c:NONE

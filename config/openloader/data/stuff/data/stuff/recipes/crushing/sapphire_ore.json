@@ -15,10 +15,6 @@
       "item": "terramity:sapphire"
     },
     {
-      "chance": 0.25,
-      "item": "terramity:sapphire"
-    },
-    {
       "chance": 0.75,
       "item": "create:experience_nugget"
     },

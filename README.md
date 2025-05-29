@@ -1,5 +1,6 @@
 Credits:  
-https://github.com/malcolmriley/unused-textures for iron scrap texture and being very generous, thank you!  
+https://github.com/malcolmriley/unused-textures for several free textures and being very generous, thank you!  
+Chevon textures - with permission from https://www.curseforge.com/minecraft/mc-mods/goated   
   
 Data Packs:  
 Ars Tree Reducer - https://www.curseforge.com/minecraft/data-packs/ars-nouveau-tree-reducer   

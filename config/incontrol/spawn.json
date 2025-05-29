@@ -10,7 +10,7 @@
     "result": "allow"
   },
   {
-    "mob": ["cataclysm:koboleton","specialmobs:spitfireskeleton","rottencreatures:mummy"],
+    "mob": ["cataclysm:koboleton","specialmobs:spitfireskeleton","specialmobs:spitfirewitherskeleton","rottencreatures:mummy"],
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",

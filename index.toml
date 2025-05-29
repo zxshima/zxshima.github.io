@@ -61,12 +61,12 @@ file = "config/defaultoptions/extra/config/sodium-extra-options.json"
 hash = "24439ea3fce32ed9bb4289f57837f2368ae501eeea7f2ad46879620ef263cf36"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "adbecae453f33fdd3333a967637bab18564a3547a88c83f455a22f46a3722836"
+file = "config/defaultoptions/extra/options.txt"
+hash = "e95366ec37af4353baea141f57f645e2334a30d132ba784f3909b739f9e912d7"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "65e9c3af7ab964cd2d5a1a4812b583fd63d1a324d12777b28aa24e14dc59aa44"
+file = "config/defaultoptions/keybindings.txt"
+hash = "9eb80d4f0aea99ccd3d1e194b23009422e5ea61cc4dcf2a66b0ea8ad23a66625"
 
 [[files]]
 file = "config/dolt_mod_how-common.toml"
@@ -94,7 +94,7 @@ hash = "f8a5dc23c76bb228dbbad11e540dfdf5a564ac68cfdb6f840e253977b3beb7e5"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "686bce14e49b6b6d94c3b68822365139ae8c372041a044cf583c19ba6e877936"
+hash = "f92ef8766288a4b2c2d8a6cf9d309ddbc41b2bfa7ce455d19acef6a2466bc53e"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
@@ -110,7 +110,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "af67600869a892ddb14684cb078c597a32fdf1a3f72c7e7df6caf0b2f93aaf2e"
+hash = "f818f1ff4aad8282b98597423565c04c148b31d1fe2a2c719b61ecfb7dd1e769"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -170,7 +170,7 @@ hash = "8d09dcf9eb3222221d39ef50153e8260ff09b24fb85ca702adc538e5de102313"
 
 [[files]]
 file = "config/geodes.properties"
-hash = "7b2c0a364ba75da1af53716ef013ab9dbc9444a5bb929cacce943c702d904baf"
+hash = "34ac80f25ebc758aca5b783c8aea88c5b0d55912f10ecbf4178582576b303010"
 
 [[files]]
 file = "config/incontrol/events.json"
@@ -178,7 +178,11 @@ hash = "f2630f92b65a96d2c3a2c8f6e521a4d0b2a3051f918bfa1cebc761179ff9a69f"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "194a6335797245837b169070792bb5ae3ad19508d0bfae85fd36ed192534ef43"
+hash = "3279b2830a87b2dd1008cf735089fb5857f3f67ad48f92a69dc1d4fc54532b0e"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "9be89e23c3e77cfb62652cc5fd022a6bad33a83b6624b68f6097c4c58ba0d9c6"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -190,7 +194,7 @@ hash = "858c6fe8da9cd7cbd2a6003b7972850b995f4debdd269c3b898db7b6155fef66"
 
 [[files]]
 file = "config/jei/blacklist.json"
-hash = "a6674f93bf334f88212fdc08108a7349ea08bed07ab5c946317209d2f621bb77"
+hash = "b6657a86a9f520193d859951b664428c8e18efe0b8d1486fbf381683a94e5d0c"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -853,6 +857,22 @@ file = "config/openloader/data/stuff/data/backported_wolves/tags/worldgen/biome/
 hash = "2ab6e7cd64ece358de32386faf9123603a6d600873c4eadb256234a7f41483f8"
 
 [[files]]
+file = "config/openloader/data/stuff/data/create/recipes/crushing/deepslate_lead_ore.json"
+hash = "f3bdca75796095076a7c26c20fb1ecb3c93b1647f7bf12ba85ba8abc5265ba48"
+
+[[files]]
+file = "config/openloader/data/stuff/data/create/recipes/crushing/deepslate_silver_ore.json"
+hash = "8c395b9080a56a1071c33fa7f02d5b4a29dd0b9cde0d01120bb1166a0cbc6f68"
+
+[[files]]
+file = "config/openloader/data/stuff/data/create/recipes/crushing/lead_ore.json"
+hash = "e4fe4c013a6bff31aef66b1b34ad236c41079cc39fe8e092840d435554f3f5fd"
+
+[[files]]
+file = "config/openloader/data/stuff/data/create/recipes/crushing/silver_ore.json"
+hash = "0c3a314203c177d2988dcde57811b1459f7ec98071df4966fcbfe96d89709782"
+
+[[files]]
 file = "config/openloader/data/stuff/data/ecologics/recipes/cutting/coconut_husk_to_bowl.json"
 hash = "f3f11b39323f19fbabd00dc4b53f2765ff467866a01b004693a57997c467054a"
 
@@ -930,7 +950,7 @@ hash = "24471899577ae08ba8d55fa6563e88ff427d11b5e2d7443e57b456a8a313523b"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/daemonium_ore.json"
-hash = "3e3b9403a70d832d697977dfb01604d40d508171e402669e171bafbd7d37990e"
+hash = "511a15472916e688b4515346a49444ae529c887f7d83197f4bac749bf1592b80"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_dimlite_ore.json"
@@ -938,7 +958,7 @@ hash = "f1cabf6ecd330f6e394a2348c83179e5e55778d0ea707c2ecb5dae15fcc9ff57"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_iridescent_ore.json"
-hash = "281067e3626c4488c690c51f7e9963658361b2c3506650885222d0153cebf2e1"
+hash = "301483804a6bf3b6125ac7417c153c3120272876a859c2ee051033b9758db50a"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_iridium_ore.json"
@@ -946,11 +966,11 @@ hash = "4d8b9c9b38c926664c8b87c23d2c6d9fff1563f34d7a2d30a2e2fb996c570db7"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_sapphire_ore.json"
-hash = "273967f6560dc96f568c5f3c5531842e3b4dd510d3a855950cebae9b167b7a24"
+hash = "d1f76548740a70be817ba88a8a8b0019408f1fa7b8d4c00fce1c8d170376a275"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_topaz_ore.json"
-hash = "95be3e42d987174ec98c7097b730bcad0ce44110a6bc8c024726b8a05b577a18"
+hash = "19c9bbedd0e4aba126c43f6cc82a347b72b46061a66e60a236b60d88c53427b5"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/end_iridium_ore.json"
@@ -970,7 +990,7 @@ hash = "e5814709a4d330f940df1af46fa6ead1e52c6c1584166c010f6cdd0b211fe4ed"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/igneo_ruby_ore.json"
-hash = "4be74a987d427594b748a2df7c77c477601dd9ff65f65006f7403ac455c76b83"
+hash = "a650e16a9fd75b3ab6c453baa1e533bc620003f6d6375c13f279fccb5d5ffad9"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/iron_crushing.json"
@@ -994,11 +1014,15 @@ hash = "19686d7573738ce1a6a275be5c965020fbac67cfc8eef324dbe4dca1d65a293b"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/sapphire_ore.json"
-hash = "178027decbbb6b7902e730df4b22739d9a429368a752c04606a0689ec14f531a"
+hash = "99fd39e118fc5802ebd5594eacdedd1bb665bc32b616cd36d04f948146783d48"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/soul_silver_ore.json"
+hash = "19ad200689f16834a03818a1b8c3c76fe438ef40554c5ee87511d3a1fca4eed2"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/topaz_ore.json"
-hash = "98a5a46f04feb3825ecfcf531b1730c4589fda2470b58d1143d0353354e15cea"
+hash = "5af362ff713224b30322ca9f890ddcd5db7bc795fc334f172f48f013ca780d0b"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/cutting/roses.json"
@@ -1059,6 +1083,10 @@ hash = "e2f25d0687a00afe8215318e3828f18f3c4b6dc55e848cda73191b8be57a927d"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/biomesoplenty/textures/block/dune_grass.png"
 hash = "720b8a49865f7d2f700a9a30317090cf8f1614790a034b96cb7a1aefe62d9a5d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/cataclysm/lang/en_us.json"
+hash = "301f9675ff4b4d7ed37e1a7129eb4a0b566f3951c9611995105cb5524acf97f7"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/cataclysm/textures/item/black_steel_axe.png"
@@ -1606,15 +1634,27 @@ hash = "145faaeb358badc361d0dce303f67b08cf4f5fb668396dfc4b4b2b4a17777a90"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/chevon.png"
-hash = "863189a507464c6277e3f7211c81f5dc2192e98ef0945897d910feede242b8dc"
+hash = "424a605d2d09cd5f2ea9c1e4541102233eb8320ccbe20a69afe91fcd074c219d"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/common_smithing_template.png"
+hash = "3f08845433ce5405328d0e55afdd9554d4cc59fd8bed95e49ae8236f918d08b5"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/cooked_chevon.png"
-hash = "718ef88e6fec3596dae91b86200ffee78951ae07b88476498434f9af4ccf82fa"
+hash = "bec97b4f5da40a954c80490efbb8a94c7521ac165642a043bef69094112a44db"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/deer_cracker.png"
 hash = "abfbe404a9917d0e0053b45e3d3999d5057d6f4b934724fb95988c1439f86b4b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/gemstone_smithing_template.png"
+hash = "a1f1e4b09fe643d55111418aeb926770d8a00fdfd0988b2a4d79369f92d86339"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/geode.png"
+hash = "2799afacf436363410b30cb8020d93faf57d5700d2dbca225f03e5629eb36dfa"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/gold_scrap.png"
@@ -1633,8 +1673,20 @@ file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/lead_scr
 hash = "add1447371209ffdbc50e15a82cb59ef1226dc3cd360c0781aad8d881b41e468"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/wither_axe.png"
+hash = "55486ca3d88db32d1c95f358ac780b375adefffe157ad9c3c17972b49feb67b7"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/wither_sword.png"
+hash = "13493d8dbe616354f29a05bc121fff1da0fea5ca2c6ac4656f9aaa2f450bf56d"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/minecraft/lang/en_us.json"
-hash = "47d17fa54b4744dd77effd256956e1c1215751e87551378c5e5d76e10f6fc351"
+hash = "c71551a56de7b0d89a733605f2610b180e147264b7cae51cd178ddd98f90297b"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/models/item/enchanted_golden_apple.json"
+hash = "942509940a0a5e596238d209f3b334a2773dd6df829c68511f4c616f4017e71e"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets-number-alt.png"
@@ -1655,6 +1707,10 @@ hash = "b381f89a9f822de23d489dde590d26b7030807e114cded9bb45d79aa0c366aa6"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/minecraft/textures/gui/widgets.png"
 hash = "812ca6162121d8cef16f2954307768db0208845196d595edab97db83d7daa418"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/diamond_apple.png"
+hash = "90262434152dca307aa709a58a7ff59354077ea33edfd48b4e8209eb31fb57d3"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/minecraft/textures/item/stone_axe.png"
@@ -4986,7 +5042,7 @@ hash = "a52bb009d7d778b84be3439790e3e74d08f3e0e543ef730176719c538ce1b994"
 
 [[files]]
 file = "config/openloader/resources/VanillaTweaks120/Selected Packs.txt"
-hash = "5ba63add25863cb1b832f907ebd0ee8d8c1804bf5b01075e6b863b2fe7f3bcfa"
+hash = "01d51ef66facbd7579f133f6495742ee13358f589a26f87ae1f043716da7a1b4"
 
 [[files]]
 file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/models/block/piston_head.json"
@@ -5057,8 +5113,28 @@ file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/i
 hash = "4632e73f13771d514bd3db37f70236681164d5a106a49c6545f51629cca673ac"
 
 [[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/gray_dye.png"
+hash = "34110d5d6e35c783d10f088dffe4a05dceafc29acd70206ff71f74f2527cb27f"
+
+[[files]]
 file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/iron_helmet.png"
 hash = "c2e450c6b0b26ceaedfdc09f23f07a8ac4cfb2262aaadd27e6fc72a6dd9e3cad"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/lime_dye.png"
+hash = "f20087b0b883c656c0d81daf6b52eaf62d55ca0d9294b2011f035e594635816c"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/magenta_dye.png"
+hash = "d779f7ca10e28b97108bd93a3d404e04daab925aae85fca4c19cec4be3c8b356"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/pink_dye.png"
+hash = "e7bf14eb134fe198f2f524f3a26a2cfc35eab6b96d22a2e2fb706cd50e043bcd"
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks120/assets/minecraft/textures/item/purple_dye.png"
+hash = "f5832c6a644a31efe72955f5c4be3d34a2acd400f9a662bde9b3cb1309f6b905"
 
 [[files]]
 file = "config/openloader/resources/VanillaTweaks120/overlay_18/assets/minecraft/textures/gui/sprites/hud/heart/withered_full.png"
@@ -5190,11 +5266,11 @@ hash = "253427324a027ed91094af07e3329b8849cfe60ac1cf4ff11293c5c015ddf5de"
 
 [[files]]
 file = "config/propertymodifier-common.toml"
-hash = "379e207c5fa4e15e1da662abf4b418ae1444c365af46403b7cfaea3c2077c890"
+hash = "490b2cf3db2679cc7611ef7591bb95326c4fcc3d1d4b65b0d1cb235d391ad364"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "97315cb4af67d698eef42c4d9a23109caedac50d6bd2fec6721d8d43046ccbea"
+hash = "625f91bf440a497f3afa153af54bb645601677d9290b53b90d8bc7fbbb179764"
 
 [[files]]
 file = "config/simplebackups-common.toml"
@@ -5230,7 +5306,7 @@ hash = "d0362aecc0288c869dafdcfd6ef2ee26fe1b53809c630f27d1be4c9e31c40d34"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip.js"
-hash = "672d0473a61ff9af48c26b27f8f59d6535908e0e7051cd3ec4ed5fb396a30a34"
+hash = "268080cdb411e5c5f90253f9dbf68026b34f292ed35aa3af37ab7cfd0d9b3442"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -5238,7 +5314,7 @@ hash = "b9951edbf8ca218cc14f0a2f2d5410128e6c4c4037a6152cd8cbda0e17cc4b5e"
 
 [[files]]
 file = "kubejs/server_scripts/drops.js"
-hash = "ba4a79376607581df8b6707fe3b50008e20ce4305370a67ecc436243f75aa60a"
+hash = "b5faa342a308ff68ca57160784353a292ea6e281d86b499d3128d41994a5baa4"
 
 [[files]]
 file = "kubejs/server_scripts/giveOnFirstJoin.js"
@@ -5246,11 +5322,11 @@ hash = "ba4e02a4b567fb94e7f0f338e6a6bd01f84c93f187db8260a2161f53bc8dbb55"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "f58cbbf04d8d9f3964b854ec6653246c66ea45588d678833141a0196d950be55"
+hash = "6c8dcc7f59a057d10ecd755e677e28241117163e19f75ca174a985a111a03283"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "615378722ced0aa03049ac1aeb7bfc0e8e6d2c1985491240f348843e5b9061b6"
+hash = "84c86c752bb0c195a8a1432dd6cc98df0ff79ac77cf865eb9dd13828a658ba73"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
@@ -5258,11 +5334,11 @@ hash = "34c0878af5428ab46b884f7e60f9d73a1a1f7ebc372bba0c9a737405d5caadea"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
-hash = "8cf46cd0c578b174a8ef286334e8a1ba8dc467708071ca1466ac9b3e7dc8de05"
+hash = "c1e296857f6d1b2121d3edaf5e68342c4b91b98a23c33d7766188072017e1401"
 
 [[files]]
 file = "kubejs/startup_scripts/item.js"
-hash = "834cc78ca2ec32ffd346df181de235c5f60c94166e27405eae8ef08deddeeb62"
+hash = "6e5efd8e57d3fcebf4c5d5038b7c3c9fd91d482cc077ab101fe01cb9de34b612"
 
 [[files]]
 file = "kubejs/startup_scripts/other.js"
@@ -5334,7 +5410,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "e193c2a81180c9c12f0a82b0eea5e92a8c4dacc58f5b5640e201ae2ce6946259"
+hash = "349f414fe68d4c7509bdf731362c0dbf7c33ea67b5617387f95cb4737e3284ee"
 metafile = true
 
 [[files]]
@@ -5409,7 +5485,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "495f83e693dcc0a378757200394ca1cb284cc51fce3c64d8e0d5e37e2eac7b85"
+hash = "bfade58ee8b965486ddcd2853524f3feff40b24d830f2d371b8609217e3bedff"
 metafile = true
 
 [[files]]
@@ -5644,7 +5720,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeonsdelight.pw.toml"
-hash = "02adec035ce82bd5fb371af0322ce2644e03d38d5f04842ee695340544e39a6b"
+hash = "2dc67a51832ff49f852549d421c64bf4be4ac1173cb62de7e5354068c206bf25"
 metafile = true
 
 [[files]]
@@ -5717,18 +5793,23 @@ hash = "d9b5c288714d78e2be14e369428a47976b01cc0e716c3b5922aec276134fee5c"
 metafile = true
 
 [[files]]
+file = "mods/etcetera.pw.toml"
+hash = "891e62cdfd08c5df6bb1b21f9f70709adf7669c9588d5bce1f27515c7742faca"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "36fd54233eb3881c90fcb2d6d63f5b37353c26ca61bfaeb34b6bbe251fa99f1b"
+hash = "c09d1482b6fdcead9a6d8ee385986719391047d5053b3b5911f44ccd3a90be5e"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ef51ed96af7952ff0a7aec4ba40beed49df415cab3462785d7a410490040a55f"
+hash = "196ac5d550385aa7403b8a8af0c79a09497766f175cc2517b6b257b4b13cbba2"
 metafile = true
 
 [[files]]
@@ -5798,7 +5879,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "53e690e118baf442ae92faee438328e629ba387cd77ad788ded22055773db80f"
+hash = "c35b46cec8c819cca0b163ae3ac8aeac405bf84a967f08e502e48618fbec1a5e"
 metafile = true
 
 [[files]]
@@ -5858,7 +5939,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "815b4191dd612bc6d1b1b714c507ba4e0884cadff7355b799b5dad39a6e9574a"
+hash = "05d02736e2e380341fa053a773064d2d31d33c40eb6d1e8eba6729592ea9d209"
 metafile = true
 
 [[files]]
@@ -5879,6 +5960,11 @@ metafile = true
 [[files]]
 file = "mods/ironchests.pw.toml"
 hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "07fc40541ee106402ce9eb26888d7d078e5fd28cd01a00cbc04dd57839c6aeeb"
 metafile = true
 
 [[files]]
@@ -5914,6 +6000,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "a3774b5c23d616cbf1cf9322577e185b5cd7f16cc721ad5c60303d6145361415"
 metafile = true
 
 [[files]]
@@ -6013,7 +6104,7 @@ metafile = true
 
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
-hash = "dc95cb62ee91e8314cf504aaec5b77c1500c38e41f9b78abc179dfe94e76423f"
+hash = "6ff4dfc30b3df634c6a2e587742ad381aa5988a50a646003369331749882c0a9"
 metafile = true
 
 [[files]]
@@ -6024,6 +6115,11 @@ metafile = true
 [[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "7bb01abc93a90da48ae8452f501ba60e32c468438c0f864e6bc7ef1b5746c712"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
 metafile = true
 
 [[files]]
@@ -6093,7 +6189,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
-hash = "92dfb18f8e9e5c83b916419efaf9c5324958f8bbd11b3ac512ada70f46c9d2db"
+hash = "dde4c44338ad3382cafb8a24d4d43d2f97b448005583469f6be1d95ff1f2df94"
 metafile = true
 
 [[files]]
@@ -6178,7 +6274,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "8690cac804213a686f59efb19b496891f9f34e4401bdea91c4bde4be348020cb"
+hash = "811fb826753b8c68d8cfc03a640badad7f978201394f362f7c604fc3da125e63"
 metafile = true
 
 [[files]]
@@ -6193,7 +6289,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "f6d26d2048bfa2dd9e3d485cc116db5e011e76397a47a9e412482998e64c8531"
+hash = "cda441c0906fd1074db3d494a3c30d612c707e3ffdde3c6b12c5b4b2b730fe01"
 metafile = true
 
 [[files]]
@@ -6238,7 +6334,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "1d5ec67d7f36d942fd21200a423a037e3940cb549a42afeb5736403ee434c64b"
+hash = "5d06c8be7adef259e5a5e98aa49ae6651daf0ec82f93595b60484f3e871c926e"
 metafile = true
 
 [[files]]

@@ -5,13 +5,10 @@
       "item": "terramity:deepslate_sapphire_ore"
     }
   ],
-  "processingTime": 350,
+  "processingTime": 450,
   "results": [
     {
-      "item": "terramity:sapphire"
-    },
-    {
-      "chance": 0.75,
+      "count": 2,
       "item": "terramity:sapphire"
     },
     {
