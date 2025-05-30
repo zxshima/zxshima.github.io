@@ -5439,6 +5439,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/area-effect-clouds-3d.pw.toml"
+hash = "3d0ca323a91b2467f02032ca1d0b9f6337373c2aa4522d1e0f8702803cc121c6"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "0502e2b33b08fe5920ff1ea61d3cd3c86d9e93ff234af56088c63dff4c189733"
 metafile = true
