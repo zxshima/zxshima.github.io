@@ -119,6 +119,10 @@ ServerEvents.tags('item', event => {
 	event.get('forge:inflicts_wither')
 		.add('kubejs:wither_axe')
 		.add('kubejs:wither_sword')
+	event.get('c:foods/golden')
+		.remove('minecraft:enchanted_golden_apple')
+	event.get('minecraft:piglin_loved')
+		.remove('minecraft:enchanted_golden_apple')
 })
 
 ServerEvents.tags('block', event => {

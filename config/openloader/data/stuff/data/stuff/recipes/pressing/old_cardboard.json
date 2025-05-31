@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "terramity:cardboard"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:cardboard"
+    }
+  ]
+}

@@ -22,6 +22,11 @@
       "item": "terramity:iridescent_shard"
     },
     {
+      "chance": 0.1,
+      "count": 1,
+      "item": "kubejs:geode_1"
+    },
+    {
       "chance": 0.75,
       "item": "create:experience_nugget"
     },

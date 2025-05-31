@@ -9,6 +9,15 @@ ServerEvents.recipes(event => {
     event.remove({id: 'progressivebosses:trident'})
     event.remove({id: 'etcetera:hammer'})
     event.remove({id: 'minecraft:lead'})
+    event.remove({id: 'minecraft:golden_boots'})
+    event.remove({id: 'minecraft:golden_chestplate'})
+    event.remove({id: 'minecraft:golden_helmet'})
+    event.remove({id: 'minecraft:golden_leggings'})
+    event.remove({id: 'minecraft:golden_sword'})
+    event.remove({id: 'minecraft:golden_shovel'})
+    event.remove({id: 'minecraft:golden_pickaxe'})
+    event.remove({id: 'minecraft:golden_axe'})
+    event.remove({id: 'minecraft:golden_hoe'})
     event.remove({id: 'minecraft:leather_boots'})
     event.remove({id: 'minecraft:leather_chestplate'})
     event.remove({id: 'minecraft:leather_helmet'})
@@ -54,18 +63,16 @@ ServerEvents.recipes(event => {
     event.remove({id: 'minecraft:iron_nugget_from_blasting'})
     event.remove({id: 'minecraft:gold_nugget_from_smelting'})
     event.remove({id: 'minecraft:gold_nugget_from_blasting'})
+    event.remove({id: 'geodes:tuning/diamond_tuning'})
+    event.remove({id: 'geodes:tuning/echo_tuning'})
     event.remove({id: 'terramity:igneo_sword'})
     event.remove({id: 'terramity:igneo_pick'})
     event.remove({id: 'terramity:igneo_axe'})
     event.remove({id: 'terramity:igneo_shovel'})
     event.remove({id: 'terramity:igneo_hoe'})
-    event.remove({id: 'geodes:tuning/diamond_tuning'})
-    event.remove({id: 'geodes:tuning/echo_tuning'})
-    event.remove({ input: 'minecraft:emerald_ore' })
-    event.remove({ input: 'minecraft:deepslate_emerald_ore' })
-    event.remove({ input: 'minecraft:lapis_ore' })
-    event.remove({ input: 'minecraft:deepslate_lapis_ore' })
-    event.remove({ input: 'minecraft:nether_quartz_ore' })
+    event.remove({id: 'terramity:toaster_tart_recipe'})
+    event.remove({ output: 'terramity:cardboard' })
+    event.remove({ output: 'terramity:cardboard_necklace_recipe' })
     event.remove({ output: 'geodes:lapis_crystal_block' })
     event.remove({ output: 'geodes:diamond_crystal_block' })
     event.remove({ output: 'geodes:quartz_crystal_block' })
@@ -78,11 +85,26 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'trials:tuff_bricks' })
     event.remove({ output: 'etcetera:chisel' })
     event.remove({ output: 'etcetera:wrench' })
+    event.remove({ input: 'minecraft:emerald_ore' })
+    event.remove({ input: 'minecraft:deepslate_emerald_ore' })
+    event.remove({ input: 'minecraft:lapis_ore' })
+    event.remove({ input: 'minecraft:deepslate_lapis_ore' })
+    event.remove({ input: 'minecraft:nether_quartz_ore' })
 
     event.replaceInput(
         { input: '#quark:stone_tool_materials', output: '#forge:copper_tools' },
         '#quark:stone_tool_materials',
         'minecraft:copper_ingot'
+    );
+    event.replaceInput(
+        {mod: 'terramity'},
+        'terramity:cardboard_block',
+        'create:cardboard_block'
+    );
+    event.replaceInput(
+        {mod: 'terramity'},
+        'terramity:cardboard',
+        'create:cardboard'
     );
     event.shaped('minecraft:lead', [
         'AA ',
@@ -261,6 +283,11 @@ ServerEvents.recipes(event => {
         {mod: 'magnumtorch'},
         'minecraft:gold_ingot',
         'create:brass_ingot'
+    );
+    event.replaceInput(
+        { output: 'terramity:throwing_bomb' },
+        'minecraft:iron_ingot',
+        'oreganized:lead_ingot'
     );
     event.replaceInput(
         { input: 'neapolitan:chocolate_bar' },
@@ -578,15 +605,16 @@ ServerEvents.recipes(event => {
         '2x dolt_mod_how:leather_scraps'
     );
     event.recipes.farmersdelight.cutting(
-        'kubejs:geode',
+        'kubejs:geode_1',
         'etcetera:hammer',
         [
         Item.of('twigs:pebble')
         .withChance(0.5),
-        Item.of('minecraft:diamond')
+        Item.of('terramity:iridescent_shard')
         .withChance(0.01),
+        Item.of('caverns_and_chasms:spinel')
+        .withChance(0.1),
         Item.of('etcetera:raw_bismuth')
-        .withChance(0.05)
         ],
         'etcetera:item.hammer.use'
     );

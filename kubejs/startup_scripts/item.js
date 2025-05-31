@@ -11,7 +11,7 @@ StartupEvents.registry('item', event => {
 })
 
 StartupEvents.registry('item', event => {
-    event.create('geode')
+    event.create('geode_1').displayName('Iridescent Geode').rarity('uncommon')
 })
 
 StartupEvents.registry('item', event => {
@@ -23,9 +23,9 @@ StartupEvents.registry('item', event => {
 })
 
 StartupEvents.registry('item', event => {
-    event.create('wither_sword', 'sword').tier('stone').attackDamageBaseline(5.0)
+    event.create('wither_sword', 'sword').tier('stone')
 })
 
 StartupEvents.registry('item', event => {
-    event.create('wither_axe', 'axe').tier('stone').attackDamageBaseline(5.0)
+    event.create('wither_axe', 'axe').tier('stone')
 })

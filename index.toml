@@ -5,6 +5,10 @@ file = "config/Crust/client_config_editor.toml"
 hash = "17b9f135a9dea0fabdaab5eb3d05c2a4894797eace0dd93c87abd44621b8b7e4"
 
 [[files]]
+file = "config/SpecialMobs/slimes/_family_of_slimes.toml"
+hash = "4e5d6afda7b89df39af5dab1abf0647b0b62591e2d7555d8083e5e01cb77f5a1"
+
+[[files]]
 file = "config/addurdisc-common.toml"
 hash = "d7e426ab1e4e19b1944e3d76df37735dc3c25cc4c64de9452c9f983df2040222"
 
@@ -94,7 +98,7 @@ hash = "f8a5dc23c76bb228dbbad11e540dfdf5a564ac68cfdb6f840e253977b3beb7e5"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "f92ef8766288a4b2c2d8a6cf9d309ddbc41b2bfa7ce455d19acef6a2466bc53e"
+hash = "48190729cb425e47ec589043a8f4e1ef29e8c9df978bf5243cfcaf0505ef1e1a"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
@@ -110,7 +114,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "f818f1ff4aad8282b98597423565c04c148b31d1fe2a2c719b61ecfb7dd1e769"
+hash = "0f6547a0851633bb68150139e4adc376e87d5919088369879ec293e04e927b0b"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -182,7 +186,7 @@ hash = "3279b2830a87b2dd1008cf735089fb5857f3f67ad48f92a69dc1d4fc54532b0e"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "9be89e23c3e77cfb62652cc5fd022a6bad33a83b6624b68f6097c4c58ba0d9c6"
+hash = "9c83f5a9bb3763cd3edd60de488f853ead5da4c6eb8b3572b4bdb768cf2c161b"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -194,7 +198,7 @@ hash = "858c6fe8da9cd7cbd2a6003b7972850b995f4debdd269c3b898db7b6155fef66"
 
 [[files]]
 file = "config/jei/blacklist.json"
-hash = "b6657a86a9f520193d859951b664428c8e18efe0b8d1486fbf381683a94e5d0c"
+hash = "bb78f18dc801fb8d95dbc8c98fe6ded69718a47d11a2a19e89f800f89867dab1"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -958,7 +962,7 @@ hash = "f1cabf6ecd330f6e394a2348c83179e5e55778d0ea707c2ecb5dae15fcc9ff57"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_iridescent_ore.json"
-hash = "301483804a6bf3b6125ac7417c153c3120272876a859c2ee051033b9758db50a"
+hash = "94081ae92c9f9477b3809f372715a766b9cd5e49a3bbb2ed9d2f4bfba99beb6b"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_iridium_ore.json"
@@ -967,6 +971,10 @@ hash = "4d8b9c9b38c926664c8b87c23d2c6d9fff1563f34d7a2d30a2e2fb996c570db7"
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_sapphire_ore.json"
 hash = "d1f76548740a70be817ba88a8a8b0019408f1fa7b8d4c00fce1c8d170376a275"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_spinel_ore.json"
+hash = "c85e9a55ba93b1c773a6e732567b1484778acc110adf9388839fbbe577e5bc16"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/deepslate_topaz_ore.json"
@@ -1021,12 +1029,20 @@ file = "config/openloader/data/stuff/data/stuff/recipes/crushing/soul_silver_ore
 hash = "19ad200689f16834a03818a1b8c3c76fe438ef40554c5ee87511d3a1fca4eed2"
 
 [[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/crushing/spinel_ore.json"
+hash = "4e3bde91a478904b0d06be06fb892250ec7aebd4dce45f1f6a4b1e1bcb482422"
+
+[[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/crushing/topaz_ore.json"
 hash = "5af362ff713224b30322ca9f890ddcd5db7bc795fc334f172f48f013ca780d0b"
 
 [[files]]
 file = "config/openloader/data/stuff/data/stuff/recipes/cutting/roses.json"
 hash = "e95e0fcac2d120f945909a9f8b5c40252daaf9cd74b88218d47c14500e1e68d4"
+
+[[files]]
+file = "config/openloader/data/stuff/data/stuff/recipes/pressing/old_cardboard.json"
+hash = "9408d992dfaef78b39317003c44bfa1e7ede122d4ab53ebe2b7942e6b96e37e5"
 
 [[files]]
 file = "config/openloader/data/stuff/pack.mcmeta"
@@ -1653,8 +1669,8 @@ file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/gemstone
 hash = "a1f1e4b09fe643d55111418aeb926770d8a00fdfd0988b2a4d79369f92d86339"
 
 [[files]]
-file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/geode.png"
-hash = "2799afacf436363410b30cb8020d93faf57d5700d2dbca225f03e5629eb36dfa"
+file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/geode_1.png"
+hash = "b1a28adc360017abe3cdc17c712d2b238648add6b3aab57b20ddb29d2ed604a6"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/kubejs/textures/item/gold_scrap.png"
@@ -1883,6 +1899,18 @@ hash = "6396c2b1a36ff4e215691fc46275592bef82b2a3b5f32655df187955ec504b63"
 [[files]]
 file = "config/openloader/resources/00_deer/assets/terramity/textures/item/stairway_to_heaven.png"
 hash = "591f7f4d6b22d375cd9a4ee09f123d57caed279ee688377bcbd5cb8df2e68dfc"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/tide/lang/en_us.json"
+hash = "90bf8cf70131572a875f590adb27573d44c7dddf47f6929b5a6847f6b9d22972"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/tide/models/item/enchanted_golden_apple_fishing_bobber.json"
+hash = "76155a1f6c29f5f1751fa21b4736c57214a0e7a85060c14041aabc26b86843ea"
+
+[[files]]
+file = "config/openloader/resources/00_deer/assets/tide/textures/item/diamond_apple_fishing_bobber.png"
+hash = "778122d48ef3153d9d7e160096f9f8eb8955f7a9a76e817b660b2dafbd99f154"
 
 [[files]]
 file = "config/openloader/resources/00_deer/assets/trials/lang/en_us.json"
@@ -5282,7 +5310,11 @@ hash = "d06c23bbaffb9393e8e982fe9b36167fa8546464d11717b2486662d36804d878"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "16c4d2636be96d6d1193bf5a11254e57e3e46020ac4a51e1e2fd100d567b4fd1"
+hash = "8290f92cb524794ac24783d02c2729226837009aca6cc2079a8455b237c4b29f"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "a49e567de2297952c3842f2fb84a78d1e6707509ea7d7fd7ae0e0a3884e716f3"
 
 [[files]]
 file = "config/tide.toml"
@@ -5314,7 +5346,7 @@ hash = "b9951edbf8ca218cc14f0a2f2d5410128e6c4c4037a6152cd8cbda0e17cc4b5e"
 
 [[files]]
 file = "kubejs/server_scripts/drops.js"
-hash = "b5faa342a308ff68ca57160784353a292ea6e281d86b499d3128d41994a5baa4"
+hash = "3c2617b8e44c944036f02d11d56a17503bc075aa43c3b8dfaab765cbabbd3383"
 
 [[files]]
 file = "kubejs/server_scripts/giveOnFirstJoin.js"
@@ -5322,11 +5354,11 @@ hash = "ba4e02a4b567fb94e7f0f338e6a6bd01f84c93f187db8260a2161f53bc8dbb55"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "6c8dcc7f59a057d10ecd755e677e28241117163e19f75ca174a985a111a03283"
+hash = "225facdf32339e2911871079c28bf732cf0d2c1568e10433d31e2f12ec3d8d81"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "84c86c752bb0c195a8a1432dd6cc98df0ff79ac77cf865eb9dd13828a658ba73"
+hash = "dc050818750b54468e5e284268bca16ea4dd6350abcab5212d2667e6675bc668"
 
 [[files]]
 file = "kubejs/startup_scripts/block.js"
@@ -5338,7 +5370,7 @@ hash = "c1e296857f6d1b2121d3edaf5e68342c4b91b98a23c33d7766188072017e1401"
 
 [[files]]
 file = "kubejs/startup_scripts/item.js"
-hash = "6e5efd8e57d3fcebf4c5d5038b7c3c9fd91d482cc077ab101fe01cb9de34b612"
+hash = "9e87274df744ce4240da3e0fa7d7991b350a99014bd7420bf9da3a5f41e967e3"
 
 [[files]]
 file = "kubejs/startup_scripts/other.js"
@@ -5725,7 +5757,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeonsdelight.pw.toml"
-hash = "2dc67a51832ff49f852549d421c64bf4be4ac1173cb62de7e5354068c206bf25"
+hash = "306a21237b964360dd011d04a4ed9364d842b8fde2e2fe8f5bd222831a463be0"
 metafile = true
 
 [[files]]
@@ -5834,7 +5866,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "ba6c13e70f06dde3b8d01d4143c22fea36ec035d7cd8834c7a82aa778a809467"
+hash = "fa6e35c376181fa82ad33b9cb4c20382a0effd7eb09a06107dcc884b98f49ff2"
 metafile = true
 
 [[files]]
@@ -6239,7 +6271,7 @@ metafile = true
 
 [[files]]
 file = "mods/runiclib.pw.toml"
-hash = "8843daee9a5c8cfd30f5f0e2062872e428fcca3c032ff9b8270b309b1a2cc83f"
+hash = "10616a68a5037071ae56003cdd861b79e7e67b55c24a7f82506eb45195866925"
 metafile = true
 
 [[files]]
@@ -6294,7 +6326,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "cda441c0906fd1074db3d494a3c30d612c707e3ffdde3c6b12c5b4b2b730fe01"
+hash = "bc27f1c5d89c0718c6e71af525d59b68c623a9d8ac9b9ff67a0ab1d5f23efd31"
 metafile = true
 
 [[files]]

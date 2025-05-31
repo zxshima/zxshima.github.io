@@ -40,7 +40,7 @@ element {
   base_color = #FFFFFFFF
   text_border = 0
   line_spacing = 2
-  enable_scrolling = true
+  enable_scrolling = false
   auto_line_wrapping = true
   remove_html_breaks = true
   code_block_single_color = #737373FF

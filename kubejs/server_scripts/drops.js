@@ -37,7 +37,19 @@ LootJS.modifiers((event) => {
     .removeLoot('minecraft:gold_nugget')
 })
 
+LootJS.modifiers((event) => {
+    event
+    .addBlockLootModifier("caverns_and_chasms:deepslate_spinel_ore")
+    .randomChance(0.02)
+    .addLoot("kubejs:geode_1");
+})
 
+LootJS.modifiers((event) => {
+    event
+    .addBlockLootModifier("terramity:deepslate_iridescent_ore")
+    .randomChance(0.1)
+    .addLoot("kubejs:geode_1");
+})
 
 LootJS.modifiers((event) => {
     const cookedWhenAspect = LootEntry.of("kubejs:cooked_chevon").limitCount([1, 3]).applyLootingBonus([0, 1, 2, 3]).when((c) =>

@@ -1,13 +1,13 @@
 name = "RunicLib"
-filename = "RunicLib-forge-1.20.1-4.1.7.jar"
+filename = "RunicLib-forge-1.20.1-4.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7b549b85d2a005a02413a2f1987174956eb1fc87"
+hash = "55d8a297da76ef191725406b171c94c5e776e9d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6521109
+file-id = 6599887
 project-id = 880879

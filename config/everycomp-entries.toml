@@ -211,7 +211,7 @@
 			cheerful_plum = true
 			moody_plum = true
 			hibiscus = true
-			willow = true
+			willow = false
 			pine = false
 			plum = true
 			wisteria = true
