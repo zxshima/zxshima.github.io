@@ -5346,7 +5346,7 @@ hash = "b9951edbf8ca218cc14f0a2f2d5410128e6c4c4037a6152cd8cbda0e17cc4b5e"
 
 [[files]]
 file = "kubejs/server_scripts/drops.js"
-hash = "3c2617b8e44c944036f02d11d56a17503bc075aa43c3b8dfaab765cbabbd3383"
+hash = "cda388ca976e386f3fc5b29ef47ddd848a895e1c3f3d858c713748b9c8a686f8"
 
 [[files]]
 file = "kubejs/server_scripts/giveOnFirstJoin.js"
@@ -5366,7 +5366,7 @@ hash = "34c0878af5428ab46b884f7e60f9d73a1a1f7ebc372bba0c9a737405d5caadea"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
-hash = "c1e296857f6d1b2121d3edaf5e68342c4b91b98a23c33d7766188072017e1401"
+hash = "288c8dec953523f1dd94306b05f106c0eb6d844aa956f0e5b545bad870dffd93"
 
 [[files]]
 file = "kubejs/startup_scripts/item.js"

@@ -63,7 +63,7 @@ StartupEvents.registry('item', event => {
   event.create('chevon').food(food => {
     food
     .hunger(2)
-    .saturation(0.6)
+    .saturation(0.5)
   })
 })
 

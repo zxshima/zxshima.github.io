@@ -18,7 +18,7 @@ Bat Backport - https://www.curseforge.com/minecraft/texture-packs/bat-backport
 Biomes O' Plenty Renewed - https://modrinth.com/resourcepack/biomeso-plenty-renewed   
 Fogulous - https://modrinth.com/resourcepack/fogulous   
 Soft Weather - https://www.curseforge.com/minecraft/texture-packs/soft-weather   
-Vanilla Tweaks (grass texture tweak) - https://vanillatweaks.net/   
+Vanilla Tweaks (misc. resource pack tweaks) - https://vanillatweaks.net/   
 
 Shaders:   
 Complementary Reimagined - https://www.curseforge.com/minecraft/shaders/complementary-reimagined   

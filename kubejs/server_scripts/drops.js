@@ -40,6 +40,7 @@ LootJS.modifiers((event) => {
 LootJS.modifiers((event) => {
     event
     .addBlockLootModifier("caverns_and_chasms:deepslate_spinel_ore")
+    .randomChanceWithEnchantment("minecraft:silk_touch", [1, 0])
     .randomChance(0.02)
     .addLoot("kubejs:geode_1");
 })
@@ -47,6 +48,7 @@ LootJS.modifiers((event) => {
 LootJS.modifiers((event) => {
     event
     .addBlockLootModifier("terramity:deepslate_iridescent_ore")
+    .randomChanceWithEnchantment("minecraft:silk_touch", [1, 0])
     .randomChance(0.1)
     .addLoot("kubejs:geode_1");
 })
