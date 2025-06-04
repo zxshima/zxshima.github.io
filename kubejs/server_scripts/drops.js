@@ -1,23 +1,12 @@
-LootJS.modifiers((event) => {
-    event
-        .addEntityLootModifier("specialmobs:witch")
-        .randomChance(0.1)
-        .addLoot("endrem:witch_pupil")
-})
+// mobs
 
 LootJS.modifiers((event) => {
     event
         .addEntityLootModifier("minecraft:chicken")
         .matchDamageSource((source) => source.anyType('lava'))
         .removeLoot('minecraft:cooked_chicken')
-        .addLoot("kubejs:lava_chicken")
-})
-
-LootJS.modifiers((event) => {
-    event.addEntityLootModifier("minecraft:iron_golem").replaceLoot("minecraft:iron_ingot", "kubejs:iron_scrap", true)
-})
-
-LootJS.modifiers((event) => {
+        .addLoot("kubejs:lava_chicken");
+    event.addEntityLootModifier("minecraft:iron_golem").replaceLoot("minecraft:iron_ingot", "kubejs:iron_scrap", true);
     event.addEntityLootModifier("minecraft:iron_golem").replaceLoot("minecraft:poppy", "biomesoplenty:rose", true)
 })
 
@@ -27,30 +16,15 @@ LootJS.modifiers((event) => {
     .matchDirectKiller((entity) => {
         entity.anyType("fireball")
     })
-    .addLoot("addurdisc:disc_tears")
-})
-
-LootJS.modifiers((event) => {
+    .addLoot("addurdisc:disc_tears");
+    event
+    .addEntityLootModifier("specialmobs:witch")
+    .randomChance(0.1)
+    .addLoot("endrem:witch_pupil");
     event
     .addEntityLootModifier("specialmobs:zombifiedpiglin")
     .removeLoot('minecraft:gold_ingot')
     .removeLoot('minecraft:gold_nugget')
-})
-
-LootJS.modifiers((event) => {
-    event
-    .addBlockLootModifier("caverns_and_chasms:deepslate_spinel_ore")
-    .randomChanceWithEnchantment("minecraft:silk_touch", [1, 0])
-    .randomChance(0.02)
-    .addLoot("kubejs:geode_1");
-})
-
-LootJS.modifiers((event) => {
-    event
-    .addBlockLootModifier("terramity:deepslate_iridescent_ore")
-    .randomChanceWithEnchantment("minecraft:silk_touch", [1, 0])
-    .randomChance(0.1)
-    .addLoot("kubejs:geode_1");
 })
 
 LootJS.modifiers((event) => {
@@ -65,32 +39,35 @@ LootJS.modifiers((event) => {
     .addAlternativesLoot(cookedWhenAspect, chevon)
 })
 
+// ore
 
-const blacklistedMobs = ['specialmobs:witherskeleton','specialmobs:giantwitherskeleton','specialmobs:brutewitherskeleton','specialmobs:ninjawitherskeleton'];
-const blacklistedItems = ['minecraft:stone_sword'];
-blacklistedMobs.forEach(mob => {
-    EntityEvents.spawned(mob, e => {
-        if(!blacklistedItems.includes(e.entity.mainHandItem.id)) return;
-        e.entity.setMainHandItem('kubejs:wither_sword');
-    })
+LootJS.modifiers((event) => {
+    event
+    .addBlockLootModifier("caverns_and_chasms:deepslate_spinel_ore")
+    .randomChanceWithEnchantment("minecraft:silk_touch", [1, 0])
+    .randomChance(0.02)
+    .addLoot("kubejs:geode_1");
+    event
+    .addBlockLootModifier("terramity:deepslate_iridescent_ore")
+    .randomChanceWithEnchantment("minecraft:silk_touch", [1, 0])
+    .randomChance(0.1)
+    .addLoot("kubejs:geode_1");
 })
 
-const blacklistedMobs2 = ['specialmobs:witherskeleton','specialmobs:giantwitherskeleton','specialmobs:brutewitherskeleton','specialmobs:ninjawitherskeleton'];
-const blacklistedItems2 = ['minecraft:stone_axe'];
-blacklistedMobs2.forEach(mob => {
-    EntityEvents.spawned(mob, e => {
-        if(!blacklistedItems2.includes(e.entity.mainHandItem.id)) return;
-        e.entity.setMainHandItem('kubejs:wither_axe');
-    })
+// treasure
+
+LootJS.modifiers((event) => {
+    function lootgone(item) {
+        event.addLootTypeModifier(LootType.CHEST).removeLoot(item)
+    }
+    lootgone('minecraft:saddle')
+    lootgone('terramity:cardboard')
 })
 
-EntityEvents.hurt(event => {
-    if (event.server
-        && event.source.actual
-        && event.source.actual.player
-        && event.source.actual.mainHandItem.hasTag('forge:inflicts_wither')
-        )
-        {
-        event.entity.potionEffects.add("minecraft:wither", 100, 0, false, true)
-        }
+LootJS.modifiers((event) => {
+    function lootwhat(itemfrom,itemto) {
+        event.addLootTypeModifier(LootType.CHEST,LootType.ENTITY).replaceLoot(itemfrom,itemto,true)
+    }
+    lootwhat('caverns_and_chasms:silver_ingot', 'oreganized:silver_ingot')
+    lootwhat('caverns_and_chasms:silver_nugget', 'oreganized:silver_nugget')
 })

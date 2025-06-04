@@ -1,0 +1,15 @@
+{
+	"object":
+	{
+		"entity":
+		{
+			"name" : "vanillabackport:happy_ghast",
+			"width" : ">=0.5"
+		}
+	},
+	"render":
+	{
+		"translation" : "y=0.4,x=0,4,z=0",
+		"rotation" : "y=180"
+	}
+}

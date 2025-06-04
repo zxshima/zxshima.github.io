@@ -11,6 +11,10 @@ StartupEvents.registry('item', event => {
 })
 
 StartupEvents.registry('item', event => {
+    event.create('silver_scrap')
+})
+
+StartupEvents.registry('item', event => {
     event.create('geode_1').displayName('Iridescent Geode').rarity('uncommon')
 })
 

@@ -61,6 +61,22 @@
 			x: -3.0d
 			y: -1.0d
 		}
+		{
+			description: [
+				"These rare shiny new stones can sometimes be obtained from mining ores! They serve as a source for otherwise rare or unobtainable minerals and metals."
+				"&eIridescent Geode&r - sometimes dropped from &eDeepslate Spinel&r or &eDeepslate Iridescent Ore&r. Serves as the only source of &eBismuth&r, which lets you craft different &dIridescent&r building blocks."
+			]
+			id: "7ED1719836192383"
+			subtitle: "Rare Stone 101"
+			tasks: [{
+				id: "49FDADCD7AB4D5DC"
+				item: "kubejs:geode_1"
+				type: "item"
+			}]
+			title: "Treasure Geode"
+			x: -3.0d
+			y: 0.0d
+		}
 	]
 	title: "Craft"
 }

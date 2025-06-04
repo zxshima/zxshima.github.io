@@ -28,5 +28,8 @@
   "effect.terramity.immunity.description": "This effect makes you immune to all negative effects.",
   "effect.terramity.electric_shock_effect.description": "This effect causes you to shake violently and deals damage over time.",
   "effect.terramity.dripleaf_step.description": "This effect places dripleaf blocks beneath your feet, letting you walk mid-air.",
-  "effect.terramity.flipped_gravity.description": "This effect flips gravity upside-down for you!"
+  "effect.terramity.flipped_gravity.description": "This effect flips gravity upside-down for you!",
+  "entity.terramity.anti_gravity_round_projectile_projectile": "Anti-Gravity Round",
+  "entity.terramity.shock_bolt": "Shock Bolt",
+  "item.terramity.throwing_bomb": "Heavy Bomb"
 }

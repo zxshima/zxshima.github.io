@@ -1,0 +1,19 @@
+{
+	"object":
+	{
+		"entity":
+		{
+			"name" : "alexsmobs:tasmanian_devil",
+			"width" : ">=0.5"
+		}
+	},
+	"render":
+	{
+		"translation" : "y=-0.3,x=0,z=0.4",
+		"rotation" : "x=-90",
+		"nbt" :
+			{
+				"Sitting" : "0"
+			}
+	}
+}

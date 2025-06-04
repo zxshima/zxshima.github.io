@@ -12,3 +12,8 @@ Packs:
 	TwinklingStars
 	GoldenSavanna
 	UniqueDyes
+	DifferentStems
+	LowerFire
+	LowerGrass
+	LowerSnow
+	LowerPodzol

@@ -164,6 +164,27 @@
 			x: -1.5d
 			y: -2.5d
 		}
+		{
+			description: ["You have used your Youth Potion on a Happy Ghast. If you use another one, it will stay a Ghastling forever! If adult Ghast wore a &eharness&r, ghastling will do too, even though harnesses are usually too big for them!"]
+			id: "66137D9D32D1B238"
+			invisible: true
+			rewards: [{
+				id: "5A99851EDEEDD517"
+				item: "species:youth_potion"
+				type: "item"
+			}]
+			subtitle: "Eternal Youth"
+			tasks: [{
+				icon: "minecraft:ghast_tear"
+				id: "32BC202A12A26007"
+				stage: "ghast_young"
+				title: "Ghast"
+				type: "gamestage"
+			}]
+			title: "Ghastling"
+			x: -2.5d
+			y: 1.5d
+		}
 	]
 	title: "Adventure"
 }

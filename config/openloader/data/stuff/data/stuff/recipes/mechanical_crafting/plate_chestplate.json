@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "     ",
+    " A A ",
+    " AAA ",
+    " AAA ",
+    "     "
+  ],
+  "result": {
+    "item": "minecraft:iron_chestplate"
+  }
+}

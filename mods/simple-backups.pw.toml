@@ -1,13 +1,13 @@
 name = "Simple Backups"
-filename = "SimpleBackups-1.20.1-3.1.10.jar"
+filename = "SimpleBackups-1.20.1-3.1.11.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "8616bc2d6c4a9db507c559fa26fdfc2c89912d2d"
+hash = "5a961213b962b0786178ee68817353cb1d6f21be"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6577894
+file-id = 6608359
 project-id = 583228
