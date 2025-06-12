@@ -37,6 +37,7 @@ ServerEvents.recipes(event => {
     event.remove({id: 'ars_nouveau:novice_spell_book'})
     event.remove({id: 'ars_nouveau:ritual_scrying'})
     event.remove({ output: 'backpacked:backpack' })
+    event.remove({id: 'caverns_and_chasms:bejeweled_apple'})
     event.remove({id: 'constructionwand:diamond_wand'})
     event.remove({id: 'ecologics:beetroot_soup_from_coconut_husk'})
     event.remove({id: 'ecologics:mushroom_stew_from_coconut_husk'})
@@ -55,6 +56,10 @@ ServerEvents.recipes(event => {
     event.remove({ output: 'geodes:emerald_crystal_block' })
     event.remove({ output: 'oreganized:glance' })
     event.remove({id: 'progressivebosses:trident'})
+    event.remove({id: 'compat_o_plenty:cutting/blue_hydrangea'})
+    event.remove({id: 'compat_o_plenty:cutting/goldenrod'})
+    event.remove({id: 'compat_o_plenty:cutting/rose_quartz_block'})
+    event.remove({id: 'create:milling/compat/biomesoplenty/violet'})
     event.remove({id: 'quark:building/crafting/stonevariants/chiseled_tuff_bricks'})
     event.remove({ output: 'terramity:cardboard' })
     event.remove({ output: 'terramity:cardboard_necklace_recipe' })
@@ -274,7 +279,32 @@ ServerEvents.recipes(event => {
         A: 'minecraft:leather',
         B: 'minecraft:tripwire_hook',
         C: 'minecraft:string',
-        D: 'minecraft:iron_ingot',
+        D: 'minecraft:iron_ingot'
+    }
+    );
+    event.shaped('2x biomesoplenty:hanging_cobweb', [
+        ' A ',
+        ' A ',
+        '   '
+    ], 	{
+        A: 'minecraft:cobweb'
+    }
+    );
+    event.shaped('3x biomesoplenty:webbing', [
+        '   ',
+        'AAA',
+        '   '
+    ], 	{
+        A: 'minecraft:cobweb'
+    }
+    );
+    event.shaped('caverns_and_chasms:bejeweled_apple', [
+        'BBB',
+        'BAB',
+        'BBB'
+    ], 	{
+        A: 'minecraft:golden_apple',
+        B: 'caverns_and_chasms:spinel'
     }
     );
     event.shaped('constructionwand:diamond_wand', [
@@ -286,6 +316,8 @@ ServerEvents.recipes(event => {
         B: 'quark:diamond_heart'
     }
     );
+    event.shapeless('create:dough', ['#forge:eggs','3x kubejs:barley_flour']);
+    event.shapeless('create:dough', ['minecraft:water_bucket','3x kubejs:barley_flour']).replaceIngredient('minecraft:water_bucket', 'minecraft:bucket');
     event.shaped('etcetera:hammer', [
         'AAA',
         'ABA',
@@ -347,6 +379,11 @@ ServerEvents.recipes(event => {
 
     // mod consistency
 
+    event.replaceInput(
+        { input: 'biomesoplenty:rose_quartz_block' },
+        'biomesoplenty:rose_quartz_block',
+        'create:polished_rose_quartz'
+    );
     event.replaceInput(
         { input: 'caverns_and_chasms:cobblestone_bricks' },
         'caverns_and_chasms:cobblestone_bricks',
@@ -456,6 +493,53 @@ ServerEvents.recipes(event => {
         { input: '#quark:stone_tool_materials', output: '#forge:copper_tools' },
         '#quark:stone_tool_materials',
         'minecraft:copper_ingot'
+    );
+    event.recipes.farmersdelight.cutting(
+        'create:rose_quartz',
+        '#forge:tools/pickaxes',
+        'biomesoplenty:rose_quartz_chunk'
+    );
+    event.recipes.farmersdelight.cutting(
+        'biomesoplenty:endbloom',
+        '#c:tools/knives',
+        [
+            '2x minecraft:light_gray_dye'
+        ],
+    );
+    event.recipes.farmersdelight.cutting(
+        'biomesoplenty:waterlily',
+        '#c:tools/knives',
+        [
+            '2x minecraft:red_dye'
+        ],
+    );
+    event.recipes.farmersdelight.cutting(
+        'biomesoplenty:white_lavender',
+        '#c:tools/knives',
+        [
+            '2x minecraft:white_dye'
+        ],
+    );
+    event.recipes.farmersdelight.cutting(
+        'minecraft:cobweb',
+        '#forge:shears',
+        [
+        '3x minecraft:string'
+        ],
+    );
+    event.recipes.farmersdelight.cutting(
+        'biomesoplenty:hanging_cobweb',
+        '#forge:shears',
+        [
+            '2x minecraft:string'
+        ],
+    );
+    event.recipes.farmersdelight.cutting(
+        'biomesoplenty:webbing',
+        '#forge:shears',
+        [
+            'minecraft:string'
+        ],
     );
 
     // armorsmithing

@@ -1,0 +1,16 @@
+{
+    "name": "ad_astra",
+    "dimension-names": [
+        "moon",
+        "earth_orbit",
+        "glacio_orbit",
+        "moon_orbit",
+        "mars_orbit",
+        "mercury_orbit",
+        "venus_orbit"
+    ],
+    "disable-all": true,
+    "biome-selector": {
+        "always": false
+    }
+}

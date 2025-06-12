@@ -8,6 +8,8 @@
   },
   "dimensions": {
     "abyssalcraft": 1,
+    "ad_astra": 0,
+    "ad_astra.planets": 0.6535714268684387,
     "betweenlands": 1,
     "cave": 1,
     "end": 1,
@@ -23,6 +25,10 @@
     "abyssalcraft_dark": {
       "overall": 0.49822065234184265,
       "suspense.suspense": 0.5017793774604797
+    },
+    "ad_astra_planets_wind": {
+      "overall": 1,
+      "wind.light-wind": 1
     },
     "end_unknown": {
       "overall": 0.5017793774604797,

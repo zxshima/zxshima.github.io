@@ -1,0 +1,5 @@
+{
+  "enchantment.minecraft.blast_protection.desc": "Reduces damage from explosions and explosion knockback. Also slightly reduces all damage if level 3 or above.",
+  "enchantment.minecraft.fire_protection.desc": "Reduces the effects of fire damage and burn time when set on fire. Also slightly reduces all damage if level 3 or above.",
+  "enchantment.minecraft.projectile_protection.desc":"Reduces damage from projectiles such as arrows and fire balls. Also slightly reduces all damage if level 3 or above."
+}

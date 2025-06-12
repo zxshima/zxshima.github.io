@@ -178,3 +178,4 @@ key_key.jade.show_uses:key.keyboard.keypad.4:NONE
 key_key.jade.narrate:key.keyboard.keypad.5:NONE
 key_key.jade.show_details:key.keyboard.left.shift:NONE
 key_key.ars_elemental.open_pouch:key.keyboard.j:NONE
+key_key.raised.options:key.keyboard.unknown:NONE

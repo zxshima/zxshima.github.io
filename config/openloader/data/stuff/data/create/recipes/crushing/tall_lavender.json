@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:tall_lavender"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:green_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:purple_dye"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:icy_iris"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:light_blue_dye"
+    }
+  ]
+}

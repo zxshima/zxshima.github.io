@@ -1,4 +1,5 @@
 {
   "block.create.copper_bars": "Decorated Copper Bars",
-  "block.create.copper_door": "Copper Sliding Door"
+  "block.create.copper_door": "Copper Sliding Door",
+  "item.create.wrench": "Engineer's Wrench"
 }

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:barley"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "kubejs:barley_flour"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "modifiers": [
+    {
+      "type": "criteria",
+      "config": {
+        "criteria": {
+          "kubejs:chevon": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "kubejs:chevon"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          },
+          "kubejs:cooked_chevon": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "kubejs:cooked_chevon"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          },
+          "kubejs:deer_cracker": {
+            "conditions": {
+              "item": {
+                "items": [
+                  "kubejs:deer_cracker"
+                ]
+              }
+            },
+            "trigger": "minecraft:consume_item"
+          }
+        },
+        "requirements": [
+          [
+            "kubejs:chevon"
+          ],
+          [
+            "kubejs:cooked_chevon"
+          ],
+          [
+            "kubejs:deer_cracker"
+          ]
+        ],
+        "should_replace_requirements": false
+      }
+    }
+  ],
+  "priority": "normal",
+  "selector": "minecraft:husbandry/balanced_diet"
+}

@@ -1,6 +1,7 @@
 ItemEvents.tooltip(event => {
   event.add(['kubejs:lava_chicken'], '§6Spicy!')
   event.add(['upgrade_aquatic:mulberry_pie'], '§dMessy!')
+  event.add(['caverns_and_chasms:bejeweled_apple'], '§7§oUnpredictable!')
   event.add(['conjurer_illager:throwable_ball'], '§8§oCan be thrown')
   event.add(['conjurer_illager:throwing_card'], '§8§oCan be thrown')
   event.add(['supplementaries:blue_bomb'], '§8§oCan be thrown')
