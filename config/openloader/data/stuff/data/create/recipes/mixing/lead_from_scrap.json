@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "kubejs:lead_scrap"
+    },
+    {
+      "item": "kubejs:lead_scrap"
+    },
+    {
+      "item": "kubejs:lead_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "oreganized:lead_ingot"
+    }
+  ]
+}

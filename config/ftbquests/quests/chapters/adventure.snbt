@@ -46,7 +46,7 @@
 				value: 1L
 			}]
 			x: -0.5d
-			y: -0.5d
+			y: -1.5d
 		}
 		{
 			can_repeat: true
@@ -78,7 +78,7 @@
 			}]
 			title: "Painting: Theater"
 			x: -0.5d
-			y: 0.5d
+			y: -0.5d
 		}
 		{
 			id: "148847FADD250246"
@@ -90,7 +90,7 @@
 				type: "structure"
 			}]
 			x: -1.5d
-			y: -0.5d
+			y: -1.5d
 		}
 		{
 			id: "68831C0995CD1E5D"
@@ -102,6 +102,7 @@
 				item: "minecraft:bone_block"
 				type: "item"
 			}]
+			shape: "hexagon"
 			subtitle: "Longing..."
 			tasks: [{
 				id: "06DB0404B5AC9796"
@@ -109,42 +110,13 @@
 				type: "item"
 			}]
 			title: "&eTears"
-			x: -1.5d
-			y: 1.5d
-		}
-		{
-			description: ["Congratulations! You are now a proud owner of a Fortune Ancient Tome. Unfortunately, Fortune enchantment is disabled, so here's a choice of alternatives for you, so you don't feel so lost."]
-			id: "09B3F950C5CDC5FA"
-			invisible: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "34D0EF5887297E7A"
-				table_id: 4650450379584613974L
-				type: "choice"
-			}]
-			subtitle: "Consolation Prize"
-			tasks: [{
-				id: "54C2040B04EC7792"
-				item: {
-					Count: 1
-					id: "quark:ancient_tome"
-					tag: {
-						StoredEnchantments: [{
-							id: "minecraft:fortune"
-							lvl: 3s
-						}]
-					}
-				}
-				match_nbt: true
-				type: "item"
-			}]
-			x: -1.5d
-			y: -3.5d
+			x: -4.5d
+			y: -0.5d
 		}
 		{
 			description: [
-				"Pathfinder Quill lets you quickly get a location of a certain remote biome, saving you time searching."
-				"They are sold by cowardly Wandering Traders."
+				"Pathfinder Quill lets you quickly get a location of a certain remote biome, saving you time searching for it."
+				"They are sold by cowardly Wandering Traders and Cartographer villagers."
 			]
 			id: "39F893E982946369"
 			tasks: [{
@@ -161,8 +133,8 @@
 				match_nbt: false
 				type: "item"
 			}]
-			x: -1.5d
-			y: -2.5d
+			x: -3.5d
+			y: -0.5d
 		}
 		{
 			description: ["You have used your Youth Potion on a Happy Ghast. If you use another one, it will stay a Ghastling forever! If adult Ghast wore a &eharness&r, ghastling will do too, even though harnesses are usually too big for them!"]
@@ -173,6 +145,7 @@
 				item: "species:youth_potion"
 				type: "item"
 			}]
+			shape: "hexagon"
 			subtitle: "Eternal Youth"
 			tasks: [{
 				icon: "minecraft:ghast_tear"
@@ -182,8 +155,35 @@
 				type: "gamestage"
 			}]
 			title: "Ghastling"
-			x: -2.5d
-			y: 1.5d
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			id: "331DC3A1B27E1E0F"
+			rewards: [{
+				id: "1716D6C9311FD249"
+				item: "ad_astra:cheese"
+				type: "item"
+			}]
+			subtitle: "Spaaaaaace!!!"
+			tasks: [{
+				id: "5CD545EE9E82FE35"
+				item: {
+					Count: 1
+					id: "quark:ancient_tome"
+					tag: {
+						StoredEnchantments: [{
+							id: "allurement:launch"
+							lvl: 2s
+						}]
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Launch Ancient Tome"
+			x: -3.5d
+			y: -1.5d
 		}
 	]
 	title: "Adventure"

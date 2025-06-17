@@ -1,5 +1,6 @@
 {
   "item.mowziesmobs.sand_rake.text.0": "Use on sand to create raked patterns. Repaired with wood planks",
   "block.mowziesmobs.red_raked_sand": "Raked Red Sand",
-  "entity.mowziesmobs.ice_breath": "Ice Breath"
+  "entity.mowziesmobs.ice_breath": "Ice Breath",
+  "entity.mowziesmobs.rock_sling": "Floating Rock"
 }

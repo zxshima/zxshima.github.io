@@ -53,14 +53,15 @@
 				item: "minecraft:oak_wood"
 				type: "item"
 			}]
+			shape: "rsquare"
 			subtitle: "See Saw"
 			tasks: [{
 				id: "7F32BDE5F76F532B"
 				item: "sawmill:sawmill"
 				type: "item"
 			}]
-			x: -1.25d
-			y: -1.5d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			description: [
@@ -73,14 +74,15 @@
 				item: "minecraft:lodestone"
 				type: "item"
 			}]
+			shape: "rsquare"
 			subtitle: "Mountain Shaper and Moon Carver"
 			tasks: [{
 				id: "126B5401CB251FB0"
 				item: "minecraft:stonecutter"
 				type: "item"
 			}]
-			x: -2.25d
-			y: -1.5d
+			x: 0.0d
+			y: -2.0d
 		}
 		{
 			description: [
@@ -94,14 +96,15 @@
 				item: "minecraft:painting"
 				type: "item"
 			}]
+			shape: "diamond"
 			subtitle: "Easel Does It?"
 			tasks: [{
 				id: "03F903AC716425E7"
 				item: "easel_does_it:easel"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -3.0d
+			x: -1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1F94E330596CEC91"]
@@ -110,14 +113,15 @@
 				"Hold &eShift&r while hovering over a copycat in your inventory to see how to use them!"
 			]
 			id: "0F58C5AD0F44D363"
+			shape: "rsquare"
 			subtitle: "Capricot"
 			tasks: [{
 				id: "7C0DCBACA4F0D5A2"
 				item: "copycats:copycat_block"
 				type: "item"
 			}]
-			x: -2.5d
-			y: -0.5d
+			x: 0.0d
+			y: -1.0d
 		}
 		{
 			description: [
@@ -133,6 +137,7 @@
 				item: "biomesoplenty:flowering_oak_sapling"
 				type: "item"
 			}]
+			shape: "diamond"
 			subtitle: "Seats and Supports"
 			tasks: [
 				{
@@ -149,8 +154,8 @@
 				}
 			]
 			title: "Decorative Blocks"
-			x: 0.0d
-			y: -1.0d
+			x: -1.5d
+			y: -0.5d
 		}
 		{
 			description: [
@@ -163,14 +168,15 @@
 				item: "minecraft:daylight_detector"
 				type: "item"
 			}]
+			shape: "diamond"
 			subtitle: "Vine Boom"
 			tasks: [{
 				id: "0784748FFE722412"
 				item: "alloyed:bronze_bell"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -2.0d
+			x: -2.0d
+			y: -1.0d
 		}
 		{
 			description: [
@@ -184,6 +190,7 @@
 				item: "minecraft:stone"
 				type: "item"
 			}]
+			shape: "diamond"
 			subtitle: "Repetition"
 			tasks: [
 				{
@@ -213,7 +220,7 @@
 					type: "item"
 				}
 			]
-			x: 1.25d
+			x: 1.5d
 			y: -1.5d
 		}
 		{
@@ -230,6 +237,7 @@
 				}
 				type: "item"
 			}]
+			shape: "diamond"
 			subtitle: "Carcinization"
 			tasks: [{
 				id: "5F03902F735A9632"
@@ -243,8 +251,8 @@
 				match_nbt: true
 				type: "item"
 			}]
-			x: 2.25d
-			y: -1.5d
+			x: 2.0d
+			y: -1.0d
 		}
 		{
 			description: [
@@ -268,6 +276,7 @@
 				}
 				type: "item"
 			}]
+			shape: "diamond"
 			tasks: [
 				{
 					id: "24C0441E51143269"
@@ -286,7 +295,7 @@
 					type: "item"
 				}
 			]
-			x: 2.5d
+			x: 1.5d
 			y: -0.5d
 		}
 	]

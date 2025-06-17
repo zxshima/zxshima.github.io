@@ -13,11 +13,10 @@
     },
     {
       "chance": 0.25,
-      "count": 2,
       "item": "minecraft:light_blue_dye"
     },
     {
-      "chance": 0.05,
+      "chance": 0.25,
       "item": "minecraft:light_blue_dye"
     }
   ]

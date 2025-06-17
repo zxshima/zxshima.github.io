@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "atmospheric:water_hyacinth"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:green_dye"
+    }
+  ]
+}

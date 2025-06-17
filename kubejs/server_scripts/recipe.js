@@ -59,7 +59,10 @@ ServerEvents.recipes(event => {
     event.remove({id: 'compat_o_plenty:cutting/blue_hydrangea'})
     event.remove({id: 'compat_o_plenty:cutting/goldenrod'})
     event.remove({id: 'compat_o_plenty:cutting/rose_quartz_block'})
+    event.remove({id: 'compat_o_plenty:crafting/polished_rose_quartz'})
     event.remove({id: 'create:milling/compat/biomesoplenty/violet'})
+    event.remove({id: 'compat_o_plenty:cutting/wildflower'})
+    event.remove({id: 'create:milling/compat/biomesoplenty/wildflower'})
     event.remove({id: 'quark:building/crafting/stonevariants/chiseled_tuff_bricks'})
     event.remove({ output: 'terramity:cardboard' })
     event.remove({ output: 'terramity:cardboard_necklace_recipe' })
@@ -85,6 +88,8 @@ ServerEvents.recipes(event => {
     event.remove({id: 'terramity:onyx_helmet'})
     event.remove({id: 'terramity:onyx_leggings'})
     event.remove({id: 'terramity:toaster_tart_recipe'})
+    event.remove({id: 'terramity:bomb_charm_recipe'})
+    event.remove({id: 'terramity:gilded_feather_recipe'})
     event.remove({ output: 'terramity:stone_tiles' })
     event.remove({ output: 'terramity:stone_tile_stairs' })
     event.remove({ output: 'terramity:stone_tile_slab' })
@@ -317,7 +322,6 @@ ServerEvents.recipes(event => {
     }
     );
     event.shapeless('create:dough', ['#forge:eggs','3x kubejs:barley_flour']);
-    event.shapeless('create:dough', ['minecraft:water_bucket','3x kubejs:barley_flour']).replaceIngredient('minecraft:water_bucket', 'minecraft:bucket');
     event.shaped('etcetera:hammer', [
         'AAA',
         'ABA',
@@ -390,6 +394,11 @@ ServerEvents.recipes(event => {
         'quark:cobblestone_bricks'
     );
     event.replaceInput(
+        { input: 'minecraft:water_bucket' },
+        'minecraft:water_bucket',
+        '#forge:buckets/water'
+    );
+    event.replaceInput(
         { input: 'caverns_and_chasms:mossy_cobblestone_bricks' },
         'caverns_and_chasms:mossy_cobblestone_bricks',
         'quark:mossy_cobblestone_bricks'
@@ -421,6 +430,16 @@ ServerEvents.recipes(event => {
         {mod: 'terramity'},
         'terramity:cardboard',
         'create:cardboard'
+    );
+    event.shaped('terramity:bomb_charm', [
+        'ABA',
+        'BCB',
+        'ABA'
+    ], 	{
+        A: 'oreganized:silver_ingot',
+        B: 'oreganized:lead_ingot',
+        C: 'terramity:throwing_bomb'
+    }
     );
     event.shaped('trials:polished_tuff_wall', [
         'AAA',

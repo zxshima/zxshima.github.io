@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "kubejs:silver_scrap"
+    },
+    {
+      "item": "kubejs:silver_scrap"
+    },
+    {
+      "item": "kubejs:silver_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "oreganized:silver_ingot"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:goldenrod"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:yellow_dye"
+    }
+  ]
+}

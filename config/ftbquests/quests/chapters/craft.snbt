@@ -39,10 +39,16 @@
 					optional_task: true
 					type: "item"
 				}
+				{
+					id: "47C80B8CDCC782EB"
+					item: "kubejs:silver_scrap"
+					optional_task: true
+					type: "item"
+				}
 			]
 			title: "Metal Scrap"
-			x: -3.0d
-			y: -2.0d
+			x: -6.0d
+			y: -1.0d
 		}
 		{
 			description: [
@@ -52,14 +58,15 @@
 				"Click on slots in the UI to lock them, put the ingredients in remaining slots, supply it with a redstone signal, and watch it do the magic. It is there to co-exist with a similar Mechanical Crafter from Create, but only has 9 slots and no recipe locking."
 			]
 			id: "6EFD2EF5680D225A"
+			shape: "rsquare"
 			subtitle: "A Crafting Table!"
 			tasks: [{
 				id: "263B028EFC91A88E"
 				item: "quark:crafter"
 				type: "item"
 			}]
-			x: -3.0d
-			y: -1.0d
+			x: -5.0d
+			y: -3.0d
 		}
 		{
 			description: [
@@ -74,8 +81,116 @@
 				type: "item"
 			}]
 			title: "Treasure Geode"
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["26DA5497DF68A6F1"]
+			description: [
+				"Defensive Iron armor gained Armor Toughness compared to its vanilla counterpart to differentiate it from Chainmail tier."
+				"It better protects you against heavier attacks!"
+			]
+			id: "1F8F8B9486CF2C36"
+			shape: "circle"
+			tasks: [{
+				id: "1791E66DDC1075D6"
+				item: "kubejs:common_smithing_template"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1F8F8B9486CF2C36"]
+			description: [
+				"Gemstone armor is the same old one you know and love. All types are identical to Diamond armor. It is the strongest tier behind Netherite!"
+				"You can mix and match gems when crafting templates, but you only need one gem to choose between the type of Armor Set ability you want!"
+				"Press &bX&r to activate Armor Set Ability."
+				""
+				"&bDiamond&r has no set ability,"
+				"&6Topaz&r gives Slow Falling,"
+				"&cRuby&r gives Fire Resistance,"
+				"&9Sapphire&r gives Water Breathing,"
+				"&5Onyx&r randomly teleports you!"
+			]
+			id: "6AF44C5B86625409"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0362DD1CFA314195"
+				table_id: 5784033362710286282L
+				type: "choice"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0E5026B587B084C4"
+				item: "kubejs:gemstone_smithing_template"
+				type: "item"
+			}]
 			x: -3.0d
-			y: 0.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Trusty leather armor has to special attributes, but can be colored with a dye or upgraded to higher tiers."
+				"Get leather scraps by cutting leather on a Cutting Table."
+			]
+			id: "26DA5497DF68A6F1"
+			shape: "circle"
+			tasks: [{
+				id: "4122B1DC1A6A79D9"
+				item: "dolt_mod_how:leather_scraps"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Smithing Table is a necessary block in progression, allowing you to upgrade armor from &bLeather&r tier all the way beyond &bNetherite&r."
+				"It can also be used to apply armor trims or runes, if you find a matching template."
+			]
+			id: "1EDA11350315647F"
+			shape: "rsquare"
+			subtitle: "Lucky! Blacksmith"
+			tasks: [{
+				id: "6B9D846E64083AE4"
+				item: "minecraft:smithing_table"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Chainmail armor is a cheap offensive alternative to Leather, but doesn't have a wide upgrade path."
+				"It trails slightly behind Iron, and each piece of it gives you 1 Attack Damage!"
+			]
+			id: "512634CE55389A20"
+			optional: true
+			tasks: [{
+				id: "740382C8F977B26D"
+				item: "minecraft:chain"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["512634CE55389A20"]
+			description: [
+				"Steel armor has slightly less durability, defense and toughness than Gemstone, but gives Knockback resistance."
+				"It can be upgraded directly from Chainmail armor, and is cheaper to repair, provided you have a factory set up!"
+			]
+			id: "4648200114C32C13"
+			optional: true
+			tasks: [{
+				id: "0FABEB0F45611F32"
+				item: "alloyed:steel_upgrade_smithing_template"
+				type: "item"
+			}]
+			title: "Reinforced Smithing Template"
+			x: -4.0d
+			y: -5.0d
 		}
 	]
 	title: "Craft"

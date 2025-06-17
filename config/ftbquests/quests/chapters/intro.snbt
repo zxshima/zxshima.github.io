@@ -498,6 +498,7 @@
 				item: "minecraft:bread"
 				type: "item"
 			}]
+			shape: "pentagon"
 			subtitle: "All Things Return to Dust..."
 			tasks: [{
 				id: "0E3B295AC09D1E15"

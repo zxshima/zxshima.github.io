@@ -4,7 +4,7 @@ ItemEvents.tooltip(event => {
   event.add(['caverns_and_chasms:bejeweled_apple'], '§7§oUnpredictable!')
   event.add(['conjurer_illager:throwable_ball'], '§8§oCan be thrown')
   event.add(['conjurer_illager:throwing_card'], '§8§oCan be thrown')
-  event.add(['supplementaries:blue_bomb'], '§8§oCan be thrown')
+  event.add(['supplementaries:bomb_blue'], '§8§oCan be thrown')
   event.add(['supplementaries:bomb'], '§8§oCan be thrown')
   event.add(['terramity:throwing_bomb'], '§8§oCan be thrown')
   event.add(['terramity:throwing_bomb'], '§7§oBreaks terrain!')

@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "kubejs:gold_scrap"
+    },
+    {
+      "item": "kubejs:gold_scrap"
+    },
+    {
+      "item": "kubejs:gold_scrap"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ]
+}

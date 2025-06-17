@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:buckets/water"
+    },
+    {
+      "item": "kubejs:barley_flour"
+    },
+    {
+      "item": "kubejs:barley_flour"
+    },
+    {
+      "item": "kubejs:barley_flour"
+    }
+  ],
+  "result": {
+    "item": "create:dough"
+  }
+}

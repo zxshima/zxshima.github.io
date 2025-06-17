@@ -1,0 +1,12 @@
+{
+	id: "504503B2C15ACFCA"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "terramity:onyx" }
+		{ item: "terramity:topaz" }
+		{ item: "terramity:sapphire" }
+		{ item: "terramity:ruby" }
+	]
+	title: "Gemstones"
+}

@@ -1,5 +1,6 @@
 {
   "block.ad_astra.radio": "Advanced Internet Radio",
   "item.ad_astra.cheese": "'Cheese'",
-  "block.ad_astra.cheese_block": "'Cheese' Block"
+  "block.ad_astra.cheese_block": "'Cheese' Block",
+  "item.ad_astra.wrench": "Spaceman's Wrench"
 }

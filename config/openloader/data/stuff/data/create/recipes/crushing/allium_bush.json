@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "overweight_farming:allium_bush"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:magenta_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:magenta_dye"
+    }
+  ]
+}

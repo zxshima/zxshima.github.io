@@ -10,6 +10,10 @@
     {
       "count": 2,
       "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.05,
+      "item": "minecraft:green_dye"
     }
   ]
 }

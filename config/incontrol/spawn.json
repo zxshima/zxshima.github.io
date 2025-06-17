@@ -74,7 +74,6 @@
     "when": "onjoin",
     "dimension": "minecraft:overworld",
     "result": "allow",
-    "healthmultiply": 1.5,
     "damagemultiply": 2,
     "armorset": 12
   },
