@@ -1,13 +1,13 @@
 name = "Every Compat (Stone Zone)"
-filename = "stonezone-1.20-2.8.8.jar"
+filename = "stonezone-1.20-2.8.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cee4e63baf5e7dbcdf594a500a7d93e54210c124"
+hash = "e06b7fc88b9fe10cb6fecfa4340e4550ee7a6529"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6616594
+file-id = 6702735
 project-id = 1154622

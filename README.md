@@ -14,13 +14,8 @@ Tide Extra Compatibility - https://modrinth.com/datapack/tide-extra-compatibilit
   
 Resource Packs:   
 Ars Nouveau Brassified - https://www.curseforge.com/minecraft/texture-packs/ars-nouveau-brass-ified-create-style-anbics   
-Bat Backport - https://www.curseforge.com/minecraft/texture-packs/bat-backport   
 Biomes O' Plenty Renewed - https://modrinth.com/resourcepack/biomeso-plenty-renewed   
-Environmental Water - https://www.curseforge.com/minecraft/texture-packs/environmental-water   
 Fogulous - https://modrinth.com/resourcepack/fogulous   
 Redstone Torch Backport Supporter - www.curseforge.com/minecraft/texture-packs/redstone-torch-backport-mod   
 Soft Weather - https://www.curseforge.com/minecraft/texture-packs/soft-weather   
 Vanilla Tweaks (misc. resource pack tweaks) - https://vanillatweaks.net/   
-
-Shaders:   
-Complementary Reimagined - https://www.curseforge.com/minecraft/shaders/complementary-reimagined   

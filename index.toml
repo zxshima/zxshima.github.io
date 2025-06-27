@@ -138,7 +138,7 @@ hash = "b6b98e19d2d905b4ecda44c8150353bef0c80faba2130027c3da85466abb8354"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/adventure.snbt"
-hash = "b091de13781310ecf2711a3e4576fa18116a2cd19d6c3c5d9290e88843efbcfb"
+hash = "9322f0ecbb722b63259988530ac3ebd9c0d9487698078e80faab268d5fa3ff11"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/building.snbt"
@@ -2185,6 +2185,10 @@ file = "config/openloader/resources/00_deer/assets/trials/lang/en_us.json"
 hash = "40fece196145841630a67cff46f17cd08baf3e78534ec1d8950d0fbf82fbf76c"
 
 [[files]]
+file = "config/openloader/resources/00_deer/assets/vanillabackport/lang/en_us.json"
+hash = "090bd3961c92f7eaa5a52fcfbf80d8ae312df47254a09fb8d4e6ac31b1484eb2"
+
+[[files]]
 file = "config/openloader/resources/00_deer/assets/xercapaint/lang/en_us.json"
 hash = "30a9b1b3015fd721d7dd07946b3dadaedd1b513575110c9b91cf6ef4710bd6b0"
 
@@ -3945,14 +3949,6 @@ file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/bl
 hash = "dacec9b350e283e254883f39dd1294c5000cabda5fdfd027132f3ecf6d201863"
 
 [[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/spanish_moss.png"
-hash = "41b61d9244da0283d25d13a0ffaeae82091d233309aea24c23e60f340b282d8e"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/spanish_moss_plant.png"
-hash = "3ccc2a6b372b0d2e4783f6e3ce47b446c4141af9efe9c87dafe52b8285dd2802"
-
-[[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/spider_egg_bottom.png"
 hash = "126d451339bb987af135379163e1a239844a268778ffb14378be9ade797f3b81"
 
@@ -4259,10 +4255,6 @@ hash = "462a6ecc42b0db4f017144fbddcb27321a66461c6c398a1ec19b94f1f769e174"
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/willow_leaves_mossy.png"
 hash = "2f9e40faaf12309d555b50c6218b4ee43fe2de138c7182875958605db1c9c2d6"
-
-[[files]]
-file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/willow_leaves_mossy_overlay.png"
-hash = "58a6cdb867671452f9e31884bd42a22009d895dff9d4d3c7132544d7444a4894"
 
 [[files]]
 file = "config/openloader/resources/BOP_renewed/assets/biomesoplenty/textures/block/willow_log.png"
@@ -5269,6 +5261,10 @@ file = "config/openloader/resources/Fogulous_v1.1.1/assets/minecraft/polytone/bi
 hash = "ffac6fa7b6bfff59d697b26298e2560e447f7f1acab1605d2ddb54f68788c28a"
 
 [[files]]
+file = "config/openloader/resources/Fogulous_v1.1.1/assets/vanillabackport/polytone/biome_modifiers/pale_garden.json"
+hash = "729239accfce8f8e5be7855d55dc9b492775588475d8adc5e4dcbba8efb61458"
+
+[[files]]
 file = "config/openloader/resources/Fogulous_v1.1.1/pack.mcmeta"
 hash = "e0831fd259a37aa49c44dc73aaad1f735377304184c9745af146d5cd5f13f274"
 
@@ -6098,7 +6094,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "ab769d9c60cfba798a0538bad596e374dc9c68a9c59ad83684afc66ce4ebfe7f"
+hash = "0c8838dba7d2090968ca9ec633260d42ca16f1df186a780bd5965994541d9f74"
 metafile = true
 
 [[files]]
@@ -6383,7 +6379,7 @@ metafile = true
 
 [[files]]
 file = "mods/functional-storage.pw.toml"
-hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
+hash = "ea05f8426dda347174d1690299c4517a489c6c17370a98fd812e9d06ce1dbcfd"
 metafile = true
 
 [[files]]
@@ -6418,7 +6414,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "641e8cdce2074ed960325fa823365c9832e01c23fa2031273f5701298618db49"
+hash = "84a63549f33ef06ca373f65865c2e31008f94220383b29d2338fb1ca4722380c"
 metafile = true
 
 [[files]]
@@ -6853,7 +6849,7 @@ metafile = true
 
 [[files]]
 file = "mods/species.pw.toml"
-hash = "3c1c303483fd5bc44aa5ca939ecb4dc69b5a9de1d817a723a69ec2805c238414"
+hash = "fea667a7edf753397589e0f869349c4daab571b9b92bed214d18dd60fb999497"
 metafile = true
 
 [[files]]
@@ -6863,7 +6859,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "1ad1625973088eaf4744b1693e2eab0f233ec49df55a19ad3aa842b4ec139720"
+hash = "87d41bcd6091055cf682b07a9ce67fdce5629bd97c9c52e74eba8cff57c6712c"
 metafile = true
 
 [[files]]

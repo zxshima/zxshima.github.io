@@ -104,6 +104,11 @@
 			}]
 			shape: "hexagon"
 			subtitle: "Longing..."
+			tasks: [{
+				id: "33638C688EB938E3"
+				item: "vanillabackport:music_disc_tears"
+				type: "item"
+			}]
 			title: "&eTears"
 			x: -4.5d
 			y: -0.5d
