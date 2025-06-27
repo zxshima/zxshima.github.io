@@ -1,13 +1,13 @@
 name = "Skin Restorer"
-filename = "skinrestorer-2.3.3+1.20-forge.jar"
+filename = "skinrestorer-2.3.5+1.20-forge.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "bbf80f7a2aa3ab9d706d8369000ccacc4b4433ca"
+hash = "d8bc23da342e9bab6babfb0f35ed98e975e33b50"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6605737
+file-id = 6678996
 project-id = 443823

@@ -1,13 +1,13 @@
 name = "Little Joys"
-filename = "littlejoys-forge-1.20.1-20.1.11.jar"
+filename = "littlejoys-forge-1.20.1-20.1.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7f20e5216afa31e6faf568b106f996244afa6c14"
+hash = "db00d738fbfe9ef0131d9ea757eb1256f1240254"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6636802
+file-id = 6674603
 project-id = 1235950

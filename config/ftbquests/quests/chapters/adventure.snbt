@@ -104,11 +104,6 @@
 			}]
 			shape: "hexagon"
 			subtitle: "Longing..."
-			tasks: [{
-				id: "06DB0404B5AC9796"
-				item: "addurdisc:disc_tears"
-				type: "item"
-			}]
 			title: "&eTears"
 			x: -4.5d
 			y: -0.5d

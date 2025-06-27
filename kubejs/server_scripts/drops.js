@@ -12,12 +12,6 @@ LootJS.modifiers((event) => {
 
 LootJS.modifiers((event) => {
     event
-    .addEntityLootModifier("specialmobs:ghast")
-    .matchDirectKiller((entity) => {
-        entity.anyType("fireball")
-    })
-    .addLoot("addurdisc:disc_tears");
-    event
     .addEntityLootModifier("specialmobs:witch")
     .randomChance(0.1)
     .addLoot("endrem:witch_pupil");
