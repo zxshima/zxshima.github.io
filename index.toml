@@ -106,7 +106,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "e0a910eccf361327ae4ea1ce2bd4a63641a544eb176c8ca29ae2c1110d7d8d93"
+hash = "3132b505510d0272bc801f5bde7d8f5359570a87305fd6a8985daa64ee5313c2"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -6808,7 +6808,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5be53c005a8c4ca4347c4a982ee1b2e5c8db18c3582bcc7dfc8814f5cda67223"
+hash = "4a5d3ec8e5ff7bfb67e3a8dd95e421504fd0daa271979648a785fba7c073c674"
 metafile = true
 
 [[files]]
