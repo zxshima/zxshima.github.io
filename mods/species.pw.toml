@@ -1,13 +1,13 @@
 name = "Species"
-filename = "species-3.0.jar"
+filename = "species-3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/s5d4P01r/versions/VsbSO8qv/species-3.0.jar"
+url = "https://cdn.modrinth.com/data/s5d4P01r/versions/xkMjveeZ/species-3.4.jar"
 hash-format = "sha512"
-hash = "f2f3361dc906c80debbc6f77ed801d6d95b03f85ea4fb72ed240ca0ff66d4a86380927aee1b870a44adac45b784e6939d117c8d5e6462f4da83d8ea9b63f6218"
+hash = "e7995bcf3a8ea07ebd2e640e03df69c9d427820a7bcf881432f82253eea31f13ce2bed549af6c0e557d39301aee422e4a4090d16e22df9a73244cdcfefd7fbe9"
 
 [update]
 [update.modrinth]
 mod-id = "s5d4P01r"
-version = "VsbSO8qv"
+version = "xkMjveeZ"

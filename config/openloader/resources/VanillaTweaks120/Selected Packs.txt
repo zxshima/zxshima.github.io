@@ -1,6 +1,7 @@
 Vanilla Tweaks Resource Pack
 Version: 1.20
 Packs:
+	AlternateCutCopper
 	CloudFogFix
 	SlimeParticleFix
 	BlazeFix

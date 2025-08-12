@@ -1,13 +1,13 @@
 name = "Dolt's Awesome Tweaks"
-filename = "[ADDON-DOLT] dolt_mod_how-1.20.1-2.3.7.jar"
+filename = "dolt_mod_how-1.20.1-2.4.1-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "69cebb7043a6c3b96c1a5bf22eb8269a01e201ce"
+hash = "48cd21742969fa427f04044134e5f3d964ba37d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6514041
+file-id = 6823713
 project-id = 993840
