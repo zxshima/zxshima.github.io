@@ -1,2 +1,61 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "2451e72d798f4e5787c77dbe226818303122f9ef7f4798e622fc02e4c80264cb"
+metafile = true
+
+[[files]]
+file = "mods/field-guide.pw.toml"
+hash = "04130b8bf94bfd74d6fd9e47d730baec88f94eafe62875600adb8f4a87abfbc2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "551f2914274bc47748245d188346f4263535d4f6864d16555764950601167849"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "1cb0f951bbfb76a54048a5d81bf7bb63a349059fac7db869a044eb6df222d650"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "b0a52e9ae1213ac58bc452fa09bf4f88ab2603d6368f707c94ac29276e39b2aa"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
+metafile = true
