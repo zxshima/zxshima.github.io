@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mixed_litter-startup.toml"
+hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
+
+[[files]]
 file = "config/personality-client.toml"
 hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
@@ -78,6 +82,11 @@ hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "f2be475fad96949ff8e26e8a03046b1732935b1dbd9b8824e505e7413ec08622"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "2451e72d798f4e5787c77dbe226818303122f9ef7f4798e622fc02e4c80264cb"
 metafile = true
@@ -138,6 +147,11 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "610c4f2a6bfdde68483f618819040c55d08df4f0fa1f546416f19fdec9d2e60b"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
@@ -170,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "8d27eb1a82387d3e485fed7f23d44621a8e1cb9b46865a4a7c189f8ed1ec8e3f"
 metafile = true
 
 [[files]]
