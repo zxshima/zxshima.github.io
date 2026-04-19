@@ -77,6 +77,16 @@ hash = "8dc83f93a1a58774777bbba1a186e4db95913d0d07a9c3218010e9d18d15dc1e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
@@ -139,11 +149,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
@@ -259,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/tidymods.pw.toml"
 hash = "2642be8dc95e1b7980cfcf2f1bf728b47d966d8108d149cf7935d84d7c0f6916"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "55f38d032bffc267f000451471be9380001d1a3750a6bff9bd327249ec01b69f"
 metafile = true
 
 [[files]]
