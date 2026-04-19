@@ -1,7 +1,0 @@
-{
-   "parent": "tide:item/fishing_bobber_fruit",
-   "textures": {
-      "1": "tide:item/diamond_apple_fishing_bobber",
-      "particle": "tide:item/diamond_apple_fishing_bobber"
-   }
-}
