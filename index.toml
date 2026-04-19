@@ -6,7 +6,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "debfc46935c6da00f9d4538b233e3c35b9c075f3897376cf5e16c5f38218ea32"
+hash = "4d541c8c45ce44bdfbb82eff569ce693ea581409fc76843c0d013ceb27b0cdde"
 
 [[files]]
 file = "config/tidybinds.toml"
@@ -25,6 +25,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "a4719b5188f95b71055c14fdeb7c732c8669e2ef542bdafd63721275aa32a93e"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
 metafile = true
 
 [[files]]
@@ -58,6 +63,16 @@ hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
 metafile = true
 
 [[files]]
+file = "mods/ecliptic-seasons-bundles.pw.toml"
+hash = "c293622610053cca1c0600368946df494f7344e4cdce4084ead247e4315541fc"
+metafile = true
+
+[[files]]
+file = "mods/ecliptic-seasons.pw.toml"
+hash = "8dc83f93a1a58774777bbba1a186e4db95913d0d07a9c3218010e9d18d15dc1e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
@@ -80,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
+metafile = true
+
+[[files]]
+file = "mods/gallery.pw.toml"
+hash = "c5ad1776e5593ca7af72b2d249fd284334835cd028cf95daf4b96f619eb0fe53"
 metafile = true
 
 [[files]]
@@ -138,6 +158,16 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "31101e93790de7e34e6e62c3a172b2c2a4971484588c451ac6f3963730bd869e"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
 metafile = true
@@ -150,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
@@ -183,6 +218,11 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
 metafile = true
@@ -208,8 +248,18 @@ hash = "b0a52e9ae1213ac58bc452fa09bf4f88ab2603d6368f707c94ac29276e39b2aa"
 metafile = true
 
 [[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
+metafile = true
+
+[[files]]
 file = "mods/villager-comfort-continued.pw.toml"
 hash = "bbc834f6c8ebfcd2a4f4f96e3218bdd10a90bd95fac6a19f9b320d7c130c726c"
+metafile = true
+
+[[files]]
+file = "mods/worldgen-patches.pw.toml"
+hash = "543a37a1f5ab6a4a9cd9f20cd64f1c3c84a5965baa8678f122d5678de65c45ea"
 metafile = true
 
 [[files]]
