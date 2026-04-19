@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/personality-client.toml"
+hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "debfc46935c6da00f9d4538b233e3c35b9c075f3897376cf5e16c5f38218ea32"
+
+[[files]]
+file = "config/tidybinds.toml"
+hash = "30c939854f8b0b2f56a05f3dd6692a8b8839ae0408760eab6da97029a9a3e1df"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -182,6 +190,16 @@ metafile = true
 [[files]]
 file = "mods/tide.pw.toml"
 hash = "58442e3bcd032f8f0ec1efce17e341417f6861d7d8123f76c60d2c19f39389df"
+metafile = true
+
+[[files]]
+file = "mods/tidybinds.pw.toml"
+hash = "a4686b0e533cab84e0e0a2259c332850297bc1360037384e9a2be40f99bbf1b0"
+metafile = true
+
+[[files]]
+file = "mods/tidymods.pw.toml"
+hash = "2642be8dc95e1b7980cfcf2f1bf728b47d966d8108d149cf7935d84d7c0f6916"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Tidy Mods"
+filename = "tidymods-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b3a6f6bf260ef7b50d4276a67a557f8e906fcd3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7365446
+project-id = 1408334

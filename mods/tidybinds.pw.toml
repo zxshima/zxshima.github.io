@@ -1,0 +1,13 @@
+name = "Tidy Binds"
+filename = "tidybinds-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b807bb49f7fb9f58886329be9efd5db3e416b3d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7329104
+project-id = 1400343
