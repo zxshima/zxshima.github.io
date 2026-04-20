@@ -22,22 +22,3 @@ jobs:
 
             - name: Commit Changes
               uses: stefanzweifel/git-auto-commit-action@v7
-           
-            - name: Upload artifacts
-              uses: actions/upload-pages-artifact@v3
-    
-    deploy:
-        needs: refresh
-        permissions:
-              pages: write
-              id-token: write
-
-        environment:
-              name: github-pages
-              url: ${{ steps.deployment.outputs.page_url }}
-              
-        runs-on: ubuntu-latest
-        steps:
-              - name: Deploy to GitHub Pages
-                id: deployment
-                uses: actions/deploy-pages@v4
