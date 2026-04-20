@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 13,
+		"description": "Makes rain and snow less visually obtrusive.",
+		"supported_formats": {
+			"min_inclusive": 1,
+			"max_inclusive": 32767
+		}
+	}
+}
