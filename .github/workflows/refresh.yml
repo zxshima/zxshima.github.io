@@ -1,0 +1,22 @@
+name: Pre-deploy refresh
+
+on: page_build
+
+jobs:
+    refresh:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v6.0.2
+
+            - name: Setup Go
+              uses: actions/setup-go@v6.4.0
+
+            - name: Install Packwiz
+              run: go install github.com/packwiz/packwiz@latest
+
+            - name: Run packwiz refresh
+              run: packwiz refresh
+
+            - name: Commit Changes
+              uses: stefanzweifel/git-auto-commit-action@v7
