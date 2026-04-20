@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/refresh.yml"
-hash = "da834bc881df6b7cf89961575383e8c25bff2a99f730ca860f8f0ae3a5685257"
+hash = "54e9059d87abaf99e496bb3dc9e418f92887b453344e1459db3ca5382b6ae05c"
 
 [[files]]
 file = "config/appleskin-client.toml"
