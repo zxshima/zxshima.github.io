@@ -273,8 +273,8 @@ hash = "8d27eb1a82387d3e485fed7f23d44621a8e1cb9b46865a4a7c189f8ed1ec8e3f"
 metafile = true
 
 [[files]]
-file = "mods/paxi.pw.toml"
-hash = "14d4c7b3c47b4f9e7a5c42f86ad9cff339b0654261df826d5eea0403d5196431"
+file = "mods/paxi-neoforge.pw.toml"
+hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
 
 [[files]]
@@ -408,8 +408,8 @@ hash = "543a37a1f5ab6a4a9cd9f20cd64f1c3c84a5965baa8678f122d5678de65c45ea"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
 metafile = true
 
 [[files]]
