@@ -9,35 +9,35 @@ file = "config/mixed_litter-startup.toml"
 hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/rain.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/rain.png"
 hash = "c640ba31a30d2d4bd4f9b24db3545dec7876e72f566e09da09fc67b537d980d0"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/snow.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/snow.png"
 hash = "8a95da65b9f59a9ccdc6b2dc912f6f812f514e6288a080020a2f81c587009385"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_0.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_0.png"
 hash = "88a434eeff55c56ae60484a62472430fd6df54fa5604093e47207db40e3561f7"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_1.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_1.png"
 hash = "cb11da6c6d246c38e68e25e94184ba004423a56d9d01f5699e1ce9ea7818a7cb"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_2.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_2.png"
 hash = "7d4eb39cfb8101caacf83e659a75d0922b7f5f0ea141783e6edae96bc6a3ede3"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_3.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/particle/splash_3.png"
 hash = "a66c8373d297aa56a2e8e60180eb276c8875d9b6d011fba6ba6a4467ff372aa2"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/pack.mcmeta"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/pack.mcmeta"
 hash = "b8b47dd311582c3c8f6780929b34a81e44f1f990d8b2847d0d81f924421725fe"
 
 [[files]]
-file = "config/openloader/resources/Soft-Weather-1.0-Universal/pack.png"
+file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/pack.png"
 hash = "91c314b8bdd96b3d46f6ce9ccdaa9a5ce8f1ed66f251d179bd495b76b6005d29"
 
 [[files]]
@@ -263,11 +263,6 @@ hash = "31101e93790de7e34e6e62c3a172b2c2a4971484588c451ac6f3963730bd869e"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
-metafile = true
-
-[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
 metafile = true
@@ -275,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/passable-foliage.pw.toml"
 hash = "8d27eb1a82387d3e485fed7f23d44621a8e1cb9b46865a4a7c189f8ed1ec8e3f"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "14d4c7b3c47b4f9e7a5c42f86ad9cff339b0654261df826d5eea0403d5196431"
 metafile = true
 
 [[files]]
@@ -405,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/worldgen-patches.pw.toml"
 hash = "543a37a1f5ab6a4a9cd9f20cd64f1c3c84a5965baa8678f122d5678de65c45ea"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "6d6e832992f8af3bfd90232e3582e4e11eb42901d16a747a81eea5b811489be3"
 metafile = true
 
 [[files]]
