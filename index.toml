@@ -140,6 +140,10 @@ hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
 metafile = true
 
 [[files]]
+file = "mods/deercore-1.0.jar"
+hash = "560544856f9c02df8a45dbc50c7e98fac378c9a83a5f74e9e32a7759fbd4e2dd"
+
+[[files]]
 file = "mods/ecliptic-seasons-bundles.pw.toml"
 hash = "c293622610053cca1c0600368946df494f7344e4cdce4084ead247e4315541fc"
 metafile = true
