@@ -13,12 +13,16 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
+file = "config/immersiveoverlays.json"
+hash = "fe9f111ad29396926b745ae65381cc06b8b9cd85be6c3a8215c1ecd561bfeb14"
+
+[[files]]
 file = "config/jade/plugins.json"
 hash = "11567c24a91fc7fa14b0875aafc41d63b74cb9747bf3eb4a197918c70f52c95f"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "fb692179534333dae2b9b5fc42f20b529070a32df3139fdbe6451be7438b7a7c"
+hash = "d25031cdcebd4941da3182ddc37a2eecacb09487682c92a2906522757dec14f6"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
@@ -463,6 +467,10 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 [[files]]
 file = "config/quark-common.toml"
 hash = "f2f83f829bfd032edbf291d92660204b1acf613f445be96c18afaa6052a417ad"
+
+[[files]]
+file = "config/reliable_recipes/maps.txt"
+hash = "1b9acebf72476a3d8ebad6405c21770f708efe23eecc13ccbe9e86993b3d84e6"
 
 [[files]]
 file = "config/smoothskies.json"
