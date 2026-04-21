@@ -14,7 +14,11 @@ hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
 file = "config/immersiveoverlays.json"
-hash = "fe9f111ad29396926b745ae65381cc06b8b9cd85be6c3a8215c1ecd561bfeb14"
+hash = "0d569a4d75aab0b504a9c685beb943a456a75525fedc4b695c98cbae7067d89c"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "bfd495f776f519b555f74bdd00e04f1044789f853486da263a00a60b9023ed04"
 
 [[files]]
 file = "config/jade/plugins.json"
