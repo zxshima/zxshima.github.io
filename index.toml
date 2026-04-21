@@ -17,6 +17,14 @@ file = "config/mixed_litter-startup.toml"
 hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
 
 [[files]]
+file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/data/integrated_stronghold/worldgen/template_pool/portal_room/portal_room.json"
+hash = "71b5b31bcdd5441dd84ea810bfe71a5134b881d8fc4fe7a05b15ea34a1048080"
+
+[[files]]
+file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
+hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
+
+[[files]]
 file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/rain.png"
 hash = "c640ba31a30d2d4bd4f9b24db3545dec7876e72f566e09da09fc67b537d980d0"
 
@@ -451,9 +459,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
-metafile = true
-
-[[files]]
-file = "resourcepacks/integrated-stronghold-end-remastered-integration.pw.toml"
-hash = "29d544acb1a7d3e280a911c3bf13d620a745690b901ea6cc9a5af3203f3f7b9c"
 metafile = true
