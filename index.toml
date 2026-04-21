@@ -73,6 +73,11 @@ file = "config/tidybinds.toml"
 hash = "30c939854f8b0b2f56a05f3dd6692a8b8839ae0408760eab6da97029a9a3e1df"
 
 [[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "c62eea66c7ebac3cc27e4d566af551fbc403185b5c7dc928e1be708f1e6bde7f"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "45319301cd9d195e7b6d9e5cb295a88bede26266133a4dd8e51611353cacb1e8"
 metafile = true
@@ -322,6 +327,11 @@ hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -339,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "01b1ad60c74626199dc4b405a50b9aa49f6bf4c2b25b176576495712b6669448"
+metafile = true
+
+[[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "c7a08d15dce701446eab02059c81ff2b6344116ad9408b8c9ba2a2fe455f18a6"
 metafile = true
 
 [[files]]
