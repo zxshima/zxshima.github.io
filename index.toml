@@ -416,3 +416,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
 metafile = true
+
+[[files]]
+file = "resourcepacks/integrated-stronghold-end-remastered-integration.pw.toml"
+hash = "29d544acb1a7d3e280a911c3bf13d620a745690b901ea6cc9a5af3203f3f7b9c"
+metafile = true
