@@ -13,12 +13,244 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
+file = "config/jade/plugins.json"
+hash = "11567c24a91fc7fa14b0875aafc41d63b74cb9747bf3eb4a197918c70f52c95f"
+
+[[files]]
 file = "config/map_atlases-client.toml"
-hash = "9749011b6541bc34325684f7b295d44961c9b9e0250a409dd818b0f06685a9fa"
+hash = "fb692179534333dae2b9b5fc42f20b529070a32df3139fdbe6451be7438b7a7c"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
 hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/caves/cheese.json"
+hash = "4b48ea53086fe9ea9102fa60f0205f656a5ec5a074e158b67b21372c56f0862f"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/caves/entrances.json"
+hash = "3b1f8c500c58b78810612e363c9201600b65749f8955bff098049d73edb39708"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/caves/layer.json"
+hash = "259c17d4b3428cbfc6fdaf857d72b382b23e545f211306ac96f40e3c28c6a5d4"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/caves/noodle.json"
+hash = "b8d630cdfa42fa9d2f10c1a0156211e04888bbe949a55909572862484d7777d5"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/caves/spaghetti.json"
+hash = "b2dac94e854edde0f1ed1556f842bea882bf9508089fa164088233d0767246b8"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/factor.json"
+hash = "28758370c2311f6f820e4ee9af06fa3ea1dfbe17030cf68908b5e2ff85aa3818"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/fluid_level_floodedness.json"
+hash = "26a8161b6c9e4a9ba148a8a57e1b828e8b1f027aa0f329f86046b70a5167e470"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/gravel_beach.json"
+hash = "97aeff3a0bc336ae938350b3a6fb6e6504f9e2470c298f004e7b5abdd27b70bc"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/river_carver/noise_selector.json"
+hash = "e7cf515783df2bbb92c107e2449430abe1e2725275835413eed3c49b88789993"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/river_carver/river_carver.json"
+hash = "13837415342ade6f339a7a0e6a00eda3fbac641b28f984f297fd879d38004fb1"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/rivers_extra_density.json"
+hash = "461507e9d24cc318f0aff657d275ca5e35217c3a1f1ec868ace404eee1b2ed43"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/vegetation.json"
+hash = "5639091a592752125c1a75cc12ac810264a4c5f04b5b13086327b47eceab1279"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/noise/gravel_beach.json"
+hash = "d398def44bda3849ab1185a85f1537d6bee8368398fc9f48904c689fae29f9c7"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/noise/sand_beach.json"
+hash = "d398def44bda3849ab1185a85f1537d6bee8368398fc9f48904c689fae29f9c7"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
+hash = "f92b181869375712268846f1fac620e750fd331cc38fdd12d84915d5aca9ae76"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/caves/noodle.json"
+hash = "050bdb9b04b7a2a3765460823e4f95805c294bd0234f40eb76446327edece778"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/caves/pillars.json"
+hash = "24ce67322f2d163fe3f8b6cb9c88b08cfa47f7524c1012566b1b0ce01ba12c90"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_2d.json"
+hash = "64f17e438868ff14a18e017a357b06371ebf7f5846af295ce2467ca89fda04ab"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_2d_thickness_modulator.json"
+hash = "e41f54b39ec00d43bf3d1b1c988f5bfbe68fbacc9e1042a3822daecb46b9f897"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_roughness_function.json"
+hash = "b6d660c27b66eb617654da24041c6c88da755eba583cd9e0e2692984fe9fbfd6"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/factor.json"
+hash = "c62b36cd1c69fc35bdfa5a7cfe76bd30960d5433cb93d311a3b0ee5c18c2fb97"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/jaggedness.json"
+hash = "888c61c569cc05beff1e1eafccaf3ee2d5d7673535455b4c0f5d59d4ae6d2684"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/offset.json"
+hash = "bf62d37a983918c17fbbee0b30c873b9443245d87b9e5dd59e0ad839bdf4a3a1"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld/sloped_cheese.json"
+hash = "ee60e501c4ad50bd3d2776398555920b381190e608cce283a767e602f7024258"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_amplified/depth.json"
+hash = "bbf5c46d34f34009865f7618a7827637edf412b9dd23800b4c670508cef707f5"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_amplified/factor.json"
+hash = "eba0c4b773c404b2e4b1fec1db943cd7448172661f10ae48e31b3c03a2b385cc"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_amplified/jaggedness.json"
+hash = "20230738426c3e5df39812d153831302992f0b4c908eafda152add494b797a3d"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_amplified/offset.json"
+hash = "e8084c7878845a9a4485967a0336556f6644216472af43c0c3b9982cb28be4fb"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_amplified/sloped_cheese.json"
+hash = "57cda03ff2a40bceb3e7c7cae73469e229c702b34812229bf6d94235b74cd58f"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/continents.json"
+hash = "e8fb9760d521a5b7185a0e3aefa2489bd416fe9a0f18ce3b7a3e95a29e8f7e59"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/depth.json"
+hash = "ca9a7d4cbc8000bdc9ba31bab349309d31e8ce005033fb8ca70804df22a2c70f"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/erosion.json"
+hash = "d65b7a3530862da47156479d70b1fd6a4432a39817c36e0b9c9af1b47947e344"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/factor.json"
+hash = "3e65f1f170a769d840a446b305c577921af1c71d93206a3558257d9bc315d98e"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/jaggedness.json"
+hash = "27031b05196a1b86672087113554ba7ba10f123dfd0e105388e003f5877fcbfa"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/offset.json"
+hash = "054ee17edbaa138478711ebdd9fcbbcad0ef918640551476023c160f96dd51bb"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/overworld_large_biomes/sloped_cheese.json"
+hash = "28d5a01a07f16ed4acbd31bc7c38a85091195671922e0639f244afde0230793c"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/shift_x.json"
+hash = "ab55564130965a5df7bb578a04b438a530f197c4fdabd35b4bdf30e84e4669d0"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/shift_z.json"
+hash = "603a6c4d11f8d4f16742dc4196193ecc60e0850c9d16feb1008f5bf860f28638"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/density_function/y.json"
+hash = "5ed09c041999cef58fe6e6206dbd7f95dfbcc310cef192057dde0c8e704acb74"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/continentalness.json"
+hash = "b9632b0228d8f2927aca494d958cdac10d265fc1e83e837ba0b58b22e9eae01f"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/continentalness_large.json"
+hash = "7b1603ab711c47e3b142d68fd6dbac5281c1da3de92d7d8c083f8f46a0753904"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/erosion.json"
+hash = "0444228573337a2d9f7ccaa73a78353de73283d58f1fe27ee5b27083cea044b9"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/erosion_large.json"
+hash = "a152550842a7126e9d627ef4564792bf35524c0a2b1725b7fe5c8d1975470d7e"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/jagged.json"
+hash = "e176bb3cfab852e5b92cf91ea02ba5c650ea9475b8799da701fa728f61844b7c"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/offset.json"
+hash = "685ec5d37332a7bcc5aec62ee1835b69af9c1c0b8daf7411753713ad135da59a"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/ridge.json"
+hash = "62cf6eb0bf49b414e2ecdc8f29531d205a4a46482709f4869e87d77ce2e45f6e"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/temperature.json"
+hash = "8f5c2fea9428deafd5831359a03104afa2b60de84e29e3c1db810cc38b0052e4"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/temperature_large.json"
+hash = "eb266cadc818706a4bd7c47906b63b6732b2050a8fa8f04606a1ff78f5ec5fca"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/vegetation.json"
+hash = "404eb9e94518246236aad8d23a06a7a27960b004454a10253035d5d188b8c951"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise/vegetation_large.json"
+hash = "d5fe0bb7722cc5599e46dcfd0400784d0a54769819cf6a2a7846fd657c59baa3"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise_settings/amplified.json"
+hash = "18a045595b19d326d0198f16bf90347d00ea6eed516a0a6ba0eb87b078a36b70"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise_settings/caves.json"
+hash = "892666f6e566934f015c9504d8e0668ab1f53573f04f3da54b948d0427b9c9ec"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise_settings/floating_islands.json"
+hash = "4433a0970aea30b5806a61badc771cb3becb46da69af4e7d6c553c34ba6907b3"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise_settings/large_biomes.json"
+hash = "8458dc43e1937ababa47fa5b1fc735b5d10371425fdbb2e8e5f476391c5827cf"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "ca9cc392e5d6d2c5da7de65a694d67bb2e038205bacb0e93bf4f9df170583780"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/pack.mcmeta"
+hash = "a542209430d18e2b792c23b6df0631207fddfe432cfeeb2f99788ab58234af19"
+
+[[files]]
+file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/pack.png"
+hash = "1365e74650124b938fcda0eb4c5e48ae423c58ab5f0ac02ba676cb85a3a9827f"
 
 [[files]]
 file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/data/integrated_stronghold/worldgen/template_pool/portal_room/portal_room.json"
