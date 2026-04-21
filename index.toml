@@ -14,7 +14,7 @@ hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
 file = "config/immersiveoverlays.json"
-hash = "c837cd9bc8f568ed91ec3e5bd774d3b271e7944cef1b7043ee08087f9923a765"
+hash = "fe9f111ad29396926b745ae65381cc06b8b9cd85be6c3a8215c1ecd561bfeb14"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -22,7 +22,7 @@ hash = "11567c24a91fc7fa14b0875aafc41d63b74cb9747bf3eb4a197918c70f52c95f"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "9749011b6541bc34325684f7b295d44961c9b9e0250a409dd818b0f06685a9fa"
+hash = "d25031cdcebd4941da3182ddc37a2eecacb09487682c92a2906522757dec14f6"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
@@ -266,7 +266,7 @@ hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/item_descriptions/lang/en_us.json"
-hash = "f8b213dedf945c9046f6f741f0fcfa371859e190a49918b4f9419e74e9cdc9f9"
+hash = "45b9b160be3e6f268dd816c2174329b34ef33cdbc391ff3175ccc18b6c34d99e"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
