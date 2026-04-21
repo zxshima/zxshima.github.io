@@ -41,6 +41,154 @@ file = "config/paxi/resourcepacks/00_deer/pack.png"
 hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
 
 [[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/diodes/latch_on.json"
+hash = "68be035b543200d00b1521ba00009a019bfedbe88d6aabddfe75ea4150de431e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/diodes/pulse_extender.json"
+hash = "78a7242246b796c4ded6adde51cfc46d62f0aeb5843022fd3510bad342ef8216"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/diodes/pulse_repeater.json"
+hash = "08526def4ae67161a1fa713788ccfa386487295b027eb8702d9cd0ccc21c7338"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/diodes/pulse_timer.json"
+hash = "cfab61bf579b0dfa8081e784dbcbdd8653584825a10cea0089ded8ea2b6c3c20"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/redstone_link/receiver_powered.json"
+hash = "a74c491b7675dead76e68603501d32ad45ab31bd6e616ed5950562f533dfcf07"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/redstone_link/receiver_vertical_powered.json"
+hash = "546fef7fa5e5b36accc9d835798d09f77cc17b8b8fced2cb0267ba69aee07465"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/redstone_link/transmitter_powered.json"
+hash = "f7a6018b2742587126ca263c6f41af7991558fb9a95db9d6178967039bd3d252"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/redstone_link/transmitter_vertical_powered.json"
+hash = "1133511d39529afd49b0efd12f0c7af13429866f2e113bf3e3f549adb9030fe0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/item/linked_controller/powered.json"
+hash = "6ea2910a7bfb713f7bfa5adb220516e7264bc1f122e24cd4d0273d3e217b2776"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/textures/block/redstone_antenna_powered.png"
+hash = "74d4369a3983f0fd7b3683039afe2b8be8f5781dd21f12738a850f4f7690527f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create/textures/item/transmitter.png"
+hash = "a9a71907596faa87f34e50e01f832506f3d48b0658e691a1662092f7dfbe1e4d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create_connected/models/block/linked_transmitter/block.json"
+hash = "894f75c5bbc417ce8e19815016dc3a19d1ae2d88e6be21b2faff305f250a2869"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create_connected/models/block/linked_transmitter/block_locked.json"
+hash = "f35e1b13ed28b47fc50fbb8bfe1e12f19195f07ec63c4c9398d887f5f1741afd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create_connected/models/block/linked_transmitter/block_vertical.json"
+hash = "210dcf6ee7f21ccbf6f26a2a672dc6937c14d91008b56d8f072e96812cb98637"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create_connected/models/block/linked_transmitter/block_vertical_locked.json"
+hash = "4cf1d242de7e681a987ff5c3dab3a25695621159f353c9b1954093a0df4cfa0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/create_connected/models/block/sequenced_pulse_generator.json"
+hash = "f4c63a24d83ea3394b7dbb474a06b4f7cb0877a5335753d1fc4e50f68ffbd9a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/comparator_on.json"
+hash = "b1e9116db45a974480b42b394e0f9cf8472a1550d697479e6ee700e0936d5776"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/comparator_on_subtract.json"
+hash = "4a440ac857e058abcfe28608d356fe279d533b27dc6509ca98ab4f62e5dc660d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/comparator_subtract.json"
+hash = "caeffb0180978aff15a56b1c9df2e58aa591ea18a32cd75f3ffa438210300ed4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/redstone_torch.json"
+hash = "4a38a83e3f298fb98bb6f1eb517331b9435de37b78e04cc824fb1cd07aaf9db5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/redstone_wall_torch.json"
+hash = "2c6518a4e99060fdc12dbb504e0491fa59fad247f4ea8cec320aef33099a66db"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_1tick_on.json"
+hash = "3f3f4a35503b39d1a3915e81bc388e372f0572b386485bf3fa14844d823c7c99"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_1tick_on_locked.json"
+hash = "82a2e51188ba66835cc6446301d3d6441c013c0b00de16a5bb489b1fc0ec708c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_2tick_on.json"
+hash = "56312d452273fe1c375b35273d9f3c33a567654bb493a7ae521d7c2cb2801c8a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_2tick_on_locked.json"
+hash = "62b470075fbacb87695ec1e6d2a0a0beaf78462d0bc6ae38671087dab3ad759f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_3tick_on.json"
+hash = "7cc840053c03f306abcb386cd73ef07f75d6840a79e4ac30c46e42ccca698b0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_3tick_on_locked.json"
+hash = "4db3e56a2c9fa2ff358ed71b908cec232f5298320a3d6250592b73b75f56108b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_4tick_on.json"
+hash = "f4f3bb5551124ad0c41dd06a44cb17bfb8d58d3086442a3c991072ca070dfe1b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/repeater_4tick_on_locked.json"
+hash = "d90dfd3b4ac2400ef0e882a3081683d75a4f358f1623fa13e012c82f99a93cfd"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/template_redstone_torch.json"
+hash = "db02a73815bc56ce4854f72fef4e70b1cd54a16d7682df8a1f8daf4f38222566"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/models/block/template_redstone_torch_wall.json"
+hash = "967aab8f074b83530e36673151b7b16657a5a51013c5adddbd5398b6b3f67d0b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/textures/block/redstone_torch.png"
+hash = "160caba109123055dc002a7471439cb32502cbcb07074524be564782586872a6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/minecraft/textures/block/redstone_torch_off.png"
+hash = "b37d7c758987039434f942e8b139e8e5dc6e52e45c7d3f595f9d54a101a3fea1"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/quark/models/block/randomizer_on_left.json"
+hash = "09eb35abb90fa2ec08c36b50263ee23c872cc9fa2f15249e4c3c72e4165d0c72"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/assets/quark/models/block/randomizer_on_right.json"
+hash = "2d99e66c33758e81dbbec17a72d71074a3ad5078c8ef72181df492ed2e6180f9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/pack.mcmeta"
+hash = "595aaee56eb6b2c6c5258d933eadbdc036e5d5b3ce9c7ef659a89dbcf07d9112"
+
+[[files]]
+file = "config/paxi/resourcepacks/Redstone Backport/pack.png"
+hash = "597a9c85da9a9c09937fa53c261281c549922ac04d7db1d6a1f122f13c8be61e"
+
+[[files]]
 file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/rain.png"
 hash = "c640ba31a30d2d4bd4f9b24db3545dec7876e72f566e09da09fc67b537d980d0"
 
