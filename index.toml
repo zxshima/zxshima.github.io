@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "a1789ed55e6642475f3439603ac77d7e5ea7c1868a11dce36b05446d2d1111c7"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
+
+[[files]]
+file = "config/eclipticseasons-client.toml"
+hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
@@ -49,8 +57,17 @@ file = "config/quark-common.toml"
 hash = "4d541c8c45ce44bdfbb82eff569ce693ea581409fc76843c0d013ceb27b0cdde"
 
 [[files]]
+file = "config/smoothskies.json"
+hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
+
+[[files]]
 file = "config/tidybinds.toml"
 hash = "30c939854f8b0b2f56a05f3dd6692a8b8839ae0408760eab6da97029a9a3e1df"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "45319301cd9d195e7b6d9e5cb295a88bede26266133a4dd8e51611353cacb1e8"
+metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -103,6 +120,11 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "558dc7ce93ddb5fe848d2d8a746174752c67f1f954d19e1030dce6a2a587c6b5"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -114,8 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f461c3b78da21a76153c35af9e349fd7df8fd1659fb2da32c412ce7b02e63dbf"
+hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
 metafile = true
+
+[[files]]
+file = "mods/deercore-1.0.jar"
+hash = "560544856f9c02df8a45dbc50c7e98fac378c9a83a5f74e9e32a7759fbd4e2dd"
 
 [[files]]
 file = "mods/ecliptic-seasons-bundles.pw.toml"
@@ -248,6 +274,11 @@ hash = "4c9f7337ebb5fa5a2e90a1fb88d290d4b7344f31f910e85671a2c6549106e5ff"
 metafile = true
 
 [[files]]
+file = "mods/mini-music-tweaks.pw.toml"
+hash = "8b4f32a59076b0ae7deae42dd40dcee123edc9317c4b04be160e20aefebbc419"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "505e3f1baaa94149d39b637c87253893477ef5168fd1b9e9f9270bf4a9c5ca8d"
 metafile = true
@@ -328,6 +359,11 @@ hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
 
 [[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
@@ -405,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/worldgen-patches.pw.toml"
 hash = "543a37a1f5ab6a4a9cd9f20cd64f1c3c84a5965baa8678f122d5678de65c45ea"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
