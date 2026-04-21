@@ -14,7 +14,7 @@ hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
 file = "config/immersiveoverlays.json"
-hash = "fe9f111ad29396926b745ae65381cc06b8b9cd85be6c3a8215c1ecd561bfeb14"
+hash = "c837cd9bc8f568ed91ec3e5bd774d3b271e7944cef1b7043ee08087f9923a765"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -22,7 +22,7 @@ hash = "11567c24a91fc7fa14b0875aafc41d63b74cb9747bf3eb4a197918c70f52c95f"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "d25031cdcebd4941da3182ddc37a2eecacb09487682c92a2906522757dec14f6"
+hash = "9749011b6541bc34325684f7b295d44961c9b9e0250a409dd818b0f06685a9fa"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
@@ -265,6 +265,10 @@ file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
 hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/item_descriptions/lang/en_us.json"
+hash = "f8b213dedf945c9046f6f741f0fcfa371859e190a49918b4f9419e74e9cdc9f9"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
 hash = "9216e73ebe5bbafdf6ed3fde35a049e0ed585cf96b7bb5138a6ce004410029de"
 
@@ -469,7 +473,7 @@ file = "config/quark-common.toml"
 hash = "f2f83f829bfd032edbf291d92660204b1acf613f445be96c18afaa6052a417ad"
 
 [[files]]
-file = "config/reliable_recipes/maps.txt"
+file = "config/reliable_recipes/maps.json"
 hash = "1b9acebf72476a3d8ebad6405c21770f708efe23eecc13ccbe9e86993b3d84e6"
 
 [[files]]
