@@ -13,6 +13,10 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
+file = "config/map_atlases-client.toml"
+hash = "9749011b6541bc34325684f7b295d44961c9b9e0250a409dd818b0f06685a9fa"
+
+[[files]]
 file = "config/mixed_litter-startup.toml"
 hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
 
@@ -226,15 +230,11 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a76ff2099542d86c3cf844421daaa5967e6ce9b30e094989e49e10e3629deb85"
+hash = "f2f83f829bfd032edbf291d92660204b1acf613f445be96c18afaa6052a417ad"
 
 [[files]]
 file = "config/smoothskies.json"
 hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
-
-[[files]]
-file = "config/tidybinds.toml"
-hash = "30c939854f8b0b2f56a05f3dd6692a8b8839ae0408760eab6da97029a9a3e1df"
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
