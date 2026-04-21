@@ -748,6 +748,11 @@ hash = "01b1ad60c74626199dc4b405a50b9aa49f6bf4c2b25b176576495712b6669448"
 metafile = true
 
 [[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "a384fc994f0e5e090dea4f75f58adc3bd20e6e00c1e742c3da0fcd7064b386db"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true

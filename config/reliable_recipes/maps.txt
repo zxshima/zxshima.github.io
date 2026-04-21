@@ -1,0 +1,10 @@
+[
+  {
+    "action": "replace_input",
+    "target": "minecraft:compass",
+    "replacement": [
+      "minecraft:paper"
+    ],
+    "id": "minecraft:map"
+  }
+]
