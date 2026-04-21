@@ -299,11 +299,6 @@ hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
 metafile = true
 
 [[files]]
-file = "mods/passable-foliage.pw.toml"
-hash = "8d27eb1a82387d3e485fed7f23d44621a8e1cb9b46865a4a7c189f8ed1ec8e3f"
-metafile = true
-
-[[files]]
 file = "mods/paxi-neoforge.pw.toml"
 hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
