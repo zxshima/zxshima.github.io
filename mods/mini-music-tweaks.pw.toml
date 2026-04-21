@@ -1,0 +1,13 @@
+name = "Mini Music Tweaks"
+filename = "music_tweaks-neoforge-1.21.1-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiONV3dI/versions/KI9EvaJc/music_tweaks-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "c82005756daeef799437056f639d2450468ffd198d3fa810b05c51fc2fd3910e0d63072211c54d9bcf0de91a54085fd7c107844e335b88dbc1f60eb1363e65a5"
+
+[update]
+[update.modrinth]
+mod-id = "eiONV3dI"
+version = "KI9EvaJc"
