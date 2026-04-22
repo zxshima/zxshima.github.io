@@ -9,12 +9,16 @@ file = "config/appleskin-client.toml"
 hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "f6d7e7b5707ce1af355a0307c3812e9e1bcf9fefd584c57f361fe714d7a420f0"
+
+[[files]]
 file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
 file = "config/immersiveoverlays.json"
-hash = "0d569a4d75aab0b504a9c685beb943a456a75525fedc4b695c98cbae7067d89c"
+hash = "af5dc0f926fdf306eb33962c1c0c03f82c41cac94fb95f30dfd05814027a393c"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -474,7 +478,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "f2f83f829bfd032edbf291d92660204b1acf613f445be96c18afaa6052a417ad"
+hash = "a76ff2099542d86c3cf844421daaa5967e6ce9b30e094989e49e10e3629deb85"
 
 [[files]]
 file = "config/reliable_recipes/maps.json"
@@ -769,11 +773,6 @@ hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "01b1ad60c74626199dc4b405a50b9aa49f6bf4c2b25b176576495712b6669448"
-metafile = true
-
-[[files]]
 file = "mods/reliable-recipes.pw.toml"
 hash = "a384fc994f0e5e090dea4f75f58adc3bd20e6e00c1e742c3da0fcd7064b386db"
 metafile = true
@@ -821,11 +820,6 @@ metafile = true
 [[files]]
 file = "mods/tide.pw.toml"
 hash = "58442e3bcd032f8f0ec1efce17e341417f6861d7d8123f76c60d2c19f39389df"
-metafile = true
-
-[[files]]
-file = "mods/tidybinds.pw.toml"
-hash = "a4686b0e533cab84e0e0a2259c332850297bc1360037384e9a2be40f99bbf1b0"
 metafile = true
 
 [[files]]
