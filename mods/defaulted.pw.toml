@@ -1,0 +1,13 @@
+name = "Defaulted"
+filename = "defaulted-neoforge-1.21.1-1.2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/px6YnkMu/defaulted-neoforge-1.21.1-1.2.1.2.jar"
+hash-format = "sha512"
+hash = "fa4371ef42a752e5deecc2e455bc510bfa4c958462a7c2c854335e2a2440b4bcc1d3afb3a5f1706cdfddba25b53f63d0f4759ec7dec1a71cea80610bdb691a71"
+
+[update]
+[update.modrinth]
+mod-id = "LxgPJAAy"
+version = "px6YnkMu"

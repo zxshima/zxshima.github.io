@@ -588,6 +588,11 @@ hash = "beb54362d0e8c0c52f9479cb5ee27a6f8fc8c954fd24b547951647b43dca2463"
 metafile = true
 
 [[files]]
+file = "mods/defaulted.pw.toml"
+hash = "bf95ba0462de55586348b61a25e692e13b4851f35853083ae7ff57136560d1f3"
+metafile = true
+
+[[files]]
 file = "mods/ecliptic-seasons-bundles.pw.toml"
 hash = "c293622610053cca1c0600368946df494f7344e4cdce4084ead247e4315541fc"
 metafile = true
@@ -670,6 +675,16 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "d480787d9c86b5abe27284195ace63101ac1ccea7f2cb39649b4dcd172932e7e"
+metafile = true
+
+[[files]]
+file = "mods/inline-tooltips.pw.toml"
+hash = "59f3d50dfe73789f736546e2924638e6a0e2c6e449a3507743db8b5b4eb5f038"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
 
 [[files]]
