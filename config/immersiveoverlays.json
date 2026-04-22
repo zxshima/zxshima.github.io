@@ -10,7 +10,7 @@
   "render_background": true,
   "hide_from_debug": true,
   "compass_enable": true,
-  "compass_vertical_position": 90,
+  "compass_vertical_position": 114,
   "compass_horizontal_position_left": false,
   "compass_direction": false,
   "compass_single_line": false,
@@ -43,7 +43,7 @@
   "clock_24_hour": true,
   "clock_seasons": true,
   "clock_text_colour": 14737632,
-  "clock_vertical_position": 35,
+  "clock_vertical_position": 62,
   "clock_horizontal_position_left": false,
   "clock_items": [
     "minecraft:clock"
@@ -58,7 +58,7 @@
   "temperature_hot_colour": 16759694,
   "temperature_cold_colour": 9371647,
   "temperature_temperate_colour": 16777215,
-  "temperature_vertical_position": 62,
+  "temperature_vertical_position": 86,
   "temperature_horizontal_position_left": true,
   "temperature_items": [
     "oreganized:thermometer",
@@ -78,7 +78,7 @@
   "biome_reduced_info": false,
   "biome_text_tinted": true,
   "biome_text_colour": 14737632,
-  "biome_vertical_position": 62,
+  "biome_vertical_position": 86,
   "biome_horizontal_position_left": false,
   "biome_items": [
     "minecraft:map",
@@ -115,7 +115,7 @@
   "compat_ecliptic_seasons": true,
   "wind_enable": true,
   "wind_icons": true,
-  "wind_vertical_position": 40,
+  "wind_vertical_position": 64,
   "wind_horizontal_position_left": true,
   "wind_colour": 10254644,
   "compat_breezy": true,

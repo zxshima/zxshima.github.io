@@ -271,7 +271,7 @@
 	"Automatic Tool Restock" = true
 	"Easy Transferring" = true
 	"Expanded Item Interactions" = true
-	"Hotbar Changer" = false
+	"Hotbar Changer" = true
 	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
