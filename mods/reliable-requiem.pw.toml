@@ -1,0 +1,13 @@
+name = "Reliable Requiem"
+filename = "reliable_requiem-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72d0c13e346886210d3a9d420635100a60c23285"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7970477
+project-id = 1521473

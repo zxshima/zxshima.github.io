@@ -1,0 +1,13 @@
+{
+    "items": [
+        "minecraft:golden_axe",
+        "minecraft:golden_sword",
+        "minecraft:golden_hoe",
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_shovel",
+        "farmersdelight:golden_knife"
+    ],
+    "patch": {
+        "minecraft:max_damage": 32
+    }
+}

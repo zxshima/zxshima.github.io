@@ -1,0 +1,11 @@
+{
+    "items": [
+        "minecraft:diamond_helmet",
+        "minecraft:diamond_chestplate",
+        "minecraft:diamond_leggings",
+        "minecraft:diamond_boots"
+    ],
+    "patch": {
+        "minecraft:max_damage": 528
+    }
+}

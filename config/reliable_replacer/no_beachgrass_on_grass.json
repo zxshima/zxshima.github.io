@@ -1,0 +1,13 @@
+[
+  {
+    "inputs": [ "nomansland:tall_beachgrass", "nomansland:short_beachgrass" ],
+    "outputs": [ "minecraft:short_grass", "nomansland:grass_sprouts" ],
+    "neighbors": {
+        "down": "minecraft:grass_block"
+    },
+    "min_y": "-30",
+    "max_y": "196",
+    "player_blocks": "false",
+    "retrogen": "true"
+  }
+]

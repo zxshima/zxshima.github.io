@@ -1,0 +1,13 @@
+{
+    "items": [
+        "minecraft:iron_axe",
+        "minecraft:iron_sword",
+        "minecraft:iron_hoe",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_shovel",
+        "farmersdelight:iron_knife"
+    ],
+    "patch": {
+        "minecraft:max_damage": 250
+    }
+}
