@@ -1,0 +1,13 @@
+{
+    "items": [
+        "minecraft:diamond_axe",
+        "minecraft:diamond_sword",
+        "minecraft:diamond_hoe",
+        "minecraft:diamond_pickaxe",
+        "minecraft:diamond_shovel",
+        "farmersdelight:diamond_knife"
+    ],
+    "patch": {
+        "minecraft:max_damage": 1561
+    }
+}

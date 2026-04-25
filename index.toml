@@ -925,6 +925,16 @@ hash = "a384fc994f0e5e090dea4f75f58adc3bd20e6e00c1e742c3da0fcd7064b386db"
 metafile = true
 
 [[files]]
+file = "mods/reliable-replacer.pw.toml"
+hash = "2e40173384eb7a6838d5d66d848c009e1e0faa2843c400e771a8890bbb648eb7"
+metafile = true
+
+[[files]]
+file = "mods/reliable-requiem.pw.toml"
+hash = "a34b978875f6fc615fb9c8e20fe73392fce858894e91bf878403512ced10fa9d"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true

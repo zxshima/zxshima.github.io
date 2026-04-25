@@ -1,0 +1,11 @@
+{
+    "items": [
+        "create:cardboard_helmet",
+        "create:cardboard_chestplate",
+        "create:cardboard_leggings",
+        "create:cardboard_boots"
+    ],
+    "patch": {
+        "minecraft:max_damage": 64
+    }
+}

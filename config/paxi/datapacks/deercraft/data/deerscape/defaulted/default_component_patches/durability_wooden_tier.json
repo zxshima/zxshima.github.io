@@ -1,0 +1,12 @@
+{
+    "items": [
+        "minecraft:wooden_axe",
+        "minecraft:wooden_sword",
+        "minecraft:wooden_hoe",
+        "minecraft:wooden_pickaxe",
+        "minecraft:wooden_shovel"
+    ],
+    "patch": {
+        "minecraft:max_damage": 59
+    }
+}
