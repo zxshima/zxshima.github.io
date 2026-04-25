@@ -17,6 +17,14 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
+file = "config/emixx/groups/seed_pouches.json"
+hash = "690eecb28022cd1a083112890a15ede65a5295ac8fd933016a53655cbd6af346"
+
+[[files]]
+file = "config/emixx/groups/tomes.json"
+hash = "1f9fa3c5dd039f69c3fc49659af16f96e0b222394e9f89510c943c791d7393f4"
+
+[[files]]
 file = "config/immersiveoverlays.json"
 hash = "af5dc0f926fdf306eb33962c1c0c03f82c41cac94fb95f30dfd05814027a393c"
 
@@ -30,7 +38,7 @@ hash = "7f5cd01e29e0156834efa9b103bb52155657c2c64890280fa06580b510e698f0"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "bfd495f776f519b555f74bdd00e04f1044789f853486da263a00a60b9023ed04"
+hash = "8b904fbb91692a2232f6105b05ab5977a8a20cea1e1e81b1aa08f9e839d1f815"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -445,6 +453,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_compone
 hash = "4bab672b832e677f845c5e7659a219aad3c7cf45e453842bcf927f1ca4af72bf"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/map.json"
+hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
 hash = "25923e3f72497bd3b22c6526dbc208ee81f98cbe5e4d727f87bd184847c25a53"
 
@@ -666,11 +678,19 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "37938ff50d5d3dde0c0808b912b1f9ce787bfda69f3635083b425a1f0eeedce7"
+hash = "c69224b6b3a955f777e369959a15f7d11f898ab2b2622c0bed421d5d7bee75e3"
+
+[[files]]
+file = "config/reliable_recipes/bundles.json"
+hash = "c20f240f6d35de5c1aaa319e78727c6ad6fd25f590b22bcc40aacef29543992a"
 
 [[files]]
 file = "config/reliable_recipes/maps.json"
-hash = "1b9acebf72476a3d8ebad6405c21770f708efe23eecc13ccbe9e86993b3d84e6"
+hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
+
+[[files]]
+file = "config/reliable_remover/horse.json"
+hash = "9fbc5a22e2ec73c7d42016706ff401a2d1399077f3928e68b7092b07fa7917cf"
 
 [[files]]
 file = "config/reliable_replacer/no_beachgrass_on_grass.json"
@@ -706,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
+hash = "20474e975cd0974217cf9a9899d44e9179afbae31e974b1ed7d9721be1920f1d"
 metafile = true
 
 [[files]]
@@ -721,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
-hash = "a4719b5188f95b71055c14fdeb7c732c8669e2ef542bdafd63721275aa32a93e"
+hash = "ca2935cb7ebb54a44902356511930048e93198dc770175fc34d7c9644a19aa1c"
 metafile = true
 
 [[files]]
@@ -785,7 +805,7 @@ hash = "560544856f9c02df8a45dbc50c7e98fac378c9a83a5f74e9e32a7759fbd4e2dd"
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "beb54362d0e8c0c52f9479cb5ee27a6f8fc8c954fd24b547951647b43dca2463"
+hash = "d4ba7c3e083def23a26100b4bdebcbc2ed3cbcdc24327a26157241ac9b6d0e04"
 metafile = true
 
 [[files]]
@@ -870,12 +890,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "551f2914274bc47748245d188346f4263535d4f6864d16555764950601167849"
+hash = "11bfb484cedbe8ce1f837364ba0222fd4186e4361e387b73f3eaeacb946324aa"
 metafile = true
 
 [[files]]
@@ -905,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "1cb0f951bbfb76a54048a5d81bf7bb63a349059fac7db869a044eb6df222d650"
+hash = "6324217dce1a1570bab51600dfef416f3061ca8c2604a91fc010b4b2e5281389"
 metafile = true
 
 [[files]]
@@ -945,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -999,7 +1019,11 @@ hash = "a384fc994f0e5e090dea4f75f58adc3bd20e6e00c1e742c3da0fcd7064b386db"
 metafile = true
 
 [[files]]
-<<<<<<< Updated upstream
+file = "mods/reliable-remover.pw.toml"
+hash = "eda396f755c9877f5622132c1575da3b2a0510a5e3aa8dd4bd588e2cba6ef65d"
+metafile = true
+
+[[files]]
 file = "mods/reliable-replacer.pw.toml"
 hash = "2e40173384eb7a6838d5d66d848c009e1e0faa2843c400e771a8890bbb648eb7"
 metafile = true
@@ -1007,10 +1031,6 @@ metafile = true
 [[files]]
 file = "mods/reliable-requiem.pw.toml"
 hash = "a34b978875f6fc615fb9c8e20fe73392fce858894e91bf878403512ced10fa9d"
-=======
-file = "mods/reliable-remover.pw.toml"
-hash = "eda396f755c9877f5622132c1575da3b2a0510a5e3aa8dd4bd588e2cba6ef65d"
->>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -1030,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "0d76b6f0f8b2cbe44931c7094c416aab1d1534c47cbee499f01c546e5e09b42b"
+hash = "96b64b2096ea8ee1144025b52cb769bfcd001db8fb38f72a4b5828a719a2196c"
 metafile = true
 
 [[files]]
@@ -1045,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
@@ -1070,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "55f38d032bffc267f000451471be9380001d1a3750a6bff9bd327249ec01b69f"
+hash = "03e293fbdd35ba49f3cce7b1c4779379cbad0e89986172531e6e6fe94fe44294"
 metafile = true
 
 [[files]]
@@ -1100,12 +1120,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "ae4c442f0049d0af3abbe851d1b51126c43e614cb97636c9958036b910b619c9"
+hash = "42d7f384202b7b18d4671a28f8e2a1972cb9487683df1100db5718d84258080b"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
+hash = "61e0cf045bf5fdaa54f9e4d2cb5304b239ca1479e3b2f64be3e1f2b453200b56"
 metafile = true
 
 [[files]]
