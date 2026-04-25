@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "45319301cd9d195e7b6d9e5cb295a88bede26266133a4dd8e51611353cacb1e8"
+hash = "c12875918a95f25b548666e43e6b98b33087db787beabfd8de2a56d0e1eda4e8"
 metafile = true
 
 [[files]]
@@ -791,12 +791,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "779974fc6c7b273a38bd93a26c21c2b8f5e06384516ad8ba29b6bf5fe18514cd"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
+hash = "6cd0689dfe07e9fbe27a62e74a92929987fe64dd838f1680db070a7e933f204a"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "8dc83f93a1a58774777bbba1a186e4db95913d0d07a9c3218010e9d18d15dc1e"
+hash = "11f5bdcf83a1dae9ebe94e44e1fb4833ab230ffd54941712beee8adfbe0eb01f"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "2451e72d798f4e5787c77dbe226818303122f9ef7f4798e622fc02e4c80264cb"
+hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
 metafile = true
 
 [[files]]
@@ -955,12 +955,12 @@ metafile = true
 
 [[files]]
 file = "mods/mini-music-tweaks.pw.toml"
-hash = "8b4f32a59076b0ae7deae42dd40dcee123edc9317c4b04be160e20aefebbc419"
+hash = "26114e9463f9481acf40e691ca9e67893ffd8a0f5f085296e330cc3eb77d0ab9"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "505e3f1baaa94149d39b637c87253893477ef5168fd1b9e9f9270bf4a9c5ca8d"
+hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
 metafile = true
 
 [[files]]
@@ -1010,12 +1010,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
+hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "a384fc994f0e5e090dea4f75f58adc3bd20e6e00c1e742c3da0fcd7064b386db"
+hash = "0f7567f34aa2b9211a19b80da749c7c0f8fc27255bf43f05c2660d611f4d7d6e"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "03e293fbdd35ba49f3cce7b1c4779379cbad0e89986172531e6e6fe94fe44294"
+hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
 metafile = true
 
 [[files]]
@@ -1120,12 +1120,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "42d7f384202b7b18d4671a28f8e2a1972cb9487683df1100db5718d84258080b"
+hash = "369e483416592ed45313be7be81231557dcb19b9537bffed7fd20856f41de360"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "61e0cf045bf5fdaa54f9e4d2cb5304b239ca1479e3b2f64be3e1f2b453200b56"
+hash = "bcd5f125154b30a381d2ed2129c9247c2bb40be2f1fb46124981a9e11a44c161"
 metafile = true
 
 [[files]]
@@ -1150,5 +1150,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
