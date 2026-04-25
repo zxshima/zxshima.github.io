@@ -1,10 +1,8 @@
 [
   {
-    "action": "replace_input",
-    "target": "minecraft:compass",
-    "replacement": [
-      "minecraft:paper"
-    ],
-    "id": "minecraft:map"
+    "action": "remove_recipe",
+    "id": [
+      "minecraft:map"
+    ]
   }
 ]

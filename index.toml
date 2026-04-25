@@ -740,6 +740,11 @@ hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "379658f33ba061db76fefc705d4844ecf2ab53a12159783414e9cec8cb6a554f"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -846,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/gallery.pw.toml"
 hash = "c5ad1776e5593ca7af72b2d249fd284334835cd028cf95daf4b96f619eb0fe53"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "b8b618ee02910194cd17a4ba036ae76192c1400dae984ffba12ffc90118b09ec"
 metafile = true
 
 [[files]]
@@ -989,6 +999,7 @@ hash = "a384fc994f0e5e090dea4f75f58adc3bd20e6e00c1e742c3da0fcd7064b386db"
 metafile = true
 
 [[files]]
+<<<<<<< Updated upstream
 file = "mods/reliable-replacer.pw.toml"
 hash = "2e40173384eb7a6838d5d66d848c009e1e0faa2843c400e771a8890bbb648eb7"
 metafile = true
@@ -996,6 +1007,10 @@ metafile = true
 [[files]]
 file = "mods/reliable-requiem.pw.toml"
 hash = "a34b978875f6fc615fb9c8e20fe73392fce858894e91bf878403512ced10fa9d"
+=======
+file = "mods/reliable-remover.pw.toml"
+hash = "eda396f755c9877f5622132c1575da3b2a0510a5e3aa8dd4bd588e2cba6ef65d"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -1011,6 +1026,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "0d76b6f0f8b2cbe44931c7094c416aab1d1534c47cbee499f01c546e5e09b42b"
 metafile = true
 
 [[files]]

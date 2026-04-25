@@ -1,0 +1,9 @@
+[
+  {
+    "action": "remove_recipe",
+    "id": [
+      "nomansland:bundle",
+      "nomansland:integration/farmersdelight/bundle"
+    ]
+  }
+]
