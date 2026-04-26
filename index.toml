@@ -478,7 +478,7 @@ hash = "45b9b160be3e6f268dd816c2174329b34ef33cdbc391ff3175ccc18b6c34d99e"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
-hash = "9216e73ebe5bbafdf6ed3fde35a049e0ed585cf96b7bb5138a6ce004410029de"
+hash = "5402ff96296bf0bd702a64f409d2251dee91fd8ebc385230ef7a406b61ec4f21"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/waterframes/lang/en_us.json"
@@ -690,7 +690,7 @@ hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
 
 [[files]]
 file = "config/reliable_remover/horse.json"
-hash = "9fbc5a22e2ec73c7d42016706ff401a2d1399077f3928e68b7092b07fa7917cf"
+hash = "5d0e9e93aab87223cfae0d1a1c71b37be09b9c62f4ad8810aa36a0640c9f9e5f"
 
 [[files]]
 file = "config/reliable_replacer/no_beachgrass_on_grass.json"
@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "2e40173384eb7a6838d5d66d848c009e1e0faa2843c400e771a8890bbb648eb7"
+hash = "dfbefda33a916b6b2ee88708405d8d02c4229363f5b9676626dee7117316c006"
 metafile = true
 
 [[files]]
