@@ -1772,7 +1772,7 @@
 		"Reroll Even If Not Out Of Stock" = false
 
 [oddities]
-	Backpack = true
+	Backpack = false
 	Crate = true
 	Magnets = true
 	"Matrix Enchanting" = true

@@ -17,6 +17,8 @@
     "exposure:camera",
     "map_atlases:atlas",
     "supplementaries:altimeter",
+    "supplementaries:lunch_basket",
+    "supplementaries:quiver",
     "supplementaries:sack",
     "supplementaries:key",
     "eclipticseasons:broom",
