@@ -458,7 +458,7 @@ hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "25923e3f72497bd3b22c6526dbc208ee81f98cbe5e4d727f87bd184847c25a53"
+hash = "2162f512aa951138549ebaf4a56ad419d7fd7e381398be330d57434d5cd84f23"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/pack.mcmeta"
@@ -678,7 +678,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "c69224b6b3a955f777e369959a15f7d11f898ab2b2622c0bed421d5d7bee75e3"
+hash = "aaffdb8eb53c75d0c282e44791bc40ba2596a92118776ba34144350b2f2b46fd"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -690,11 +690,15 @@ hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
 
 [[files]]
 file = "config/reliable_remover/horse.json"
-hash = "5d0e9e93aab87223cfae0d1a1c71b37be09b9c62f4ad8810aa36a0640c9f9e5f"
+hash = "eab5b81c06407c294765c94ff8e38c4624451ef0540b35c94ae102cc9255116f"
 
 [[files]]
 file = "config/reliable_replacer/no_beachgrass_on_grass.json"
 hash = "620cd1632c5e3d07011de69015bbd9cc8d50d8dbb15958ba3f90bc21b617468b"
+
+[[files]]
+file = "config/reliable_replacer/no_seashells_on_grass.json"
+hash = "bbf29979ead93338639fe4c01fb9c5c38af65a008119a6f6733bc84c1ee42405"
 
 [[files]]
 file = "config/reliable_requiem.json"
