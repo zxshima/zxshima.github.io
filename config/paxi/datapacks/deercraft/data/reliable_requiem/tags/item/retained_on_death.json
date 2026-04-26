@@ -4,9 +4,11 @@
     "#c:tools",
     "#c:armors",
     "#c:buckets",
+    "#curios:cape",
     "#minecraft:bundles",
     "#minecraft:compasses",
     "minecraft:clock",
+    "minecraft:elytra",
     "minecraft:spyglass",
     "minecraft:goat_horn",
     "quark:forgotten_hat",
@@ -32,6 +34,8 @@
     "create:wand_of_symmetry",
     "create:goggles",
     "horseman:copper_horn",
-    "farmersdelight:skillet"
+    "farmersdelight:skillet",
+    "tide:lunar_calendar",
+    "tide:fish_satchel"
   ]
 }
