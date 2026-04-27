@@ -39,7 +39,7 @@
     },
     "value": {
       "translate": "enchdesc.activate.message",
-      "color": "gold"
+      "color": "dark_gray"
     }
   },
   "prefix": {
@@ -64,7 +64,7 @@
       "color": "dark_gray"
     },
     "value": {
-      "color": "dark_gray"
+      "color": "gold"
     }
   }
 }
