@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "60cec96b2347baca9f23d248dfd279859634c67d4dddd9781ec03e5567d05628"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "a1789ed55e6642475f3439603ac77d7e5ea7c1868a11dce36b05446d2d1111c7"
 
@@ -10,7 +14,7 @@ hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f6d7e7b5707ce1af355a0307c3812e9e1bcf9fefd584c57f361fe714d7a420f0"
+hash = "af1aacac85862ff1370b931281a3038866c3961ac266359cde7c85a1a1414d1b"
 
 [[files]]
 file = "config/eclipticseasons-client.toml"
@@ -954,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
+hash = "a87e9f44862e34f96a5d37de5162c9ad380d7386272f7946d1b5baa3b7975e45"
 metafile = true
 
 [[files]]
@@ -1023,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "95fa97a402a1dec86ca05d27f9cb519249bef970ab3d5edbf3654d5717d08afe"
+hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
 
 [[files]]
@@ -1143,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "33be1a8879f73f5120095407182e2661df2db0fe3ce8253d29114efec709c09d"
+hash = "462bec247e015d64f00f3d0fb7f7c857569c6133fc6b9f402f757823f2eeeb08"
 metafile = true
 
 [[files]]
