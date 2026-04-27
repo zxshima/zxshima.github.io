@@ -46,7 +46,9 @@
   "clock_vertical_position": 62,
   "clock_horizontal_position_left": false,
   "clock_items": [
-    "minecraft:clock"
+    "minecraft:clock",
+    "tide:pocket_watch",
+    "tide:enchanted_pocket_watch"
   ],
   "clock_weather_items": [
     "caverns_and_chasms:barometer",

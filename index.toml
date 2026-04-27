@@ -769,6 +769,11 @@ hash = "e5a9dfd4a06c0a01081ed19a94c314b6fdd51440e0b2647c1d8b579ffd332872"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
 metafile = true
@@ -845,6 +850,11 @@ metafile = true
 [[files]]
 file = "mods/emixx.pw.toml"
 hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
 
 [[files]]
@@ -993,6 +1003,11 @@ hash = "31101e93790de7e34e6e62c3a172b2c2a4971484588c451ac6f3963730bd869e"
 metafile = true
 
 [[files]]
+file = "mods/notely.pw.toml"
+hash = "63c278c70798f792a34ac6300d50f46b9bfd168fe3eb0c0599ce463f8a0ce33c"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
 metafile = true
@@ -1060,6 +1075,11 @@ metafile = true
 [[files]]
 file = "mods/sawmill.pw.toml"
 hash = "3ee01a32b6309256f083a8c67fc458e6745fc730c8abd86faa4a304333520064"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "85d17d29b1ddec030720e4f6418dc3664b9df4d49eaa323b0d4652ce13fef6eb"
 metafile = true
 
 [[files]]

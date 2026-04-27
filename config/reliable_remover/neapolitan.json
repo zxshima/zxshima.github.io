@@ -1,0 +1,10 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "neapolitan:chimpanzee_spawn_egg",
+            "neapolitan:chimpanzee_head",
+            "neapolitan:chimpanzee_banner_pattern"
+        ]
+    }
+]
