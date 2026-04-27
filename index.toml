@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "60cec96b2347baca9f23d248dfd279859634c67d4dddd9781ec03e5567d05628"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "a1789ed55e6642475f3439603ac77d7e5ea7c1868a11dce36b05446d2d1111c7"
 
@@ -10,7 +14,7 @@ hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "f6d7e7b5707ce1af355a0307c3812e9e1bcf9fefd584c57f361fe714d7a420f0"
+hash = "af1aacac85862ff1370b931281a3038866c3961ac266359cde7c85a1a1414d1b"
 
 [[files]]
 file = "config/eclipticseasons-client.toml"
@@ -888,6 +892,11 @@ hash = "ab7f09184e83abf8da1ae27fcfad48f896963e23ae244b00eb6577fcce298bed"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "c12875918a95f25b548666e43e6b98b33087db787beabfd8de2a56d0e1eda4e8"
 metafile = true
@@ -948,6 +957,11 @@ hash = "379658f33ba061db76fefc705d4844ecf2ab53a12159783414e9cec8cb6a554f"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "a87e9f44862e34f96a5d37de5162c9ad380d7386272f7946d1b5baa3b7975e45"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -960,6 +974,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "5fe467b7baec604fecb1c8c6f66ef49aa330cb39f31d530ad82567d05c6ded0d"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "b3fa073cd02ac8c754fe3ca4dc49e4aa224fddb411824a9608ad5c2d21140ea6"
 metafile = true
 
 [[files]]
@@ -994,6 +1018,16 @@ metafile = true
 [[files]]
 file = "mods/defaulted.pw.toml"
 hash = "bf95ba0462de55586348b61a25e692e13b4851f35853083ae7ff57136560d1f3"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "2d1cce37207ee75e3cd37c31726254d7c320a995219b45a26429c2370bf846a9"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
 
 [[files]]
@@ -1104,6 +1138,16 @@ metafile = true
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "393599b201dad57245cba41db57262dd43b2ddcecc2ef8ea8ee09ddb28a926c0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "2a4cb29f365de481a753be2a6095fc51629553f4fec4a5ef4368b21e6621f79d"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "462bec247e015d64f00f3d0fb7f7c857569c6133fc6b9f402f757823f2eeeb08"
 metafile = true
 
 [[files]]
@@ -1237,6 +1281,11 @@ hash = "85d17d29b1ddec030720e4f6418dc3664b9df4d49eaa323b0d4652ce13fef6eb"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "7218a06fa27c0bfaa0e6f7db00842b1de5d45aa2a3573bc76cb11930a075d76b"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
 metafile = true
@@ -1247,6 +1296,11 @@ hash = "96b64b2096ea8ee1144025b52cb769bfcd001db8fb38f72a4b5828a719a2196c"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cc9ce18e55788ddd2031e1c0f4d410053bb9b28f76da9d61cc0c9a57260597fa"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
@@ -1254,6 +1308,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "d62e86dda3bf9bfe05aa124e76037e757ebf25af26769421c5b8da513dbb7acd"
 metafile = true
 
 [[files]]
