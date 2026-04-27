@@ -17,6 +17,10 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
+file = "config/emixx/groups/buckets.json"
+hash = "860aaf0abcc4e1820b733c73ea8d53af741382dd6793b65c1a65b27023d00963"
+
+[[files]]
 file = "config/emixx/groups/seed_pouches.json"
 hash = "690eecb28022cd1a083112890a15ede65a5295ac8fd933016a53655cbd6af346"
 
@@ -25,8 +29,12 @@ file = "config/emixx/groups/tomes.json"
 hash = "1f9fa3c5dd039f69c3fc49659af16f96e0b222394e9f89510c943c791d7393f4"
 
 [[files]]
+file = "config/enchdesc.json"
+hash = "247738ce0358add932201eb8022261ffa61a58b60b1058e64efb9dbc465f0f58"
+
+[[files]]
 file = "config/immersiveoverlays.json"
-hash = "af5dc0f926fdf306eb33962c1c0c03f82c41cac94fb95f30dfd05814027a393c"
+hash = "272c13be7c084825023a0c87f4c18517340a8122874b91578101a3377d9a144f"
 
 [[files]]
 file = "config/inline/client-config.toml"
@@ -51,6 +59,10 @@ hash = "d25031cdcebd4941da3182ddc37a2eecacb09487682c92a2906522757dec14f6"
 [[files]]
 file = "config/mixed_litter-startup.toml"
 hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
+
+[[files]]
+file = "config/neapolitan-common.toml"
+hash = "cadde2155cdfd9db1b7f8b20adf3f02a509a2c3dd9e4cccb9ea774547a2f103b"
 
 [[files]]
 file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/data/hybrid_beta/worldgen/density_function/overworld/caves/cheese.json"
@@ -281,6 +293,10 @@ file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/pack.png"
 hash = "1365e74650124b938fcda0eb4c5e48ae423c58ab5f0ac02ba676cb85a3a9827f"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/c/tags/item/buckets/entity_water.json"
+hash = "3fea08a07b96b47d0b4fa436ca75090656a76a0c5ed94e13afa90595a264da33"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_cardboard_tier.json"
 hash = "4e0e5f1dc58e7547dbadbd782a05d08b1566fcf2f7c906125f551d7f9ac773c7"
 
@@ -457,8 +473,12 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/map.json"
 hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/breakdown_nether_wart.json"
+hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "74cb1844cdfa38791ec059cf19b95af88df3851e7535978252d76ff7d25133ef"
+hash = "5bd4ea13a8259bef6d5a48abeaa5180bb0978a1b2bc26acf232052497e85aa6e"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/pack.mcmeta"
@@ -473,12 +493,28 @@ file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
 hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
 
 [[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/item_descriptions/lang/en_us.json"
-hash = "45b9b160be3e6f268dd816c2174329b34ef33cdbc391ff3175ccc18b6c34d99e"
+file = "config/paxi/resourcepacks/00_deer/assets/enchdesc/lang/en_us.json"
+hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/gallery/models/item/painting/dennis.json"
+hash = "7ecbc917bb7a5896bec2380de42aeaa1fd12900bfd4addf41390928f32cfc400"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/gallery/textures/item/painting/dennis.png"
+hash = "76317c5e93b5aa4824c8f1ea49d45fb26cddd103d3fed8b39cc843170f2599d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/overweight_farming/lang/en_us.json"
+hash = "d09be1540516e5782c038cca2646dbfdfe0180fb349ba0bb472d07ca538579da"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
 hash = "5402ff96296bf0bd702a64f409d2251dee91fd8ebc385230ef7a406b61ec4f21"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/tide/item/fishing_journal.png"
+hash = "e34765e50ee8209ff01282d4fbb97ccb49a719a32495769d9421e5b60649ac3d"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/waterframes/lang/en_us.json"
@@ -673,6 +709,126 @@ file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/pack.png"
 hash = "91c314b8bdd96b3d46f6ce9ccdaa9a5ce8f1ed66f251d179bd495b76b6005d29"
 
 [[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/Selected Packs.txt"
+hash = "96d7bc7746b675fc05a88e569d51328a5971c8d10799cfac6de6a15baf62ea6d"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/dispenser.json"
+hash = "d427baa5d021e6435e06d75ae0452242655da5df9fc20a6be9fa1684e9238b8d"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/dispenser_vertical.json"
+hash = "557ac98949a066bef6a1ce7dced98bf1fdec8b6ee6463dd9492ce2a75e96bee4"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/dropper.json"
+hash = "af443836323bc00276a99094b0e5e4cc0a0f8f69ec28b3b74c00bb0afd0d9e75"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/dropper_vertical.json"
+hash = "12e50246ff3b1260c2bb1f33497480a257861c580cc826d1e8944cedfec9f9d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/hopper_side.json"
+hash = "295f82fdbb7ca16a94ed701fa7a89189ec14d9cd9b121522f841c33fd1218628"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/observer.json"
+hash = "5f3445b6bda3ef1a4e2d6b9773d005ef578a93ee6acc454f5e55969500e82a77"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/observer_on.json"
+hash = "4168c62052cdec17d4725fd7e0a1e1e075418fe7d5c63420017e4c1f53382413"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/piston_head_short_sticky.json"
+hash = "6005fde8835b70fa3532d84fb667339bca71866d6b2f9120c92681f5abb14ef3"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/piston_head_sticky.json"
+hash = "bcc8171c967d2cfbeb7f3b2b126ea093d82519c679463e515f8947395f2d61f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/sticky_piston.json"
+hash = "eaf778c19899548c6490c61d5b993eaf6a52573f10987317dbf0a2deacf903d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/block/sticky_piston_inventory.json"
+hash = "fc14ffec4f7472286718179902a22dcc109fdc8bbcdca8184eee6d03dbf4108c"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/models/item/sticky_piston.json"
+hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/dispenser_back.png"
+hash = "d1b0b002a5d9a3c57b696c55e27e769b968f113d288b88df8356795769f1affd"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/dispenser_side_l.png"
+hash = "ff59be768a2edda30361685b745e64c2feca6e23e1957ca4138bd2ed3c986280"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/dispenser_side_r.png"
+hash = "3b254caf5b3b1a714b73c92f80bab7b45a77e0e61bb08c17ee92ab25f2e7a1cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/dispenser_top.png"
+hash = "a43430ab074cefad407811d7b85c429f81a742081d1126346be4d129a492e9ef"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/hopper_inside_arrow.png"
+hash = "7628a957fb7680e82b8ab74c72b3e7fb759d0e84fdcd5d2c4d3c7aa39f032bb7"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/hopper_outside_arrow.png"
+hash = "8d7549c7ad544add640352f93ccc2ed8ba00d3bd273c64f45b285fed2c340c07"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_back.png"
+hash = "fba67e5afac02ffb66b715e0c1c54b157dd02f7c927bb80768a14abb739c5b7e"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_back_on.png"
+hash = "11ba461422fabcff1bf67879b513086837516379d299e6e027d1594b6a44dfd9"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_front_powered.png"
+hash = "4748e032606d87f7559b2f07c64f3034aab39a3821445ea7e1872ea83598235a"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_side.png"
+hash = "721ccfb5cbf9b34646d90f7c0f2290a36404db11b1f6fe294152aaf55a3fb0d6"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_side_powered.png"
+hash = "7db1854f195e3c83eca4b0f2378798b2d3d9c3f3e6f399f9f002c7a7756cacdf"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_top.png"
+hash = "8ae4b1885740740cb1aa546284130d03104281751206d56ddba2622fd854efc0"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/observer_top_powered.png"
+hash = "00e0bce07e1599ddb19a09b60a2fc508495fa48bd8ce893da0df27bb58db3454"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/piston_bottom_sticky.png"
+hash = "16171cb8fa35076860febfc9b62385f03efcd3bf4e5572de82195eb614c9ae39"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/assets/minecraft/textures/block/piston_side_sticky.png"
+hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/pack.mcmeta"
+hash = "00fae50994eaff6f0f1fb95ce8703f5b4a5325118fb4d37f61f18282d220101c"
+
+[[files]]
+file = "config/paxi/resourcepacks/VanillaTweaks_r258876_MC1.21.x/pack.png"
+hash = "7814c5a6cfb409e2ae4545b4d7c30f0c8689ce582bfaf263b9773cc99846bbfc"
+
+[[files]]
 file = "config/personality-client.toml"
 hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
@@ -689,8 +845,16 @@ file = "config/reliable_recipes/maps.json"
 hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
 
 [[files]]
+file = "config/reliable_remover/abnormals_delight.json"
+hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
+
+[[files]]
 file = "config/reliable_remover/horse.json"
 hash = "eab5b81c06407c294765c94ff8e38c4624451ef0540b35c94ae102cc9255116f"
+
+[[files]]
+file = "config/reliable_remover/neapolitan.json"
+hash = "c79297d1ad93fc63f41c81ed5d81e53a9a7359ccb45afc88a8b06e0fa7a72b33"
 
 [[files]]
 file = "config/reliable_replacer/no_beachgrass_on_grass.json"
@@ -849,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
+hash = "439bff920e5c436683286aa8e03b7b7675e45666ea790d6ba677ae3353a76f7a"
 metafile = true
 
 [[files]]
@@ -875,11 +1039,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
-metafile = true
-
-[[files]]
-file = "mods/field-guide.pw.toml"
-hash = "04130b8bf94bfd74d6fd9e47d730baec88f94eafe62875600adb8f4a87abfbc2"
 metafile = true
 
 [[files]]
@@ -943,11 +1102,6 @@ hash = "393599b201dad57245cba41db57262dd43b2ddcecc2ef8ea8ee09ddb28a926c0"
 metafile = true
 
 [[files]]
-file = "mods/item-descriptions.pw.toml"
-hash = "6324217dce1a1570bab51600dfef416f3061ca8c2604a91fc010b4b2e5281389"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -994,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/notely.pw.toml"
-hash = "63c278c70798f792a34ac6300d50f46b9bfd168fe3eb0c0599ce463f8a0ce33c"
+hash = "6d3bc34025a45536a9096af03b049aa3370717e8e62429219909c2a1ad4876c4"
 metafile = true
 
 [[files]]
