@@ -873,6 +873,11 @@ file = "config/smoothskies.json"
 hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "493005688e8916fffdce5b791836500dc14e60896065500479ba1b93a3f78bc9"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "c62eea66c7ebac3cc27e4d566af551fbc403185b5c7dc928e1be708f1e6bde7f"
 metafile = true
@@ -1139,6 +1144,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "55ff0b12591e858a83633b5dc788464c908375a79e4043ac11b3518a776cc358"
 metafile = true
 
 [[files]]
