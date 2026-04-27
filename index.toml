@@ -30,7 +30,7 @@ hash = "1f9fa3c5dd039f69c3fc49659af16f96e0b222394e9f89510c943c791d7393f4"
 
 [[files]]
 file = "config/enchdesc.json"
-hash = "247738ce0358add932201eb8022261ffa61a58b60b1058e64efb9dbc465f0f58"
+hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
 
 [[files]]
 file = "config/immersiveoverlays.json"
@@ -513,7 +513,7 @@ file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
 hash = "5402ff96296bf0bd702a64f409d2251dee91fd8ebc385230ef7a406b61ec4f21"
 
 [[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/tide/item/fishing_journal.png"
+file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
 hash = "e34765e50ee8209ff01282d4fbb97ccb49a719a32495769d9421e5b60649ac3d"
 
 [[files]]
