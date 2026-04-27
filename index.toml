@@ -458,7 +458,7 @@ hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "2162f512aa951138549ebaf4a56ad419d7fd7e381398be330d57434d5cd84f23"
+hash = "74cb1844cdfa38791ec059cf19b95af88df3851e7535978252d76ff7d25133ef"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/pack.mcmeta"
@@ -678,7 +678,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "aaffdb8eb53c75d0c282e44791bc40ba2596a92118776ba34144350b2f2b46fd"
+hash = "9469b9b78a7cb662714eb042be1c3a07ef90f3cde3bf8dd1c265ca08e10f7ed0"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -707,11 +707,6 @@ hash = "7e7992f786e70a82ba19171c96522ffe013329f884bd986cd92ee7b09230a8bf"
 [[files]]
 file = "config/smoothskies.json"
 hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
-
-[[files]]
-file = "mods/abnormals-delight.pw.toml"
-hash = "493005688e8916fffdce5b791836500dc14e60896065500479ba1b93a3f78bc9"
-metafile = true
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
@@ -990,11 +985,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
-metafile = true
-
-[[files]]
-file = "mods/neapolitan.pw.toml"
-hash = "55ff0b12591e858a83633b5dc788464c908375a79e4043ac11b3518a776cc358"
 metafile = true
 
 [[files]]
