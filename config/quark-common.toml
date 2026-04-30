@@ -1644,7 +1644,7 @@
 	"Spawner Replacer" = false
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	"Variant Selector" = false
-	"Villager Rerolling Rework" = false
+	"Villager Rerolling Rework" = true
 
 	[experimental.adjustable_chat]
 		"Horizontal Shift" = 0
