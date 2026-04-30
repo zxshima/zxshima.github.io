@@ -322,7 +322,7 @@ hash = "aa04187a8c007d97ef2dbb80a98dbfef5dc2b8c32ee3eb9bf626d7c29a258556"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_leather_tier.json"
-hash = "eef7d31c61a36c5888d19e8b54729a23da75ae107287387c023ee259897a0b43"
+hash = "da4441460ed4b9b69b5ce749cf21489f5db67ea6a793116ca1daca52df6d55f9"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_netherite_tier.json"
@@ -838,7 +838,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "9469b9b78a7cb662714eb042be1c3a07ef90f3cde3bf8dd1c265ca08e10f7ed0"
+hash = "5d04d3d6f559a72332f9e9381fc29b1668a836c8547c92755b5fe181b8c06c74"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -977,11 +977,6 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "476cf6c6e93952425fa9de4cb7fd405994a337dfbe9e8ebfda83e12352d31b64"
-metafile = true
-
-[[files]]
 file = "mods/colorwheel-patcher.pw.toml"
 hash = "5fe467b7baec604fecb1c8c6f66ef49aa330cb39f31d530ad82567d05c6ded0d"
 metafile = true
@@ -1108,11 +1103,6 @@ metafile = true
 [[files]]
 file = "mods/gallery.pw.toml"
 hash = "c5ad1776e5593ca7af72b2d249fd284334835cd028cf95daf4b96f619eb0fe53"
-metafile = true
-
-[[files]]
-file = "mods/gliders.pw.toml"
-hash = "b8b618ee02910194cd17a4ba036ae76192c1400dae984ffba12ffc90118b09ec"
 metafile = true
 
 [[files]]
@@ -1393,11 +1383,6 @@ metafile = true
 [[files]]
 file = "mods/villager-comfort-continued.pw.toml"
 hash = "bbc834f6c8ebfcd2a4f4f96e3218bdd10a90bd95fac6a19f9b320d7c130c726c"
-metafile = true
-
-[[files]]
-file = "mods/villager-names.pw.toml"
-hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
 metafile = true
 
 [[files]]
