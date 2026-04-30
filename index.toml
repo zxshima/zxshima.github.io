@@ -869,6 +869,10 @@ file = "config/reliable_replacer/no_seashells_on_grass.json"
 hash = "bbf29979ead93338639fe4c01fb9c5c38af65a008119a6f6733bc84c1ee42405"
 
 [[files]]
+file = "config/reliable_replacer/no_seashells_on_stone.json"
+hash = "970662da5e488d4e145015ca0c74919bf886cb5963443af3af2ed8fbde2afa8e"
+
+[[files]]
 file = "config/reliable_requiem.json"
 hash = "7e7992f786e70a82ba19171c96522ffe013329f884bd986cd92ee7b09230a8bf"
 
@@ -1191,11 +1195,6 @@ hash = "4c9f7337ebb5fa5a2e90a1fb88d290d4b7344f31f910e85671a2c6549106e5ff"
 metafile = true
 
 [[files]]
-file = "mods/mini-music-tweaks.pw.toml"
-hash = "26114e9463f9481acf40e691ca9e67893ffd8a0f5f085296e330cc3eb77d0ab9"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "35b03bb2dee1bcbb0436d2024d5c4803930ace5337f0380c6f1fec7a2f75a0cf"
 metafile = true
@@ -1393,11 +1392,6 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
-metafile = true
-
-[[files]]
-file = "mods/toast-control.pw.toml"
-hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
