@@ -838,7 +838,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "5d04d3d6f559a72332f9e9381fc29b1668a836c8547c92755b5fe181b8c06c74"
+hash = "f5db47017c0ab805e962bd4cc6254c18d92c10b438db2f4e279544255979717b"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
