@@ -607,7 +607,7 @@
 		"Display Baked Enchantments In Tooltip" = true
 		"Italic Tooltip" = true
 		#Enchantments other than Gold's Fortune/Looting to bake into items. Format is "item+enchant@level", such as "minecraft:stick+minecraft:sharpness@10".
-		"Item Enchantments" = []
+		"Item Enchantments" = ["minecraft:leather_helmet+minecraft:feather_falling@2","minecraft:leather_chestplate+minecraft:feather_falling@2","minecraft:leather_leggings+minecraft:feather_falling@2","minecraft:leather_boots+minecraft:feather_falling@2"]
 
 	[tweaks.grab_chickens]
 		"Needs No Helmet" = true
@@ -1775,7 +1775,7 @@
 	Backpack = false
 	Crate = true
 	Magnets = true
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Pipes = true
 	"Tiny Potato" = true
 	"Totem Of Holding" = true

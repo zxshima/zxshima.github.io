@@ -1,0 +1,13 @@
+name = "Snow Imprints"
+filename = "softimprints-neoforge-1.21.1-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UhxJgB1o/versions/Ei6g0bz3/softimprints-neoforge-1.21.1-1.5.1.jar"
+hash-format = "sha512"
+hash = "cf88d4a0e76dbe2f45075c98c8ac6fc9b30f829f9cef360ffc98dcf0c29d9414098bda91d5bbd864305d136caa0cba8c9cb4ed131111904ec01bd6a4ab23dcb7"
+
+[update]
+[update.modrinth]
+mod-id = "UhxJgB1o"
+version = "Ei6g0bz3"

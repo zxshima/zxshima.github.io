@@ -6,6 +6,6 @@
         "minecraft:leather_boots"
     ],
     "patch": {
-        "minecraft:max_damage": 80
+        "minecraft:max_damage": 120
     }
 }

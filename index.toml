@@ -878,7 +878,7 @@ hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
-hash = "493005688e8916fffdce5b791836500dc14e60896065500479ba1b93a3f78bc9"
+hash = "56700c848266c1b129a324e285db6ad16ed19fc33f91aea9268659350bddeef7"
 metafile = true
 
 [[files]]
@@ -977,6 +977,11 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "476cf6c6e93952425fa9de4cb7fd405994a337dfbe9e8ebfda83e12352d31b64"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel-patcher.pw.toml"
 hash = "5fe467b7baec604fecb1c8c6f66ef49aa330cb39f31d530ad82567d05c6ded0d"
 metafile = true
@@ -994,6 +999,16 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6cabae8686cf85c826d1280f00e00d67bb7672d353f669bea9f3775de39dd378"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
 metafile = true
 
 [[files]]
@@ -1066,13 +1081,18 @@ hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "2489c8bd3bdc9e3adff7439bb324bbf6a32639085e7e00561acb246db69a4c48"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "646f21ebe8f8b1bfc244588c0e50f6b077b1263ead20361a037b06f24d359441"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
+hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
 metafile = true
 
 [[files]]
@@ -1182,7 +1202,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "67a1f2166177db175eeb9dbd8dd085c6180fbaac6669f07c2cdb9c10efe8da9a"
+hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
 metafile = true
 
 [[files]]
@@ -1246,6 +1266,11 @@ hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
 metafile = true
 
 [[files]]
+file = "mods/reliable-gliders.pw.toml"
+hash = "ffc860d1cc88687303cdd54eb792a23cd6268e846d1553f67e04c3ae2cd756ea"
+metafile = true
+
+[[files]]
 file = "mods/reliable-recipes.pw.toml"
 hash = "0f7567f34aa2b9211a19b80da749c7c0f8fc27255bf43f05c2660d611f4d7d6e"
 metafile = true
@@ -1268,6 +1293,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
 
 [[files]]
@@ -1308,6 +1338,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
+metafile = true
+
+[[files]]
+file = "mods/snow-imprints.pw.toml"
+hash = "3db1b6a94cd65d8ba90afe42cf0229768970732b9adcfd00f00ff1bbffc9096d"
 metafile = true
 
 [[files]]
@@ -1358,6 +1393,11 @@ metafile = true
 [[files]]
 file = "mods/villager-comfort-continued.pw.toml"
 hash = "bbc834f6c8ebfcd2a4f4f96e3218bdd10a90bd95fac6a19f9b320d7c130c726c"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
 metafile = true
 
 [[files]]
