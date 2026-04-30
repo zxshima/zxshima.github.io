@@ -1,0 +1,13 @@
+[
+  {
+    "inputs": [ "nomansland:seashells" ],
+    "outputs": [ "nomansland:pebbles" ],
+    "neighbors": {
+        "down": "minecraft:stone"
+    },
+    "min_y": "-30",
+    "max_y": "196",
+    "player_blocks": "false",
+    "retrogen": "true"
+  }
+]

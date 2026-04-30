@@ -1196,6 +1196,11 @@ hash = "26114e9463f9481acf40e691ca9e67893ffd8a0f5f085296e330cc3eb77d0ab9"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "35b03bb2dee1bcbb0436d2024d5c4803930ace5337f0380c6f1fec7a2f75a0cf"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
 metafile = true
@@ -1356,6 +1361,11 @@ hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
+file = "mods/stoat.pw.toml"
+hash = "5cf0a435149547a160186c6e5ae734868e1149df33e282934d0475c9359137f6"
+metafile = true
+
+[[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
@@ -1383,6 +1393,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
