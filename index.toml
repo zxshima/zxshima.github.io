@@ -17,6 +17,10 @@ file = "config/betterarcheology.jsonc"
 hash = "054ffa16404fb0971b4df092da5eb7e2e8f24591d307aacfc70b32da06becb15"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "f6bf6f0f4b66e0b4545d7eb43998348de109292aae912ce24366386bbd99d15a"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "af1aacac85862ff1370b931281a3038866c3961ac266359cde7c85a1a1414d1b"
 
@@ -506,7 +510,7 @@ hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/friendsandfoes/lang/en_us.json"
-hash = "0e4070cfea6ee35ae18abad3aff0b165218dd930c95060f7f8a7bb1cea3cae9f"
+hash = "fe104dfb341527fa964b9261db141daa08de0a56de70e96f360b00a2fc8791ad"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/gallery/models/item/painting/dennis.json"
@@ -518,7 +522,7 @@ hash = "76317c5e93b5aa4824c8f1ea49d45fb26cddd103d3fed8b39cc843170f2599d3"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/horseman/lang/en_us.json"
-hash = "12091b565dd199f40a233f9d511a1c1647b7dfb9a232ea20d9e3a5d34b8b3cb6"
+hash = "efbb3917436667324bc3061c447e587bd9a50e6fae57abae4e6cc3eac23f2f96"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -865,16 +869,16 @@ file = "config/reliable_remover/abnormals_delight.json"
 hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
 
 [[files]]
+file = "config/reliable_remover/copycats.json"
+hash = "fcebaaaef448e52ae2c132a388d1ab4f268e8bb29d8b52a82d39353838892f45"
+
+[[files]]
 file = "config/reliable_remover/horse.json"
 hash = "eab5b81c06407c294765c94ff8e38c4624451ef0540b35c94ae102cc9255116f"
 
 [[files]]
 file = "config/reliable_remover/neapolitan.json"
 hash = "c79297d1ad93fc63f41c81ed5d81e53a9a7359ccb45afc88a8b06e0fa7a72b33"
-
-[[files]]
-file = "config/reliable_remover/pebbles.json"
-hash = "e08b6266ee4040f93f753d755044e310f25c4f8e493c6c8363c2e3a4211d59a6"
 
 [[files]]
 file = "config/reliable_replacer/no_barnacles_on_gravel.json"
@@ -885,12 +889,20 @@ file = "config/reliable_replacer/no_beachgrass_on_grass.json"
 hash = "620cd1632c5e3d07011de69015bbd9cc8d50d8dbb15958ba3f90bc21b617468b"
 
 [[files]]
+file = "config/reliable_replacer/no_seashells_at_all.json"
+hash = "36c4946ce06b0800a47300ddc5c0d281374d5dc62637d5b170c8ea14f3d9b1cd"
+
+[[files]]
 file = "config/reliable_replacer/no_seashells_on_grass.json"
 hash = "412b7cccb5aaf83e12a5385274455a95cd9a3ecf9cbc1c84908ccf27eb3f5104"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_gravel.json"
 hash = "0141c97efafa607d2db391e464338eb05b561f502c3b0c29621c135b0aafef48"
+
+[[files]]
+file = "config/reliable_replacer/no_seashells_on_snow.json"
+hash = "38a5e73b779a012410583aeab1e38bdbffbc2105faaec3c91a3ae147d0db3f53"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_stone.json"
@@ -1075,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "ace3e9b5bc10ccd101f12069daac555d49818d68131503cf1169b5095f8b073c"
+hash = "e13daa6fa3f9529a20e0d1c88057f04db4a40c519e59e940518d1a14aaa0eea2"
 metafile = true
 
 [[files]]
