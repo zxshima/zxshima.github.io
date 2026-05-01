@@ -13,6 +13,10 @@ file = "config/appleskin-client.toml"
 hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
 
 [[files]]
+file = "config/betterarcheology.jsonc"
+hash = "054ffa16404fb0971b4df092da5eb7e2e8f24591d307aacfc70b32da06becb15"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "af1aacac85862ff1370b931281a3038866c3961ac266359cde7c85a1a1414d1b"
 
@@ -35,6 +39,10 @@ hash = "1f9fa3c5dd039f69c3fc49659af16f96e0b222394e9f89510c943c791d7393f4"
 [[files]]
 file = "config/enchdesc.json"
 hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
+
+[[files]]
+file = "config/friendsandfoes.json"
+hash = "4519d315022192e5741b59374b8ed0a163fbd7901d5b9eee7af15b5f9131624b"
 
 [[files]]
 file = "config/immersiveoverlays.json"
@@ -869,6 +877,10 @@ file = "config/reliable_replacer/no_seashells_on_grass.json"
 hash = "bbf29979ead93338639fe4c01fb9c5c38af65a008119a6f6733bc84c1ee42405"
 
 [[files]]
+file = "config/reliable_replacer/no_seashells_on_stone.json"
+hash = "970662da5e488d4e145015ca0c74919bf886cb5963443af3af2ed8fbde2afa8e"
+
+[[files]]
 file = "config/reliable_requiem.json"
 hash = "7e7992f786e70a82ba19171c96522ffe013329f884bd986cd92ee7b09230a8bf"
 
@@ -912,6 +924,11 @@ hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "20474e975cd0974217cf9a9899d44e9179afbae31e974b1ed7d9721be1920f1d"
 metafile = true
@@ -924,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "0933a52d7e0e140f907522d0c9f8910599de4f4ea26455e67a983efe84561971"
 metafile = true
 
 [[files]]
@@ -1082,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "2489c8bd3bdc9e3adff7439bb324bbf6a32639085e7e00561acb246db69a4c48"
+hash = "cc8780c9e3d51b70f0919f6367fba567f61046a8ec765504f2e5d912fe962204"
 metafile = true
 
 [[files]]
@@ -1098,6 +1120,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "dcab74c0333c08b97242dc39651bd72867435dd03afb1337431372ff5aa1ec90"
 metafile = true
 
 [[files]]
@@ -1191,11 +1218,6 @@ hash = "4c9f7337ebb5fa5a2e90a1fb88d290d4b7344f31f910e85671a2c6549106e5ff"
 metafile = true
 
 [[files]]
-file = "mods/mini-music-tweaks.pw.toml"
-hash = "26114e9463f9481acf40e691ca9e67893ffd8a0f5f085296e330cc3eb77d0ab9"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "35b03bb2dee1bcbb0436d2024d5c4803930ace5337f0380c6f1fec7a2f75a0cf"
 metafile = true
@@ -1267,12 +1289,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-gliders.pw.toml"
-hash = "ffc860d1cc88687303cdd54eb792a23cd6268e846d1553f67e04c3ae2cd756ea"
+hash = "b9d7bfd164af8653a29e4eb2b30b87624368d35abe70f389c2fb8c91f1172f16"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "0f7567f34aa2b9211a19b80da749c7c0f8fc27255bf43f05c2660d611f4d7d6e"
+hash = "a3c5fae280ccd98a3b7b8423e42bf32448e66311f5157919f975fd38c4134c42"
 metafile = true
 
 [[files]]
@@ -1291,8 +1313,18 @@ hash = "a34b978875f6fc615fb9c8e20fe73392fce858894e91bf878403512ced10fa9d"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/rotten-creatures.pw.toml"
+hash = "909e61e9dcf8c5d4a414d624f6a7a7bf04d61350c831b9386bb4a196f33aee8e"
 metafile = true
 
 [[files]]

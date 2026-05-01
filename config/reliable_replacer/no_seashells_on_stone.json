@@ -1,7 +1,7 @@
 [
   {
     "inputs": [ "nomansland:seashells" ],
-    "outputs": [ "nomansland:pebbles" ],
+    "outputs": [ "nomansland:pebbles", "minecraft:air" ],
     "neighbors": {
         "down": "minecraft:stone"
     },

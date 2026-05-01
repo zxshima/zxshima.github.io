@@ -14,4 +14,4 @@ project-id = 508933
 
 [option]
 optional = true
-description = "Allows you to see further away through use of simplified models (LODs). Has a mild performance impact. Pre-includes a config for some visual improvements. LOD render distance of 128 is recommended. Has support for Iris"
+description = ">4 GB RAM REQUIRED! \n USE ZGC INSTANCE! \n Allows you to see further away through use of simplified models (LODs). Has a mild performance impact. Pre-includes a config for some visual improvements. LOD render distance of 128 is recommended. Has support for Iris"

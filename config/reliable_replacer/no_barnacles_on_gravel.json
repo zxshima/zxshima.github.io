@@ -1,0 +1,15 @@
+[
+  {
+    "inputs": [ "supplementaries:barnacles" ],
+    "outputs": [ "minecraft:air" ],
+    "neighbors": {
+        "up": "minecraft:air",
+        "down": "minecraft:gravel"
+    },
+    "min_y": "60",
+    "max_y": "196",
+    "player_blocks": "false",
+    "retrogen": "true"
+  }
+]
+

@@ -1,13 +1,13 @@
 name = "Reliable Gliders"
-filename = "reliable_gliders-neoforge-1.21.1-1.1.0.jar"
+filename = "reliable_gliders-neoforge-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3e84add0eedf4e5c3aa6b6ef7b4eb1549f735535"
+hash = "b0d32d5022a4f283c38d32fedec2efc04d57cda6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8011880
+file-id = 8017141
 project-id = 1528600

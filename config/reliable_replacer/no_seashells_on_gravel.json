@@ -1,0 +1,15 @@
+[
+  {
+    "inputs": [ "nomansland:seashells" ],
+    "outputs": [ "minecraft:snow" ],
+    "biomes": ["minecraft:snowy_beach"],
+    "neighbors": {
+        "down": "minecraft:gravel"
+    },
+    "min_y": "60",
+    "max_y": "196",
+    "player_blocks": "false",
+    "retrogen": "true",
+  }
+]
+
