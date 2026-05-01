@@ -25,18 +25,6 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
-file = "config/emixx/groups/buckets.json"
-hash = "860aaf0abcc4e1820b733c73ea8d53af741382dd6793b65c1a65b27023d00963"
-
-[[files]]
-file = "config/emixx/groups/seed_pouches.json"
-hash = "690eecb28022cd1a083112890a15ede65a5295ac8fd933016a53655cbd6af346"
-
-[[files]]
-file = "config/emixx/groups/tomes.json"
-hash = "1f9fa3c5dd039f69c3fc49659af16f96e0b222394e9f89510c943c791d7393f4"
-
-[[files]]
 file = "config/enchdesc.json"
 hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
 
@@ -505,8 +493,20 @@ file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
 hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/chipped/textures/block/blue_ice/runic_carved_blue_ice.png"
+hash = "8d8318b1dd079825f616b228034dfe9a332fee3b88b6977ff5b39a8a34f29402"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/chipped/textures/block/crying_obsidian/runic_carved_crying_obsidian.png"
+hash = "6175e499cc4e4e07b70f57f4ef649153f59fe289fb855671e5d8193ee2a9ad20"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/enchdesc/lang/en_us.json"
 hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/friendsandfoes/lang/en_us.json"
+hash = "0e4070cfea6ee35ae18abad3aff0b165218dd930c95060f7f8a7bb1cea3cae9f"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/gallery/models/item/painting/dennis.json"
@@ -515,6 +515,10 @@ hash = "7ecbc917bb7a5896bec2380de42aeaa1fd12900bfd4addf41390928f32cfc400"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/gallery/textures/item/painting/dennis.png"
 hash = "76317c5e93b5aa4824c8f1ea49d45fb26cddd103d3fed8b39cc843170f2599d3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/horseman/lang/en_us.json"
+hash = "12091b565dd199f40a233f9d511a1c1647b7dfb9a232ea20d9e3a5d34b8b3cb6"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -869,16 +873,28 @@ file = "config/reliable_remover/neapolitan.json"
 hash = "c79297d1ad93fc63f41c81ed5d81e53a9a7359ccb45afc88a8b06e0fa7a72b33"
 
 [[files]]
+file = "config/reliable_remover/pebbles.json"
+hash = "e08b6266ee4040f93f753d755044e310f25c4f8e493c6c8363c2e3a4211d59a6"
+
+[[files]]
+file = "config/reliable_replacer/no_barnacles_on_gravel.json"
+hash = "8a45e2a7bbaa0f2cae82115a65877e3b1166b890964555ba2bf0815231ded0f1"
+
+[[files]]
 file = "config/reliable_replacer/no_beachgrass_on_grass.json"
 hash = "620cd1632c5e3d07011de69015bbd9cc8d50d8dbb15958ba3f90bc21b617468b"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_grass.json"
-hash = "bbf29979ead93338639fe4c01fb9c5c38af65a008119a6f6733bc84c1ee42405"
+hash = "412b7cccb5aaf83e12a5385274455a95cd9a3ecf9cbc1c84908ccf27eb3f5104"
+
+[[files]]
+file = "config/reliable_replacer/no_seashells_on_gravel.json"
+hash = "0141c97efafa607d2db391e464338eb05b561f502c3b0c29621c135b0aafef48"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_stone.json"
-hash = "970662da5e488d4e145015ca0c74919bf886cb5963443af3af2ed8fbde2afa8e"
+hash = "1eb768b682ad7f6329c7382abfc27dc6ed2506946cfd1f8176a8ce069861fef5"
 
 [[files]]
 file = "config/reliable_requiem.json"
@@ -1054,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "2d1cce37207ee75e3cd37c31726254d7c320a995219b45a26429c2370bf846a9"
+hash = "ace3e9b5bc10ccd101f12069daac555d49818d68131503cf1169b5095f8b073c"
 metafile = true
 
 [[files]]
@@ -1080,11 +1096,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
-metafile = true
-
-[[files]]
-file = "mods/emixx.pw.toml"
-hash = "1a2ca9865ee018d9cc28693cfa6aa5e181a636eef9fa7811564ce4b6b859ff9d"
 metafile = true
 
 [[files]]
@@ -1323,11 +1334,6 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
-file = "mods/rotten-creatures.pw.toml"
-hash = "909e61e9dcf8c5d4a414d624f6a7a7bf04d61350c831b9386bb4a196f33aee8e"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -1425,6 +1431,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
