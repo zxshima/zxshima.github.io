@@ -1,0 +1,10 @@
+[
+  {
+    "inputs": [ "nomansland:seashells" ],
+    "outputs": [ "minecraft:air" ],
+    "min_y": "65",
+    "max_y": "320",
+    "player_blocks": "false",
+    "retrogen": "true"
+  }
+]

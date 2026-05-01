@@ -1,0 +1,9 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "create_connected:copycat_box",
+            "create_connected:copycat_catwalk"
+        ]
+    }
+]

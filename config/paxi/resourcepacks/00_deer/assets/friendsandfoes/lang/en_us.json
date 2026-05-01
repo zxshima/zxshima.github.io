@@ -7,5 +7,10 @@
 	"advancements.friendsandfoes.nether.kill_wildfire.title": "Drop It LIke It's Hot",
 	"advancements.friendsandfoes.nether.obtain_wildfire_crown.title": "Fallen Kingdom",
 	"advancements.friendsandfoes.adventure.complete_hide_and_seek_game.title": "Hide and Seek",
-	"entity.friendsandfoes.ice_chunk": "Ice Chunk"
+	"entity.friendsandfoes.ice_chunk": "Ice Chunk",
+	"advancements.friendsandfoes.husbandry.shear_a_moobloom.description": "Shear a Moobloom",
+	"advancements.friendsandfoes.adventure.summon_copper_golem.description": "Summon a Copper Golem",
+	"advancements.friendsandfoes.adventure.it_bites.description": "Kill the Mauler",
+	"advancements.friendsandfoes.adventure.kill_iceologer.description": "Kill the Iceologer",
+	"advancements.friendsandfoes.adventure.kill_illusioner.description": "Kill the Illusioner... if he is even real"
 }
