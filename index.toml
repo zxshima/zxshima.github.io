@@ -510,7 +510,7 @@ hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/friendsandfoes/lang/en_us.json"
-hash = "fe104dfb341527fa964b9261db141daa08de0a56de70e96f360b00a2fc8791ad"
+hash = "5eb0fe82951e40bf42bad9ec3d8a8da07230f6e32f105bce8465637546eabd87"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/gallery/models/item/painting/dennis.json"
@@ -877,8 +877,16 @@ file = "config/reliable_remover/horse.json"
 hash = "eab5b81c06407c294765c94ff8e38c4624451ef0540b35c94ae102cc9255116f"
 
 [[files]]
+file = "config/reliable_remover/matrix.json"
+hash = "a6f07fab622b0c25d67ae71946dc8933fa8893cf41e3f6fbcfc9a58e2e3ae678"
+
+[[files]]
 file = "config/reliable_remover/neapolitan.json"
 hash = "c79297d1ad93fc63f41c81ed5d81e53a9a7359ccb45afc88a8b06e0fa7a72b33"
+
+[[files]]
+file = "config/reliable_remover/pebbles.json"
+hash = "e08b6266ee4040f93f753d755044e310f25c4f8e493c6c8363c2e3a4211d59a6"
 
 [[files]]
 file = "config/reliable_replacer/no_barnacles_on_gravel.json"
@@ -934,11 +942,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "666bfc7d7b7a843c36454f7d18a50f0f26747a01afbc2a514a917f85ce1af552"
 metafile = true
 
 [[files]]
