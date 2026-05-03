@@ -1389,11 +1389,6 @@ hash = "7218a06fa27c0bfaa0e6f7db00842b1de5d45aa2a3573bc76cb11930a075d76b"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
-metafile = true
-
-[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "96b64b2096ea8ee1144025b52cb769bfcd001db8fb38f72a4b5828a719a2196c"
 metafile = true
