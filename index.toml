@@ -5,10 +5,6 @@ file = "config/DistantHorizons.toml"
 hash = "60cec96b2347baca9f23d248dfd279859634c67d4dddd9781ec03e5567d05628"
 
 [[files]]
-file = "config/ambientsounds-client.json"
-hash = "a1789ed55e6642475f3439603ac77d7e5ea7c1868a11dce36b05446d2d1111c7"
-
-[[files]]
 file = "config/appleskin-client.toml"
 hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
 
@@ -621,14 +617,6 @@ file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_toolt
 hash = "1016dddadace4a983480d229a13356acf35a22bb3432e0516d49aec2faf892e2"
 
 [[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
-hash = "32b5a23dfb6c71a5aa06f1431b6e73a9374f8947b031c7781df0b64101190fc4"
-
-[[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.sub_level_punch_strength.png"
-hash = "42a6dabfd6d84447fac992b6aecb8b49defb4bf4947213452f3bd0a1786cf6a5"
-
-[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.submerged_mining_speed.png"
 hash = "1a2755ccb6dff950bf2d0e0f73d255267279ca61e84f2071218d2798bb24644d"
 
@@ -639,6 +627,14 @@ hash = "162dec31ea9b9e7240ca83f554a6d9489bfe9fd7f6f389ac3fd333ee08dc543c"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
 hash = "5402ff96296bf0bd702a64f409d2251dee91fd8ebc385230ef7a406b61ec4f21"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
+hash = "32b5a23dfb6c71a5aa06f1431b6e73a9374f8947b031c7781df0b64101190fc4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_strength.png"
+hash = "42a6dabfd6d84447fac992b6aecb8b49defb4bf4947213452f3bd0a1786cf6a5"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
@@ -990,7 +986,7 @@ hash = "a6f07fab622b0c25d67ae71946dc8933fa8893cf41e3f6fbcfc9a58e2e3ae678"
 
 [[files]]
 file = "config/reliable_remover/melon.json"
-hash = "20d360b58c9c8928625327cbeb583ca64836103d31e4e21adc5afb3d054a1aa7"
+hash = "7359093133943e9a3d57d37e5f45e868bf3cead2fa315b1242a557296930ce83"
 
 [[files]]
 file = "config/reliable_remover/neapolitan.json"
