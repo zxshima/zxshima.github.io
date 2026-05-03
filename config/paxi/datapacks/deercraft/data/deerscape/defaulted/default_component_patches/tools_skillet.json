@@ -1,0 +1,46 @@
+{
+    "items": [
+        "farmersdelight:skillet"
+    ],
+    "patch": {
+        "minecraft:attribute_modifiers": {
+            "modifiers": [
+                {
+                    "type": "minecraft:generic.attack_damage",
+                    "id": "minecraft:base_attack_damage",
+                    "amount": 7.0,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:generic.attack_speed",
+                    "id": "minecraft:base_attack_speed",
+                    "amount": -3.1,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "minecraft:generic.attack_knockback",
+                    "id": "farmersdelight:base_attack_knockback",
+                    "amount": 1.0,
+                    "operation": "add_value",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "sable:player.sub_level_punch_strength",
+                    "operation": "add_multiplied_total",
+                    "amount": 4.0,
+                    "id": "simulated:base_punch_strength",
+                    "slot": "mainhand"
+                },
+                {
+                    "type": "sable:player.sub_level_punch_cooldown",
+                    "operation": "add_value",
+                    "amount": 1.0,
+                    "id": "simulated:base_punch_cooldown",
+                    "slot": "mainhand"
+                }
+            ]
+        }
+    }
+}
