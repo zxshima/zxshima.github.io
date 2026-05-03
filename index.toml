@@ -1132,7 +1132,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cc8780c9e3d51b70f0919f6367fba567f61046a8ec765504f2e5d912fe962204"
+hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
 metafile = true
 
 [[files]]
@@ -1163,6 +1163,16 @@ metafile = true
 [[files]]
 file = "mods/gallery.pw.toml"
 hash = "c5ad1776e5593ca7af72b2d249fd284334835cd028cf95daf4b96f619eb0fe53"
+metafile = true
+
+[[files]]
+file = "mods/golemsarefriends.pw.toml"
+hash = "ee2a1787a14e5e0e748b8801daede1722c4bf01d99582541c3ea603ed0e429ba"
+metafile = true
+
+[[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "c6746826da9bd56a6060db2945a16c27c6744622890f5d278565dd6c41ebd22c"
 metafile = true
 
 [[files]]
@@ -1217,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "462bec247e015d64f00f3d0fb7f7c857569c6133fc6b9f402f757823f2eeeb08"
+hash = "c283a3dcc73a7e5c98be31e72748fa2a3c496136f1e6b92c1ae132b4457bc5d5"
 metafile = true
 
 [[files]]
@@ -1317,22 +1327,22 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-gliders.pw.toml"
-hash = "b9d7bfd164af8653a29e4eb2b30b87624368d35abe70f389c2fb8c91f1172f16"
+hash = "08b053e0a72db97ee496dcd7603a4f5f5f98904308c4776ca94e47f5edcf3c6c"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "a3c5fae280ccd98a3b7b8423e42bf32448e66311f5157919f975fd38c4134c42"
+hash = "aa30ef168b2b510d037f2351d87b90884b97fd124093eb79db3fa4006538006f"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "eda396f755c9877f5622132c1575da3b2a0510a5e3aa8dd4bd588e2cba6ef65d"
+hash = "39e99acc5ce54178e1459e3a232fbf08470d74e482ede8d4e208c94efacf9d31"
 metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "dfbefda33a916b6b2ee88708405d8d02c4229363f5b9676626dee7117316c006"
+hash = "088b4db54168e69a4843cad9c85c5beb53c22a48f5fb7d5f420a4c8b77085dae"
 metafile = true
 
 [[files]]
@@ -1421,6 +1431,11 @@ hash = "5cf0a435149547a160186c6e5ae734868e1149df33e282934d0475c9359137f6"
 metafile = true
 
 [[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "ce5109dd2fb1d4eec2b8c6dd3a0624bfa49a4e2238277a9f2d2c723ce40fd85d"
+metafile = true
+
+[[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "4acd1fcb2aff2eebf7299268de7eb74af055d50918d9202fcb4a2522512fb2a4"
 metafile = true
@@ -1432,7 +1447,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6563a5df8120c7b0d7140a8e9baef797e2695e188eaff14c54001a9da682dfce"
+hash = "e3032019efa643a3e32fe1f0339a9d2be4967e530740485254562aa506b5cfe2"
 metafile = true
 
 [[files]]

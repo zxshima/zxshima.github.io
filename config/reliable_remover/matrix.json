@@ -1,0 +1,6 @@
+[
+    {
+          "action": "remove_info",
+          "items": ["minecraft:enchanting_table"]
+    }
+]

@@ -1,13 +1,13 @@
 name = "Reliable Gliders"
-filename = "reliable_gliders-neoforge-1.21.1-1.1.1.jar"
+filename = "reliable_gliders-neoforge-1.21.1-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b0d32d5022a4f283c38d32fedec2efc04d57cda6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/pVIWsXir/versions/HTIH5LIN/reliable_gliders-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "79b0086d0536da4b0ace84ccdd40750d4eb9948854d1ed13be9245c44658b71388f9675bafb8cd7612238cec540cbd0173271d5964f11875f043086fe7a59c9f"
 
 [update]
-[update.curseforge]
-file-id = 8017141
-project-id = 1528600
+[update.modrinth]
+mod-id = "pVIWsXir"
+version = "HTIH5LIN"
