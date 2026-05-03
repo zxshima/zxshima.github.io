@@ -3,11 +3,11 @@ filename = "reliable_recipes-neoforge-1.21.1-1.13.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9cbc40d98980a431b8b9fa22d57d341102594d7f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/3ovV0GE2/reliable_recipes-neoforge-1.21.1-1.13.1.jar"
+hash-format = "sha512"
+hash = "3ebe7153caf7be8bf7af67bcce15c160ae1c117d2bc642fd297df8f6cdfe0de383b091338fed8dcd3997db1281546d504bf8d34f43945f3fe7448c4088562111"
 
 [update]
-[update.curseforge]
-file-id = 8025367
-project-id = 1414959
+[update.modrinth]
+mod-id = "Hl4ARA1z"
+version = "3ovV0GE2"

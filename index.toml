@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c283a3dcc73a7e5c98be31e72748fa2a3c496136f1e6b92c1ae132b4457bc5d5"
+hash = "23304e6c503133b275b54c0527c908b91a596d4ddb5c56d4db002fdd122b49fe"
 metafile = true
 
 [[files]]
@@ -1330,17 +1330,17 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-gliders.pw.toml"
-hash = "08b053e0a72db97ee496dcd7603a4f5f5f98904308c4776ca94e47f5edcf3c6c"
+hash = "b1860ff7dcceaff970644b5ee53c0e966dc2768da456362d4f370fd00c7f97aa"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "aa30ef168b2b510d037f2351d87b90884b97fd124093eb79db3fa4006538006f"
+hash = "b273a58d8e4772bbcbffe69777ec1656cb8c7b18f63974e963289f47c446ed07"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "39e99acc5ce54178e1459e3a232fbf08470d74e482ede8d4e208c94efacf9d31"
+hash = "829bb279e9930f3de9653bf9508626c8e56e041ef23e26d0f0bcaf979b2a383e"
 metafile = true
 
 [[files]]
@@ -1435,7 +1435,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "ce5109dd2fb1d4eec2b8c6dd3a0624bfa49a4e2238277a9f2d2c723ce40fd85d"
+hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
 metafile = true
 
 [[files]]
