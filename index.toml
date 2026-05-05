@@ -1294,16 +1294,6 @@ hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.pw.toml"
-hash = "4f7c443c70a28284bfb40e613c835167c9c71f2db257714275041f16e280b6d9"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
@@ -1469,11 +1459,6 @@ hash = "eb54b4bd676bd407c255716feae0d669f250d0c15571e5eb38dd98dae1f09feb"
 metafile = true
 
 [[files]]
-file = "mods/placebo.pw.toml"
-hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
-metafile = true
-
-[[files]]
 file = "mods/platform.pw.toml"
 hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
 metafile = true
@@ -1631,11 +1616,6 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
-metafile = true
-
-[[files]]
-file = "mods/toast-control.pw.toml"
-hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
