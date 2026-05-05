@@ -1076,8 +1076,18 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "20474e975cd0974217cf9a9899d44e9179afbae31e974b1ed7d9721be1920f1d"
+metafile = true
+
+[[files]]
+file = "mods/attack-through-grass.pw.toml"
+hash = "d5d346b7e160ce251bb20d66f80e7b2188a7da5e6cf3b0e42ec353543077db5d"
 metafile = true
 
 [[files]]
@@ -1210,6 +1220,11 @@ hash = "e13daa6fa3f9529a20e0d1c88057f04db4a40c519e59e940518d1a14aaa0eea2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
@@ -1262,6 +1277,16 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "4f7c443c70a28284bfb40e613c835167c9c71f2db257714275041f16e280b6d9"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
 metafile = true
 
 [[files]]
@@ -1370,6 +1395,11 @@ hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "4c9f7337ebb5fa5a2e90a1fb88d290d4b7344f31f910e85671a2c6549106e5ff"
 metafile = true
@@ -1382,6 +1412,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
 
 [[files]]
@@ -1417,6 +1452,11 @@ metafile = true
 [[files]]
 file = "mods/personality.pw.toml"
 hash = "eb54b4bd676bd407c255716feae0d669f250d0c15571e5eb38dd98dae1f09feb"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
@@ -1491,7 +1531,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "85d17d29b1ddec030720e4f6418dc3664b9df4d49eaa323b0d4652ce13fef6eb"
+hash = "22cb51ce41a475fedf6d0ac989d86a4a3c280d55e5a8f696ba50e39dd51d7cb8"
 metafile = true
 
 [[files]]
@@ -1511,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cc9ce18e55788ddd2031e1c0f4d410053bb9b28f76da9d61cc0c9a57260597fa"
+hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
@@ -1582,6 +1622,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "fd44140bf9f57b38f5feed14986aabd63a1ef2e34e32e8ae4ca38a47c14de3d0"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
