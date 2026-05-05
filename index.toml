@@ -25,6 +25,10 @@ file = "config/eclipticseasons-client.toml"
 hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
 
 [[files]]
+file = "config/eclipticseasons-common.toml"
+hash = "8d52767fcb6bc94b7cd9acb647abc701c7b9e2fa644cad912bdae35ab3e4e15c"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
 
@@ -553,6 +557,22 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/willow_slab.
 hash = "439456002ab84db6f25465f646edd0cc95d05103435c733d61e6466f5b57a5f8"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/block/crops/moist_humid.json"
+hash = "71f77499806af31ed199ecd8cbd3fa7c463066c99402bb45c4396233559c71c4"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/block/crops/spring_summer.json"
+hash = "71f77499806af31ed199ecd8cbd3fa7c463066c99402bb45c4396233559c71c4"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/moist_humid.json"
+hash = "c7eb7072eff3bcd6f6f485e8fe33da2cdc449369acfad7a63baa8d7abbc5f094"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/spring_summer.json"
+hash = "c7eb7072eff3bcd6f6f485e8fe33da2cdc449369acfad7a63baa8d7abbc5f094"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/breakdown_nether_wart.json"
 hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
@@ -590,7 +610,7 @@ hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/friendsandfoes/lang/en_us.json"
-hash = "5eb0fe82951e40bf42bad9ec3d8a8da07230f6e32f105bce8465637546eabd87"
+hash = "66b11b11cb38ae007ae31dda33f1900d5a1cf63ba5d5dec8d6a523537eb99e34"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/gallery/models/item/painting/dennis.json"
@@ -626,7 +646,7 @@ hash = "162dec31ea9b9e7240ca83f554a6d9489bfe9fd7f6f389ac3fd333ee08dc543c"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
-hash = "5402ff96296bf0bd702a64f409d2251dee91fd8ebc385230ef7a406b61ec4f21"
+hash = "36443736b900d15a6ca90f2b0668da361e5c028a2231d9a8d78b21c29a10af2c"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
@@ -635,6 +655,10 @@ hash = "32b5a23dfb6c71a5aa06f1431b6e73a9374f8947b031c7781df0b64101190fc4"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_strength.png"
 hash = "42a6dabfd6d84447fac992b6aecb8b49defb4bf4947213452f3bd0a1786cf6a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/snowyspirit/models/item/gingerbread_cookie.json"
+hash = "cd14c3622c18e33f340ba4906c0659b6da51acbca96a5002e9c2ee083312ac56"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
@@ -958,7 +982,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "38d1e04b153da6d28357a86a59623c70d0f5bcdbdf1e899b56fa2c6f758e17e5"
+hash = "a54304d2e67b710b67bb42e7186390451aea7c92770df621bc8e279d58d8ecc0"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -1081,11 +1105,6 @@ hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
 metafile = true
 
 [[files]]
-file = "mods/athena.pw.toml"
-hash = "20474e975cd0974217cf9a9899d44e9179afbae31e974b1ed7d9721be1920f1d"
-metafile = true
-
-[[files]]
 file = "mods/attack-through-grass.pw.toml"
 hash = "d5d346b7e160ce251bb20d66f80e7b2188a7da5e6cf3b0e42ec353543077db5d"
 metafile = true
@@ -1201,8 +1220,8 @@ hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
 metafile = true
 
 [[files]]
-file = "mods/deercore-1.0.jar"
-hash = "560544856f9c02df8a45dbc50c7e98fac378c9a83a5f74e9e32a7759fbd4e2dd"
+file = "mods/deercore-1.0.1.jar"
+hash = "c983188ce1c1935c6b24d299c0eed9fe160cc1f4a22a1fb0a0b0c919cbad3b91"
 
 [[files]]
 file = "mods/default-options.pw.toml"
@@ -1215,13 +1234,8 @@ hash = "bf95ba0462de55586348b61a25e692e13b4851f35853083ae7ff57136560d1f3"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "e13daa6fa3f9529a20e0d1c88057f04db4a40c519e59e940518d1a14aaa0eea2"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+hash = "cb0ba66e4b78cf77404a9ad1f3f67a1eaacc73202a9e8985e0d4a092a31c1712"
 metafile = true
 
 [[files]]
@@ -1537,11 +1551,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "7218a06fa27c0bfaa0e6f7db00842b1de5d45aa2a3573bc76cb11930a075d76b"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "96e5c52b0fafd54183e29b3ab1d8df8f1e09a46045afe0d35d19274c07c59d80"
 metafile = true
 
 [[files]]
