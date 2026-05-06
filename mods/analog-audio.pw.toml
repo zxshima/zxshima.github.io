@@ -1,0 +1,13 @@
+name = "Analog Audio"
+filename = "Analog-Audio-0.1.0-beta.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iMAVG2nH/versions/cW0l7ZB1/Analog-Audio-0.1.0-beta.3.jar"
+hash-format = "sha512"
+hash = "04e0609ff4b8e9df2fe84c9633136f8607a789dbc8818d2c8b0f0866fe537b5d2b5f563c6bfa2b9ab73479adcbb99a0ed1de674b16ea9021095150e916a55bf6"
+
+[update]
+[update.modrinth]
+mod-id = "iMAVG2nH"
+version = "cW0l7ZB1"

@@ -1090,8 +1090,18 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/analog-audio.pw.toml"
+hash = "de4fad3168f3b7da9f101686b9fe5fb457ea04be85ed186eacce0a005e0233d2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "ffa80ab737db677474192e7f09f6b1daff0276e2e15c375b332feb3015376580"
 metafile = true
 
 [[files]]
@@ -1131,12 +1141,12 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "6e60967fb94f0f8607281e1b00a4bc98f93958937f92f25bb77982d79e98ca5c"
+hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
 metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "e5a9dfd4a06c0a01081ed19a94c314b6fdd51440e0b2647c1d8b579ffd332872"
+hash = "0ab9d26c800d8bfc998341bf2d34c91238dbcba1f646f2c57705c1760148cc17"
 metafile = true
 
 [[files]]
@@ -1201,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "09eebb772785be517df2452f80e26b8cf22d6981233ec13ddab44c4f7b9b8289"
+hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
@@ -1250,12 +1260,12 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons-multimod-patch.pw.toml"
-hash = "01d53cd4cdece3801a4ea90bec3d5347e783bbe231ae86c8ea0ab79d99751fb8"
+hash = "260f19b0f81d41a4412de3362a01cd02fa057411a22d54fda87f3b53b56b468f"
 metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "7a2b987702535232585f62640df033d6ea607f2af52f3babd7586c18ea71d1c2"
+hash = "0bc6200266f89296de3ab4c87ca1ffbc3758ff3eccbeb0eb96e856ca4e76ad2c"
 metafile = true
 
 [[files]]
@@ -1284,8 +1294,13 @@ hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
 metafile = true
 
 [[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "2ca112cf02d77db5e3bef5f3d18cd0d1393135bd75410989662dda0a9d43ab83"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
-hash = "646f21ebe8f8b1bfc244588c0e50f6b077b1263ead20361a037b06f24d359441"
+hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
 
 [[files]]
@@ -1394,6 +1409,11 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
@@ -1415,7 +1435,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
+hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
 metafile = true
 
 [[files]]
@@ -1474,13 +1494,23 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "d2625b23cc7d8d16e8108685a3d4351e574e159d37c42b4da5e25c0fa5514336"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "7ae13b171ccba24c8ab09da63389eadada6bc902db9b957e9b9acd46605a17f6"
+hash = "8d5ce8563d3ec96355ae4a3b1b5e6c9df02db833b12bdf7da5ba6322eaac20a4"
+metafile = true
+
+[[files]]
+file = "mods/reliable-backpacks.pw.toml"
+hash = "c9ec4dac7adbaa91f48c709e4fa1b1beba2ad893db10918e3447e20840b17b0a"
 metafile = true
 
 [[files]]
@@ -1495,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "829bb279e9930f3de9653bf9508626c8e56e041ef23e26d0f0bcaf979b2a383e"
+hash = "4798f3e17f691452b5e328f9431b4eecadb8dbd7d7a883d66e44d66c26b48f5d"
 metafile = true
 
 [[files]]
