@@ -1668,7 +1668,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-imprints.pw.toml"
-hash = "f7891446b19b400b61d25438d5c5c85d5fa9c70035d2ac89246b200d39a4e40c"
+hash = "c2381f024da278f64a7a7f59f8d6288c1a59cfce0f15f38eb61cd999d62b3f3a"
 metafile = true
 
 [[files]]
