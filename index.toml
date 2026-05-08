@@ -577,6 +577,42 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/willow_slab.
 hash = "439456002ab84db6f25465f646edd0cc95d05103435c733d61e6466f5b57a5f8"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_acacia.json"
+hash = "56104b668da8c70acc4388dfc485b55c0d55088ced54575969f8c23da955ce2c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_bamboo.json"
+hash = "3ec399559df53f6f62c99bc73d7053948cf00878c034acffb41058c15906fccf"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_birch.json"
+hash = "fffb4b87f8c5e8b84ed3638812a1b7be3f211e8852040cdc5467e2350cecf6e6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_cherry.json"
+hash = "c7fdf5cc9646838ee1c9f6426330575cf3784158d67cd19dda00126264329451"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_dark_oak.json"
+hash = "7a301e1968515cd7035d7369474909e41474de754e2d365d5bee7da39a25814b"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_jungle.json"
+hash = "0892dce89f5188899de723ff2aea2475b6c928b3ffd0273483cd57ed58a278d6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_mangrove.json"
+hash = "bb8efbe4dd30f22fd607a3c20adbbbd8dd227f22399daae69971f522ba0ed907"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_oak.json"
+hash = "1d3a7cc1710f398655b345eac68203f0fb6a61b3e4cedb76b00c4f5ca586089f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_spruce.json"
+hash = "7ac6bbcace38ad0c16bc798b7f616791a26218562db650a23e2137d941738310"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/block/crops/moist_humid.json"
 hash = "71f77499806af31ed199ecd8cbd3fa7c463066c99402bb45c4396233559c71c4"
 
@@ -598,7 +634,7 @@ hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "89e1412f94300e360b4d94379048a0040e056039b36929115ddfc1e0b712cba1"
+hash = "513bc4d1e97d5395cf33f7326a192076aa0b65cdb1cb95c534fe4ce0a23492c8"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/pack.mcmeta"
@@ -611,6 +647,10 @@ hash = "71b5b31bcdd5441dd84ea810bfe71a5134b881d8fc4fe7a05b15ea34a1048080"
 [[files]]
 file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
 hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/architects_palette/lang/en_us.json"
+hash = "14c79e951f66b9e01e01bc7963fe11034c7da11b11e83c69278d717250489fbd"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/betterarcheology/lang/en_us.json"
@@ -1002,7 +1042,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a54304d2e67b710b67bb42e7186390451aea7c92770df621bc8e279d58d8ecc0"
+hash = "a90e03dcc2c749abe862da96a622801d1629663fe37c2f65ea57c0e95ad4f285"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -1033,12 +1073,20 @@ file = "config/reliable_remover/melon.json"
 hash = "7359093133943e9a3d57d37e5f45e868bf3cead2fa315b1242a557296930ce83"
 
 [[files]]
+file = "config/reliable_remover/mending.json"
+hash = "2d9677ff14a98b5117b5bfed89a0d2c68fb7f38e3e0eae22ed5881b1afe212fe"
+
+[[files]]
 file = "config/reliable_remover/neapolitan.json"
 hash = "c79297d1ad93fc63f41c81ed5d81e53a9a7359ccb45afc88a8b06e0fa7a72b33"
 
 [[files]]
 file = "config/reliable_remover/pebbles.json"
 hash = "e08b6266ee4040f93f753d755044e310f25c4f8e493c6c8363c2e3a4211d59a6"
+
+[[files]]
+file = "config/reliable_remover/sleds.json"
+hash = "9b199901ef14a22ff179d889f78f355feedb50c2c665b71f532c55a3983347f2"
 
 [[files]]
 file = "config/reliable_remover/soaring.json"
@@ -1177,11 +1225,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
@@ -1509,11 +1552,6 @@ hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
 metafile = true
 
 [[files]]
-file = "mods/personality.pw.toml"
-hash = "eb54b4bd676bd407c255716feae0d669f250d0c15571e5eb38dd98dae1f09feb"
-metafile = true
-
-[[files]]
 file = "mods/platform.pw.toml"
 hash = "cc52d0f23ac79d4a68ac0901d760122b5a79a24c96fc363d70e9193b6eb8d018"
 metafile = true
@@ -1696,11 +1734,6 @@ metafile = true
 [[files]]
 file = "mods/villager-comfort-continued.pw.toml"
 hash = "bbc834f6c8ebfcd2a4f4f96e3218bdd10a90bd95fac6a19f9b320d7c130c726c"
-metafile = true
-
-[[files]]
-file = "mods/vista.pw.toml"
-hash = "f0da028c13dc4c9ad963883ddfc23a1c7b46a15aba094f90f14dbcc31d2ab7c0"
 metafile = true
 
 [[files]]
