@@ -8,6 +8,6 @@
         "farmersdelight:netherite_knife"
     ],
     "patch": {
-        "minecraft:max_damage": 2031
+        "minecraft:max_damage": 2048
     }
 }

@@ -9,6 +9,6 @@
         "tide:dragonfin_boots"
     ],
     "patch": {
-        "minecraft:max_damage": 592
+        "minecraft:max_damage": 960
     }
 }

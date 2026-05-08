@@ -1,6 +1,6 @@
 {
     "items": [
-        "minecraft:iron_shovel"
+        "farmersdelight:iron_knife"
     ],
     "patch": {
         "minecraft:attribute_modifiers": {
@@ -8,14 +8,14 @@
                 {
                     "type": "minecraft:generic.attack_damage",
                     "id": "minecraft:base_attack_damage",
-                    "amount": 3.5,
+                    "amount": 2.5,
                     "operation": "add_value",
                     "slot": "mainhand"
                 },
                 {
                     "type": "minecraft:generic.attack_speed",
                     "id": "minecraft:base_attack_speed",
-                    "amount": -3.0,
+                    "amount": -2.0,
                     "operation": "add_value",
                     "slot": "mainhand"
                 }
@@ -28,7 +28,7 @@
                     "correct_for_drops": false
                 },
                 {
-                    "blocks": "#minecraft:mineable/shovel",
+                    "blocks": "#farmersdelight:mineable/knife",
                     "speed": 6.5,
                     "correct_for_drops": true
                 }
