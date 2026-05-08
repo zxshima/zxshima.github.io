@@ -302,55 +302,55 @@ hash = "3fea08a07b96b47d0b4fa436ca75090656a76a0c5ed94e13afa90595a264da33"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_cardboard_tier.json"
-hash = "4e0e5f1dc58e7547dbadbd782a05d08b1566fcf2f7c906125f551d7f9ac773c7"
+hash = "84db726e56b5729ed7f3ffe9b89974f9ccb3c8c1fcc072d5725c75a6761be085"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_chainmail_tier.json"
-hash = "4ef85120322ea7aa171123b0da6b9ccf75a552426401f464e41411f3f0d16eb2"
+hash = "7b929d30eaab0b283ea9930139b37d4204b43a0d1528627b6b076df6ab186b83"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_diamond_tier.json"
-hash = "2967b56c67a7f93a8c35e760e5196b31b95794c9de9edcfa2501863a9bbf0674"
+hash = "29a5e251982887386c15382e8cbf4d2d66e15d7e1f133b8949fd6d8ec696b034"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_golden_tier.json"
-hash = "85f610ed82da2c6694a09ca00fee20d75cf7e90ce7a72b4485b0807cdb4f2714"
+hash = "9c9c033caaf057b8ac1e19941e4b9bbc3d0a2874abb818dd011114ed407d2372"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_iron_tier.json"
-hash = "aa04187a8c007d97ef2dbb80a98dbfef5dc2b8c32ee3eb9bf626d7c29a258556"
+hash = "37a29a970624eb37933b357e32515cdfd023c11c7654b17937a91ff99d6ce179"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_leather_tier.json"
-hash = "da4441460ed4b9b69b5ce749cf21489f5db67ea6a793116ca1daca52df6d55f9"
+hash = "32c915ce80765203d1692e2235a7770006cd6768cdb81c6a38a12a9035e92595"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_netherite_tier.json"
-hash = "7036506fd7da5eabab5ac780ef8ec19e310065c26833ad6472b1f6a3d8ec6d84"
+hash = "30c8c6a970410e231dfa7edd460190e93544412f32c34e4eebfeeb04f0c1afc9"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_diamond_tier.json"
-hash = "9970b6b567f673edcd47dba9212114646e7f4321b38a4ace5f9c10d7cbdbbea4"
+hash = "99bf87ec7fde718c8341b90f338be2bbbc037fcfd75a87e6e0aea544980fd105"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_golden_tier.json"
-hash = "ef8e94949d8a845202712df7934da6c04764d7f619de16b9ed7c6e8a37eafd5d"
+hash = "d40feafd674438375735c971bb0f0b738cb20e4f7eb4e809f3940bd8de8cde78"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_iron_tier.json"
-hash = "37e57db93321630924245de9d8c13aae12b38f9dd34c51798de54d5d0627eb2f"
+hash = "0453d1c41429a5ef918d0d2e149e8e415bc9abbdc828641b182862c11ac9aa56"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_netherite_tier.json"
-hash = "d6e6aaf50b72582a4a2ef506420bf2b64af43ca812932fb0b314247c9cefea05"
+hash = "351628c7ebc5ad7d01b670a47a184c7c06244e0a603498c711f6cf643d8902a7"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_stone_tier.json"
-hash = "d193a4a9a8a9c4991630dcbccf4f2b87a71d7883c7de79f3097f6d8dc56973e4"
+hash = "e3546accea7197fbbb3fe7252b5521887ed36c6100a502a7b2b88365e321ea6b"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_wooden_tier.json"
-hash = "7fb153275a435cb98ab9b4850e22b66ec21afada1446490a7f20c7cabad87f7c"
+hash = "0fd0bf7475ab0dbc590ea2b041466a7fc7c81ff8a5520398142d0f4bfee1c596"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_diamond_axe.json"
@@ -359,6 +359,10 @@ hash = "358c2d74e901eefdf118d406c05642139724a8bf72363a0ccb0d96fa8451bead"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_diamond_hoe.json"
 hash = "a05dd13ff7a0b25af0e201a9c0d1839a5c761ab025bac2f4fc2ec78e7620fa2a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_diamond_knife.json"
+hash = "fb285e97ce558d39b51eeee77e1c7897ea5cda03650338147d40a33b7ee70633"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_diamond_pickaxe.json"
@@ -373,20 +377,28 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_compone
 hash = "ffb78d4c1cc423da39295264f017b9a9d865a4ef99a3d012066270155ba52d55"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_flint_knife.json"
+hash = "ccbb78cf255ab8a1abbceb59962c5ca35fcf4eb1ad37494ac2b8776faeb19268"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_golden_axe.json"
-hash = "853f40a590eb2813e7227f90c21c0c3c6cf457f7d859a9b57b2e928804115d44"
+hash = "793f2804930660cfa745d406364d3183dfe8ec9fc765cf894d2e87559bef081d"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_golden_hoe.json"
-hash = "455c5681677c050b0b5111c2a48d61a24b1b00748718d86f83ffa3e8c0c449b7"
+hash = "9620ec0e66ef31c2aa40f835546f2c29a043357a4e608efa99e5818f0040ba59"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_golden_knife.json"
+hash = "ea293120b01d90c75078e112bd30d9cdf9f58c0a9392d2cc2fd61c596013b1f8"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_golden_pickaxe.json"
-hash = "ab0485291a94ec2d87186544868499d059e9dd64aa0743621f5553be27835585"
+hash = "26559db735797f318eea1d0e795a102f38b9770a22e2076892864a2db6f454e7"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_golden_shovel.json"
-hash = "ecb66c880e85eb2c1b7d1f704c65ec8e369b0d75bdecd1728540255376551e9b"
+hash = "f18ceac6796904ce57184664589b4336383f18cab01f0d3850fcad4b94fccee6"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_golden_sword.json"
@@ -394,19 +406,23 @@ hash = "22e1a387e800ad7a68f57d449a554e8e9078191fc17dacdaef8555710da8db56"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_iron_axe.json"
-hash = "fff97bdd90ea9a9bcf715c995e88c34a1a3ce6e6007d5be14c40f2eaac82e451"
+hash = "ecbb0aae5142ae2019c610a1e54269bb5402a7bb6eb1e21e69a2d53ab1577f7c"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_iron_hoe.json"
-hash = "288087f325786e32bd1f936d6f1949dd09d4f1221c485bf6deff7c6e5e167d75"
+hash = "03cdcbaae2d4c57bafb498992fb3aad67e3fbf455d5ea27ec70ac669a2adab22"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_iron_knife.json"
+hash = "73926f2fa34b77851d66eb99d943d331a994c0f035d810285309050d909ecf5e"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_iron_pickaxe.json"
-hash = "6249dec759ba2b7127ac74dca2650f5e624a09883c364530ef69ecc936b0b6ab"
+hash = "1d3163cfe36e8ba4d7476aa3a497c47e9338d1e61a45e326b05f5ab0055d6392"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_iron_shovel.json"
-hash = "feb582155bfac08464161e7dfd1e1fb232b9858d82674659a3bdbbc54aeacb3c"
+hash = "dae6d6fce21eb3802073d3d85c1d16adcdbf500a8182c8fdb7412e1acabc21aa"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_iron_sword.json"
@@ -418,19 +434,23 @@ hash = "da0ec723ebf3c344e37b2254d7ae513c1b587f8e257ac2113689bc2874e07a31"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_netherite_axe.json"
-hash = "2c239381e772e33a6e863d44d2ddb31efeedbfbc456584ce3e8bace3a7796d4c"
+hash = "7bcb2cd98d5d3236df6995f9fbe47806ba5c92602a43fdb9e86e0ebfed2ce2fb"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_netherite_hoe.json"
-hash = "4fd3d9a158ceba9c4a81a883a6e6096a978690d71c86e33a76156cba52266918"
+hash = "e1a6c7d81ac4d7d4de31ec05075acdb2025bd2309f6ee6212bb63d6328d41281"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_netherite_knife.json"
+hash = "cd27bd54e9e40b4ea8e878f40bec33f45a7175b16f74827996d000f521aa0de6"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_netherite_pickaxe.json"
-hash = "91fe371bca031da4fca7462f8b0056d0ad8cd75d1ee0ba2fecbef00c9dbc7318"
+hash = "d33d0e66f6db5806dec974e132357bde114a666e5fcefe58a99c0af40d15d332"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_netherite_shovel.json"
-hash = "85334e104a0dd372362b73689b632b2fc48575a5d2cd6e797e61c56c464d6032"
+hash = "fa9c128daed31918fb06fa325c642d41bcec5c5e49a75af08bc557be87fa044b"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_netherite_sword.json"
@@ -462,19 +482,19 @@ hash = "24aaaab50e8266e1dc0a9857757d4a7f59bd2fa9db073f17d5331fb015996baa"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_wooden_axe.json"
-hash = "8ad61b32487a43fd00de0501586deca5b35d9ec8500898bde8d3491a3ae8672b"
+hash = "4fa749a8f4c2facf2cb2c93db9bafaa3195b0694d21e0f388ea8675972bfafe5"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_wooden_hoe.json"
-hash = "20a245dbb222eedd9272fc8a60c782acc3c467233846ebe6cfe087797c3ff89e"
+hash = "ba0057369e5ce3a8571cf042584b95852dd573e267bbb515aa6a56e3d8ee9d4c"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_wooden_pickaxe.json"
-hash = "4b462c832ec202336efc7a1ec05c75e269760e8797ee258f76d47ed80d2b2c9a"
+hash = "3245914c0505166d74e893b1d691105e89f1026abc1d6857068083ca90c8336f"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_wooden_shovel.json"
-hash = "02eac2ab75dbf15e6f5d843844db94173c530556ccc3b47503ea7901b657f81a"
+hash = "32b6ce1b53da56ccbab426ba7da45b890bc1bf14ba3b0d78a933b954da8b99cd"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_wooden_sword.json"
@@ -578,7 +598,7 @@ hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "5bd4ea13a8259bef6d5a48abeaa5180bb0978a1b2bc26acf232052497e85aa6e"
+hash = "89e1412f94300e360b4d94379048a0040e056039b36929115ddfc1e0b712cba1"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/pack.mcmeta"
@@ -1230,8 +1250,8 @@ hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
 metafile = true
 
 [[files]]
-file = "mods/deercore-1.0.1.jar"
-hash = "c983188ce1c1935c6b24d299c0eed9fe160cc1f4a22a1fb0a0b0c919cbad3b91"
+file = "mods/deercore-1.1.0.jar"
+hash = "6e5e9727767173c3c436ad685ad4e5a6dfb1d8bd4467845473f20d0c82f7dbc1"
 
 [[files]]
 file = "mods/default-options.pw.toml"
