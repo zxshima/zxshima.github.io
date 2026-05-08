@@ -1111,7 +1111,12 @@ metafile = true
 
 [[files]]
 file = "mods/analog-audio.pw.toml"
-hash = "de4fad3168f3b7da9f101686b9fe5fb457ea04be85ed186eacce0a005e0233d2"
+hash = "12380afff24f655352ab28293d26b7cc8b8892a7d49b80636c14b7b7f9dd1183"
+metafile = true
+
+[[files]]
+file = "mods/anvil-repairing.pw.toml"
+hash = "7c15d873b3931eca7fe2dbaf61219b44b397d274228d28280c5ccf8c0b2c1c39"
 metafile = true
 
 [[files]]
@@ -1170,6 +1175,11 @@ hash = "0ab9d26c800d8bfc998341bf2d34c91238dbcba1f646f2c57705c1760148cc17"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -1196,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/clayworks.pw.toml"
-hash = "a37ba3c637c3794df8fbc991cd1961d3345653624dbde8cdaef68d353d85b077"
+hash = "171914c4eb938f32813bc9449ca5dc90210b33b5b389b4c9f2d718b4e34df2f1"
 metafile = true
 
 [[files]]
@@ -1285,7 +1295,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "0bc6200266f89296de3ab4c87ca1ffbc3758ff3eccbeb0eb96e856ca4e76ad2c"
+hash = "1bb4b0c915c52ccb6642e340a25b0aef7b8eb2d7c9b20eefed2a338de5e5cff6"
 metafile = true
 
 [[files]]
@@ -1305,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
@@ -1375,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "11bfb484cedbe8ce1f837364ba0222fd4186e4361e387b73f3eaeacb946324aa"
+hash = "f88ff6068814e82772d0a2fbb55df7fb8c4958036831a5e06e8af740f1f981a5"
 metafile = true
 
 [[files]]
@@ -1455,7 +1465,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d2d2b14614ad6820caffa69219414d491d59280685662cbe808f5df33c687555"
+hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
 metafile = true
 
 [[files]]
@@ -1494,6 +1504,11 @@ hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
 metafile = true
 
 [[files]]
+file = "mods/personality!.pw.toml"
+hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
+metafile = true
+
+[[files]]
 file = "mods/personality.pw.toml"
 hash = "eb54b4bd676bd407c255716feae0d669f250d0c15571e5eb38dd98dae1f09feb"
 metafile = true
@@ -1510,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
@@ -1525,7 +1540,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "8d5ce8563d3ec96355ae4a3b1b5e6c9df02db833b12bdf7da5ba6322eaac20a4"
+hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
 metafile = true
 
 [[files]]
@@ -1535,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-gliders.pw.toml"
-hash = "b1860ff7dcceaff970644b5ee53c0e966dc2768da456362d4f370fd00c7f97aa"
+hash = "f68fb8927ad9a2ab5fb92197b34377bb44028d0e0bd985b0940ec59e0ecce9a4"
 metafile = true
 
 [[files]]
@@ -1615,7 +1630,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-imprints.pw.toml"
-hash = "3db1b6a94cd65d8ba90afe42cf0229768970732b9adcfd00f00ff1bbffc9096d"
+hash = "b2feb9c2e665c97167ccf354f32b196ff1e193f8242857997624bbf4d2f985b1"
 metafile = true
 
 [[files]]
@@ -1650,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a382dc176a54944d74070de2a17f34a880834158eaf697b868e6d196d25000ca"
+hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
 metafile = true
 
 [[files]]
@@ -1686,6 +1701,11 @@ metafile = true
 [[files]]
 file = "mods/vista.pw.toml"
 hash = "f0da028c13dc4c9ad963883ddfc23a1c7b46a15aba094f90f14dbcc31d2ab7c0"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "d9c4a1e28e89b967546eeb70565257a32c5a979a9cfc98c79b15bd52af35cf7d"
 metafile = true
 
 [[files]]

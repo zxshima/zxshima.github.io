@@ -1,0 +1,13 @@
+name = "vista"
+filename = "vista-neoforge-1.21.1-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/RztslvZ6/vista-neoforge-1.21.1-3.2.1.jar"
+hash-format = "sha512"
+hash = "f42ebf12e27c082d0b979eee81dba36f84400ff1c8777b87f5253474d3e23547529ed3c9902291319260f0957cc62717258fc41962ab4bc5c008048e3e67e110"
+
+[update]
+[update.modrinth]
+mod-id = "zuARv1N7"
+version = "RztslvZ6"

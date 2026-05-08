@@ -37,6 +37,7 @@
     { "id": "tide:lunar_calendar", "required": false },
     { "id": "tide:fish_satchel", "required": false },
     { "id": "tide:pocket_watch", "required": false },
-    { "id": "tide:enchanted_pocket_watch", "required": false }
+    { "id": "tide:enchanted_pocket_watch", "required": false },
+    { "id": "reliable_backpacks:backpack", "required": false }
   ]
 }

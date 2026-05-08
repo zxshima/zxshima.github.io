@@ -1,0 +1,13 @@
+name = "Anvil Repairing"
+filename = "anvilrepairing-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gY0sChT6/versions/wF5W9Zz1/anvilrepairing-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha512"
+hash = "fe58fedb41d8f4f7c5685a8a5c2533c3a5f79e6fc37c7a32527b5dcafae2bd3503885ff25a1860abac5201351f052de86d6671b1218fd6e3c0f8d9a375deec1f"
+
+[update]
+[update.modrinth]
+mod-id = "gY0sChT6"
+version = "wF5W9Zz1"
