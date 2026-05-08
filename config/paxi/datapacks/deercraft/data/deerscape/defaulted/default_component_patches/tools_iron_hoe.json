@@ -29,7 +29,7 @@
                 },
                 {
                     "blocks": "#minecraft:mineable/hoe",
-                    "speed": 6.0,
+                    "speed": 6.5,
                     "correct_for_drops": true
                 }
             ]

@@ -6,6 +6,6 @@
         "minecraft:chainmail_boots"
     ],
     "patch": {
-        "minecraft:max_damage": 240
+        "minecraft:max_damage": 384
     }
 }
