@@ -33,6 +33,10 @@ file = "config/enchdesc.json"
 hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
 
 [[files]]
+file = "config/everycomp-entries.toml"
+hash = "1879d2c408e7dd80d0ce63c6d40d795b0830ffd82abd4a0713fb6dd3a7aecede"
+
+[[files]]
 file = "config/friendsandfoes.json"
 hash = "4519d315022192e5741b59374b8ed0a163fbd7901d5b9eee7af15b5f9131624b"
 
@@ -353,6 +357,18 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_compone
 hash = "0fd0bf7475ab0dbc590ea2b041466a7fc7c81ff8a5520398142d0f4bfee1c596"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/food_golden_carrot.json"
+hash = "d8d440548de71c184e636737ce4ccd4d2e53278b1a0d2abc4b7ae52048fa40a8"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/food_melon_juice.json"
+hash = "f7b599a342f464ed3d268ae9dd8eb2e6ca4ece998ae16e3c2c6a8b1e5b890518"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/food_strawberry_scones.json"
+hash = "5e179a0c36508d66883be4a716781d9cb077e191b4df9afacfbfcb85e782d1a3"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_diamond_axe.json"
 hash = "358c2d74e901eefdf118d406c05642139724a8bf72363a0ccb0d96fa8451bead"
 
@@ -505,75 +521,79 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/map.json"
 hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/acacia_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/acacia_shelf.json"
 hash = "3ef7c3e247fa610648373e160337635ee9102401ee59f6327ab2732031c19fe2"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/ancient_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/ancient_shelf.json"
 hash = "638c81f216b80308f8386fc38b39e7cfaf475b3e51198ac1e1a3c429f806e9dd"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/azalea_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/azalea_shelf.json"
 hash = "c36afa40cbb8ad8d966a2d4a76f0bf17579d090b8e1fea7db26e8b9d8f9b1bff"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/bamboo_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/bamboo_shelf.json"
 hash = "585d95149e3a464a2ded8fc4cc901baaad67f11e5eee81d61ba40fcb6dbb8f1d"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/birch_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/birch_shelf.json"
 hash = "3126c47dfeb43455114e7e7c5f7228faf5fe1dabd53976227f883b420cfd8055"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/blossom_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/blossom_shelf.json"
 hash = "d614f230e33423a003c5fead89eedf6306c7237ac028b3f1a962eb8322d1f83a"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/cherry_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/cherry_shelf.json"
 hash = "5161d2ca9845ea4bbdb83f375571bbd167501c3ad7438996b8020845c4c50a33"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/crimson_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/crimson_shelf.json"
 hash = "b1e11436041d06c269e1ca03495b8b7316eb1035c07a2baae4e2ce1f3854186d"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/dark_oak_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/dark_oak_shelf.json"
 hash = "1a36edd386923a035b469d2b7a646d5d744035a5e4c2f9a6b3ebce7774927248"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/jungle_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/jungle_shelf.json"
 hash = "f45dfb684f43973c76cf0fa07c98019ddc94313ca100d96af9c818edc41aa30f"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/mangrove_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/mangrove_shelf.json"
 hash = "1cff460e3086475c823bb0af1a42311ab4ec0ca0abe559e53a68b380234ef49b"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/maple_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/maple_shelf.json"
 hash = "9fe4d33f6d294b48b19bf58ebb1b63accf4b8065e51bafd4becfb4d6d3bea40c"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/pale_oak_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/pale_oak_shelf.json"
 hash = "a052614670f1d08040bda23b9b9cecc30502ce2b2c7e9ff1b9362cd515e57c61"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/pine_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/pine_shelf.json"
 hash = "346c921f2016ecbd4bcb76978b7c27027b1140c3e71504283152f8a48a7f5491"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/spruce_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/spruce_shelf.json"
 hash = "a53654f6718ec014c0cf3744f9ab8df0d1c2f5f3dd8749f938eaf86cd426dde6"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/walnut_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/twisted_shelf.json"
+hash = "270b08329c4fd1510bed168d80bdee6c2142b2041365657e45e25702d9aa35fb"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/walnut_shelf.json"
 hash = "61bc2f5068f125c5bedf1b79146669dfcd3dd8c081443cb214a7628ab4d5fda8"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/warped_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/warped_shelf.json"
 hash = "d0b04ad20fa5f2dc38d519f2064731e2d5dee289931705c16263803664fdd9e2"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/slabs/willow_slab.json"
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/shelves/willow_shelf.json"
 hash = "439456002ab84db6f25465f646edd0cc95d05103435c733d61e6466f5b57a5f8"
 
 [[files]]
@@ -649,6 +669,10 @@ file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
 hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/analogaudio/lang/en_us.json"
+hash = "77d0f291d87e9bdbbfdcf5b3844e5130a56c5f50ec6b6c68e35cdba5af8390d8"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/architects_palette/lang/en_us.json"
 hash = "14c79e951f66b9e01e01bc7963fe11034c7da11b11e83c69278d717250489fbd"
 
@@ -686,7 +710,7 @@ hash = "efbb3917436667324bc3061c447e587bd9a50e6fae57abae4e6cc3eac23f2f96"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/inline_tooltips/lang/en_us.json"
-hash = "e7d5c16ab23ec1f81e1914c86e554c404f9a8ac38a36bd74bbcd2b2a245e31fd"
+hash = "3b17fe0e94ebf0458409f41b96089202265a8dfcb87c69a1dbb4f5eff3531113"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.block_interaction_range.png"
@@ -695,6 +719,10 @@ hash = "243a27f1feebbebf7c7030d9d1d5a41b44af63332e93b40bbd4a5cffd42d5bc5"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.entity_interaction_range.png"
 hash = "1016dddadace4a983480d229a13356acf35a22bb3432e0516d49aec2faf892e2"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.mining_efficiency.png"
+hash = "d63da5f0507af86fdb30c1ac8558e7cf6451a8e19eb4688dd12f118540ecc06a"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_tooltip_icons/player.submerged_mining_speed.png"
@@ -706,7 +734,7 @@ hash = "162dec31ea9b9e7240ca83f554a6d9489bfe9fd7f6f389ac3fd333ee08dc543c"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
-hash = "36443736b900d15a6ca90f2b0668da361e5c028a2231d9a8d78b21c29a10af2c"
+hash = "594c481cf5d12e4d54eb096cc964377c300612160c73f5dc01c96991b8d41566"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
@@ -1057,6 +1085,10 @@ file = "config/reliable_remover/abnormals_delight.json"
 hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
 
 [[files]]
+file = "config/reliable_remover/bookshelves.json"
+hash = "16270146a9618df857cc090b136959a0e42a0adbbef7a622c5fa4e7fe9bf84cf"
+
+[[files]]
 file = "config/reliable_remover/copycats.json"
 hash = "fcebaaaef448e52ae2c132a388d1ab4f268e8bb29d8b52a82d39353838892f45"
 
@@ -1067,10 +1099,6 @@ hash = "eab5b81c06407c294765c94ff8e38c4624451ef0540b35c94ae102cc9255116f"
 [[files]]
 file = "config/reliable_remover/matrix.json"
 hash = "a6f07fab622b0c25d67ae71946dc8933fa8893cf41e3f6fbcfc9a58e2e3ae678"
-
-[[files]]
-file = "config/reliable_remover/melon.json"
-hash = "7359093133943e9a3d57d37e5f45e868bf3cead2fa315b1242a557296930ce83"
 
 [[files]]
 file = "config/reliable_remover/mending.json"
