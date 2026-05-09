@@ -730,7 +730,7 @@ hash = "1a2755ccb6dff950bf2d0e0f73d255267279ca61e84f2071218d2798bb24644d"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/overweight_farming/lang/en_us.json"
-hash = "162dec31ea9b9e7240ca83f554a6d9489bfe9fd7f6f389ac3fd333ee08dc543c"
+hash = "6617ff02873b3bead8b1909752b739af848fefdce3d487536145214227df5216"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
@@ -751,6 +751,10 @@ hash = "cd14c3622c18e33f340ba4906c0659b6da51acbca96a5002e9c2ee083312ac56"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
 hash = "e34765e50ee8209ff01282d4fbb97ccb49a719a32495769d9421e5b60649ac3d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/vista/lang/en_us.json"
+hash = "074fc791589aeb02617e285d072a312ae05cf0db5716ddfd62e31a8b819eac4e"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/waterframes/lang/en_us.json"
