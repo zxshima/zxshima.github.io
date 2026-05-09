@@ -11,7 +11,17 @@
             "snowyspirit:quark/sled_ancient",
             "snowyspirit:quark/sled_azalea",
             "snowyspirit:quark/sled_blossom",
-            "snowyspirit:sled_pale_oak"
+            "snowyspirit:sled_pale_oak",
+            "snowyspirit:cluttered/sled_blue_mushroom",
+            "snowyspirit:cluttered/sled_crabapple",
+            "snowyspirit:cluttered/sled_flowering_crabapple",
+            "snowyspirit:cluttered/sled_flowering_poplar",
+            "snowyspirit:cluttered/sled_flowering_willow",
+            "snowyspirit:cluttered/sled_fluorescent_maple",
+            "snowyspirit:cluttered/sled_poplar",
+            "snowyspirit:cluttered/sled_red_mushroom",
+            "snowyspirit:cluttered/sled_sycamore",
+            "snowyspirit:cluttered/sled_willow"
         ]
     }
 ]

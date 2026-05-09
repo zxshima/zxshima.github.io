@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "cluttered:flowering_poplar_slab"
+    }
+  },
+  "result": {
+    "id": "suppsquared:cluttered/item_shelf_flowering_poplar",
+    "count": 2
+  }
+}

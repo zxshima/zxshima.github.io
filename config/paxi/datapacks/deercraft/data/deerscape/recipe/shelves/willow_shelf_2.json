@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "cluttered:willow_slab"
+    }
+  },
+  "result": {
+    "id": "suppsquared:cluttered/item_shelf_willow",
+    "count": 2
+  }
+}
