@@ -1,0 +1,12 @@
+{
+    "items": [
+        "overweight_farming:melon_juice"
+    ],
+    "patch": {
+        "minecraft:food": {
+            "can_always_eat": true,
+            "saturation": 2.4,
+            "nutrition": 2
+        }
+    }
+}

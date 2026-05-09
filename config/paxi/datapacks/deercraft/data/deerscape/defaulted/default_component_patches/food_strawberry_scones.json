@@ -1,0 +1,11 @@
+{
+    "items": [
+        "neapolitan:strawberry_scones"
+    ],
+    "patch": {
+        "minecraft:food": {
+            "saturation": 3,
+            "nutrition": 3
+        }
+    }
+}

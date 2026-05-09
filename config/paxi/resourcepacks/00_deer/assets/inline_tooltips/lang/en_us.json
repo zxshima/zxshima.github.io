@@ -3,5 +3,6 @@
   "tooltip.sable.player.sub_level_punch_cooldown": "%s Sublevel Punch Cooldown",
   "tooltip.minecraft.player.block_interaction_range": "%s Block Interaction Range",
   "tooltip.minecraft.player.entity_interaction_range": "%s Entity Interaction Range",
-  "tooltip.minecraft.player.submerged_mining_speed": "%s Submerged Mining Speed"
+  "tooltip.minecraft.player.submerged_mining_speed": "%s Submerged Mining Speed",
+  "tooltip.minecraft.player.mining_efficiency": "%s Mining Efficiency"
 }

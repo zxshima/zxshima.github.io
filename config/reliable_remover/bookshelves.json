@@ -1,0 +1,10 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "everycomp:nml/architects_palette/twisted_bookshelf",
+            "everycomp:nml/minecraft/pale_oak_bookshelf",
+            "everycomp:nml/betterarcheology/rotten_bookshelf"
+        ]
+    }
+]

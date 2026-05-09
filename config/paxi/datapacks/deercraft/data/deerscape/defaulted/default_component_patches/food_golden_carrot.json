@@ -1,0 +1,11 @@
+{
+    "items": [
+        "minecraft:golden_carrot"
+    ],
+    "patch": {
+        "minecraft:food": {
+            "saturation": 11.2,
+            "nutrition": 6
+        }
+    }
+}

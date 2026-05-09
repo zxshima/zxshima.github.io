@@ -1668,7 +1668,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-imprints.pw.toml"
-hash = "6f9dbfa1b29360ec1c304339c9fd686243b8105588a710e90c904011919572d0"
+hash = "73165bccea736ad4f799d23e75e5f2d7d932731c1aea249a458a0cd1074b10da"
 metafile = true
 
 [[files]]
@@ -1743,7 +1743,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "c5cfc15522e92bb9a5fc3e56f38b72a935f65298236df10fbbc1aec2fd7a5203"
+hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
 metafile = true
 
 [[files]]
