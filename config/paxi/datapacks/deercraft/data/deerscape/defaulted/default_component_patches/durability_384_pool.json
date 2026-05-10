@@ -1,0 +1,14 @@
+{
+    "items": [
+        "create:potato_cannon",
+        "create:extendo_grip",
+        "simulated:plunger_launcher",
+        "supplementaries:wrench",
+        "supplementaries:slingshot",
+        "quark:trowel",
+        "betterarcheology:iron_brush"
+    ],
+    "patch": {
+        "minecraft:max_damage": 384
+    }
+}

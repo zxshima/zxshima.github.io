@@ -1,0 +1,9 @@
+{
+    "items": [
+        "minecraft:trident",
+        "nomansland:tortoise_shell"
+    ],
+    "patch": {
+        "minecraft:max_damage": 1024
+    }
+}

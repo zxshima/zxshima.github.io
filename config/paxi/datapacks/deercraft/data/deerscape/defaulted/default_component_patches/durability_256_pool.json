@@ -1,0 +1,9 @@
+{
+    "items": [
+        "tide:iron_fishing_rod",
+        "tide:crystal_fishing_rod"
+    ],
+    "patch": {
+        "minecraft:max_damage": 256
+    }
+}

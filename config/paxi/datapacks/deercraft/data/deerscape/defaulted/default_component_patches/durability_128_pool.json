@@ -1,0 +1,15 @@
+{
+    "items": [
+        "tide:stone_fishing_rod",
+        "minecraft:flint_and_steel",
+        "minecraft:brush",
+        "supplementaries:flute",
+        "overweight_farming:straw_hat",
+        "minecraft:carrot_on_a_stick",
+        "minecraft:warped_fungus_on_a_stick",
+        "tide:golden_fishing_rod"
+    ],
+    "patch": {
+        "minecraft:max_damage": 128
+    }
+}
