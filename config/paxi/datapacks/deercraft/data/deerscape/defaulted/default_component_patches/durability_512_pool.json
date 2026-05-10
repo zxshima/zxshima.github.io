@@ -1,0 +1,14 @@
+{
+    "items": [
+        "minecraft:shears",
+        "minecraft:crossbow",
+        "minecraft:turtle_helmet",
+        "tide:sailfish",
+        "tide:swordfish",
+        "tide:blazing_swordfish",
+        "tide:diamond_fishing_rod"
+    ],
+    "patch": {
+        "minecraft:max_damage": 512
+    }
+}

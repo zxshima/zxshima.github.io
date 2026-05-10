@@ -1749,6 +1749,11 @@ hash = "6f9dbfa1b29360ec1c304339c9fd686243b8105588a710e90c904011919572d0"
 metafile = true
 
 [[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "7efbe0c8b42d3231f12f2d7c2be3c6ff4395a50240371ddceb387befcf1e9597"
+metafile = true
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "d62e86dda3bf9bfe05aa124e76037e757ebf25af26769421c5b8da513dbb7acd"
 metafile = true

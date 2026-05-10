@@ -1,0 +1,8 @@
+{
+    "items": [
+        "quark:flamerang"
+    ],
+    "patch": {
+        "minecraft:max_damage": 2048
+    }
+}
