@@ -305,6 +305,42 @@ file = "config/paxi/datapacks/deercraft/data/c/tags/item/buckets/entity_water.js
 hash = "3fea08a07b96b47d0b4fa436ca75090656a76a0c5ed94e13afa90595a264da33"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1024_pool.json"
+hash = "d6f4c33a85e3a7c63f4fb57dc34af42eea1689798f1d80a2489f20e114c0e068"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1280_pool.json"
+hash = "bdd5c3e1b4ae2ebcdcbfceeb6507237fa24781edf0f4df65c8113c415fabe3ef"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_128_pool.json"
+hash = "e91f9873c285ed709cc20dbadbb19cebe196ef74e4d279c4f3cec1b1ee0f8517"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1536_pool.json"
+hash = "00d76da249fda8e8e4a3a68e3ca8b8e0583a0ab6e068bc6ef6ba11fb9cd884c9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_2048_pool.json"
+hash = "90e8c35297612d4f53bce8b2b6a492a6589a4d13a9ce6f0f39a8209f10dee7eb"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_256_pool.json"
+hash = "93961e3093289d3af1f613028680c26fdd0242f703a49d2f5c7bf1cc8b162d8c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_384_pool.json"
+hash = "5129a55de4f966dbe9402b6cbdfa5bb943ff19da94e6af0c167b5963d4178e91"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_512_pool.json"
+hash = "85343d1e1075bb8bbd90499670fd4ec612033e9e504f0af59cca4509e5c60aa6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_768_pool.json"
+hash = "1821940300daf841c653a1f72720a67d5578e36d5e29deffab6801cfd9ae5b7f"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_cardboard_tier.json"
 hash = "84db726e56b5729ed7f3ffe9b89974f9ccb3c8c1fcc072d5725c75a6761be085"
 
@@ -330,7 +366,7 @@ hash = "32c915ce80765203d1692e2235a7770006cd6768cdb81c6a38a12a9035e92595"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_armor_netherite_tier.json"
-hash = "30c8c6a970410e231dfa7edd460190e93544412f32c34e4eebfeeb04f0c1afc9"
+hash = "81156f92da1e8f1685cf13053741c46c3ab0c3a3badc99b0aefbe7dda436155f"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_diamond_tier.json"
@@ -1114,7 +1150,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a90e03dcc2c749abe862da96a622801d1629663fe37c2f65ea57c0e95ad4f285"
+hash = "ff0c31565805f8c6c4641230ae45281a7583c5f02da4988b76b7ffadacd3b9be"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -1182,11 +1218,11 @@ hash = "412b7cccb5aaf83e12a5385274455a95cd9a3ecf9cbc1c84908ccf27eb3f5104"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_gravel.json"
-hash = "0141c97efafa607d2db391e464338eb05b561f502c3b0c29621c135b0aafef48"
+hash = "41a121fee3caa52756775fcc7d594dae854b49fba64c001844e7c94b46b40210"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_snow.json"
-hash = "38a5e73b779a012410583aeab1e38bdbffbc2105faaec3c91a3ae147d0db3f53"
+hash = "687ec53c749e1128481a80d988bf83d013839e4b710974c258b5f905ceaedaaa"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_stone.json"
