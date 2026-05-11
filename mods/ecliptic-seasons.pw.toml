@@ -1,13 +1,13 @@
 name = "Ecliptic Seasons"
-filename = "EclipticSeasons-1.21.1-neoforge-0.13.0-rc-4.jar"
+filename = "EclipticSeasons-1.21.1-neoforge-0.13.0-rc-5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ofdM7yJE/versions/uvIOIHWV/EclipticSeasons-1.21.1-neoforge-0.13.0-rc-4.jar"
+url = "https://cdn.modrinth.com/data/ofdM7yJE/versions/7ikNO1pv/EclipticSeasons-1.21.1-neoforge-0.13.0-rc-5.jar"
 hash-format = "sha512"
-hash = "200ccf88a57eb4d55219be67a0f30d450b26c6bf83abf778f480c92d42dee6bdd4e944a74eb19260f6bac8a70f3c24c3d8c682b9b7e28728926a3e43742f01c2"
+hash = "37b0da57ce4d0956360cda346a3f062366bb45d9cf81ab16f7f37b5bb240b3a27c653fada709799a3f8e29e01d26302c0d593bf7729bd63e1cbdf69c42893b5b"
 
 [update]
 [update.modrinth]
 mod-id = "ofdM7yJE"
-version = "uvIOIHWV"
+version = "7ikNO1pv"

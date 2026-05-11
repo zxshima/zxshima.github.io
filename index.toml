@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog-audio.pw.toml"
-hash = "12380afff24f655352ab28293d26b7cc8b8892a7d49b80636c14b7b7f9dd1183"
+hash = "2f7eccb7481ec4c8bce1df3aa2b7aac29481d546ed0807eb3e23beab307edf5c"
 metafile = true
 
 [[files]]
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "b3fa073cd02ac8c754fe3ca4dc49e4aa224fddb411824a9608ad5c2d21140ea6"
+hash = "aad649656cd71a0ec12425cdaea7f96855ea62f256237fc84c9ef65da7ae9d90"
 metafile = true
 
 [[files]]
@@ -1451,12 +1451,12 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "1bb4b0c915c52ccb6642e340a25b0aef7b8eb2d7c9b20eefed2a338de5e5cff6"
+hash = "48f3b1bb78387d5be86f15ad03f414420810599604a5851dd867b6a086d89728"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
+hash = "3492cce37b394da6d6b7346ad00fba3b27c1f7a56c9bc9d104141d6ec6a25fd9"
 metafile = true
 
 [[files]]
@@ -1626,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2f14e94f4642986d2a5ac68cd623737e4b62b53517c9c1b164ce7b516ac3c671"
+hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
 metafile = true
 
 [[files]]
@@ -1706,12 +1706,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "b273a58d8e4772bbcbffe69777ec1656cb8c7b18f63974e963289f47c446ed07"
+hash = "1a2515dc7f45a75d4e00200df87b6b2447bad2a56521bed786ad1e41f50a11bf"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "4798f3e17f691452b5e328f9431b4eecadb8dbd7d7a883d66e44d66c26b48f5d"
+hash = "d8a42774dae48c9292ba05160dee6d2c320e115fb14fedf3222c522c61c38ddf"
 metafile = true
 
 [[files]]
@@ -1781,7 +1781,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-imprints.pw.toml"
-hash = "6f9dbfa1b29360ec1c304339c9fd686243b8105588a710e90c904011919572d0"
+hash = "8e19a61fadd0294dd07cd87aa10bb4c5e5f9c0aa135b3ec6bcd78d4158130bef"
 metafile = true
 
 [[files]]
@@ -1801,7 +1801,7 @@ metafile = true
 
 [[files]]
 file = "mods/stoat.pw.toml"
-hash = "5cf0a435149547a160186c6e5ae734868e1149df33e282934d0475c9359137f6"
+hash = "21d617ff2c762149531476491f0db598bd7eeeb6fa6ab60bb73eed9870013cc7"
 metafile = true
 
 [[files]]
@@ -1856,7 +1856,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "b566e498bf35c057c2542f8c7d58374ff2e726618f2cfccc41d419dc5e1ef537"
+hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
 metafile = true
 
 [[files]]

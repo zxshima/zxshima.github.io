@@ -1,13 +1,13 @@
 name = "Stoat"
-filename = "stoat-1.0.jar"
+filename = "stoat-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fhMTnqBJ/versions/yLVXpIE7/stoat-1.0.jar"
+url = "https://cdn.modrinth.com/data/fhMTnqBJ/versions/ZL2e5acP/stoat-1.1.jar"
 hash-format = "sha512"
-hash = "c7d61b60639fad6d00990b6c72ae3059b42640155f30093fe9dd69128642c731b50cf4f18078f8f675979261c04a498fd38b39da9b692329748da989fec46414"
+hash = "4385b1d5c73fdae4f5641e737d2c496406e4f86d964cb43626acd97a48c69c746315f1051184efff1e2bcd3a002e526d2eb2b5755c92d29674e70d7a0588ced7"
 
 [update]
 [update.modrinth]
 mod-id = "fhMTnqBJ"
-version = "yLVXpIE7"
+version = "ZL2e5acP"
