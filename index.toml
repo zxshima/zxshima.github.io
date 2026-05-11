@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "aad649656cd71a0ec12425cdaea7f96855ea62f256237fc84c9ef65da7ae9d90"
+hash = "d836ed3e5f4800eebd2b29325a612a11cd2aea1e35bfc7d3cf0e5e6ff88641dc"
 metafile = true
 
 [[files]]
@@ -1847,11 +1847,6 @@ metafile = true
 [[files]]
 file = "mods/vb-compat.pw.toml"
 hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
-metafile = true
-
-[[files]]
-file = "mods/villager-comfort-continued.pw.toml"
-hash = "bbc834f6c8ebfcd2a4f4f96e3218bdd10a90bd95fac6a19f9b320d7c130c726c"
 metafile = true
 
 [[files]]
