@@ -1337,6 +1337,10 @@ file = "config/reliable_remover/abnormals_delight.json"
 hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
 
 [[files]]
+file = "config/reliable_remover/boats.json"
+hash = "93fd8c1112de3027b26763138d93ffd863f13982f186c66f8c82bf378a663a3e"
+
+[[files]]
 file = "config/reliable_remover/bookshelves.json"
 hash = "16270146a9618df857cc090b136959a0e42a0adbbef7a622c5fa4e7fe9bf84cf"
 
