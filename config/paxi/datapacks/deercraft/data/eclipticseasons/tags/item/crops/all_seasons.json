@@ -94,6 +94,14 @@
     {
       "id": "cluttered:fluorescent_maple_sapling",
       "required": false
+    },
+    {
+      "id": "cluttered:blue_roundhead",
+      "required": false
+    },
+    {
+      "id": "cluttered:fly_agaric",
+      "required": false
     }
   ]
 }
