@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#minecraft:bundles","required":false},
+    {"id":"tide:fish_satchel","required":false}
+  ]
+}

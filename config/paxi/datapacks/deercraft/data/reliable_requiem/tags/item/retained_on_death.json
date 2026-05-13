@@ -38,6 +38,9 @@
     { "id": "tide:fish_satchel", "required": false },
     { "id": "tide:pocket_watch", "required": false },
     { "id": "tide:enchanted_pocket_watch", "required": false },
-    { "id": "reliable_backpacks:backpack", "required": false }
+    { "id": "reliable_backpacks:backpack", "required": false },
+    { "id": "spelunkery:magnetic_compass", "required": false },
+    { "id": "spelunkery:depth_gauge", "required": false },
+    { "id": "spelunkery:item_magnet", "required": false }
   ]
 }

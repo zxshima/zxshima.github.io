@@ -4,6 +4,22 @@
     {
       "id": "snowyspirit:ginger_flower",
       "required": false
+    },
+    {
+      "id": "cluttered:blue_roundhead",
+      "required": false
+    },
+    {
+      "id": "cluttered:fly_agaric",
+      "required": false
+    },
+    {
+      "id": "nomansland:field_mushroom",
+      "required": false
+    },
+    {
+      "id": "nomansland:field_mushroom_colony",
+      "required": false
     }
   ]
 }

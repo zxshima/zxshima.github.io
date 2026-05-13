@@ -1,0 +1,99 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:brown_mushroom"
+    },
+    {
+      "id": "minecraft:red_mushroom"
+    },
+    {
+      "id": "farmersdelight:brown_mushroom_colony",
+      "required": false
+    },
+        {
+      "id": "farmersdelight:red_mushroom_colony",
+      "required": false
+    },
+    {
+      "id": "nomansland:field_mushroom_colony",
+      "required": false
+    },
+    {
+      "id": "minecraft:oak_sapling"
+    },
+    {
+      "id": "minecraft:spruce_sapling"
+    },
+    {
+      "id": "minecraft:birch_sapling"
+    },
+    {
+      "id": "minecraft:jungle_sapling"
+    },
+    {
+      "id": "minecraft:acacia_sapling"
+    },
+    {
+      "id": "minecraft:dark_oak_sapling"
+    },
+    {
+      "id": "minecraft:cherry_sapling"
+    },
+    {
+      "id": "minecraft:mangrove_propagule"
+    },
+    {
+      "id": "minecraft:pale_oak_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:blue_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:lavender_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:orange_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:red_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "architects_palette:twisted_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:willow_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:crabapple_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:sycamore_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:fluorescent_maple_sapling",
+      "required": false
+    }
+  ]
+}

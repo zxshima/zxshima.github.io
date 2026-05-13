@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"supported_formats": {
+			"min_inclusive": 48,
+			"max_inclusive": 48
+		},
+		"description": "Makes jungle sapling drop rate to 5% like every other leaf block, instead of 2.5%."
+	}
+}

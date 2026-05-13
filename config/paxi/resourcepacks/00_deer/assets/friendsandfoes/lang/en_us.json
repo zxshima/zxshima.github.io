@@ -16,5 +16,17 @@
 	"advancements.friendsandfoes.adventure.summon_copper_golem.description": "Summon a Copper Golem",
 	"advancements.friendsandfoes.adventure.it_bites.description": "Kill the Mauler",
 	"advancements.friendsandfoes.adventure.kill_iceologer.description": "Kill the Iceologer",
-	"advancements.friendsandfoes.adventure.kill_illusioner.description": "Kill the Illusioner... if he is even real"
+	"advancements.friendsandfoes.adventure.kill_illusioner.description": "Kill the Illusioner... if he is even real",
+	"entity.friendsandfoes.crab": "Mangrove Crab",
+	"block.friendsandfoes.crab_egg": "Mangrove Crab Egg",
+	"item.friendsandfoes.crab_spawn_egg": "Mangrove Crab Spawn Egg",
+	"item.friendsandfoes.crab_egg": "Mangrove Crab Egg",
+	"tag.item.friendsandfoes.crab_tempt_items": "Mangrove Crab tempt items",
+	"subtitle.entity.friendsandfoes.crab.death": "Mangrove Crab dies",
+	"subtitle.entity.friendsandfoes.crab.hurt": "Mangrove Crab hurts",
+	"subtitle.entity.friendsandfoes.crab.lay_egg": "Mangrove Crab lays egg",
+	"subtitle.entity.friendsandfoes.crab.egg_break": "Mangrove Crab Egg breaks",
+	"subtitle.entity.friendsandfoes.crab.egg_crack": "Mangrove Crab Egg cracks",
+	"subtitle.entity.friendsandfoes.crab.egg_hatch": "Mangrove Crab Egg hatches",
+	"yacl3.config.friendsandfoes:friendsandfoes.category.mobs.group.crab": "Mangrove Crab"
 }
