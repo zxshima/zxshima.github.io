@@ -305,6 +305,10 @@ file = "config/paxi/datapacks/deercraft/data/c/tags/item/buckets/entity_water.js
 hash = "3fea08a07b96b47d0b4fa436ca75090656a76a0c5ed94e13afa90595a264da33"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/c/tags/item/foods/bread.json"
+hash = "a5ed931b450b9124be482697a8aef35b31c5cd0d0e07705898bbfb38eb20382a"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1024_pool.json"
 hash = "d6f4c33a85e3a7c63f4fb57dc34af42eea1689798f1d80a2489f20e114c0e068"
 
@@ -403,6 +407,10 @@ hash = "f7b599a342f464ed3d268ae9dd8eb2e6ca4ece998ae16e3c2c6a8b1e5b890518"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/food_strawberry_scones.json"
 hash = "5e179a0c36508d66883be4a716781d9cb077e191b4df9afacfbfcb85e782d1a3"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/item_witch_pupil.json"
+hash = "01066af13a60e719bd1fc08d1f3e420b3dbbb2b6ea8ada148de29de5b230d2bb"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_diamond_axe.json"
@@ -551,6 +559,110 @@ hash = "32b6ce1b53da56ccbab426ba7da45b890bc1bf14ba3b0d78a933b954da8b99cd"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/tools_wooden_sword.json"
 hash = "4bab672b832e677f845c5e7659a219aad3c7cf45e453842bcf927f1ca4af72bf"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/ancient_log.json"
+hash = "8b9f00831d4d7e1bf6541c21e4b6b2043a929f4d6810a6bac1648ac958647641"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/ancient_wood.json"
+hash = "06a085d69c86694eca4ff8a6fa138a58bebc52bf37b84ff893e2fad8c62093bf"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/azalea_log.json"
+hash = "3086374e73eb5744a2337dd4f8e115dcea9acbe1860d188100762cc1a865235c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/azalea_wood.json"
+hash = "7cf9328bfb8889dd04170284a03895f5b9fbf3c980dc9a9fb1bd74d6bf2c45ab"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/blossom_log.json"
+hash = "cebfc114c679bfbf8dcce788a829e5ad4d244e00c938932b2a7759203cecf06a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/blossom_wood.json"
+hash = "24cfdfd75ab3667bae1f6ce501f99ecd03d4eeb497c7b431da1cc6c73228260b"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/crabapple_log.json"
+hash = "168a143d84f592d3248976130febf25501405af31b8dfaa0801001fdd83e0298"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/crabapple_wood.json"
+hash = "d8cdf24d572b5d2c9e9cf8249eefeb830a15d2025e3ddc00e3706cef3b5ad714"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/flowering_crabapple_log.json"
+hash = "25110ba6e1546acef0e9dc5c2ddfc21bb502a9538a0cded001080e7cbdadc0d2"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/flowering_crabapple_wood.json"
+hash = "f2058b548a55d0aa7ebf4e15bea019478384408e04ab28c7e64acf8ea79ceddc"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/flowering_poplar_log.json"
+hash = "3e0e342ee7f1c4eb34bb6ff233b685726412d67f9b7545cf1f2f6ec838c148f8"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/flowering_poplar_wood.json"
+hash = "d9bd513feebe71764d28b410d9e23c52136e468af156718aad09fbcef09d76c0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/flowering_willow_log.json"
+hash = "01393625b00d856bde5cc6d6ac30242626cf90e0920115a4e3f9da155be835d6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/flowering_willow_wood.json"
+hash = "cc4606528dd942d3fa2cafe190295032dff1cbe31e63ee7e0067012833e9d7cd"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/fluorescent_maple_log.json"
+hash = "fc179a615367be3b6a4fe379abe23733ded0495a4cfe177439f2d1b56e69aef0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/fluorescent_maple_wood.json"
+hash = "ec82bb66e98c430c14a9608160bcdb285d44155925350822da0f785bd46994bf"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/pale_oak_log.json"
+hash = "a253821802ee17f03adbe8fec93f671196f6cb3591412358f115f6b0440130f8"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/pale_oak_wood.json"
+hash = "a4a3044cdea9594e64e9136aefb426f7bdef285cefbfaa3b2e24efa695a33f14"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/poplar_log.json"
+hash = "4b541c2de024eacf7ac2c4e0acc418d203b1a82e11cd8e3b037c10406cd16ba4"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/poplar_wood.json"
+hash = "fa5e00831d8c139a5ea0e195206fbb43cc47d935fef1fff2a17f9a3807d47e16"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/sycamore_log.json"
+hash = "783c0fc61c607e0c50aca4d96346f4b377a628dc06d6ab31bfabd1e0e8ece7d0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/sycamore_wood.json"
+hash = "ddb7b13db4cde01c6e12983c25daa2e371cd341a95f449972cfdec14eff53d2d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/twisted_log.json"
+hash = "566404cc6863ab73f95e4e4b370e04dd229070623a77ca8ee0eeaad1699f585d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/twisted_wood.json"
+hash = "de36d29a9beb49a8118a94adc8ad2f37bea9bb48d579a512efda0cf5f34eca9f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/willow_log.json"
+hash = "082b98bfbc02c24df73a9909a8c9cf33abdb26a452f6165901da538726c59b1e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/willow_wood.json"
+hash = "ad88cf21321f31826253ba84ed18e92ca983d5c2094cb502a33336c2f38839ef"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/map.json"
@@ -717,12 +829,32 @@ file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/block/crops/sp
 hash = "71f77499806af31ed199ecd8cbd3fa7c463066c99402bb45c4396233559c71c4"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/all_seasons.json"
+hash = "758b67162dd5c07784234757044afef1eeaccc7add4421f87455fc51cae3a1a9"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/moist_humid.json"
-hash = "c7eb7072eff3bcd6f6f485e8fe33da2cdc449369acfad7a63baa8d7abbc5f094"
+hash = "5d1be28a26aad03bc31a3caaba20dc952f66656c446e1b7c3db70d0375edc6c5"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/spring_summer.json"
 hash = "c7eb7072eff3bcd6f6f485e8fe33da2cdc449369acfad7a63baa8d7abbc5f094"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/friendsandfoes/tags/worldgen/biome/has_crab.json"
+hash = "f3dc6618006d04658c05ac65a5ad05b875bd933c2d13a7bf08d76064de594636"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/archeology/suspicious_gravel_desert_pyramid.json"
+hash = "18a659249adeb218cf06b8e4bc75f4bad69f58299e619ca33bf558816c81512c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/archeology/suspicious_sand_desert_pyramid.json"
+hash = "18a659249adeb218cf06b8e4bc75f4bad69f58299e619ca33bf558816c81512c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
+hash = "bc909fb9d0d1fc369b1b8349eead079d94573bbaa53622d1fb2577d28d676f09"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/breakdown_nether_wart.json"
@@ -730,7 +862,11 @@ hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "513bc4d1e97d5395cf33f7326a192076aa0b65cdb1cb95c534fe4ce0a23492c8"
+hash = "b688744f75e0241ff4f55933b95ade50d4e6de4e50b82c9604b50971b60fcb14"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/supplementaries/tags/item/shulker_blacklist.json"
+hash = "68a4ee07db4f84135dcd0777bcc60ff0c7c4487e824fcdf7e64b08b63593ee43"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/pack.mcmeta"
@@ -743,6 +879,14 @@ hash = "71b5b31bcdd5441dd84ea810bfe71a5134b881d8fc4fe7a05b15ea34a1048080"
 [[files]]
 file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
 hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
+
+[[files]]
+file = "config/paxi/datapacks/morejungle/data/minecraft/loot_table/blocks/jungle_leaves.json"
+hash = "97ddbf976011bd608ce62ff49b35c46944ab514dceedd4dccd9b6815cb9dbfc2"
+
+[[files]]
+file = "config/paxi/datapacks/morejungle/pack.mcmeta"
+hash = "e1781275678ef2045d25a1a1778839beb4dc96065522e4fa253229d9b6ba4e23"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/analogaudio/lang/en_us.json"
@@ -765,12 +909,28 @@ file = "config/paxi/resourcepacks/00_deer/assets/chipped/textures/block/crying_o
 hash = "6175e499cc4e4e07b70f57f4ef649153f59fe289fb855671e5d8193ee2a9ad20"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/cluttered/lang/en_us.json"
+hash = "e2459d2b31a56cc46ed9979170f7bbbcb11f4b24d8d0c5e91fd8fa5e7eebbd8b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/eclipticseasons/lang/en_us.json"
+hash = "3ac9bc1a8296863fa70ca710671562e5c9c23c0861f54a0f245423acb9ea7803"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/enchdesc/lang/en_us.json"
 hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/endrem/lang/en_us.json"
+hash = "a591e774c11576c1082344d443ce3a8929f86b52c1de749573dd900c63d88581"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/everycomp/lang/en_us.json"
+hash = "558d8a9f6399a7c45154eb2fecc318be5abf3706a6f63db913e5f2b14a0434c6"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/friendsandfoes/lang/en_us.json"
-hash = "66b11b11cb38ae007ae31dda33f1900d5a1cf63ba5d5dec8d6a523537eb99e34"
+hash = "7d29dc3d98ae29b364703bf63a0c478fc3d65756792e664a06bde246b19b70ca"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/gallery/models/item/painting/dennis.json"
@@ -805,12 +965,16 @@ file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_toolt
 hash = "1a2755ccb6dff950bf2d0e0f73d255267279ca61e84f2071218d2798bb24644d"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/nomansland/lang/en_us.json"
+hash = "9873da049cbbf39c0465cfbc7fe9eeff400fe661566a0ad7aab261f077ae5933"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/overweight_farming/lang/en_us.json"
 hash = "6617ff02873b3bead8b1909752b739af848fefdce3d487536145214227df5216"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
-hash = "594c481cf5d12e4d54eb096cc964377c300612160c73f5dc01c96991b8d41566"
+hash = "cc161819471704d9a140d28ea2a77a3033d2db1f40f1129721d401428b0cef30"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
@@ -843,6 +1007,10 @@ hash = "3a1df5fdcf998bef144bdecf63232e307e6764a6892adef508597f164c12f1a2"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/pack.png"
 hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
+
+[[files]]
+file = "config/paxi/resourcepacks/DerpWood.zip"
+hash = "82f7ac4584760319b8c89484f3d62fe69f60ab2fbd0840f617884268ce2cea8a"
 
 [[files]]
 file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/diodes/latch_on.json"
