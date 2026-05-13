@@ -1,0 +1,15 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "supplementaries:quark/cannon_boat_ancient",
+            "supplementaries:quark/cannon_boat_azalea",
+            "supplementaries:quark/cannon_boat_blossom",
+            "supplementaries:cannon_boat_pale_oak",
+            "supplementaries:nomansland/cannon_boat_maple",
+            "supplementaries:nomansland/cannon_boat_pine",
+            "supplementaries:nomansland/cannon_boat_walnut",
+            "supplementaries:nomansland/cannon_boat_willow"
+        ]
+    }
+]
