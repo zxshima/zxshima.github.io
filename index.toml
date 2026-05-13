@@ -830,7 +830,7 @@ hash = "71f77499806af31ed199ecd8cbd3fa7c463066c99402bb45c4396233559c71c4"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/all_seasons.json"
-hash = "758b67162dd5c07784234757044afef1eeaccc7add4421f87455fc51cae3a1a9"
+hash = "6d90a937e970d1c34b8f9fbce1731ff9e395ded45c1d81aef6dc29f42955688c"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/moist_humid.json"
@@ -987,6 +987,10 @@ hash = "42a6dabfd6d84447fac992b6aecb8b49defb4bf4947213452f3bd0a1786cf6a5"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/snowyspirit/models/item/gingerbread_cookie.json"
 hash = "cd14c3622c18e33f340ba4906c0659b6da51acbca96a5002e9c2ee083312ac56"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/spelunkery/lang/en_us.json"
+hash = "21ddcbd8607fb39cd7e4c31e8302c8d50bee9b1584f667c4e5ca3c7fdb8f587f"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
@@ -1335,6 +1339,10 @@ hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
 [[files]]
 file = "config/reliable_remover/bookshelves.json"
 hash = "16270146a9618df857cc090b136959a0e42a0adbbef7a622c5fa4e7fe9bf84cf"
+
+[[files]]
+file = "config/reliable_remover/copper_nugget.json"
+hash = "5e95b3db6bca9250a361d8ac0c18791e113d8ddba4167d2bb80b20eb8de79e18"
 
 [[files]]
 file = "config/reliable_remover/copycats.json"
