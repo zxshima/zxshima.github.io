@@ -561,6 +561,18 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_compone
 hash = "4bab672b832e677f845c5e7659a219aad3c7cf45e453842bcf927f1ca4af72bf"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/neoforge/biome_modifier/glimmering_weald/change_color.json"
+hash = "657085183d73a0c92579d9ad7a3d19be5cc17b62735d4433281081ebeb290b0d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/neoforge/biome_modifier/strawberry_fields/change_color.json"
+hash = "4fdc8ad13af719016baef919d249fc27e9485ef221e49788bcf5c2494aad8cab"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/neoforge/biome_modifier/sulfur_caves/change_color.json"
+hash = "aef8e0dd06725ceba16c0a21d26b171f0163b0233f3397e7a330fcddb9e685ce"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/ancient_log.json"
 hash = "8b9f00831d4d7e1bf6541c21e4b6b2043a929f4d6810a6bac1648ac958647641"
 
@@ -857,6 +869,10 @@ file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_
 hash = "bc909fb9d0d1fc369b1b8349eead079d94573bbaa53622d1fb2577d28d676f09"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/nomansland/tags/worldgen/biome/has_dense_fog.json"
+hash = "cf9e7f2323e4809993d43a6843c72ad88f723dccdd3e8ed3bbfeeb40a51e5359"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/breakdown_nether_wart.json"
 hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
@@ -987,6 +1003,730 @@ hash = "42a6dabfd6d84447fac992b6aecb8b49defb4bf4947213452f3bd0a1786cf6a5"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/snowyspirit/models/item/gingerbread_cookie.json"
 hash = "cd14c3622c18e33f340ba4906c0659b6da51acbca96a5002e9c2ee083312ac56"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/ash.json"
+hash = "921450be253235a2dbc4a74f28e690ad0541eec564acdf5f2cfce5d204590d21"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/ash_sand.json"
+hash = "8b9caf170c48fd7ca195d6ce8cd96c3f1f43f008c370dde59e4afaac3dcbc5ef"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/black_concrete_powder.json"
+hash = "5e64a7784af53091a34a8201fbf3e6ed114c89ba78dc2e34fd2fb98a3a79f955"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/blue_concrete_powder.json"
+hash = "1783a6dbe7526dfeda14f36e67457b86e6dadab7589fba0f33711a1483c89945"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/brown_concrete_powder.json"
+hash = "8819ed6839a044e886f769682d57a76fa0d157d04ff771e04d1c6696fccdd083"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/clay.json"
+hash = "3b67a274e9c0a7d23f4f3e7de3dbf5433cc9362c884f24e71daad866905bb803"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/coarse_sand.json"
+hash = "e2a15edef71196f40ad46f3ae11f11f654e01ab7d2ed7caf2d4f556d5465f016"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/concrete_powder.json"
+hash = "85f93c04085fe53f592db0b36435567146794f5a20a7b61b30701e712f1149bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/cyan_concrete_powder.json"
+hash = "20ec41d8c62c360ff204623e7a1de0e65b94593a68ef038ef901f5b576a60dfc"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/desert_sand.json"
+hash = "a0ca59244d0a5a2a356da4fcaaed4224e1973803131841e933da7fd4a84d79a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/gravisand.json"
+hash = "c293783b29444b8503ce416dfefae9d60ec0fdae6dbba2ee78b20aee754edc25"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/gray_concrete_powder.json"
+hash = "4077c39ee63403655e57a9feccfc149b950a7d19691ca4f1193f7e55408efdb9"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/green_concrete_powder.json"
+hash = "1cb51434705102b32d963ecd12bd2f4266ef78a162bafa5b64c10881b8c52f68"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/light_blue_concrete_powder.json"
+hash = "673cb21fc32cb3762cba6efacef703cad3154897862404937a15b6ba43e2d7f5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/light_gray_concrete_powder.json"
+hash = "555fd68a8e2d5dd737587e2a47b237cd8a5f2664006c9b02792a5eb8d2d1d0c3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/lime_concrete_powder.json"
+hash = "a456717588b8132fee8243afb17d30c124e3f55da681f1fb70cb22e14943b1cd"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/lush_red_sand.json"
+hash = "a97964ddce91d1d52118e07c4aa1caf05f4bc84c1ddc78fcd1059d3eba7317b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/magenta_concrete_powder.json"
+hash = "9ad50434d924f043356f854a897b9dd52e7f3ee706268eb7eb654fa23e60b062"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/mud.json"
+hash = "103526542161209a1b4015b9d50f3fccc6b34af29bdacf8aba77741f85e140a1"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/orange_concrete_powder.json"
+hash = "5147916875d9f69786bd7f3889556ce394ac2e98b5b37b59cd4fdfc5078181dc"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/pearl_sand.json"
+hash = "6ec17618f2358574ac3bafcd5ad83a06a4eea1164d2f95c46380fb2bbdaed0e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/pink_concrete_powder.json"
+hash = "af5b4258a94532a9d166308d6ac56011c08aabaca5af6ad5ec4faad6248a652d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/purple_concrete_powder.json"
+hash = "42dfcffceebf3d3c16b9889b8cec887bdfc299126a83fadf0d81cb4bcce2a983"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/red_concrete_powder.json"
+hash = "10aee2a562288c0a301b80efe325f984d8a0c4388937fe0239bb0101a3989ce8"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/red_sand.json"
+hash = "f6b73d1792bb24111fe36d45f62ddff078c8964493bc0c4eb3db0716f22bd15e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/red_sand_path.json"
+hash = "904ef34d4f05366b79439786d528f97bceccb92030418046545216a3b753c49c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/sand.json"
+hash = "c518caed3fbca1177401f8fcd2a1f7c0c51641f47c97e371902b89e008f55127"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/sand_path.json"
+hash = "c94d1c83903c4ff6c9e26baa9bc06e7b51971791804a3311f52b9a8926ad8901"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/snow.json"
+hash = "d3ea0240ea1d5922e89644438a4df063956da2df4b2f339185f87bdf729d7c61"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/snowy_paths.json"
+hash = "b624f38d817b4959fd10f5142f8d0aa553376e785c88998e57316f12d41c24e0"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/soul_sand.json"
+hash = "0f4e51319065935c851b32eef84d319a73fca00d0800042c1484f987791a27fb"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/wet_red_sand.json"
+hash = "4f4b53ecbbc696f0d8a4580f86d182d9e3001edbd6fd86c3f768fafbd3cb74c3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/wet_sand.json"
+hash = "e4c97b86da20b3afae431041f2cb8641b7c4119f43126c17807d4edb6f97da4d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/white_concrete_powder.json"
+hash = "390821c5101ce45a937a1cff3b0a8a56f8d860d244ce68aab5c2fb83758d500b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/white_sand.json"
+hash = "9361d73ce12fa1ef5f54e81f61df10efec556d8c1a502a5635196f0d218f822b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/imprint_profiles/yellow_concrete_powder.json"
+hash = "d7b105caf5e7d826206ea53cc587c0a1e133771d78ea3f1addec18e4711e52e4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/ash/ash.png"
+hash = "7680d92fe3a1e31995a7883917f16e6196b5ecf3615bf9551e683bae4838a27c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/ash/ash_layer_1.png"
+hash = "5bd46b926eb25e96e618fb8f0fede794ebfbe2314d97ba1e4802feeb627e875b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/ash/ash_layer_2.png"
+hash = "5c6743598d6ce826df77a1de121605bf74ef6b349db6cbfd2664bc6d2bef4de8"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/ash_sand/ash_sand.png"
+hash = "1fe52e75703a340431782464b1dc63be0504af8528f5cadea4b992e92d99ac9b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/ash_sand/ash_sand_layer_1.png"
+hash = "3f33271ccf6902c186a317f8a7e81b340ecf300ed2b80a6450f7fa7146e92871"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/ash_sand/ash_sand_layer_2.png"
+hash = "0ba388ef1349dab12e530ec59c4c18957bf0948a1ea7471a20f21064f50a1f4d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/black_concrete_powder/black_concrete_powder.png"
+hash = "b7811e5cf02e21e902ae729fa54bd62cd0ed98e46e1198468310626f39921eb4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/black_concrete_powder/black_concrete_powder_layer1.png"
+hash = "705ef15597af41772229a13ff4b114c816e520495bed1f7ef9ea445f527c1972"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/black_concrete_powder/black_concrete_powder_layer2.png"
+hash = "11b25ea529a55fd18f3da827d399603a2c95579d651354725abaf73f5f7abc3f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/black_concrete_powder/black_concrete_powder_layer3.png"
+hash = "64827ec19165329b6b10a9e5a15ea10c4341445fe101b06ab65819fe6c3a2407"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/blue_concrete_powder/blue_concrete_powder.png"
+hash = "45cac30cee63a9d701887e7e978ae0a65a5a18008c326b57b84d8955e62d60b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/blue_concrete_powder/blue_concrete_powder_layer1.png"
+hash = "277960d8fbe5e143fd14b6fd437f9605c640b81d0bbd4dfc203312245bd723f6"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/blue_concrete_powder/blue_concrete_powder_layer2.png"
+hash = "11580702de01d24417cbd2c5e45e7bb9de3f4021e45a44668f6993e17573d6df"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/blue_concrete_powder/blue_concrete_powder_layer3.png"
+hash = "1a81b28c5cddbeee12512436fb8f410001ac7ba95053e92abc63b5e902a46f25"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/brown_concrete_powder/brown_concrete_powder.png"
+hash = "1c9fccc76ff77d1a812b06f374dfa9d7832c23849ae066e5ec894f84498b115e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/brown_concrete_powder/brown_concrete_powder_layer1.png"
+hash = "6baa40d63bb6a420f32792057c5d2f71a76835e0b008f78b8d33f6529403f7c5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/brown_concrete_powder/brown_concrete_powder_layer2.png"
+hash = "fdeb1de401381a76708e27c20ea124437b99a57a8529960c09788488be3aa0f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/brown_concrete_powder/brown_concrete_powder_layer3.png"
+hash = "150cd68ef376d77c3c4ebbe70c3c245127aabf3515b4e630d43bcb15ef9fae94"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/clay/clay.png"
+hash = "9684ba263ef0878ecdb5447cefc518c3f2509ab361b93f9851e9dbe3b8fcf855"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/clay/clay_layer_1.png"
+hash = "ed7e9f805ab7469eb4d9d55ebe010c10baf54383867c4912366b088622887dbf"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/clay/clay_layer_2.png"
+hash = "6b66b6da4595a07980c91c90b2a3cfd326cea0d9cfed7073b4bf57b05ab64179"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/coarse_sand/coarse_sand.png"
+hash = "2d726a27ba0585d715edcadd81e5e9ef0b742b8fce3af3c0e665fd45da9fc216"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/coarse_sand/coarse_sand_layer_1.png"
+hash = "a9908b98e3b87759aef276e5839f283ff0982fcb733328f0aec22118763bf5d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/coarse_sand/coarse_sand_layer_2.png"
+hash = "6ae68621b82ad5f0e2e8ba4ccc6269ae4872069570b9f9cbf0201798ddce170f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/concrete_powder/concrete_powder.png"
+hash = "54c19440e0142bc30c2e54ac2fbc19eb48861e49908dbc0cb1edb4738364631c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/concrete_powder/concrete_powder_layer1.png"
+hash = "e9f4ad505f714a37157fd910732cef7b15668fe93d9a7b0d5f320250d1434281"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/concrete_powder/concrete_powder_layer2.png"
+hash = "2476c872518462193c9e4c529e20831ec1c307e2a2e6b3770ba34b1589827f38"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/concrete_powder/concrete_powder_layer3.png"
+hash = "88f4fd5a9e8b7142ba03760d775282e6ebbeb2f1424528dd1cff49b4871a4333"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/cyan_concrete_powder/cyan_concrete_powder.png"
+hash = "bd5681d35dcd2db51fed9ad67b5606855ecae592f461a4d55b60c873a3f6ba44"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/cyan_concrete_powder/cyan_concrete_powder_layer1.png"
+hash = "079a22fd20608c3ff56a9742721a6f3abe31fa66d59e4c64e3ac8d1955120b23"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/cyan_concrete_powder/cyan_concrete_powder_layer2.png"
+hash = "d8e2da9d9a86565b6abc82bac676a200e4dcb69df1a5727f74604cbf975dd0be"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/cyan_concrete_powder/cyan_concrete_powder_layer3.png"
+hash = "3716ea71a64d6521461f9573c31a78403f4897637d34923ae8c5ab4732f8d7c3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/debug/debug_layer_1.png"
+hash = "9698ba0cd5793e0afb036bafdb8a470e46c3f5eb3dd9860e6dfd11a738f8211e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/debug/debug_layer_2.png"
+hash = "3f0b80ca4ed2ef6e9f5febfedd3cd21deb602471fd37fee5be6da93ae19640ea"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/debug/debug_layer_3.png"
+hash = "de06bad1e9b49c1ebd445b249e2cc8613a4212ef11f76759bf68a565084763fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/debug/debug_layer_4.png"
+hash = "de06bad1e9b49c1ebd445b249e2cc8613a4212ef11f76759bf68a565084763fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/debug/debug_layer_5.png"
+hash = "de06bad1e9b49c1ebd445b249e2cc8613a4212ef11f76759bf68a565084763fd"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/desert_sand/desert_sand.png"
+hash = "dafc36ef24c205d29bd27f3515a9e775bd07e4b2a2216aa26cf1e99445011e7e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/desert_sand/desert_sand_layer_1.png"
+hash = "36d227f2f55039a4e458debef901f96d8fdaf70c21d97aebffa32c6c448b3ffa"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/desert_sand/desert_sand_layer_2.png"
+hash = "b423844a82eaba0e8003d88b927358fff7950a32c0b906a9a14c9a7a2f3f7bf7"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gravisand/gravisand.png"
+hash = "ed104511f9dd804478179e0d9032d5bfc640eb57583343196f987dc4b53d5e32"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gravisand/gravisand_layer_1.png"
+hash = "216fcee26e8eaea81281a671bac145919e82e684dc4b9a0541d3066795657df6"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gravisand/gravisand_layer_2.png"
+hash = "762591c683672eeb930cd441f2e5e0fa74914c968b3e1856bc2a34dad6ec757a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gray_concrete_powder/gray_concrete_powder.png"
+hash = "6a2c438d6664e538f0ae514dd7f817697eacb291a41b4542600f0295635d6c50"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gray_concrete_powder/gray_concrete_powder_layer1.png"
+hash = "45c9e4b65ab71d5f0a43a327d2439c3fb8fee5a76a8c75177a323c90ba051558"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gray_concrete_powder/gray_concrete_powder_layer2.png"
+hash = "e4a0a90c4ffceb95a726d8166650a84bafdbcfb411a6ab532169bf3cc97bd2a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/gray_concrete_powder/gray_concrete_powder_layer3.png"
+hash = "e7771f579c6738b1768e1eb9b2d85ba82e7faa84489669c1a9375c1ba9eeda77"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/green_concrete_powder/green_concrete_powder.png"
+hash = "87fbaca5892c6ff2a22ff37c30d1fa07b09fd3eb86b195f359a24c96828ee9c6"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/green_concrete_powder/green_concrete_powder_layer1.png"
+hash = "09491b3e8cae9c8c0a208e96ee4464c549d7fc79256f7597bef9bb1e8f7ae591"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/green_concrete_powder/green_concrete_powder_layer2.png"
+hash = "8db326371464c1ee56ef0c0d72b7be547164c66425d28255dcc65337cbadce3f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/green_concrete_powder/green_concrete_powder_layer3.png"
+hash = "66008df47ff1d5ae45ac50e277314e42727f19af9dd5220797eb3503b26343e6"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_blue_concrete_powder/light_blue_concrete_powder.png"
+hash = "dc9289ed6d827795c2dde1e023d8c2ae90594e84ae709f3129fdd04066b1e894"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_blue_concrete_powder/light_blue_concrete_powder_layer1.png"
+hash = "ca5baa542a635ee157ab27a406cc35aea0c2d1f9051970fc7c6c3fc001577c70"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_blue_concrete_powder/light_blue_concrete_powder_layer2.png"
+hash = "d7eff6fcad9dd1ae24753e4c1324637b1a4c773a42266ada28533648db591114"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_blue_concrete_powder/light_blue_concrete_powder_layer3.png"
+hash = "69ce96ee8e8548cc7d30410c10abcbdc860e3d5c5ace6e447785f6251b84285c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_gray_concrete_powder/light_gray_concrete_powder.png"
+hash = "a0752c63ce80111874a5eff4cb552754a1d538ed864caffaed8d8a1578c4414a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_gray_concrete_powder/light_gray_concrete_powder_layer1.png"
+hash = "7f80344d1e1a9b2870b21d3540bc00687daba07a20644b8c4766cd9ce21bd9da"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_gray_concrete_powder/light_gray_concrete_powder_layer2.png"
+hash = "e03685e5ad3aa7db2c3ca17f21c3a811a46ae34dbfe7dea72029e82546812315"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/light_gray_concrete_powder/light_gray_concrete_powder_layer3.png"
+hash = "a4cd4b9951bcbc585b8cb024da16a0879bc30165904708e1b8b9145726b7755e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lime_concrete_powder/lime_concrete_powder.png"
+hash = "75d02782fd0a3426fe30c79d28f62e8fbe54c63810524b1522d3788fcf9140e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lime_concrete_powder/lime_concrete_powder_layer1.png"
+hash = "c62dbe49ee2b2e3f50360bacfae5ee66b0343535866654dc807d688c13eade3c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lime_concrete_powder/lime_concrete_powder_layer2.png"
+hash = "c39209805bc1d94e9423f654356d012ae230ec55f1f698d1335c193679fa1ebf"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lime_concrete_powder/lime_concrete_powder_layer3.png"
+hash = "e2e175931dd5467a5d59b20516b8031e2aabc950a0d2e9a99ca6355946ca5c35"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lush_red_sand/lush_red_sand.png"
+hash = "f4669c78d5b746474cfaeb164331181b2a663d83af46cf52186f5b85694b4db4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lush_red_sand/lush_red_sand_layer_1.png"
+hash = "d60801778cae23506cfe7c7a0856a2375c87bf121e6c3271fc5a8ff23fb8130d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/lush_red_sand/lush_red_sand_layer_2.png"
+hash = "cbcbdfc374c4943aa233424773af8ad1575ea9d4bf8a3eb84f777be3cc0deadd"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/magenta_concrete_powder/magenta_concrete_powder.png"
+hash = "6c5350e2409678db2f31898f63bd511bc71496d6c4934ae76600d67609a0e6e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/magenta_concrete_powder/magenta_concrete_powder_layer1.png"
+hash = "f0f976db20506b9da98a89def73cccf0200b63bd8693a4f51ebd7d9cdeb3288b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/magenta_concrete_powder/magenta_concrete_powder_layer2.png"
+hash = "07b85a1d16eb45a249324597fdc8e0f92a9fd8e3431f777bc7f2f9a831f7ee44"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/magenta_concrete_powder/magenta_concrete_powder_layer3.png"
+hash = "027049e121ddfe6aab3a883448a76a75af8e27249b86062e45151b8a4c73b800"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/mud/mud.png"
+hash = "758f2c1e87cc21f7a59a58d0ef1addb4d16fe120f8e311470ca43793301b49c9"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/mud/mud_layer_1.png"
+hash = "827b2146d50d824f8e0e0914239a6e64fe8034aaa3b30d218ba076b338e519cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/mud/mud_layer_2.png"
+hash = "b44be4381c068b7237d389887b81eafbadad92565008568c940084a10357d7ae"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/orange_concrete_powder/orange_concrete_powder.png"
+hash = "0fcdc0a420adc3762f305335d218c7513b913a713e852afa9a9b1950550cf025"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/orange_concrete_powder/orange_concrete_powder_layer1.png"
+hash = "d5885b910c5ae90da44129f34f9890d68e193dbb8e23a61f533212c878bbc20f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/orange_concrete_powder/orange_concrete_powder_layer2.png"
+hash = "41aa5314dc7f2d57e904d19425bb2921a2ff012a3c3309b8675193eeb115dcd4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/orange_concrete_powder/orange_concrete_powder_layer3.png"
+hash = "b4d28fc7549c8bc5fa1f14231025bb0da1014f55f0eb671741fef6c47f799925"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pearl_sand/pearl_sand.png"
+hash = "3bbc3572196fe0c8052937373b18c74ebb00d0dc2c702b00bbf4b810a209fa5a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pearl_sand/pearl_sand_layer_1.png"
+hash = "f5eaef86fae8c7d99ce92c4d444c6844873164cfe552fc0c4a81f29936a3b7c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pearl_sand/pearl_sand_layer_2.png"
+hash = "81b3dd5601589e6b44b19c0dc1dd9293c6ffe009ba7d2a36587ae619f141395e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pink_concrete_powder/pink_concrete_powder.png"
+hash = "ada3301e43202bd151d2de1cc9362a8401506d992508056aede2e5d2f6256d5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pink_concrete_powder/pink_concrete_powder_layer1.png"
+hash = "5dcd116c6dfee754122f23e7872a79144efb0b0bc9b5fcff2e66519893f8826e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pink_concrete_powder/pink_concrete_powder_layer2.png"
+hash = "30f40708730806362b39bac2d71df97118ba0d27470e8868a992d40c7a61e8ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/pink_concrete_powder/pink_concrete_powder_layer3.png"
+hash = "d8c1c5b293b6aa843c08bff9ceda6cfcb051ee3e2f48ae9aaaba38de1bd0b336"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/purple_concrete_powder/purple_concrete_powder.png"
+hash = "e84b63119aa2dbeee8315b702440016ae94c294acb2a50e6a3147ca39ad5a415"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/purple_concrete_powder/purple_concrete_powder_layer1.png"
+hash = "fa10aa23db5a85cbc590a56320bb5d66bec94087984045f1e6c3a8d8a57831f3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/purple_concrete_powder/purple_concrete_powder_layer2.png"
+hash = "7424c5c4414143f7ef893f1d35ab9eafaf2ca25c9f6713236757d0c3f1d3afee"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/purple_concrete_powder/purple_concrete_powder_layer3.png"
+hash = "1c9262e1fec3b1b3721537638e622f3d18988d0431ebb9dfcd46135fee260e67"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_concrete_powder/red_concrete_powder.png"
+hash = "ab035a2aec4412eeeb55aa792d269327d73393c75da3dd074d9493ab965d3bdc"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_concrete_powder/red_concrete_powder_layer1.png"
+hash = "5ed32fcaa9f29336af76f41890028a24fcce7bdf91e5eb496f5407f4431b1980"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_concrete_powder/red_concrete_powder_layer2.png"
+hash = "d48d8f3851504f497ea5e8200333f6250e55abe94d8faa93fee36413e84d3342"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_concrete_powder/red_concrete_powder_layer3.png"
+hash = "b228df4458ec92bfcb5b1e3efc40cdbb9fa6fd4bb5b5269cfc970fa0643ff7aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand/red_sand.png"
+hash = "1303bde0a52aa8f02b7caa2c1f17bb308889e3d5565bf2137e21a81878ac571d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand/standard_red_sand_layer_1.png"
+hash = "6061cdf723b4a9c7d16f56eaaf9b12118c9f410e1b6f56833d585cef27877c63"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand/standard_red_sand_layer_2.png"
+hash = "d08973c96f1368d4850fd98f573a37d4183aa1fd238e14183424ee5bb5fa083b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand/warm_red_sand_layer_1.png"
+hash = "e4d2afa1fed39ff296affcd748e57401e3e768275366daa4a430821d5e27f251"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand/warm_red_sand_layer_2.png"
+hash = "44c3ab288cfc18324c531d52c9989ec4ab6c3f0e55b4e075b80eb74caa3a549b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand_path/red_sand_path_layer_1.png"
+hash = "8e5c237ca25fc2513e95c04bf55e6e49f4b29e44278c41f7236a7215bcd66e34"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand_path/red_sand_path_layer_2.png"
+hash = "3482f1d28d4f6db71a76786aa722a835554c726d187b280bc360950e5fc9f467"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/red_sand_path/red_sand_path_top.png"
+hash = "62d570e1d77434280582ce6680fe497e4470b19c8fe8b4b086a2aeae6295cab6"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/pale_sand_layer_1.png"
+hash = "d1c7a144b25304e7edd1e7db90545f6b020df72427d1370082194bebe674ed25"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/pale_sand_layer_2.png"
+hash = "332740b895aadba466f2d93e6699a295be8ab3f4061b0dbcc371e9d1679cb0cb"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/pale_sand_layer_3.png"
+hash = "c7ba818f715ccc9aa186baa52870ea079fe03c711ab12a1b0d95a46b543680ca"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/sand.png"
+hash = "7d79d1c05c0e0da52b4d30ff8c85433543e2d6839d7b0afdb96d7a1f5966d0b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/standard_sand_layer_1.png"
+hash = "03199461e719deba0c9305e05d0292cb3fe68c8b3d655065443fb03c496439ba"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/standard_sand_layer_2.png"
+hash = "30f5cca68d831a70ec52c706dc97a04ef46c59d12106f08fd9255fd2e50454be"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/standard_sand_layer_3.png"
+hash = "be57fcdfa894ef1c1b5dc54328f9c69315b8a9d13fc7e6cc0d07004871e15464"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/warm_sand_layer_1.png"
+hash = "901438bdb94cc9990b4be6bc13e0594ac6235e12e2b42ad9033184fd6a04b7d7"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/warm_sand_layer_2.png"
+hash = "b88101bf098f2715b75d4cae14a5b8cec63a4186d786c51266e1e2b41d3223b1"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand/warm_sand_layer_3.png"
+hash = "eec69a017a4ff9e6b9858b082da0f183234c926ce0b1d3c6823eaec780de7430"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand_path/sand_path_layer_1.png"
+hash = "b1ffbec3799accb128dd800e8a42a087c39110483531a95f7284e4f8742ea7b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand_path/sand_path_layer_2.png"
+hash = "7b1a09256c92016e316bf41c374ac1e95a999ff776fa6e6e980130f9f7457f63"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/sand_path/sand_path_top.png"
+hash = "a7e29261489e606d1d0049c75622bf2d20e77bc7a381ba90e9085f6be68a1738"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/icy_snow_layer_1.png"
+hash = "611d077854f437ecdf5d0b3b564779a73a3c40edbfebef08f689b4cac6358200"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/icy_snow_layer_2.png"
+hash = "4e1904affdcd391407291d18e0de77de31e286e28c5afb13a9dac1af1967ccef"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/icy_snow_layer_3.png"
+hash = "aa5a92baef6ac7b962466c0dafea836266e9a1c801854efee333703db677417a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/snow.png"
+hash = "0c27a7e78cd04e8fa322360d3cefc734e95b1a749c5f039b7c9766c0dcc3c746"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/standard_snow_layer_1.png"
+hash = "611d077854f437ecdf5d0b3b564779a73a3c40edbfebef08f689b4cac6358200"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/standard_snow_layer_2.png"
+hash = "f16f5ac12b8649c6f636aab28f4ffecbae3e7cb3107296f0260e07692aa796c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/snow/standard_snow_layer_3.png"
+hash = "99e174882aafbb7a3bc1056e3b15f68b5ecb51413e24224735833e025fed130e"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/soul_sand/soul_sand.png"
+hash = "0b064ae1753254dd4d2f09c793ae368838779c689406dd22156222448d6f698a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/soul_sand/soul_sand_layer_1.png"
+hash = "6229a3e75f3d68bac9b37fa5275c349714b2109661973afb7245c654b14dae7a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/soul_sand/soul_sand_layer_2.png"
+hash = "2c4d6103326cccf2408d288efe1d9a57a34f6ed06952b721edfff0d020be4bef"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/wet_red_sand/wet_red_sand.png"
+hash = "98d34e017647d91df7d7a3983f4d8e8635d05ed0d38ca34c1cc3113dee94da73"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/wet_red_sand/wet_red_sand_layer_1.png"
+hash = "6c05676eaf8a480ded6f9da948244678d92b768e467ef23183156db1bd3f425c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/wet_red_sand/wet_red_sand_layer_2.png"
+hash = "da9119040e9fc0e2693b33e73efa8fb26f3ad30d737bdff450eb36e62649e1ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/wet_sand/wet_sand.png"
+hash = "1ab13f138a3d005532785f4459d56a482dc745f173f945527806fc366173ca36"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/wet_sand/wet_sand_layer_1.png"
+hash = "a637cacb30808d7de9fa21e4775f82f730cc340b2155fa7042d589d422ab741b"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/wet_sand/wet_sand_layer_2.png"
+hash = "223a71c8ab6fc8b793a31b7c745e4e2a4711b1e73922190a8df3e3f5dfc6f728"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_concrete_powder/white_concrete_powder.png"
+hash = "fd02881ea84a0d44a23038818dc664673991fdce88803e93e455998c3b86bd69"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_concrete_powder/white_concrete_powder_layer1.png"
+hash = "73256f2653f82a1792c324f9ce7b37aadcc7c2edb283aaf14bbb91ff414e29a4"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_concrete_powder/white_concrete_powder_layer2.png"
+hash = "b29a7c2c3fce54f23942c1daa1b363dbe3afce7f24640532446a2d780bf1f33f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_concrete_powder/white_concrete_powder_layer3.png"
+hash = "f327dfbdcdcf0ae0f969c99f9fed8f6cae3523c11bf9b3785be2c2aa6193f40f"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_sand/white_sand.png"
+hash = "15f90c2f57a6f58771d2e0baed87acaf92b8e69a9ad4f8cfaf557d15041c051a"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_sand/white_sand_layer_1.png"
+hash = "5e77e8da57fbdb07bcfec024d86588348c518190da3412bb967e7aaabc004ec3"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/white_sand/white_sand_layer_2.png"
+hash = "06b3461139f0e42d0216589d573399af5e3514ade3e930eed4be59f171a19236"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/yellow_concrete_powder/yellow_concrete_powder.png"
+hash = "92d7c9a1040198b9c2a461f4c111f2883205d825aa05059622cd86c9829b4989"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/yellow_concrete_powder/yellow_concrete_powder_layer1.png"
+hash = "74dcf9e40652c0ce26f5c9aa0ca145ec2e1875f1bf283ac45445dfc52c6ce523"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/yellow_concrete_powder/yellow_concrete_powder_layer2.png"
+hash = "7d49a0358f1d72f249e466d6a5e34a17144f58ceed211d2a0185b3025d7c29e7"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imprints/yellow_concrete_powder/yellow_concrete_powder_layer3.png"
+hash = "f21a05543b0d0299f00df94f46407e7fd201e1d334d315b1be8207f0895bdfbb"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/gui/arrows.png"
+hash = "da8ee078a66f5548d2084514faf8899a3774ed4cbf3e4e60745e9149317543ed"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/gui/ui_chrome.png"
+hash = "ffd7027e33ba650de735b1e07c557f19e7d8980b4157e0dd3837106c96812ee5"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/icon/icon.png"
+hash = "b61bf64eb8f70889ac9361cc65828c7ef123835dfdf31554a2090223269edf23"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/icon/icon_b.png"
+hash = "109cdd1d595415c07c2d7836b10da8c7a0831c89286d69950ea69fa7822f159d"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/icon/icon_base.png"
+hash = "44a535a6b2ddc20139724fc39092c66773f3144bff554b34f4fa34c34c31c6a7"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/spelunkery/lang/en_us.json"
