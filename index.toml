@@ -1606,7 +1606,7 @@ metafile = true
 
 [[files]]
 file = "mods/defaulted.pw.toml"
-hash = "bf95ba0462de55586348b61a25e692e13b4851f35853083ae7ff57136560d1f3"
+hash = "a25b17ababa025efbfe6e4c5af53082887c5fdff9b1911019848ee9db3490e6e"
 metafile = true
 
 [[files]]
@@ -1671,7 +1671,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "8df2e6a30e0d24b7d3f48ba777241dfe2a7479323ec03be2a09fd816666b77f2"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -1986,7 +1986,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "78f7598b1a47af689a11c74bf51454305c7efbbfd914ff62ad04c1d146d9784c"
+hash = "30c522b50473daa4378fb84a1f74d2a0df5cf45f8b1de9a623cb1f98a6f4eb4c"
 metafile = true
 
 [[files]]
