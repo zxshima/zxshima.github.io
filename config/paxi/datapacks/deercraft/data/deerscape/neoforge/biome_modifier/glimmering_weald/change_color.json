@@ -1,0 +1,8 @@
+{
+  "type": "nomansland:change_colors",
+  "biomes": "quark:glimmering_weald",
+  "fog_color": 4210492,
+  "sky_color": 7907327,
+  "water_color": 6913929,
+  "water_fog_color": 3820113
+}

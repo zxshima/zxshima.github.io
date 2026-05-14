@@ -1,0 +1,38 @@
+{
+  "layers": [
+    {
+      "value": 1,
+      "enable": true,
+      "expand": 0,
+      "innerJitter": 0.0,
+      "outerJitter": 0.15,
+      "erosion": 0.6
+    },
+    {
+      "value": 2,
+      "enable": true,
+      "expand": 1,
+      "innerJitter": 0.35,
+      "outerJitter": 0.35,
+      "erosion": 0.4
+    }
+  ]
+,
+  "supportedBlocks": [
+    "minecraft:clay"
+  ],
+  "surface": {
+    "mode": "TOP",
+    "zeroLayerSource": "SURFACE"
+  },
+  "textureSets": {
+    "selected": "standard",
+    "initLayer": "minecraft:block/clay",
+    "texturesByValue": {
+      "standard": {
+        "1": "softimprints:block/imprints/clay/clay_layer_1",
+        "2": "softimprints:block/imprints/clay/clay_layer_2"
+      }
+    }
+  }
+}

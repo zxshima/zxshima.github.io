@@ -1,0 +1,9 @@
+{
+  "type": "nomansland:change_colors",
+  "biomes": "minecraft:sulfur_caves",
+  "fog_color": -15248324,
+  "grass_color": 11249231,
+  "sky_color": 7907327,
+  "water_color": -13320311,
+  "water_fog_color": -15248324
+}

@@ -1,0 +1,47 @@
+{
+  "layers": [
+    {
+      "value": 1,
+      "enable": true,
+      "expand": 0,
+      "innerJitter": 0.0,
+      "outerJitter": 0.15,
+      "erosion": 0.2
+    },
+    {
+      "value": 2,
+      "enable": true,
+      "expand": 1,
+      "innerJitter": 0.22,
+      "outerJitter": 0.65,
+      "erosion": 0.35
+    },
+    {
+      "value": 3,
+      "enable": true,
+      "expand": 1,
+      "innerJitter": 0.0,
+      "outerJitter": 0.4,
+      "erosion": 0.55
+    }
+  ]
+,
+  "supportedBlocks": [
+    "minecraft:green_concrete_powder"
+  ],
+  "surface": {
+    "mode": "TOP",
+    "zeroLayerSource": "SURFACE"
+  },
+  "textureSets": {
+    "selected": "standard",
+    "initLayer": "minecraft:block/green_concrete_powder",
+    "texturesByValue": {
+      "standard": {
+        "1": "softimprints:block/imprints/green_concrete_powder/green_concrete_powder_layer1",
+        "2": "softimprints:block/imprints/green_concrete_powder/green_concrete_powder_layer2",
+        "3": "softimprints:block/imprints/green_concrete_powder/green_concrete_powder_layer3"
+      }
+    }
+  }
+}
