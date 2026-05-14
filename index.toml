@@ -22,11 +22,11 @@ hash = "af1aacac85862ff1370b931281a3038866c3961ac266359cde7c85a1a1414d1b"
 
 [[files]]
 file = "config/eclipticseasons-client.toml"
-hash = "e99dccee402569c0692ca03575daf5469ae4e4496664207370433043225f0a7f"
+hash = "af557f697c1c47426085e1f0b34ed387ef3f689a8e6cb1c8f4578aa9bbfe87c1"
 
 [[files]]
 file = "config/eclipticseasons-common.toml"
-hash = "8d52767fcb6bc94b7cd9acb647abc701c7b9e2fa644cad912bdae35ab3e4e15c"
+hash = "4aaf6f5d9b99441a3704f17437b8ce96f4c6c16bc85edbe44a336ce9deceeb73"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -34,7 +34,7 @@ hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "1879d2c408e7dd80d0ce63c6d40d795b0830ffd82abd4a0713fb6dd3a7aecede"
+hash = "15c940c8b225df1aa357339584de3536b73a418082451bb151dedad3b44bbeba"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -58,7 +58,7 @@ hash = "8b904fbb91692a2232f6105b05ab5977a8a20cea1e1e81b1aa08f9e839d1f815"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "11567c24a91fc7fa14b0875aafc41d63b74cb9747bf3eb4a197918c70f52c95f"
+hash = "58fd9f68f130479d433efc5b8c5badb4c038da74cd04664e5cbe6bed7851c438"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -990,7 +990,7 @@ hash = "cd14c3622c18e33f340ba4906c0659b6da51acbca96a5002e9c2ee083312ac56"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/spelunkery/lang/en_us.json"
-hash = "21ddcbd8607fb39cd7e4c31e8302c8d50bee9b1584f667c4e5ca3c7fdb8f587f"
+hash = "22b081ac09f06ec6311f6fd32e4a1116a12b56eebb23886a3890abbc8c89f995"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
@@ -1206,7 +1206,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "ff0c31565805f8c6c4641230ae45281a7583c5f02da4988b76b7ffadacd3b9be"
+hash = "4abbaa34c25165578b1945b2df39e423305213b58f8c9d14859f96c0e6646584"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -1302,7 +1302,7 @@ hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "581a56972f86f1315fa755ea0b3ff16244874a5e19619d7a7572fc73e63439d6"
+hash = "9bcb6520ac8b04599b94bd732c5d2c6c2ea6436a5362bb0478bba887688590d0"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
