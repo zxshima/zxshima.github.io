@@ -35,6 +35,14 @@
 	#Sync in-game seasons with the real-world date.
 	#Warning: May cause day-counter or calendar conflicts with other mods.
 	RealWorldSolarTerms = false
+	#Shifts the displayed month index. This does NOT affect internal solar term calculations.
+	# Default: 1
+	# Range: -11 ~ 11
+	MonthOffset = 1
+	#Shifts the calendar day relative to solar terms. Example: 2 means solar day 0 appears as the 3rd day of the month.
+	# Default: 2
+	# Range: -64 ~ 64
+	DayOffset = 2
 
 [Weather]
 	#Enable localized weather patterns where rain or sun is determined per-biome.
@@ -153,8 +161,10 @@
 	SeasonCoreAffectsAnimals = true
 
 [Map]
-	#Synchronize map colors to reflect atmospheric snow overlays.
-	ChangeMapColor = true
+	#Synchronize all map color rendering with visual snow overlays. May affect compatibility with other mods.
+	ChangeMapColorIfSnowy = false
+	#Only adjust map item colors to reflect visual snow overlays. Safer for mod compatibility.
+	ChangeMapColorMapItem = true
 
 #Snow overlays are visual, atmospheric effects and are distinct from physical snow blocks.
 [Snow]
@@ -169,7 +179,7 @@
 	# Range: 1 ~ 15
 	NotSnowyNearGlowingBlockLevel = 10
 	#List of Block IDs that will never be covered by snow overlays.
-	ForceBlocksNotSnowy = ["minecraft:farmland", "farmersdelight:rich_soil_farmland"]
+	ForceBlocksNotSnowy = ["minecraft:farmland", "farmersdelight:rich_soil_farmland", "spelunkery:rock_salt_block", "spelunkery:rock_salt_slab", "spelunkery:rock_salt_stairs", "spelunkery:rock_salt_wall", "spelunkery:polished_rock_salt", "spelunkery:polished_rock_salt_slab", "spelunkery:polished_rock_salt_stairs", "spelunkery:polished_rock_salt_wall", "spelunkery:rock_salt_bricks", "spelunkery:rock_salt_brick_slab", "spelunkery:rock_salt_brick_stairs", "spelunkery:rock_salt_brick_wall", "spelunkery:salt_block"]
 	#Set custom snow-line altitudes for biomes (e.g., ["#c:is_cold", 200]).
 	BiomeSnowLines = []
 	#Track snow based on exact world coordinates (allows for localized snow clearing).
@@ -220,8 +230,6 @@
 	DisableIceOrSnowCauldron = false
 
 [Resource]
-	#Synchronizes weather states across all Overworld biomes, ensuring global rainfall.
-	RainTogether = true
 	#Synchronizes the snowfall schedule for all Overworld biomes.
 	SnowTogether = false
 	#Aligns snowfall schedules based on three broad climate zones (Warm, Temperate, and Cold) instead of per-biome.

@@ -29,6 +29,18 @@
 		[types.wood_type.architects_palette]
 			twisted = true
 
+		[types.wood_type.cluttered]
+			willow = true
+			flowering_willow = true
+			poplar = true
+			flowering_poplar = true
+			crabapple = true
+			flowering_crabapple = true
+			sycamore = true
+			fluorescent_maple = true
+			blue_mushroom = true
+			red_mushroom = true
+
 		[types.leaves_type.chipped]
 			apple_acacia = true
 			cherry_acacia = true
@@ -121,6 +133,17 @@
 		[types.leaves_type.architects_palette]
 			twisted = true
 
+		[types.leaves_type.cluttered]
+			willow = true
+			flowering_willow = true
+			poplar = true
+			flowering_poplar = true
+			crabapple = true
+			flowering_crabapple = true
+			sycamore = true
+			fluorescent_maple = true
+			flowering_fluorescent_maple = true
+
 		[types.stone_type.create]
 			limestone = true
 			asurine = true
@@ -150,6 +173,9 @@
 			wardstone = true
 			moonshale = true
 			nebulite = true
+
+		[types.stone_type.spelunkery]
+			nephrite = true
 
 #Disables specific entries
 [entries]

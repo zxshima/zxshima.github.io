@@ -1915,7 +1915,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "f5e321f3657624719ecf252e91687929797aac207f3e1cdbe5ce40d9fef76db3"
+hash = "3f7a8bdef7b734c946e98830bbbf6cebef4dc53da9e2cbec38512d3ebfc74805"
 metafile = true
 
 [[files]]
