@@ -1,0 +1,38 @@
+{
+  "layers": [
+    {
+      "value": 1,
+      "enable": true,
+      "expand": 0,
+      "innerJitter": 0.0,
+      "outerJitter": 0.15,
+      "erosion": 0.2
+    },
+    {
+      "value": 2,
+      "enable": true,
+      "expand": 2,
+      "innerJitter": 0.22,
+      "outerJitter": 0.55,
+      "erosion": 0.35
+    }
+  ]
+,
+  "supportedBlocks": [
+    "nomansland:red_sand_path"
+  ],
+  "surface": {
+    "mode": "OVERLAY",
+    "zeroLayerSource": "PROFILE"
+  },
+  "textureSets": {
+    "selected": "standard",
+    "initLayer": "nomansland:block/path/red_sand_path_top",
+    "texturesByValue": {
+      "standard": {
+        "1": "softimprints:block/imprints/red_sand_path/red_sand_path_layer_1",
+        "2": "softimprints:block/imprints/red_sand_path/red_sand_path_layer_2"
+      }
+    }
+  }
+}
