@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "quark:raw_gold_bricks", "required": false },
+    { "id": "quark:raw_gold_bricks_stairs", "required": false },
+    { "id": "quark:raw_gold_bricks_slab", "required": false },
+    { "id": "supplementaries:gold_trapdoor", "required": false },
+    { "id": "cluttered:chiseled_gold_block", "required": false }
+  ]
+}

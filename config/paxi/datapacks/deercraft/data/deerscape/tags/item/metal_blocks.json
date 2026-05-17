@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "architects_palette:nether_brass_block", "required": false },
+    { "id": "architects_palette:nether_brass_slab", "required": false },
+    { "id": "architects_palette:nether_brass_stairs", "required": false },
+    { "id": "architects_palette:nether_brass_pillar", "required": false },
+    { "id": "architects_palette:cut_nether_brass", "required": false },
+    { "id": "architects_palette:cut_nether_brass_slab", "required": false },
+    { "id": "architects_palette:cut_nether_brass_stairs", "required": false },
+    { "id": "architects_palette:smooth_nether_brass", "required": false },
+    { "id": "architects_palette:smooth_nether_brass_slab", "required": false },
+    { "id": "architects_palette:smooth_nether_brass_stairs", "required": false },
+    { "id": "architects_palette:sunmetal_block", "required": false },
+    { "id": "architects_palette:sunmetal_slab", "required": false },
+    { "id": "architects_palette:sunmetal_stairs", "required": false },
+    { "id": "architects_palette:sunmetal_pillar", "required": false },
+    { "id": "architects_palette:chiseled_sunmetal_block", "required": false },
+    { "id": "architects_palette:sheet_metal_block", "required": false },
+    { "id": "chipped:metal_barrel", "required": false },
+    { "id": "create:metal_girder", "required": false },
+    { "id": "create:fluid_tank", "required": false },
+    { "id": "create_connected:fluid_vessel", "required": false },
+    { "id": "create:hose_pulley", "required": false },
+    { "id": "create:brass_block", "required": false },
+    { "id": "create:brass_tunnel", "required": false },
+    { "id": "create:zinc_block", "required": false }
+  ]
+}

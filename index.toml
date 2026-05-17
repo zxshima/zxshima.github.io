@@ -2071,7 +2071,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog-audio.pw.toml"
-hash = "2f7eccb7481ec4c8bce1df3aa2b7aac29481d546ed0807eb3e23beab307edf5c"
+hash = "1220f09082f5e2be94c1935e4293f0bf3e2915e03614ca121ec4c8be7070f091"
 metafile = true
 
 [[files]]
@@ -2181,7 +2181,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "d836ed3e5f4800eebd2b29325a612a11cd2aea1e35bfc7d3cf0e5e6ff88641dc"
+hash = "577ad4473d0a330b375d5fbad7836f80c5e42483ea2c243daea353380b8b39d3"
 metafile = true
 
 [[files]]
@@ -2255,7 +2255,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "48f3b1bb78387d5be86f15ad03f414420810599604a5851dd867b6a086d89728"
+hash = "71a54b0fb4982ba3094d1f4aa48e61450b7703a1b0449980d50a7002b5548f08"
 metafile = true
 
 [[files]]
@@ -2380,7 +2380,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "23304e6c503133b275b54c0527c908b91a596d4ddb5c56d4db002fdd122b49fe"
+hash = "a94b56dea7472ec5354c8c131b2f397bc319fe8cafdb537a472f7dfc1894d167"
 metafile = true
 
 [[files]]
@@ -2425,12 +2425,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
+hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
 metafile = true
 
 [[files]]
@@ -2515,12 +2515,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "1a2515dc7f45a75d4e00200df87b6b2447bad2a56521bed786ad1e41f50a11bf"
+hash = "10dc8e50bd18c8363757d36e85d227a056dbb7b4c80a44e899c10aa05386bec5"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "d8a42774dae48c9292ba05160dee6d2c320e115fb14fedf3222c522c61c38ddf"
+hash = "b787d4e4d0712ceceaee7cb3c3608f70ecc58b896cd3432e9bb34d505176c299"
 metafile = true
 
 [[files]]
@@ -2655,7 +2655,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "3f7a8bdef7b734c946e98830bbbf6cebef4dc53da9e2cbec38512d3ebfc74805"
+hash = "05fe3823b0d3b91b9ecd6ce95409eb1a959054492f946aed85b2ae8f5a960e35"
 metafile = true
 
 [[files]]

@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "create:ornate_iron_window", "required": false },
+    { "id": "create:industrial_iron_window", "required": false },
+    { "id": "create:weathered_iron_window", "required": false },
+    { "id": "cluttered:willow_window", "required": false },
+    { "id": "cluttered:flowering_willow_window", "required": false },
+    { "id": "cluttered:poplar_window", "required": false },
+    { "id": "cluttered:flowering_poplar_window", "required": false },
+    { "id": "cluttered:crabapple_window", "required": false },
+    { "id": "cluttered:flowering_crabapple_window", "required": false },
+    { "id": "cluttered:sycamore_window", "required": false },
+    { "id": "cluttered:fluorescent_maple_window", "required": false },
+    { "id": "cluttered:blue_mushroom_window", "required": false },
+    { "id": "cluttered:red_mushroom_window", "required": false },
+    { "id": "cluttered:chalcedony_window", "required": false },
+    { "id": "cluttered:deep_chalcedony_window", "required": false },
+    { "id": "cluttered:greenhouse_window", "required": false },
+    { "id": "cluttered:greenhouse_window_arch_left", "required": false },
+    { "id": "cluttered:greenhouse_window_arch_right", "required": false },
+    { "id": "cluttered:greenhouse_window_pointed", "required": false },
+    { "id": "cluttered:greenhouse_window_redial_left", "required": false },
+    { "id": "cluttered:greenhouse_window_radial_right", "required": false },
+    { "id": "cluttered:greenhouse_window_rounded", "required": false },
+    { "id": "cluttered:greenhouse_window_circle", "required": false },
+    { "id": "cluttered:alabaster_window_divided", "required": false },
+    { "id": "cluttered:wooden_window_divided", "required": false },
+    { "id": "cluttered:black_cat_window", "required": false }
+  ]
+}

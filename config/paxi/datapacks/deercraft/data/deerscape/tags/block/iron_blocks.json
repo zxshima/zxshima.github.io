@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "quark:raw_iron_bricks", "required": false },
+    { "id": "quark:raw_iron_brick_stairs", "required": false },
+    { "id": "quark:raw_iron_brick_slab", "required": false },
+    { "id": "quark:iron_plate", "required": false },
+    { "id": "quark:rusty_iron_plate", "required": false },
+    { "id": "quark:iron_pillar", "required": false },
+    { "id": "quark:iron_plate_slab", "required": false },
+    { "id": "quark:iron_plate_stairs", "required": false },
+    { "id": "quark:rusty_iron_plate_slab", "required": false },
+    { "id": "quark:rusty_iron_plate_stairs", "required": false },
+    { "id": "create:industrial_iron_block", "required": false },
+    { "id": "create:weathered_iron_block", "required": false }
+  ]
+}

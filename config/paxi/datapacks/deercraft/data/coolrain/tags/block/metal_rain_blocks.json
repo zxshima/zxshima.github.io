@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "#chipped:waxed_copper_block", "required": false },
+    { "id": "#chipped:waxed_exposed_copper_block", "required": false },
+    { "id": "#chipped:waxed_weathered_copper", "required": false },
+    { "id": "#chipped:waxed_oxidized_copper", "required": false },
+    { "id": "#chipped:raw_copper_block", "required": false },
+    { "id": "#chipped:iron_block", "required": false },
+    { "id": "#chipped:raw_iron_block", "required": false },
+    { "id": "#chipped:gold_block", "required": false },
+    { "id": "#chipped:raw_gold_block", "required": false },
+    { "id": "#deerscape:copper_blocks", "required": false },
+    { "id": "#deerscape:iron_blocks", "required": false },
+    { "id": "#deerscape:gold_blocks", "required": false },
+    { "id": "#deerscape:metal_blocks", "required": false }
+  ]
+}

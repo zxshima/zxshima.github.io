@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##S",
+    "SSS"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:blossom_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "snowyspirit:quark/sled_blossom"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "action": "remove_recipe",
+    "id": [
+      "create:crushing/emerald_ore",
+      "create:crushing/deepslate_emerald_ore",
+      "create:crushing/diamond_ore",
+      "create:crushing/deepslate_diamond_ore",
+      "create:crushing/redstone_ore",
+      "create:crushing/deepslate_redstone_ore",
+      "create:crushing/lapis_ore",
+      "create:crushing/deepslate_lapis_ore"
+    ]
+  }
+]

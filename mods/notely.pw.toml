@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7978220
 project-id = 1510287
+
+[option]
+optional = true
+description = "Allows you to create notes and pin them on screen."
