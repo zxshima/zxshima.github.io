@@ -309,6 +309,22 @@ file = "config/paxi/datapacks/deercraft/data/c/tags/item/foods/bread.json"
 hash = "a5ed931b450b9124be482697a8aef35b31c5cd0d0e07705898bbfb38eb20382a"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/fabric_rain_blocks.json"
+hash = "e8049db9accdce210f454f898cd29345544cf00c9ac6e1673c59c77561ec270a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/foliage_rain_blocks.json"
+hash = "4a8904c0b96fa44be57c4b0c37e2cb69efb90b216e38aec5becd464178c98a77"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/glass_rain_blocks.json"
+hash = "73067829eee3cc7890148a8465e370f585da29f7d40c47bcdc1ee8fbd5e7b627"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/metal_rain_blocks.json"
+hash = "4a37a7e2374e09f5a0c58a9305922d913503097f3017eb65f9889303770a21e1"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1024_pool.json"
 hash = "d6f4c33a85e3a7c63f4fb57dc34af42eea1689798f1d80a2489f20e114c0e068"
 
@@ -573,6 +589,82 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/neoforge/biome_modifier/s
 hash = "aef8e0dd06725ceba16c0a21d26b171f0163b0233f3397e7a330fcddb9e685ce"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/andesite_coal_ore.json"
+hash = "c5339f842ac121ea92b24d8b3c3f8c3ba963ee7fca7fda8a876460ba90fb3ab0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/andesite_copper_ore.json"
+hash = "bac5749ad40e3b980532ef71ce222988ea2d864b25aa03474f0156c8ac373da9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/andesite_gold_ore.json"
+hash = "ad123564344cc0a2f65e26281c3e84f44c3f14dfcecb76fca353961609012ede"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/andesite_iron_ore.json"
+hash = "6d379eb6d059f5be67a4373bdcf0ba9dba201662a87bd04d81b86e42912db886"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/andesite_zinc_ore.json"
+hash = "69b87514778035c349f6c6cc5a4c665c7f192d8035cb548c4f35bd6411aa203d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/diorite_coal_ore.json"
+hash = "616cbdf88bef04384ce289524ad53f219045ed2ed20091f5acaf7f768af6ee87"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/diorite_copper_ore.json"
+hash = "541b0dd8b6995a2bd3874ef7350aacbb4d5da7d3255c81e1fb1712b4262c56e4"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/diorite_gold_ore.json"
+hash = "404e3c30cdf75c45a30f0ef95db7f78e6b9245ef68b3555724afd2e646ba9a25"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/diorite_iron_ore.json"
+hash = "69fcb4421498ee4b9c34ce728af31de2a85e8015af8d8ad33d97e1a21be4e7f7"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/diorite_zinc_ore.json"
+hash = "cbcbd75fd92525da139d453f87a54b441d6c270794efae50be819a27fcf42da6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/granite_coal_ore.json"
+hash = "d55df66ec2e023d26a356f93b695fb645e78991e8cd6d4196a335f4551fb0100"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/granite_copper_ore.json"
+hash = "9171f2237c06076b67142e5128778cd2391306bf1ed68d258416cd871f111f2a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/granite_gold_ore.json"
+hash = "138725ee2fa616fc40d6c46f4e01273f543b410a9f3b31450368584a6903b91d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/granite_iron_ore.json"
+hash = "66341d40d44441b497d0daf0ae4d53794fad322fc6eff886a1dba4881122b975"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/granite_zinc_ore.json"
+hash = "a2f7da9afb801c8a5f3022fbf62653a8c43cc54888ef3f2b1f07e35532b4595a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/tuff_coal_ore.json"
+hash = "a638e37442cf9d84a52862e97126cb371f8be39e9aded4f63f9a0ede68167bca"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/tuff_copper_ore.json"
+hash = "1ffbcbe0c4924a0923ea1fca59b260e080f895d36c756b137d176b6581bbba91"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/tuff_gold_ore.json"
+hash = "3af486b7da4550fb028eac7a79cefa4623da83a3defc782bcc405739f081e982"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/tuff_iron_ore.json"
+hash = "c58a9f5603d8c2f8cc369e87f6372a670ab7321eb122262077fd84ff7e455798"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/ancient_log.json"
 hash = "8b9f00831d4d7e1bf6541c21e4b6b2043a929f4d6810a6bac1648ac958647641"
 
@@ -801,6 +893,14 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_acacia.
 hash = "56104b668da8c70acc4388dfc485b55c0d55088ced54575969f8c23da955ce2c"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_ancient.json"
+hash = "6ed4045498d56a3bceca6828f799fe0207c8dd756b6e68cc59961089604ace87"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_azalea.json"
+hash = "dd07568ca28ed898b7e7546a43bcc0af30f25236ff039c93dbc353b9022db9f2"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_bamboo.json"
 hash = "3ec399559df53f6f62c99bc73d7053948cf00878c034acffb41058c15906fccf"
 
@@ -809,12 +909,40 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_birch.j
 hash = "fffb4b87f8c5e8b84ed3638812a1b7be3f211e8852040cdc5467e2350cecf6e6"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_blossom.json"
+hash = "2fcf752d4226810793262ffd4e44261f7b7648b0432e28b661bf94bae2bccfda"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_blue_mushroom.json"
+hash = "692282ab3ab0e013d2251f5227fbfcc0f2d748c60b079cc002f82affa6957bcd"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_cherry.json"
 hash = "c7fdf5cc9646838ee1c9f6426330575cf3784158d67cd19dda00126264329451"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_crabapple.json"
+hash = "0d4dc0d92a0104a055187a87dcb0525f2191a5c594c73b4a02b8984b544c3c35"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_dark_oak.json"
 hash = "7a301e1968515cd7035d7369474909e41474de754e2d365d5bee7da39a25814b"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_flowering_crabapple.json"
+hash = "f507aef4cc8d9d178693aa4180e50488f9961f72414b12ff47ca2392c0c5c4bd"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_flowering_poplar.json"
+hash = "63c41e7919a004d68709244ee19a4306effca9272028a827df215dacbb3f4b3e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_flowering_willow.json"
+hash = "9583007dfd3e7a902ef22e800a0fa8591ee78c36b0c8e7480e0efc00610f8ec1"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_fluorescent_maple.json"
+hash = "21749ed919e845a365e0a78d02051bb90ec845dd41050680e72d71d5a1bdce62"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_jungle.json"
@@ -825,12 +953,104 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_mangrov
 hash = "bb8efbe4dd30f22fd607a3c20adbbbd8dd227f22399daae69971f522ba0ed907"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_maple.json"
+hash = "a9cc5a59b7fe659524e20d2563a2eb65ebc70b07c3aabeb43b1070459f2e8487"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_moonlit_willow.json"
+hash = "293ecfc8dbd393f2e68e45c075460c6b389010b9674d12546ff652de72162b6b"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_oak.json"
 hash = "1d3a7cc1710f398655b345eac68203f0fb6a61b3e4cedb76b00c4f5ca586089f"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_pale_oak.json"
+hash = "2e5864c448e8ea7aff2fd574832b99bdb815a3c56fa277eb3b1c0a18245f426a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_pine.json"
+hash = "0086d2d6dc3ad05f82f4625898ead39a457181c824a11230d9a41e7c50de49a3"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_poplar.json"
+hash = "a9810d8500f0ac7014f7fe7e5e46336aaae2ac4ce115e226dc2566eb3d08e480"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_red_mushroom.json"
+hash = "ee8a50105385c1b52f306775e51c4ee752d51e1d4a37a5807cd7414fe901ac05"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_rotten.json"
+hash = "d4ca3fd835c8056f03132c69af28b420467a21ec35f5b63db8988bb862333a13"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_spruce.json"
 hash = "7ac6bbcace38ad0c16bc798b7f616791a26218562db650a23e2137d941738310"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_sycamore.json"
+hash = "cbe331513328d1c00db1060aada0e48d38483ff0641401b2234c598e459a0f76"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_twisted.json"
+hash = "0cc229cf88c3ac53ac7e7302cea7b4a64dffe1defe1d3435b91e5f9ca96d4c24"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_walnut.json"
+hash = "759596b1176c5dc8e4b1b8b5b33935d24bf8af2a03797f25be3dea9f79e52fab"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/sleds/sled_willow.json"
+hash = "cc0c148321b4aaa76d32aa514a7a32b69e5311ed2221992df39d0b9c49564141"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/copper_blocks.json"
+hash = "353d4ca31021959184cfb7c5c401f28a953d6ca6e137e1427a8cd6964447f19c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/glass_trapdoors.json"
+hash = "e838eec16617a99cd1808e7abc9531ae33421e8a868a17c88dd42f8dc5d069a8"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/glass_windows.json"
+hash = "0b32ea7601bfedb3d12398b221717d4616258cdd101d552471dc9d0064443e64"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/gold_blocks.json"
+hash = "17846ef102161a8e9df56bbcfe3105494a9edaecf93099cb38cb29082d61bf58"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/iron_blocks.json"
+hash = "bf44946de29c9c6ea6c7da03d8bff760d84b5e2163ac7762d108588c9fae4724"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/metal_blocks.json"
+hash = "69ec17ab12678186c3cdcd8a16097b91fdd8ec99e253943d0274ccecdb284c20"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/copper_blocks.json"
+hash = "353d4ca31021959184cfb7c5c401f28a953d6ca6e137e1427a8cd6964447f19c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/glass_trapdoors.json"
+hash = "e838eec16617a99cd1808e7abc9531ae33421e8a868a17c88dd42f8dc5d069a8"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/glass_windows.json"
+hash = "0b32ea7601bfedb3d12398b221717d4616258cdd101d552471dc9d0064443e64"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/gold_blocks.json"
+hash = "17846ef102161a8e9df56bbcfe3105494a9edaecf93099cb38cb29082d61bf58"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/iron_blocks.json"
+hash = "bf44946de29c9c6ea6c7da03d8bff760d84b5e2163ac7762d108588c9fae4724"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/metal_blocks.json"
+hash = "823dcf5d4fbb621532efd9ed8c7709c1d56bdc5188882a69995d90e82888b102"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/block/crops/moist_humid.json"
@@ -1709,26 +1929,6 @@ file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/block/imp
 hash = "f21a05543b0d0299f00df94f46407e7fd201e1d334d315b1be8207f0895bdfbb"
 
 [[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/gui/arrows.png"
-hash = "da8ee078a66f5548d2084514faf8899a3774ed4cbf3e4e60745e9149317543ed"
-
-[[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/gui/ui_chrome.png"
-hash = "ffd7027e33ba650de735b1e07c557f19e7d8980b4157e0dd3837106c96812ee5"
-
-[[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/icon/icon.png"
-hash = "b61bf64eb8f70889ac9361cc65828c7ef123835dfdf31554a2090223269edf23"
-
-[[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/icon/icon_b.png"
-hash = "109cdd1d595415c07c2d7836b10da8c7a0831c89286d69950ea69fa7822f159d"
-
-[[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/softimprints/textures/icon/icon_base.png"
-hash = "44a535a6b2ddc20139724fc39092c66773f3144bff554b34f4fa34c34c31c6a7"
-
-[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/spelunkery/lang/en_us.json"
 hash = "22b081ac09f06ec6311f6fd32e4a1116a12b56eebb23886a3890abbc8c89f995"
 
@@ -1953,16 +2153,20 @@ file = "config/reliable_recipes/bundles.json"
 hash = "c20f240f6d35de5c1aaa319e78727c6ad6fd25f590b22bcc40aacef29543992a"
 
 [[files]]
+file = "config/reliable_recipes/crushing.json"
+hash = "b85bf472e0c5e12efa939f5cdf59345d781bc274cee7cf35151202c5ddcc4ea5"
+
+[[files]]
 file = "config/reliable_recipes/maps.json"
 hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
 
 [[files]]
-file = "config/reliable_remover/abnormals_delight.json"
-hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
+file = "config/reliable_recipes/sled.json"
+hash = "3cc48881a247eae9b15a24be4512d95f276888fc49e50f4c3e82e951cbba6d20"
 
 [[files]]
-file = "config/reliable_remover/boats.json"
-hash = "93fd8c1112de3027b26763138d93ffd863f13982f186c66f8c82bf378a663a3e"
+file = "config/reliable_remover/abnormals_delight.json"
+hash = "04320538451c4276e9b2774918ccbf0e58dde1ec46a5f400bc38da0a955b40b1"
 
 [[files]]
 file = "config/reliable_remover/bookshelves.json"
@@ -1995,10 +2199,6 @@ hash = "c79297d1ad93fc63f41c81ed5d81e53a9a7359ccb45afc88a8b06e0fa7a72b33"
 [[files]]
 file = "config/reliable_remover/pebbles.json"
 hash = "e08b6266ee4040f93f753d755044e310f25c4f8e493c6c8363c2e3a4211d59a6"
-
-[[files]]
-file = "config/reliable_remover/sleds.json"
-hash = "bdaec316d4ca4a0289f99ae6687cda1be184738efdf131b7c50047d1dd291bc1"
 
 [[files]]
 file = "config/reliable_remover/soaring.json"
@@ -2181,7 +2381,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "577ad4473d0a330b375d5fbad7836f80c5e42483ea2c243daea353380b8b39d3"
+hash = "409eb3905ef4930c8f64f7d9cf5ca926989a66fd134381d4e2b26a62a432f879"
 metafile = true
 
 [[files]]
@@ -2450,7 +2650,7 @@ metafile = true
 
 [[files]]
 file = "mods/notely.pw.toml"
-hash = "6d3bc34025a45536a9096af03b049aa3370717e8e62429219909c2a1ad4876c4"
+hash = "3ae6822d8797ea3e8853a9fccf688675e4c94bacdfab77a54e79ff5505ad8247"
 metafile = true
 
 [[files]]
