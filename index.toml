@@ -1022,7 +1022,7 @@ hash = "17846ef102161a8e9df56bbcfe3105494a9edaecf93099cb38cb29082d61bf58"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/iron_blocks.json"
-hash = "bf44946de29c9c6ea6c7da03d8bff760d84b5e2163ac7762d108588c9fae4724"
+hash = "672db19484debeffdcd3028c1df5a9d57d59aa92bd8f8703f2d2e2567262a5d7"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/metal_blocks.json"
@@ -2322,11 +2322,6 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "ca2935cb7ebb54a44902356511930048e93198dc770175fc34d7c9644a19aa1c"
-metafile = true
-
-[[files]]
-file = "mods/biolith.pw.toml"
-hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
 metafile = true
 
 [[files]]
