@@ -322,7 +322,7 @@ hash = "a5ed931b450b9124be482697a8aef35b31c5cd0d0e07705898bbfb38eb20382a"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/storage_blocks.json"
-hash = "03cae8a1143a81c51c7e2aa33a68176921df39875799731b61a77fb141034fc2"
+hash = "c9c07c80875a5a13c05cd41b4919b8599d565d8ca4546cec2f2d95664fbd9080"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/fabric_rain_blocks.json"
@@ -1097,6 +1097,10 @@ file = "config/paxi/datapacks/deercraft/data/friendsandfoes/tags/worldgen/biome/
 hash = "f3dc6618006d04658c05ac65a5ad05b875bd933c2d13a7bf08d76064de594636"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/hauntedharvest/loot_table/blocks/soul_jack_o_lantern.json"
+hash = "7b20c9c7fadd0630564ee31853a5b2a39a25b99493cc239fa002434b0443f849"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/integrated_structure_spawners/archmages_tower.json"
 hash = "f4f75f6922adbfefa0cb2217d5c483376bb93ae9b63c5ddb0c89e977237c9f1d"
 
@@ -1135,6 +1139,22 @@ hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/dread_citadel/dread_citadel_throne.json"
 hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/enchantingtower/enchantingtower_basic_ars.json"
+hash = "05b596aaa9a7352df043c36bab8520856b23eb5453c694531869c51b6a07548f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/enchantingtower/enchantingtower_top_ars.json"
+hash = "5be9b1dc6584d40da80b454b0c0d949204cf493fd506c4a810a079377874c37c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/haunted_manor/if_haunted_manor.json"
+hash = "d0d2c53c52cc4788907ca296ac542682f580484c5e2101d1d7e1985cbe7dc8b9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/labyrinth/if_labyrinth_tomb.json"
+hash = "09a3ca9aedfad7d8f36c9db86b53d50675135f0ce1b23210b6cca03260250f10"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
@@ -1213,6 +1233,10 @@ file = "config/paxi/resourcepacks/00_deer/assets/betterarcheology/lang/en_us.jso
 hash = "6147b1b9c35907a2e5dcedbdcb95b4a7f9188400082192c31be3c215592901fc"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/chipped/lang/en_us.json"
+hash = "be737136ef92104400132153a6f07ac857927306c42775a3d51e4dc9dbcf8c55"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/chipped/textures/block/blue_ice/runic_carved_blue_ice.png"
 hash = "8d8318b1dd079825f616b228034dfe9a332fee3b88b6977ff5b39a8a34f29402"
 
@@ -1253,6 +1277,10 @@ file = "config/paxi/resourcepacks/00_deer/assets/everycomp/lang/en_us.json"
 hash = "558d8a9f6399a7c45154eb2fecc318be5abf3706a6f63db913e5f2b14a0434c6"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/farmersdelight/lang/en_us.json"
+hash = "87bfd107c4cb37f20634dff40d4e6afbf6e0098c953359c77b8b466273097229"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/friendsandfoes/lang/en_us.json"
 hash = "7d29dc3d98ae29b364703bf63a0c478fc3d65756792e664a06bde246b19b70ca"
 
@@ -1289,6 +1317,10 @@ file = "config/paxi/resourcepacks/00_deer/assets/minecraft/textures/inline_toolt
 hash = "1a2755ccb6dff950bf2d0e0f73d255267279ca61e84f2071218d2798bb24644d"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/neapolitan/lang/en_us.json"
+hash = "dd95edbf15d0c1e50866d32b8e9a68e7a1982d4c53505268e0a8ef39e8898e23"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/nomansland/lang/en_us.json"
 hash = "651114b2888baff861f820a4f214a9e4e28d792c9a49814995cf9366260e5418"
 
@@ -1298,7 +1330,7 @@ hash = "6617ff02873b3bead8b1909752b739af848fefdce3d487536145214227df5216"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
-hash = "37809cfe57a27d47deefed5bae451a5e0d8d36f724b4f11fd5afdc098d061f85"
+hash = "e595cd3a085c13530be3f9c5b7169db260fdd148d93919773ba2e2f51d0e64d7"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
