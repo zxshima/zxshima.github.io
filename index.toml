@@ -21,6 +21,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "af1aacac85862ff1370b931281a3038866c3961ac266359cde7c85a1a1414d1b"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "624a8e4974cae64389b28e8046c3cc18a94e609a02df63f5397ec2ca0c0f7ee8"
+
+[[files]]
 file = "config/eclipticseasons-client.toml"
 hash = "af557f697c1c47426085e1f0b34ed387ef3f689a8e6cb1c8f4578aa9bbfe87c1"
 
@@ -301,12 +305,24 @@ file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/pack.png"
 hash = "1365e74650124b938fcda0eb4c5e48ae423c58ab5f0ac02ba676cb85a3a9827f"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/aeronautics/tags/item/converts_to_cloud_skipper.json"
+hash = "afc2dba26cac4bf5ff10dd93242833b650b26e95de68998dcc44e80193b4d76a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/architects_palette/recipe/ender_pearl_block.json"
+hash = "45c25aa10fed16490f5632622a8fb404239b37c04ac22e16fbd5b33639860cb5"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/buckets/entity_water.json"
 hash = "3fea08a07b96b47d0b4fa436ca75090656a76a0c5ed94e13afa90595a264da33"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/foods/bread.json"
 hash = "a5ed931b450b9124be482697a8aef35b31c5cd0d0e07705898bbfb38eb20382a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/c/tags/item/storage_blocks.json"
+hash = "03cae8a1143a81c51c7e2aa33a68176921df39875799731b61a77fb141034fc2"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/fabric_rain_blocks.json"
@@ -1066,15 +1082,27 @@ hash = "6d90a937e970d1c34b8f9fbce1731ff9e395ded45c1d81aef6dc29f42955688c"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/moist_humid.json"
-hash = "5d1be28a26aad03bc31a3caaba20dc952f66656c446e1b7c3db70d0375edc6c5"
+hash = "6b7a73be82174bfaa578b9b58fdc4e8a3c68a08aed5c853ec32bee5932454aa1"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/spring_summer.json"
 hash = "c7eb7072eff3bcd6f6f485e8fe33da2cdc449369acfad7a63baa8d7abbc5f094"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/friendsandfoes/loot_table/chests/iceologer_cabin.json"
+hash = "c410a53ed96bad6ab3f650f4283b1b1dbf68dfb88b0d1a2f2ac3b003ff83836b"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/friendsandfoes/tags/worldgen/biome/has_crab.json"
 hash = "f3dc6618006d04658c05ac65a5ad05b875bd933c2d13a7bf08d76064de594636"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/integrated_structure_spawners/archmages_tower.json"
+hash = "f4f75f6922adbfefa0cb2217d5c483376bb93ae9b63c5ddb0c89e977237c9f1d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/integrated_structure_spawners/dread_citadel.json"
+hash = "f4f75f6922adbfefa0cb2217d5c483376bb93ae9b63c5ddb0c89e977237c9f1d"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/archeology/suspicious_gravel_desert_pyramid.json"
@@ -1083,6 +1111,30 @@ hash = "18a659249adeb218cf06b8e4bc75f4bad69f58299e619ca33bf558816c81512c"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/archeology/suspicious_sand_desert_pyramid.json"
 hash = "18a659249adeb218cf06b8e4bc75f4bad69f58299e619ca33bf558816c81512c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/archmages_tower/archmages_tower.json"
+hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/archmages_tower/archmages_tower_library.json"
+hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/archmages_tower/archmages_tower_treasure.json"
+hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/dread_citadel/dread_citadel.json"
+hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/dread_citadel/dread_citadel_library.json"
+hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/dread_citadel/dread_citadel_throne.json"
+hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
@@ -1097,8 +1149,32 @@ file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/b
 hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/quark/recipe/building/crafting/furnaces/blackstone_smoker.json"
+hash = "cf864dcc15358642ed51aa7570ea1e83c1da811580dcb09bd4c7b9c19f9ffb3f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/quark/recipe/building/crafting/furnaces/deepslate_smoker.json"
+hash = "e4b06f97fcec16cbba734f6d57add4ee9546ed21c4909e17f8e66d7aeab16365"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
 hash = "b688744f75e0241ff4f55933b95ade50d4e6de4e50b82c9604b50971b60fcb14"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/spelunkery/recipe/lodestone.json"
+hash = "382b53689b5e5321cfd174d54a572233e4893ef7c3c7f0eb04fe95f0e5b6b9d7"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/spelunkery/tags/item/anvil_repair_item.json"
+hash = "ab7ab01ef2d12c473561bb0f9bde697e1cdd2145ef4db3f2ee8814b749b35c2d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/supplementaries/loot_table/inject/pillager_quiver.json"
+hash = "b8addbe933b3e77f07cccec9a1061c389bc02e81deb669c3609a6b308bcd3d34"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/supplementaries/loot_table/loot/galleon/safe.json"
+hash = "6fe242b3997fefa5b3106bc0846b7148ae016e536f106e90f4a22f9737c1c6de"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/supplementaries/tags/item/shulker_blacklist.json"
@@ -1153,6 +1229,18 @@ file = "config/paxi/resourcepacks/00_deer/assets/eclipticseasons/lang/en_us.json
 hash = "3ac9bc1a8296863fa70ca710671562e5c9c23c0861f54a0f245423acb9ea7803"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/maple_syrup.json"
+hash = "a3782864af21d4d418fb2218b4cb8f24f3bbee8b8ec8cf95b8674d5710e51bec"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/resin_pine.json"
+hash = "4b227412ccebb74ebfcd224988e09f13b14651a45f19af8ce5b75cb298fdccdb"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/resin_spruce.json"
+hash = "35dc7f25dfd610b29f52207a92c5ef8a8104f34c7210a9643fdcaaae32964324"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/enchdesc/lang/en_us.json"
 hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
 
@@ -1202,7 +1290,7 @@ hash = "1a2755ccb6dff950bf2d0e0f73d255267279ca61e84f2071218d2798bb24644d"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/nomansland/lang/en_us.json"
-hash = "9873da049cbbf39c0465cfbc7fe9eeff400fe661566a0ad7aab261f077ae5933"
+hash = "651114b2888baff861f820a4f214a9e4e28d792c9a49814995cf9366260e5418"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/overweight_farming/lang/en_us.json"
@@ -1210,7 +1298,7 @@ hash = "6617ff02873b3bead8b1909752b739af848fefdce3d487536145214227df5216"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/quark/lang/en_us.json"
-hash = "cc161819471704d9a140d28ea2a77a3033d2db1f40f1129721d401428b0cef30"
+hash = "37809cfe57a27d47deefed5bae451a5e0d8d36f724b4f11fd5afdc098d061f85"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/sable/textures/inline_tooltip_icons/player.sub_level_punch_cooldown.png"
@@ -1930,7 +2018,7 @@ hash = "f21a05543b0d0299f00df94f46407e7fd201e1d334d315b1be8207f0895bdfbb"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/spelunkery/lang/en_us.json"
-hash = "22b081ac09f06ec6311f6fd32e4a1116a12b56eebb23886a3890abbc8c89f995"
+hash = "c34db94eaf022c738716972a69f5c4ec9f7dc04580af41ef7c90e2f9399667ae"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/tide/textures/item/fishing_journal.png"
@@ -2241,8 +2329,16 @@ file = "config/smoothskies.json"
 hash = "1150dc806c7c2ceae0b5196ecd4499f80fbd010093f142b35f7b6bd44005d2b9"
 
 [[files]]
+file = "config/spelunkery-common.toml"
+hash = "0a0cb344f5d11141d109de306cb624920c6a24b4f0d5a43fd989614f6791e210"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "9bcb6520ac8b04599b94bd732c5d2c6c2ea6436a5362bb0478bba887688590d0"
+
+[[files]]
+file = "config/tide.json"
+hash = "10a7a6d34692b541df4006eb60ea9418f84c7057af68228f19e8f233061a14c1"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -2272,11 +2368,6 @@ metafile = true
 [[files]]
 file = "mods/analog-audio.pw.toml"
 hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
-metafile = true
-
-[[files]]
-file = "mods/anvil-repairing.pw.toml"
-hash = "7c15d873b3931eca7fe2dbaf61219b44b397d274228d28280c5ccf8c0b2c1c39"
 metafile = true
 
 [[files]]
@@ -2376,7 +2467,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
+hash = "f1bc7947f12cc0d87e1e64aac0ce59f31dc4d0bae66c3dd6582b490553db3edc"
 metafile = true
 
 [[files]]
