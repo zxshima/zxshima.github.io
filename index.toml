@@ -2511,8 +2511,8 @@ hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
 metafile = true
 
 [[files]]
-file = "mods/deercore-1.1.0.jar"
-hash = "6e5e9727767173c3c436ad685ad4e5a6dfb1d8bd4467845473f20d0c82f7dbc1"
+file = "mods/deercore-1.1.1.jar"
+hash = "82cf76682f930e15b011bfcd2b15c76b4c2696c5b1c5ccee31b6ae8f71877b18"
 
 [[files]]
 file = "mods/default-options.pw.toml"
