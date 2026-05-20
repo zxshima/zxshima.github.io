@@ -10,6 +10,7 @@
     { "id": "nomansland:tropical_fish_barrel", "required": false },
     { "id": "nomansland:apple_crate", "required": false },
     { "id": "nomansland:pear_crate", "required": false },
-    { "id": "snowyspirit:ginger_crate", "required": false }
+    { "id": "snowyspirit:ginger_crate", "required": false },
+    { "id": "hauntedharvest:corn_crate", "required": false }
   ]
 }

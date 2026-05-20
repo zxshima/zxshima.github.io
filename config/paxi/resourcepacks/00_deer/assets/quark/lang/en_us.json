@@ -19,5 +19,8 @@
   "block.quark.mangrove_bookshelf": "Mangrove Bookshelf B",
   "block.quark.cherry_bookshelf": "Cherry Bookshelf B",
   "block.quark.bamboo_bookshelf": "Bamboo Bookshelf B",
-  "block.quark.apple_crate": "Apple Crate B"
+  "block.quark.apple_crate": "Apple Crate B",
+  "block.quark.potato_crate": "Potato Crate B",
+  "block.quark.carrot_crate": "Carrot Crate B",
+  "block.quark.beetroot_crate": "Beetroot Crate B"
 }
