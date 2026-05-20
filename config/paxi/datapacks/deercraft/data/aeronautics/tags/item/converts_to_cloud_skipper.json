@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "idas:music_disc_slither", "required": false },
+    { "id": "idas:music_disc_calidum", "required": false },
+    { "id": "integrated_stronghold:music_disc_sight", "required": false },
+    { "id": "integrated_stronghold:music_disc_forlorn", "required": false },
+    { "id": "eclipticseasons:snowless_hometown", "required": false },
+    { "id": "minecraft:music_disc_bounce", "required": false },
+    { "id": "betterarcheology:music_disc_swings", "required": false }
+  ]
+}

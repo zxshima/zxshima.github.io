@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#P#",
+    "PXP",
+    "#P#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    "P": {
+      "item": "nomansland:polished_stone"
+    },
+    "X": {
+      "item": "spelunkery:raw_magnetite"
+    }
+  },
+  "result": {
+    "id": "minecraft:lodestone",
+    "count": 1
+  }
+}

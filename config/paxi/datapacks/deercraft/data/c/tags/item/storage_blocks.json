@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "architects_palette:rotten_flesh_block", "required": false },
+    { "id": "architects_palette:scute_block", "required": false },
+    { "id": "nomansland:cod_barrel", "required": false },
+    { "id": "nomansland:salmon_barrel", "required": false },
+    { "id": "nomansland:billhook_bass_barrel", "required": false },
+    { "id": "nomansland:pufferfish_barrel", "required": false },
+    { "id": "nomansland:tropical_fish_barrel", "required": false },
+    { "id": "nomansland:apple_crate", "required": false },
+    { "id": "nomansland:pear_crate", "required": false },
+    { "id": "snowyspirit:ginger_crate", "required": false }
+  ]
+}

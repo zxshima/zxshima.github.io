@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:spruce_log",
+  "right": "item:nomansland:tap",
+  "output": "item:nomansland:resin"
+}

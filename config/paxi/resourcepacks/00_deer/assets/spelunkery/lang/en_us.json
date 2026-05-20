@@ -1,11 +1,11 @@
 {
-  "tooltip.spelunkery.redstone": "Can be obtained by polishing Rough Cinnabarite on a Grindstone",
-  "item.spelunkery.rough_cinnabar_shard": "Rough Cinnabarite Shard",
-  "item.spelunkery.rough_cinnabar": "Rough Cinnabarite",
-  "block.spelunkery.rough_cinnabar_block": "Block of Rough Cinnabarite",
-  "item.spelunkery.cinnabar_shard": "Cinnabarite Shard",
-  "item.spelunkery.cinnabar": "Cinnabarite",
-  "block.spelunkery.cinnabar_block": "Block of Cinnabarite",
+  "tooltip.spelunkery.redstone": "Can be obtained by polishing Rough Ruby on a Grindstone",
+  "item.spelunkery.rough_cinnabar_shard": "Rough Ruby Shard",
+  "item.spelunkery.rough_cinnabar": "Rough Ruby",
+  "block.spelunkery.rough_cinnabar_block": "Block of Rough Ruby",
+  "item.spelunkery.cinnabar_shard": "Ruby Shard",
+  "item.spelunkery.cinnabar": "Ruby",
+  "block.spelunkery.cinnabar_block": "Block of Ruby",
 
   "block.spelunkery.sulfur": "Sulfur Dust",
   "block.spelunkery.sulfur_block": "Block of Sulfur Dust"

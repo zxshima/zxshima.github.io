@@ -2271,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog-audio.pw.toml"
-hash = "1220f09082f5e2be94c1935e4293f0bf3e2915e03614ca121ec4c8be7070f091"
+hash = "7a002da9523d1fb204454508b25d7f9de93dbf752660034a61715d0b4614198d"
 metafile = true
 
 [[files]]
@@ -2376,7 +2376,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "409eb3905ef4930c8f64f7d9cf5ca926989a66fd134381d4e2b26a62a432f879"
+hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
 metafile = true
 
 [[files]]
@@ -2401,7 +2401,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "d31fbf89364ee8130adca0dfba3d6aa774d1771632aa60f3f13e1b4ed9e073e5"
+hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
 metafile = true
 
 [[files]]
@@ -2455,7 +2455,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "71a54b0fb4982ba3094d1f4aa48e61450b7703a1b0449980d50a7002b5548f08"
+hash = "de21ecdd6a305cf32b12a80db3991b79f31e641f0b578922ae57e31669dff58c"
 metafile = true
 
 [[files]]
@@ -2590,7 +2590,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "610c4f2a6bfdde68483f618819040c55d08df4f0fa1f546416f19fdec9d2e60b"
+hash = "c8467cb6639000d1be9e801702e028fd2ce9c0dce6f35e1be4c9264667c9efe6"
 metafile = true
 
 [[files]]
@@ -2630,7 +2630,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
+hash = "d10128214f360c5ce6f6de632a1be907677edeb912412cc0fb5c086aeadee92d"
 metafile = true
 
 [[files]]
@@ -2720,7 +2720,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "10dc8e50bd18c8363757d36e85d227a056dbb7b4c80a44e899c10aa05386bec5"
+hash = "cd062a5fba9458805787d6da805e0f4dbcb10dc31edf3133955af43a310576d3"
 metafile = true
 
 [[files]]
@@ -2760,7 +2760,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "22cb51ce41a475fedf6d0ac989d86a4a3c280d55e5a8f696ba50e39dd51d7cb8"
+hash = "c6f5b8095215f4af965c15608799a096310592b59e9baabb59af86d4a8dbd641"
 metafile = true
 
 [[files]]
@@ -2860,7 +2860,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "05fe3823b0d3b91b9ecd6ce95409eb1a959054492f946aed85b2ae8f5a960e35"
+hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
 metafile = true
 
 [[files]]
@@ -2870,7 +2870,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
+hash = "0e8ab1d2658dfd3faca375ea3f40e3f60217f0a3e97c42475e984393ec70dbd3"
 metafile = true
 
 [[files]]
