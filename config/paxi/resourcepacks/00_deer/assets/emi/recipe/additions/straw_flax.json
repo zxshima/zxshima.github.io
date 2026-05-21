@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:supplementaries:flax",
+  "right": "#item:minecraft:hoes",
+  "output": "item:farmersdelight:straw"
+}

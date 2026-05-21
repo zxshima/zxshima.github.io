@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "clayworks:config",
+      "value": "kiln"
+    }
+  ],
+  "type": "clayworks:baking",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "architects_palette:wardstone_blend"
+  },
+  "result": {
+    "count": 1,
+    "id": "architects_palette:wardstone_brick"
+  }
+}

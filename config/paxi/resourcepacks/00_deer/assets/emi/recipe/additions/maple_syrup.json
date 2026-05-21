@@ -1,6 +1,6 @@
 {
   "type": "emi:world_interaction",
   "left": "item:nomansland:maple_log",
-  "right": "item:nomansland:tap",
+  "right": ["item:minecraft:cauldron","item:nomansland:tap"],
   "output": "item:nomansland:maple_syrup_bottle"
 }
