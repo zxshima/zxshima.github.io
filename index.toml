@@ -1158,7 +1158,7 @@ hash = "09a3ca9aedfad7d8f36c9db86b53d50675135f0ce1b23210b6cca03260250f10"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
-hash = "bc909fb9d0d1fc369b1b8349eead079d94573bbaa53622d1fb2577d28d676f09"
+hash = "85e5daa15a34cedc82161c04acb20172d1dc5a34f734fc39dc64eaf184e960d3"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/nomansland/tags/worldgen/biome/has_dense_fog.json"
@@ -1187,14 +1187,6 @@ hash = "382b53689b5e5321cfd174d54a572233e4893ef7c3c7f0eb04fe95f0e5b6b9d7"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/spelunkery/tags/item/anvil_repair_item.json"
 hash = "ab7ab01ef2d12c473561bb0f9bde697e1cdd2145ef4db3f2ee8814b749b35c2d"
-
-[[files]]
-file = "config/paxi/datapacks/deercraft/data/supplementaries/loot_table/inject/pillager_quiver.json"
-hash = "b8addbe933b3e77f07cccec9a1061c389bc02e81deb669c3609a6b308bcd3d34"
-
-[[files]]
-file = "config/paxi/datapacks/deercraft/data/supplementaries/loot_table/loot/galleon/safe.json"
-hash = "6fe242b3997fefa5b3106bc0846b7148ae016e536f106e90f4a22f9737c1c6de"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/supplementaries/tags/item/shulker_blacklist.json"
