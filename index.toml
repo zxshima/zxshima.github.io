@@ -305,10 +305,6 @@ file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/pack.png"
 hash = "1365e74650124b938fcda0eb4c5e48ae423c58ab5f0ac02ba676cb85a3a9827f"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/aeronautics/tags/item/converts_to_cloud_skipper.json"
-hash = "afc2dba26cac4bf5ff10dd93242833b650b26e95de68998dcc44e80193b4d76a"
-
-[[files]]
 file = "config/paxi/datapacks/deercraft/data/architects_palette/recipe/ender_pearl_block.json"
 hash = "45c25aa10fed16490f5632622a8fb404239b37c04ac22e16fbd5b33639860cb5"
 
@@ -321,8 +317,28 @@ file = "config/paxi/datapacks/deercraft/data/c/tags/item/foods/bread.json"
 hash = "a5ed931b450b9124be482697a8aef35b31c5cd0d0e07705898bbfb38eb20382a"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/c/tags/item/music_discs.json"
+hash = "24f4e07126921e4ea2c0856dacd4438e72e64c0122f58c5303148bc4a55ecf10"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/storage_blocks.json"
 hash = "c9c07c80875a5a13c05cd41b4919b8599d565d8ca4546cec2f2d95664fbd9080"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/baking_algal_brick.json"
+hash = "02b5f1cb2b892ebd01ccdaf54fe33ea97cd93ac93a72db158c390def8f153881"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/baking_ash_brick.json"
+hash = "bf41c91c57d9501375ac940b8711afb2a2e268bb963e512827e1e5c4f4cb73c0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/baking_resin_brick.json"
+hash = "2b6a6eb3a774b43c3a8aea52582f54edbbd46b49372e479b95bf2d86830b2cd9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/baking_wardstone_brick.json"
+hash = "61757f9a95e7f8968e042ae3f793712bc9cf2361817518ac88eab1bf498a6090"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/fabric_rain_blocks.json"
@@ -1157,6 +1173,10 @@ file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/labyrinth/if
 hash = "09a3ca9aedfad7d8f36c9db86b53d50675135f0ce1b23210b6cca03260250f10"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/integrated_api/tags/worldgen/structure/disabled_structures.json"
+hash = "c5b968d76e1e22966dc4c7d1baf5779ba5925af732bbd8c45b3df87de2752789"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
 hash = "85e5daa15a34cedc82161c04acb20172d1dc5a34f734fc39dc64eaf184e960d3"
 
@@ -1187,6 +1207,10 @@ hash = "382b53689b5e5321cfd174d54a572233e4893ef7c3c7f0eb04fe95f0e5b6b9d7"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/spelunkery/tags/item/anvil_repair_item.json"
 hash = "ab7ab01ef2d12c473561bb0f9bde697e1cdd2145ef4db3f2ee8814b749b35c2d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/supplementaries/loot_table/loot/galleon/safe.json"
+hash = "6fe242b3997fefa5b3106bc0846b7148ae016e536f106e90f4a22f9737c1c6de"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/supplementaries/tags/item/shulker_blacklist.json"
@@ -1246,15 +1270,23 @@ hash = "3ac9bc1a8296863fa70ca710671562e5c9c23c0861f54a0f245423acb9ea7803"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/maple_syrup.json"
-hash = "a3782864af21d4d418fb2218b4cb8f24f3bbee8b8ec8cf95b8674d5710e51bec"
+hash = "a588095f2320a2cab810cdef5a1dc0d3522d63405dc70f82f490aca8d16f7055"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/resin_pine.json"
-hash = "4b227412ccebb74ebfcd224988e09f13b14651a45f19af8ce5b75cb298fdccdb"
+hash = "f6559f97bea1b404f277529931d3fbda9985d4d79af818bb1329bff7286271ae"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/resin_spruce.json"
-hash = "35dc7f25dfd610b29f52207a92c5ef8a8104f34c7210a9643fdcaaae32964324"
+hash = "af0fec7bb31432d63364af2969a4f78080ee0df443a95bea216da8980add6965"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/straw_flax.json"
+hash = "3ec03db94fc8a45149c3cfc6f1a0f477d78f96a74784ab15550e6d4ee5d1b3ab"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/straw_grass.json"
+hash = "26a2d2acb6bdb9b87d1d9206512d7f15abef9727d76fdb1f60aa63b53e95865f"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/enchdesc/lang/en_us.json"
