@@ -1077,6 +1077,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/gold_blocks.jso
 hash = "17846ef102161a8e9df56bbcfe3105494a9edaecf93099cb38cb29082d61bf58"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/grass.json"
+hash = "bf42b325b21d91d28120a0bf7da0535ae0c7fb9e7c399701d33ae118e9dc68c2"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/iron_blocks.json"
 hash = "bf44946de29c9c6ea6c7da03d8bff760d84b5e2163ac7762d108588c9fae4724"
 
@@ -1103,6 +1107,10 @@ hash = "6b7a73be82174bfaa578b9b58fdc4e8a3c68a08aed5c853ec32bee5932454aa1"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/spring_summer.json"
 hash = "c7eb7072eff3bcd6f6f485e8fe33da2cdc449369acfad7a63baa8d7abbc5f094"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/unaffected_by_humidity.json"
+hash = "1c9c7c871583fc506f7d6adfe0f755242cece8efbbe01c465eae7a38c0f8ec71"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/friendsandfoes/loot_table/chests/iceologer_cabin.json"
@@ -1265,6 +1273,10 @@ file = "config/paxi/resourcepacks/00_deer/assets/cluttered/lang/en_us.json"
 hash = "e2459d2b31a56cc46ed9979170f7bbbcb11f4b24d8d0c5e91fd8fa5e7eebbd8b"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/deerscape/lang/en_us.json"
+hash = "aa81bcda44b45d3f0f14667d0a2f8deaecadad5942ea8347388f18040e98167c"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/eclipticseasons/lang/en_us.json"
 hash = "3ac9bc1a8296863fa70ca710671562e5c9c23c0861f54a0f245423acb9ea7803"
 
@@ -1286,7 +1298,7 @@ hash = "3ec03db94fc8a45149c3cfc6f1a0f477d78f96a74784ab15550e6d4ee5d1b3ab"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/emi/recipe/additions/straw_grass.json"
-hash = "26a2d2acb6bdb9b87d1d9206512d7f15abef9727d76fdb1f60aa63b53e95865f"
+hash = "f33476e3e52e628a2697c44723fd20c276b1cc8d984593133a12457f1f135029"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/enchdesc/lang/en_us.json"
@@ -2307,6 +2319,10 @@ hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
 [[files]]
 file = "config/reliable_recipes/sled.json"
 hash = "3cc48881a247eae9b15a24be4512d95f276888fc49e50f4c3e82e951cbba6d20"
+
+[[files]]
+file = "config/reliable_recipes/straw_hat.json"
+hash = "ab876dac664a47977a753e9a00c6d2352798034ee150c40ac0ce76e73a9073f4"
 
 [[files]]
 file = "config/reliable_remover/abnormals_delight.json"
