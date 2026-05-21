@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    { "id": "nomansland:grass_sprouts", "required": false },
+    { "id": "nomansland:oat_grass", "required": false },
+    { "id": "nomansland:short_beachgrass", "required": false },
+    { "id": "nomansland:tall_beachgrass", "required": false },
+    { "id": "nomansland:dried_grass", "required": false }
+  ]
+}

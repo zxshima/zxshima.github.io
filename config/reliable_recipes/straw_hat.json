@@ -1,0 +1,7 @@
+[
+  {
+    "action": "set_repair_material",
+    "target": "overweight_farming:straw_hat",
+    "material": "#supplementaries:straw"
+  }
+]

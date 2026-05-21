@@ -1,6 +1,6 @@
 {
   "type": "emi:world_interaction",
-  "left": "item:minecraft:tall_grass",
+  "left": "#item:deerscape:grass",
   "right": "#item:c:tools/knife",
   "output": "item:farmersdelight:straw"
 }
