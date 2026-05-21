@@ -2578,7 +2578,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "de21ecdd6a305cf32b12a80db3991b79f31e641f0b578922ae57e31669dff58c"
+hash = "ab5f4c7bfe96bee9d195f7b941535d978ac4b1e6a2c8357c4b3537ef2ea862e3"
 metafile = true
 
 [[files]]
@@ -2753,7 +2753,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d10128214f360c5ce6f6de632a1be907677edeb912412cc0fb5c086aeadee92d"
+hash = "0216ec773cdb866842d65dd52c9342574f2ff9240576b0dc1c69f3990b100b75"
 metafile = true
 
 [[files]]
@@ -2818,7 +2818,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+hash = "a5170d69ea069773cad9186c1bc7f51bfc82045336292943b176875ccb55b0fe"
 metafile = true
 
 [[files]]
@@ -2963,7 +2963,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
@@ -2988,12 +2988,12 @@ metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
+hash = "e73ba1fc4574456c9603def3ccad9848b294e42ca817dd50e38a2c434d8b016d"
 metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "0e8ab1d2658dfd3faca375ea3f40e3f60217f0a3e97c42475e984393ec70dbd3"
+hash = "ae383cdada253313a708a094c0f01d6d4fb79435f4346f52473e07d05624b122"
 metafile = true
 
 [[files]]
