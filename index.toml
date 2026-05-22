@@ -1078,7 +1078,7 @@ hash = "17846ef102161a8e9df56bbcfe3105494a9edaecf93099cb38cb29082d61bf58"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/grass.json"
-hash = "bf42b325b21d91d28120a0bf7da0535ae0c7fb9e7c399701d33ae118e9dc68c2"
+hash = "bff2bbcc7d2ca49ab26f886414f85f0b2b4687088121addc18f873fa1ea7d37a"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/iron_blocks.json"
@@ -2302,7 +2302,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "4abbaa34c25165578b1945b2df39e423305213b58f8c9d14859f96c0e6646584"
+hash = "02af4a060ea57c872660fb519972fc5d5fc411fa512b22d2664b5cce1fbbe9ee"
 
 [[files]]
 file = "config/reliable_recipes/bundles.json"
@@ -2315,6 +2315,10 @@ hash = "b85bf472e0c5e12efa939f5cdf59345d781bc274cee7cf35151202c5ddcc4ea5"
 [[files]]
 file = "config/reliable_recipes/maps.json"
 hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
+
+[[files]]
+file = "config/reliable_recipes/pebbles.json"
+hash = "3f831730d8a2676beb36610a1400a8d064aad56611cbb7f9d7d49553f62ee7b6"
 
 [[files]]
 file = "config/reliable_recipes/sled.json"
@@ -2339,6 +2343,10 @@ hash = "5e95b3db6bca9250a361d8ac0c18791e113d8ddba4167d2bb80b20eb8de79e18"
 [[files]]
 file = "config/reliable_remover/copycats.json"
 hash = "fcebaaaef448e52ae2c132a388d1ab4f268e8bb29d8b52a82d39353838892f45"
+
+[[files]]
+file = "config/reliable_remover/eggs.json"
+hash = "32c796253441313371694ae743cf068908d4d58386da239116daef2009f85aa7"
 
 [[files]]
 file = "config/reliable_remover/horse.json"
@@ -2411,6 +2419,10 @@ hash = "9bcb6520ac8b04599b94bd732c5d2c6c2ea6436a5362bb0478bba887688590d0"
 [[files]]
 file = "config/tide.json"
 hash = "10a7a6d34692b541df4006eb60ea9418f84c7057af68228f19e8f233061a14c1"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "b8235e716829f2b43986b6f8b73342b8d6c29cf0e631be3ab7ffe3be6c30154b"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
