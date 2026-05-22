@@ -1,0 +1,9 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "minecraft:blue_egg",
+            "minecraft:brown_egg"
+        ]
+    }
+]

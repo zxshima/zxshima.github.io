@@ -1,0 +1,13 @@
+name = "Wandering Illusioner"
+filename = "wandering-illusioner-atlasplays-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7WzNSB4/versions/Ra8dg0sR/wandering-illusioner-atlasplays-1.1.1.jar"
+hash-format = "sha512"
+hash = "5a41e2a5239029932cd45644c91a25635d0323a93ab80bfc5ed505719bdf46e9731cc80e746f368c69ef6617656cf4f78921fcc3d8855b3ce1695a07c6faa96a"
+
+[update]
+[update.modrinth]
+mod-id = "C7WzNSB4"
+version = "Ra8dg0sR"

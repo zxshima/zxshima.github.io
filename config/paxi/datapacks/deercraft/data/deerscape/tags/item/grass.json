@@ -7,6 +7,8 @@
     { "id": "nomansland:oat_grass", "required": false },
     { "id": "nomansland:short_beachgrass", "required": false },
     { "id": "nomansland:tall_beachgrass", "required": false },
-    { "id": "nomansland:dried_grass", "required": false }
+    { "id": "nomansland:dried_grass", "required": false },
+    { "id": "nomansland:reeds", "required": false },
+    { "id": "nomansland:cattail", "required": false }
   ]
 }

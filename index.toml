@@ -2579,7 +2579,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
+hash = "054c5a15bdaf0647066beddfb4a6b49e3222ab37c09b4d213af221b5cf3d5c39"
 metafile = true
 
 [[files]]
@@ -2618,7 +2618,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "ab5f4c7bfe96bee9d195f7b941535d978ac4b1e6a2c8357c4b3537ef2ea862e3"
+hash = "b2a099b380bf4d9d7c691d7a90710274149b237f31fb384e98ac2c46862ec00a"
 metafile = true
 
 [[files]]
@@ -2664,6 +2664,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "36666fecb7dd9e60c7c968d4be5c64e82319f3e5c71356fbf0976998561e571e"
 metafile = true
 
 [[files]]
@@ -2793,7 +2798,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0216ec773cdb866842d65dd52c9342574f2ff9240576b0dc1c69f3990b100b75"
+hash = "5cd638e2360db48e395e5227e8f11a9d0aecd4b0f40c4f98ea722636c901e86f"
 metafile = true
 
 [[files]]
@@ -2834,6 +2839,16 @@ metafile = true
 [[files]]
 file = "mods/personality!.pw.toml"
 hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
+metafile = true
+
+[[files]]
+file = "mods/piglin-proliferation.pw.toml"
+hash = "a9f5fef1ffc267519458a03ddaab2fa75950b023ad0d6d68f3d27e8dcc29a69a"
+metafile = true
+
+[[files]]
+file = "mods/pillager-caravans.pw.toml"
+hash = "6476fceaeb70e56ecc5250dd0fe417920773a4e69ff29e11b9a1edb16f55d5f0"
 metafile = true
 
 [[files]]
@@ -3034,6 +3049,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "ae383cdada253313a708a094c0f01d6d4fb79435f4346f52473e07d05624b122"
+metafile = true
+
+[[files]]
+file = "mods/wandering-illusioner-atlasplays.pw.toml"
+hash = "169764b39d237c934baf107bcc4fd8aded4ca32c0a58a098a83d60a771ad5aad"
 metafile = true
 
 [[files]]
