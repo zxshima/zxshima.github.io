@@ -3281,7 +3281,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "eec0715d020c6079c430338684d4cd752aa55231cb7887174b361481834e3ac4"
+hash = "03db1002af8f411a1b594817232859247e352f16f1c7907d29893b3472dce440"
 metafile = true
 
 [[files]]
@@ -3396,7 +3396,7 @@ metafile = true
 
 [[files]]
 file = "mods/reintegrated-chipped.pw.toml"
-hash = "ec3c9e001964a1aabe955d4ca267eca4c2819fddb89a99fc8cc0050b0dfecb14"
+hash = "70674900e545ac727d245a2ab269ab63db6ef94b862548a55e36b31fcd7aaa70"
 metafile = true
 
 [[files]]
@@ -3421,7 +3421,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "c0fc617ef8c1ad73cf508fa3f9cce63035e78af14f658b79a6c1eb126284ef01"
+hash = "b9375d86622625c2173953d9e076858c0d8b74341161636518672f6a786c568d"
 metafile = true
 
 [[files]]
