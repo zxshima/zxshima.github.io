@@ -358,7 +358,7 @@ hash = "2b2d14b41574a035a5f2aaa21b8fa45e721b99a5c69afafc72c90948ea20b06d"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/classic_caravans/tags/worldgen/biome/has_sea_caravan.json"
-hash = "564ef4de75d0b1e0aedadb9f23f0f772843f4cf9ed51d2d28a949247e754a382"
+hash = "5b758eac797966bf5d0c111dbdd6c1be062515bffcba701180b794153e685d06"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/baking_algal_brick.json"
