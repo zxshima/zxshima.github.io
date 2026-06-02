@@ -1705,6 +1705,30 @@ file = "config/paxi/resourcepacks/00_deer/assets/betterarcheology/lang/en_us.jso
 hash = "6147b1b9c35907a2e5dcedbdcb95b4a7f9188400082192c31be3c215592901fc"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/brewinandchewin/brewinandchewin/coaster/maple_cookie.json"
+hash = "7205ab437bc9c42b9a23ee164c12fc120a70c4a1146e17c5697c3a65a8803c67"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/brewinandchewin/brewinandchewin/coaster/pear_juice.json"
+hash = "e0e3a66dc0eb87f73c0bcbde6a8a01f8e8eab89c8c858a77749c6c52a942b549"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/brewinandchewin/models/block/coaster_maple_cookie.json"
+hash = "e181e977c37da1514c18247f2e857550acad2512570358313eb9361268feaa3c"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/brewinandchewin/models/block/coaster_pear_juice.json"
+hash = "47ceb70d3338e042f70c7c82b487db5ffa7680bf1332c60ba180d20bb9c47a94"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/brewinandchewin/textures/block/maple_cookie.png"
+hash = "e899f2fde975f26c6ec053c0cc31cb6be9904f5b04e411fcdb628c02ec625d90"
+
+[[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/brewinandchewin/textures/block/pear_juice.png"
+hash = "3f6539664f4007ca3dcf0f4fcd11082801f463a829bc9fe40f1a08a6912cc901"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/caravans/lang/en_us.json"
 hash = "0b103731991634b1e37312a9f19fbd214eba71931654b03653e00dbc34eed30d"
 
@@ -2725,8 +2749,8 @@ file = "config/paxi/resourcepacks/Redstone Backport/pack.png"
 hash = "597a9c85da9a9c09937fa53c261281c549922ac04d7db1d6a1f122f13c8be61e"
 
 [[files]]
-file = "config/paxi/resourcepacks/Reglazed Terracotta V2.zip"
-hash = "78ee5767c82d6f9a051023dff5379d78e485da509a6cf86b83d797c14a96d9ef"
+file = "config/paxi/resourcepacks/Reglazed Terracotta V2_fixed.zip"
+hash = "07cd883d830454b50333b1d58cfdd6d26c22d5eb80d4d69f1cd0720d29a3d446"
 
 [[files]]
 file = "config/paxi/resourcepacks/Soft-Weather-1.0-Universal/assets/minecraft/textures/environment/rain.png"
