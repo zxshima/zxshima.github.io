@@ -41,6 +41,9 @@
 			blue_mushroom = true
 			red_mushroom = true
 
+		[types.wood_type.createdieselgenerators]
+			chip_wood = false
+
 		[types.leaves_type.chipped]
 			apple_acacia = true
 			cherry_acacia = true
@@ -162,7 +165,8 @@
 			permafrost = true
 
 		[types.stone_type.nomansland]
-			silt = true
+			silt = false
+			siltstone = true
 
 		[types.stone_type.architects_palette]
 			abyssaline = true
@@ -319,7 +323,7 @@
 
 		[entries.wood_type.quark]
 			vertical_planks = true
-			ladder = true
+			ladder = false
 			post = true
 			trapped_chest = true
 			vertical_slab = true

@@ -4,6 +4,10 @@
     {
       "id": "snowyspirit:ginger_flower",
       "required": false
+    },
+    {
+      "id": "neapolitan:vanilla_pods",
+      "required": false
     }
   ]
 }

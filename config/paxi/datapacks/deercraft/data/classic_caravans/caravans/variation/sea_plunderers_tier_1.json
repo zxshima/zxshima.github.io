@@ -1,0 +1,21 @@
+{
+  "cooldown": 48000,
+  "leader": {
+    "type": "supplementaries:plunderer"
+  },
+  "members": [
+    {
+      "type": "supplementaries:plunderer",
+      "count": 1
+    },
+    {
+      "type": "minecraft:pillager",
+      "count": 2
+    },
+    {
+      "type": "minecraft:donkey",
+      "cargo": "minecraft:chests/buried_treasure",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:oak_log": "nomansland:maple_log",
+        "minecraft:oak_planks": "nomansland:pine_planks",
+        "minecraft:oak_stairs": "nomansland:pine_stairs",
+        "minecraft:oak_slab": "nomansland:pine_slab",
+        "minecraft:oak_fence": "nomansland:pine_fence",
+        "minecraft:oak_door": "nomansland:pine_door",
+        "minecraft:oak_trapdoor": "nomansland:pine_trapdoor",
+        "minecraft:spruce_planks": "nomansland:maple_planks",
+        "minecraft:spruce_stairs": "nomansland:maple_stairs",
+        "minecraft:spruce_slab": "nomansland:maple_slab",
+        "minecraft:spruce_fence": "nomansland:maple_fence"
+      }
+    }
+  ]
+}

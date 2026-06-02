@@ -1,0 +1,15 @@
+{
+  "weight": 1000,
+  "biomes": "#classic_caravans:has_sea_caravan",
+  "pools": [
+    {
+      "weight": 10,
+      "variations": [
+        {
+          "variation": "classic_caravans:sea_plunderers_tier_1",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

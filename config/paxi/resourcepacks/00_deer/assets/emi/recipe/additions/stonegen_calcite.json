@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:aeronautics:levitite_blend",
+  "right": "fluid:minecraft:lava",
+  "output": "item:minecraft:calcite"
+}

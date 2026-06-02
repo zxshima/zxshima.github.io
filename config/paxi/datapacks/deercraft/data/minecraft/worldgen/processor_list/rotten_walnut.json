@@ -1,0 +1,20 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:oak_log": "betterarcheology:rotten_log",
+        "minecraft:oak_planks": "betterarcheology:rotten_planks",
+        "minecraft:oak_stairs": "betterarcheology:rotten_stairs",
+        "minecraft:oak_slab": "betterarcheology:rotten_slab",
+        "minecraft:oak_fence": "betterarcheology:rotten_fence",
+        "minecraft:oak_door": "betterarcheology:rotten_door",
+        "minecraft:oak_trapdoor": "betterarcheology:rotten_trapdoor",
+        "minecraft:spruce_planks": "nomansland:walnut_planks",
+        "minecraft:spruce_stairs": "nomansland:walnut_stairs",
+        "minecraft:spruce_slab": "nomansland:walnut_slab",
+        "minecraft:spruce_fence": "nomansland:walnut_fence"
+      }
+    }
+  ]
+}

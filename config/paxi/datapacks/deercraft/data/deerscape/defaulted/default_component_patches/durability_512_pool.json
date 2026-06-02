@@ -1,5 +1,7 @@
 {
     "items": [
+        "minecraft:shield",
+        "minecraft:bow",
         "minecraft:shears",
         "minecraft:crossbow",
         "minecraft:turtle_helmet",

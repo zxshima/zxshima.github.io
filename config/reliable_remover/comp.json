@@ -1,0 +1,13 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "everycomp:nml/architects_palette/twisted_bookshelf",
+            "everycomp:nml/minecraft/pale_oak_bookshelf",
+            "everycomp:nml/betterarcheology/rotten_bookshelf",
+            "suppsquared:createdieselgenerators/item_shelf_chip_wood",
+            "snowyspirit:createdieselgenerators/sled_chip_wood",
+            "supplementaries:createdieselgenerators/way_sign_chip_wood"
+        ]
+    }
+]

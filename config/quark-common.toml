@@ -434,7 +434,7 @@
 		"Hud On Top" = false
 
 	[tools.pickarang]
-		"Enable Flamerang" = true
+		"Enable Flamerang" = false
 		#Set this to true to use the recipe without the Heart of Diamond, even if the Heart of Diamond is enabled.
 		"Never Use Heart Of Diamond" = false
 
@@ -669,7 +669,7 @@
 		#If `petAllMobs` is set, these mobs still can't be pet
 		"Pettable Denylist" = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:armor_stand"]
 		#Even if `petAllMobs` is not set, these mobs can be pet
-		"Pettable Allowlist" = []
+		"Pettable Allowlist" = ["minecraft:player", "minecraft:cat"]
 
 	[tweaks.pig_litters]
 		#Allowed values: [1,)

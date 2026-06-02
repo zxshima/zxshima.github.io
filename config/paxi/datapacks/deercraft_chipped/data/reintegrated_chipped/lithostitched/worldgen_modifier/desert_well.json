@@ -1,0 +1,83 @@
+{
+  "type": "lithostitched:add_processor_list_processors",
+  "processor_lists": [
+    "nomansland:desert_well"
+  ],
+  "processors": [
+    {
+      "processor_type": "lithostitched:condition",
+      "if_true": [
+        {
+          "type": "lithostitched:matching_blocks",
+          "blocks": "minecraft:chiseled_sandstone"
+        },
+        {
+          "type": "lithostitched:random_chance",
+          "chance": 0.5
+        }
+      ],
+      "then": {
+        "processor_type": "lithostitched:set_block",
+        "state_provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:sad_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:glad_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:duh_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:angry_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:crying_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:unamused_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:spider_sandstone_carving"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:runic_carved_sandstone"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "chipped:inscribed_sandstone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "items": [
+        "minecraft:shears"
+    ],
+    "patch": {
+        "minecraft:tool": {
+            "rules": [
+                {
+                    "blocks": "#chipped:cobweb",
+                    "correct_for_drops": true,
+                    "speed": 15
+                },
+                {
+                    "blocks": "#minecraft:leaves",
+                    "speed": 15
+                },
+                {
+                    "blocks": "#minecraft:wool",
+                    "speed": 5
+                },
+                {
+                    "blocks": [
+                        "minecraft:vine",
+                        "minecraft:glow_lichen"
+                    ],
+                    "speed": 2
+                }
+            ]
+        }
+    }
+}

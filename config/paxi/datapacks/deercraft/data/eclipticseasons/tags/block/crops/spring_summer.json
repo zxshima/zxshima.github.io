@@ -4,6 +4,10 @@
     {
       "id": "snowyspirit:ginger",
       "required": false
+    },
+    {
+      "id": "neapolitan:vanilla_vine",
+      "required": false
     }
   ]
 }

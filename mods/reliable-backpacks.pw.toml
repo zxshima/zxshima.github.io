@@ -1,13 +1,13 @@
 name = "Reliable Backpacks"
-filename = "reliable_backpacks-neoforge-1.21.1-1.6.0.jar"
+filename = "reliable_backpacks-neoforge-1.21.1-1.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GVh7zzwG/versions/UxGA4X1m/reliable_backpacks-neoforge-1.21.1-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/GVh7zzwG/versions/d9HcUEWq/reliable_backpacks-neoforge-1.21.1-1.7.1.jar"
 hash-format = "sha512"
-hash = "39a9b07a108b13118d024224cc2d314a69499f65f2e78d5369349ff0238202f3edfbc2f92eaff4eed5a14bb2e3a93f83ee090bfb85957951144071535ac0681a"
+hash = "33102e34b12a9da93ca1524bcc106b1ffc4e46e3a092a6fee53f560842893aed6d5200482e732a795cdb24252b717eea71d5bdbae929412320c9caffc46d1cf6"
 
 [update]
 [update.modrinth]
 mod-id = "GVh7zzwG"
-version = "UxGA4X1m"
+version = "d9HcUEWq"

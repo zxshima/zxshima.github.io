@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:create:honey",
+  "right": "fluid:minecraft:lava",
+  "output": "item:create:limestone"
+}
