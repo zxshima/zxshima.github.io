@@ -2996,6 +2996,11 @@ hash = "d5d346b7e160ce251bb20d66f80e7b2188a7da5e6cf3b0e42ec353543077db5d"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
@@ -3207,6 +3212,11 @@ metafile = true
 [[files]]
 file = "mods/fragmentum.pw.toml"
 hash = "85ba6f016d7447b4ba0013eab45ecfffd4349e99acd892d46c16bf0d2411f8cc"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
