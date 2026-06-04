@@ -9,6 +9,10 @@ file = "config/appleskin-client.toml"
 hash = "c9e194f5840ac4517977af31ca7a9c9e12042766ecb240eb9aff6904d94da330"
 
 [[files]]
+file = "config/backpacked.backpack.toml"
+hash = "88e97a1c12634febbc8d083b1947930582b17a41f9f2ef80802830b338117516"
+
+[[files]]
 file = "config/betterarcheology.jsonc"
 hash = "054ffa16404fb0971b4df092da5eb7e2e8f24591d307aacfc70b32da06becb15"
 
@@ -403,6 +407,10 @@ hash = "73067829eee3cc7890148a8465e370f585da29f7d40c47bcdc1ee8fbd5e7b627"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/metal_rain_blocks.json"
 hash = "4a37a7e2374e09f5a0c58a9305922d913503097f3017eb65f9889303770a21e1"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/curios/tags/item/back.json"
+hash = "09d91914f67dd96d51fbd503b8e7374329270074fc2fc1464c6621360538fef0"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1024_pool.json"
@@ -1033,6 +1041,14 @@ file = "config/paxi/datapacks/deercraft/data/minecraft/recipe/smoker.json"
 hash = "3c937b3669178996b309d1d041167c9291a26f21cfe9c51839c3e1dae07c9766"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/minecraft/structure/pillager_outpost/feature_tent1.nbt"
+hash = "71413b707e405aca7e7bc309767b6a6c8ce6690615bbc888bdd17500c710dd0a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/minecraft/structure/pillager_outpost/feature_tent2.nbt"
+hash = "7fc2f791956fb6d47c3471575f234fd29f1ab6e33a0ab3f947015736317e18b9"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/minecraft/tags/block/mineable/hoe.json"
 hash = "8ffd982c00f725ae35928a505c13176e6b2c6817c0f5e3d17bea7b3bcb5fbf7a"
 
@@ -1074,7 +1090,7 @@ hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "b688744f75e0241ff4f55933b95ade50d4e6de4e50b82c9604b50971b60fcb14"
+hash = "bc81f81f1fccaf8e5166cdb106ad466f5595273456caf4390e2a530124e985da"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/spelunkery/recipe/lodestone.json"
@@ -2837,6 +2853,10 @@ file = "config/reliable_recipes/pebbles.json"
 hash = "3f831730d8a2676beb36610a1400a8d064aad56611cbb7f9d7d49553f62ee7b6"
 
 [[files]]
+file = "config/reliable_recipes/soaring.json"
+hash = "95b58e92d2c48b049d91118d34ec7ec0f861a41d98debb0d64bf8e8a57c8a794"
+
+[[files]]
 file = "config/reliable_recipes/straw_hat.json"
 hash = "ab876dac664a47977a753e9a00c6d2352798034ee150c40ac0ce76e73a9073f4"
 
@@ -3462,11 +3482,6 @@ metafile = true
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
 hash = "52d3e6e6b27a38dc50c1b4cde92690abe90a2d327f2c903522dee23a8e8e818d"
-metafile = true
-
-[[files]]
-file = "mods/reliable-backpacks.pw.toml"
-hash = "c345a948e45c588e92ce72895169ea8daf2aa348fea1eb5a88a79476e3486714"
 metafile = true
 
 [[files]]
