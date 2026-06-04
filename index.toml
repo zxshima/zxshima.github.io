@@ -409,8 +409,8 @@ file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/metal_rain_bloc
 hash = "4a37a7e2374e09f5a0c58a9305922d913503097f3017eb65f9889303770a21e1"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/curios/tags/item/back.json"
-hash = "09d91914f67dd96d51fbd503b8e7374329270074fc2fc1464c6621360538fef0"
+file = "config/paxi/datapacks/deercraft/data/create/tags/item/upright_on_belt.json"
+hash = "04710945dfb5999fe9b7236c6193d2a27f90c85ecad75e6fb081cdff78bda2a6"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1024_pool.json"
@@ -1067,6 +1067,10 @@ hash = "85e5daa15a34cedc82161c04acb20172d1dc5a34f734fc39dc64eaf184e960d3"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/nomansland/recipe/building/cobblestone_bricks.json"
 hash = "a3ca9628ee1ebb0b7dad010fb6b91aebc925d8d7a36cd54f7ce9f8b04070ff99"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/nomansland/recipe/integration/farmersdelight/pancake.json"
+hash = "1a829dfe63293064eccf6bced813436952e3cd3c7d11f93388be3e9e1357f7ed"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/nomansland/tags/worldgen/biome/feature_addition/has_clovers.json"
@@ -1786,7 +1790,7 @@ hash = "e2459d2b31a56cc46ed9979170f7bbbcb11f4b24d8d0c5e91fd8fa5e7eebbd8b"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/deerscape/lang/en_us.json"
-hash = "bcab851736aa08fc5ba144a41ce2a3e591ad5492df41ab38cce5bb6ae89289d7"
+hash = "14bf5b377b808780404aac32bf66f16c710acb34f7a97cf91465bd55b77f02f7"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/eclipticseasons/lang/en_us.json"
@@ -2891,6 +2895,10 @@ hash = "eab5b81c06407c294765c94ff8e38c4624451ef0540b35c94ae102cc9255116f"
 [[files]]
 file = "config/reliable_remover/mending.json"
 hash = "2d9677ff14a98b5117b5bfed89a0d2c68fb7f38e3e0eae22ed5881b1afe212fe"
+
+[[files]]
+file = "config/reliable_remover/milk.json"
+hash = "a0793cb11bdca7e7d02a6f433881db5e59b3273c1cfb4da5d553ea1540e8a20b"
 
 [[files]]
 file = "config/reliable_remover/neapolitan.json"
