@@ -8,5 +8,8 @@
   "tag.item.deerscape.metal_blocks": "Metal Blocks",
   "tag.item.minecraft.bundles": "Bundles",
   "tag.item.tide.fish": "Fish",
-  "tag.item.tide.bait_plants": "Bait Plants"
+  "tag.item.tide.bait_plants": "Bait Plants",
+  "farmersdelight.tooltip.cooking_pot.empty": "Empty",
+  "farmersdelight.tooltip.cooking_pot.single_serving": "Holds 1 serving of:",
+  "farmersdelight.tooltip.cooking_pot.many_servings": "Holds %s servings of:"
 }

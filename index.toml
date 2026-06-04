@@ -3270,6 +3270,11 @@ hash = "c871c0766027544e93bb805c6a96b92f368c775ebbe275743f17fdeec049068c"
 metafile = true
 
 [[files]]
+file = "mods/industrial-hellscape.pw.toml"
+hash = "1737833daecaf52828e7a0107aef17e1a96e4c5b19e9def7d36dc4e2f0ea06f4"
+metafile = true
+
+[[files]]
 file = "mods/inline-tooltips.pw.toml"
 hash = "5b6eef3661258ce0a93142943d00c092a283c561577515345e6ea89456ea0711"
 metafile = true
@@ -3382,6 +3387,11 @@ metafile = true
 [[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
