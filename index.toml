@@ -1105,10 +1105,6 @@ file = "config/paxi/datapacks/deercraft/data/spelunkery/tags/item/anvil_repair_i
 hash = "ab7ab01ef2d12c473561bb0f9bde697e1cdd2145ef4db3f2ee8814b749b35c2d"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/supplementaries/loot_table/loot/galleon/safe.json"
-hash = "6fe242b3997fefa5b3106bc0846b7148ae016e536f106e90f4a22f9737c1c6de"
-
-[[files]]
 file = "config/paxi/datapacks/deercraft/data/supplementaries/tags/item/shulker_blacklist.json"
 hash = "68a4ee07db4f84135dcd0777bcc60ff0c7c4487e824fcdf7e64b08b63593ee43"
 
@@ -3111,11 +3107,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
-metafile = true
-
-[[files]]
-file = "mods/create-colored-packages.pw.toml"
-hash = "85db08b6b527574d731e060f693a490a10311e007a235f63a9d75156ef8176eb"
 metafile = true
 
 [[files]]
