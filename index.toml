@@ -30,7 +30,7 @@ hash = "af557f697c1c47426085e1f0b34ed387ef3f689a8e6cb1c8f4578aa9bbfe87c1"
 
 [[files]]
 file = "config/eclipticseasons-common.toml"
-hash = "4aaf6f5d9b99441a3704f17437b8ce96f4c6c16bc85edbe44a336ce9deceeb73"
+hash = "582c9da62edb172a870add02ff78859fc42406641b515ff5029a7ac7e97c3c8b"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -375,6 +375,10 @@ hash = "2b6a6eb3a774b43c3a8aea52582f54edbbd46b49372e479b95bf2d86830b2cd9"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/baking_wardstone_brick.json"
 hash = "61757f9a95e7f8968e042ae3f793712bc9cf2361817518ac88eab1bf498a6090"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/clayworks/recipe/kiln.json"
+hash = "aaa1a4dd360e4ecbfd96edc50d05efcce8b0a64060b86785371d3118e29c142f"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/coolrain/tags/block/fabric_rain_blocks.json"
@@ -841,10 +845,6 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/willow_woo
 hash = "ad88cf21321f31826253ba84ed18e92ca983d5c2094cb502a33336c2f38839ef"
 
 [[files]]
-file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/map.json"
-hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
-
-[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/copper_blocks.json"
 hash = "353d4ca31021959184cfb7c5c401f28a953d6ca6e137e1427a8cd6964447f19c"
 
@@ -941,6 +941,14 @@ file = "config/paxi/datapacks/deercraft/data/hauntedharvest/loot_table/blocks/so
 hash = "7b20c9c7fadd0630564ee31853a5b2a39a25b99493cc239fa002434b0443f849"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/advancement/archmages_tower.json"
+hash = "7989f256e658fdcf83a5f62c47161ed0fab39eb4154a9b04b7b012fecbca8e46"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/idas/advancement/dread_citadel.json"
+hash = "67f8dcfa658da29bd32359ff13de15201a014e1745cbf575d77e862eb6bacb50"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/integrated_structure_spawners/archmages_tower.json"
 hash = "f4f75f6922adbfefa0cb2217d5c483376bb93ae9b63c5ddb0c89e977237c9f1d"
 
@@ -1009,6 +1017,14 @@ file = "config/paxi/datapacks/deercraft/data/minecraft/lithostitched/worldgen_mo
 hash = "8fc4b011f66c72b25b72fa967756e7d90eba8eacfd6d03f7e8d8aa0caec7cd22"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/minecraft/recipe/map.json"
+hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/minecraft/recipe/smoker.json"
+hash = "3c937b3669178996b309d1d041167c9291a26f21cfe9c51839c3e1dae07c9766"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/minecraft/tags/block/mineable/hoe.json"
 hash = "8ffd982c00f725ae35928a505c13176e6b2c6817c0f5e3d17bea7b3bcb5fbf7a"
 
@@ -1023,6 +1039,10 @@ hash = "aa7891edb420b7b94567c8cd3fb0d583c49dcd4d2914ded545abcceb8ebb22e6"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
 hash = "85e5daa15a34cedc82161c04acb20172d1dc5a34f734fc39dc64eaf184e960d3"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/nomansland/recipe/building/cobblestone_bricks.json"
+hash = "a3ca9628ee1ebb0b7dad010fb6b91aebc925d8d7a36cd54f7ce9f8b04070ff99"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/nomansland/tags/worldgen/biome/feature_addition/has_clovers.json"
@@ -1043,14 +1063,6 @@ hash = "cf9e7f2323e4809993d43a6843c72ad88f723dccdd3e8ed3bbfeeb40a51e5359"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/breakdown_nether_wart.json"
 hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
-
-[[files]]
-file = "config/paxi/datapacks/deercraft/data/quark/recipe/building/crafting/furnaces/blackstone_smoker.json"
-hash = "cf864dcc15358642ed51aa7570ea1e83c1da811580dcb09bd4c7b9c19f9ffb3f"
-
-[[files]]
-file = "config/paxi/datapacks/deercraft/data/quark/recipe/building/crafting/furnaces/deepslate_smoker.json"
-hash = "e4b06f97fcec16cbba734f6d57add4ee9546ed21c4909e17f8e66d7aeab16365"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
@@ -2801,16 +2813,16 @@ file = "config/quark-common.toml"
 hash = "ba050c4337adbcbce80e714e05e8a3db15a7e0416800364458da41c333527fd6"
 
 [[files]]
+file = "config/reliable_advancements_layout.json"
+hash = "c50571e5249dbbc3df25ec5cdbd446d0bdbe10e421e96fb6bf32b573a8ee7bcd"
+
+[[files]]
 file = "config/reliable_recipes/bundles.json"
 hash = "c20f240f6d35de5c1aaa319e78727c6ad6fd25f590b22bcc40aacef29543992a"
 
 [[files]]
 file = "config/reliable_recipes/crushing.json"
 hash = "b85bf472e0c5e12efa939f5cdf59345d781bc274cee7cf35151202c5ddcc4ea5"
-
-[[files]]
-file = "config/reliable_recipes/maps.json"
-hash = "f631a7a4b5105b89b27695488ebef37034b7fb37ea2536024a828475397b2990"
 
 [[files]]
 file = "config/reliable_recipes/pebbles.json"
@@ -2981,11 +2993,6 @@ hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
-metafile = true
-
-[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "0933a52d7e0e140f907522d0c9f8910599de4f4ea26455e67a983efe84561971"
 metafile = true
@@ -3003,6 +3010,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "c871176819bb20c57d603c7e8664a3ff8a43d3c9e9ae5dd53c9c775e9d0e1d88"
 metafile = true
 
 [[files]]
@@ -3027,7 +3039,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -3056,6 +3068,11 @@ hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -3071,8 +3088,13 @@ hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
 metafile = true
 
 [[files]]
+file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
+hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam.pw.toml"
-hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -3082,7 +3104,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
+hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -3121,7 +3148,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "06763f04aa5d290b2b94cc84530425a43e9daf5210440aad8352dadb4348027d"
+hash = "339e9a9886cfcf208f251be2f47d8e8333e7de9a5ee3d300b0b62ff5b4553488"
 metafile = true
 
 [[files]]
@@ -3146,7 +3173,12 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "3f179cc3698f51089f0f138c2504382e59e532b92796bc43964a9feaf3420626"
+hash = "736613662e361dcba8de82f71f1503341ff5b9d42d6c67735b0465b197433504"
+metafile = true
+
+[[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
 metafile = true
 
 [[files]]
@@ -3251,7 +3283,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b3d436a516d9d027dae6d62a80ee181bcac74f1c77688bb831318ddff476c76a"
+hash = "bd32e04cd6e5d26494f8393a5e4d8ee180700cc117f5f2920ce59b6ce7fb3c7d"
+metafile = true
+
+[[files]]
+file = "mods/jack-black-steve-zetterstrand-painting.pw.toml"
+hash = "726db7188e981261a180bf82cc5b94d9dc93ccbdc0a5866ecb9092b57fbf4725"
 metafile = true
 
 [[files]]
@@ -3397,6 +3434,11 @@ metafile = true
 [[files]]
 file = "mods/reintegrated-chipped.pw.toml"
 hash = "70674900e545ac727d245a2ab269ab63db6ef94b862548a55e36b31fcd7aaa70"
+metafile = true
+
+[[files]]
+file = "mods/reliable-advancements.pw.toml"
+hash = "52d3e6e6b27a38dc50c1b4cde92690abe90a2d327f2c903522dee23a8e8e818d"
 metafile = true
 
 [[files]]
@@ -3552,6 +3594,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "da1c1cf28e8d5ffe377998d29d59eae29a2020f2de7a0aea7f7253acdc695cfd"
 metafile = true
 
 [[files]]

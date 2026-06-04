@@ -1,0 +1,13 @@
+name = "Jack Black (Steve) Zetterstrand Painting"
+filename = "jack_black_painting-multi.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RROEgoOu/versions/LSwcNmKW/jack_black_painting-multi.jar"
+hash-format = "sha512"
+hash = "725cbbc356d0dce71b6aa357cd9f45c0c50121100aa012b47c04cd8f7762b21d6652d2f8bea69113b62ccc52781f123409737dcddfad29c05eb1e807ab9e8693"
+
+[update]
+[update.modrinth]
+mod-id = "RROEgoOu"
+version = "LSwcNmKW"

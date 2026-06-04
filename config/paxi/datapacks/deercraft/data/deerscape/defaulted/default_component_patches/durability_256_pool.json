@@ -1,5 +1,7 @@
 {
     "items": [
+        "create:super_glue",
+        "simulated:honey_glue",
         "tide:iron_fishing_rod",
         "tide:crystal_fishing_rod"
     ],
