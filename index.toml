@@ -13,8 +13,16 @@ file = "config/betterarcheology.jsonc"
 hash = "054ffa16404fb0971b4df092da5eb7e2e8f24591d307aacfc70b32da06becb15"
 
 [[files]]
+file = "config/cosmeticarmorreworked-common.json"
+hash = "c45d64bf0df4b7a0d02d2ba127e9cc9361374317c7de24194e71f8b012901acb"
+
+[[files]]
 file = "config/create_connected-common.toml"
 hash = "f6bf6f0f4b66e0b4545d7eb43998348de109292aae912ce24366386bbd99d15a"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "e4b7fe26bd5b99cf7edd7c21b54728a21fe813187f5b18e48e92ced5ca8459d4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -30,7 +38,7 @@ hash = "af557f697c1c47426085e1f0b34ed387ef3f689a8e6cb1c8f4578aa9bbfe87c1"
 
 [[files]]
 file = "config/eclipticseasons-common.toml"
-hash = "582c9da62edb172a870add02ff78859fc42406641b515ff5029a7ac7e97c3c8b"
+hash = "02bcffef995aeebd0616c8abdb656d038fc3128db4a825efd616e43c189b008c"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -418,7 +426,7 @@ hash = "90e8c35297612d4f53bce8b2b6a492a6589a4d13a9ce6f0f39a8209f10dee7eb"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_256_pool.json"
-hash = "93961e3093289d3af1f613028680c26fdd0242f703a49d2f5c7bf1cc8b162d8c"
+hash = "b619363962f1256e0a5b90fac01056def7dec70dc327f6df16b68f365a97d427"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_384_pool.json"
@@ -3015,11 +3023,6 @@ metafile = true
 [[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "c871176819bb20c57d603c7e8664a3ff8a43d3c9e9ae5dd53c9c775e9d0e1d88"
-metafile = true
-
-[[files]]
-file = "mods/chalk.pw.toml"
-hash = "379658f33ba061db76fefc705d4844ecf2ab53a12159783414e9cec8cb6a554f"
 metafile = true
 
 [[files]]
