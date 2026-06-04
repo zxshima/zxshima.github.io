@@ -3299,12 +3299,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "f88ff6068814e82772d0a2fbb55df7fb8c4958036831a5e06e8af740f1f981a5"
+hash = "4ce9a1521d439d393f79988859c97157a8ba4b5fcb38f4043adde2da48761560"
 metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "c871c0766027544e93bb805c6a96b92f368c775ebbe275743f17fdeec049068c"
+hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
 
 [[files]]
@@ -3514,12 +3514,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "b787d4e4d0712ceceaee7cb3c3608f70ecc58b896cd3432e9bb34d505176c299"
+hash = "b0cd8366e924b041c7c93921efa9a250848b2770a6df43e79bead0170af63b64"
 metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "b9375d86622625c2173953d9e076858c0d8b74341161636518672f6a786c568d"
+hash = "c3a25fb6030de90ba84df3683c728112b118fda3413b07af3decd057c9701e89"
 metafile = true
 
 [[files]]
@@ -3634,7 +3634,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
+hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
 metafile = true
 
 [[files]]
@@ -3659,7 +3659,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
+hash = "de1c3ce98add2a76db8756ff390ea05dbed4b60f9c4d6cd81eaf01c25aed9f5e"
 metafile = true
 
 [[files]]
