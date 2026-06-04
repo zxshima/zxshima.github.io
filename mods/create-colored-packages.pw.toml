@@ -1,0 +1,13 @@
+name = "Create: Colored Packages"
+filename = "colored_packages-neoforge-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xv1iRJI2/versions/ne2CHOeU/colored_packages-neoforge-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "faebec007e4e77bf596fa377fcfad741af7f43fb7743ce91b590b53735dfa4f507b80c5b3c9b7bba1fb8f60270a167bba1ff27d8953c1595696e51c8e8342f03"
+
+[update]
+[update.modrinth]
+mod-id = "Xv1iRJI2"
+version = "ne2CHOeU"
