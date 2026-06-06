@@ -1,13 +1,13 @@
 name = "Defaulted"
-filename = "defaulted-neoforge-1.21.1-1.2.2.jar"
+filename = "defaulted-neoforge-1.21.1-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/1EvWA5vz/defaulted-neoforge-1.21.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/YqNFBlbW/defaulted-neoforge-1.21.1-1.2.3.jar"
 hash-format = "sha512"
-hash = "8d65b46604ba1bc85291b4879ed712e5a5f3f6578cc3a8db9c6e25c52750e6e2a91ffed70aab85deb19eca4357e8a79d77086ad3a5fb83434c0c86856b343188"
+hash = "8293fcf3e31306397d786560db1ae581bb349d54eca89c85d9c1623e8ac5ec4f149315759e3260dab3758575448cef8b286462ba91c1a25a494c22176b6ef8bf"
 
 [update]
 [update.modrinth]
 mod-id = "LxgPJAAy"
-version = "1EvWA5vz"
+version = "YqNFBlbW"

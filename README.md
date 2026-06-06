@@ -12,5 +12,5 @@ Derp's Compat for Every Compat - https://modrinth.com/resourcepack/derps-every-c
 Redstone Torch Backport Supporter - https://modrinth.com/resourcepack/rstorch-backport-mod-supporter/  
 Soft Weather - https://modrinth.com/resourcepack/soft-weather  
 VanillaTweaks - https://vanillatweaks.net/  
-The Dark Oak of Chipped - https://modrinth.com/resourcepack/the-dark-oak-of-chipped__
+The Dark Oak of Chipped - https://modrinth.com/resourcepack/the-dark-oak-of-chipped  
 Reglazed Terracotta - https://modrinth.com/resourcepack/reglazed-terracotta
