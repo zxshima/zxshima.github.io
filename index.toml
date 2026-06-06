@@ -1729,6 +1729,10 @@ file = "config/paxi/datapacks/morejungle/pack.mcmeta"
 hash = "e1781275678ef2045d25a1a1778839beb4dc96065522e4fa253229d9b6ba4e23"
 
 [[files]]
+file = "config/paxi/datapacks/spelunkery sulfur patches hotfix.zip"
+hash = "866a01b217f1c44852da1e9adfc1bf2106e598f7f972ff1b35edbfc4b05c84cb"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/analogaudio/lang/en_us.json"
 hash = "77d0f291d87e9bdbbfdcf5b3844e5130a56c5f50ec6b6c68e35cdba5af8390d8"
 
@@ -3086,7 +3090,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
+hash = "e712d7fe5bbc4b48c3425a9a199a512fab6e14985104a36e870c52bddca468d8"
 metafile = true
 
 [[files]]
