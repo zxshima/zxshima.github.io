@@ -13,6 +13,10 @@ file = "config/backpacked.backpack.toml"
 hash = "88e97a1c12634febbc8d083b1947930582b17a41f9f2ef80802830b338117516"
 
 [[files]]
+file = "config/beachparty-common.toml"
+hash = "f3640bbad398f85eca15116bd463fa91c44d7f821e50da1a9d0eab3e411badd1"
+
+[[files]]
 file = "config/betterarcheology.jsonc"
 hash = "054ffa16404fb0971b4df092da5eb7e2e8f24591d307aacfc70b32da06becb15"
 
@@ -57,10 +61,6 @@ file = "config/friendsandfoes.json"
 hash = "4519d315022192e5741b59374b8ed0a163fbd7901d5b9eee7af15b5f9131624b"
 
 [[files]]
-file = "config/immersiveoverlays.json"
-hash = "272c13be7c084825023a0c87f4c18517340a8122874b91578101a3377d9a144f"
-
-[[files]]
 file = "config/inline/client-config.toml"
 hash = "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581"
 
@@ -82,7 +82,11 @@ hash = "6249515ce4b27fe4b882dd75d4216afda5535476e5917d098b9dc6a4364682e1"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "d25031cdcebd4941da3182ddc37a2eecacb09487682c92a2906522757dec14f6"
+hash = "a1a9316d6fa4a40ec09cb446bc6b76c766f4faac5f8eb9fd5111d0d6e490d33b"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "6bb54f8fc68bfe20ff04e9a0a77eeab6e35faa823bb738c6bb2eacabbadc07cf"
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
@@ -333,6 +337,54 @@ file = "config/paxi/datapacks/deercraft/data/architects_palette/recipe/ender_pea
 hash = "45c25aa10fed16490f5632622a8fb404239b37c04ac22e16fbd5b33639860cb5"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/mixing/cocoa_cocktail.json"
+hash = "74f1a0612f9f9bb5fcda6d5a3b2e62fcba367ee2536a5eb70d93f329877fd6c9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/mixing/coconut_cocktail.json"
+hash = "3bac323ee4d075787619452ccd2c432b1b1cef25719a96f354331d62ef9df5be"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/mixing/honey_cocktail.json"
+hash = "71ace0809763586d0a0bc4451ac9280fd09d5a95f3a6aa1c18d708460be1e4a5"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/mixing/melon_cocktail.json"
+hash = "4d069f852c20c46d2ce29ee355dd8841bd41145e89e832d0b7b5e38de45eb202"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/mixing/pumpkin_cocktail.json"
+hash = "ad256cba2e3661f46263d7c0e88c4d6f0d89dbf44dbacaf5ee253daf15e8b326"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/mixing/sweetberries_cocktail.json"
+hash = "e4f4bd7e1e4e087f95bf7066aba7af149e2544bf624a12d5b8f0aaab75b853ce"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/cocoa_cocktail.json"
+hash = "745c9debeff175549acdb50a99875fe79bede24ea631703842616eef199e553a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/coconut_cocktail.json"
+hash = "4f49848230f9fe77f3e45a6908614547070502193ab5c5b426e4a7132aa7f6e0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/honey_cocktail.json"
+hash = "8b54f43ec94cdba144ee764e7a171f192d9a138d317369ede3bbd30c915bb2fe"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/melon_cocktail.json"
+hash = "f2dc4e14bf0f13a2252653d07ad72dc7d88cf63ed9ae0d15038ee57c750e7abb"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/pumpkin_cocktail.json"
+hash = "21459d1f864cbdbe47d7b7a001af20cee3a82fb33f1025ba6f5221a04c832370"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/sweetberries_cocktail.json"
+hash = "5985d65fd520df04133bd20a73d5ea8a1292b7f59c2aaa3422b63b6eab58c8b2"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/buckets/entity_water.json"
 hash = "3fea08a07b96b47d0b4fa436ca75090656a76a0c5ed94e13afa90595a264da33"
 
@@ -346,7 +398,7 @@ hash = "cce5e5b622de8f3140677221cf41802fb221bf11ed3f530fe23563202b3322e6"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/music_discs.json"
-hash = "24f4e07126921e4ea2c0856dacd4438e72e64c0122f58c5303148bc4a55ecf10"
+hash = "cba724c78657137c97f4ab6c6d97fca287a8b6cafd3a098b64fa62affa54083a"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/storage_blocks.json"
@@ -410,7 +462,15 @@ hash = "4a37a7e2374e09f5a0c58a9305922d913503097f3017eb65f9889303770a21e1"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/create/tags/item/upright_on_belt.json"
-hash = "04710945dfb5999fe9b7236c6193d2a27f90c85ecad75e6fb081cdff78bda2a6"
+hash = "95a33218f38b41f1e767032ce93863858e2e7beb618e775c44f4f2ad6cfa45ed"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/curios/tags/item/charm.json"
+hash = "d2d4cfcc142bcb8777c31e4af615127b9265bf5156aeb83eecbf90230a976929"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/advancement/atlas.json"
+hash = "24fa3a63c3f8090de23c553a41d7779c926b7b75a5426cac0c04236ea7936ce9"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1024_pool.json"
@@ -422,7 +482,7 @@ hash = "bdd5c3e1b4ae2ebcdcbfceeb6507237fa24781edf0f4df65c8113c415fabe3ef"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_128_pool.json"
-hash = "e91f9873c285ed709cc20dbadbb19cebe196ef74e4d279c4f3cec1b1ee0f8517"
+hash = "2e11ee76dab146c39323a1a91e7a49d4e84f830421007ffff1ab3a7615a8d984"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_1536_pool.json"
@@ -438,7 +498,7 @@ hash = "b619363962f1256e0a5b90fac01056def7dec70dc327f6df16b68f365a97d427"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_384_pool.json"
-hash = "5129a55de4f966dbe9402b6cbdfa5bb943ff19da94e6af0c167b5963d4178e91"
+hash = "b3112d6e7303cd79e1cb21eb34a5fa4ef34cb729df61ad51e2b58bb9e9d7fdbd"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_component_patches/durability_512_pool.json"
@@ -669,6 +729,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/defaulted/default_compone
 hash = "4bab672b832e677f845c5e7659a219aad3c7cf45e453842bcf927f1ca4af72bf"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/loot_table/gifts/atlas.json"
+hash = "d2fc2c0ecae2dd12c49a0be565e5e142cc308f9ef9ba7bc0fd130dd5dbabd385"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/neoforge/biome_modifier/glimmering_weald/change_color.json"
 hash = "657085183d73a0c92579d9ad7a3d19be5cc17b62735d4433281081ebeb290b0d"
 
@@ -861,6 +925,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/cutting/willow_woo
 hash = "ad88cf21321f31826253ba84ed18e92ca983d5c2094cb502a33336c2f38839ef"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/milling/ice_cubes.json"
+hash = "ac7a3ff160c3a50c0accdab2283178d43233c82584723e351b27484a079a841c"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/copper_blocks.json"
 hash = "353d4ca31021959184cfb7c5c401f28a953d6ca6e137e1427a8cd6964447f19c"
 
@@ -905,6 +973,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/grass.json"
 hash = "35198b685581e03549c5f8314df41f015fe762b6c5d06cd5132ff6d3d6643ec6"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/ice.json"
+hash = "be0dcd874ab0a29159b361cd2beb7749208ae22ecc90f2fae0fe24b37a73b753"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/iron_blocks.json"
 hash = "bf44946de29c9c6ea6c7da03d8bff760d84b5e2163ac7762d108588c9fae4724"
 
@@ -926,7 +998,7 @@ hash = "e748f8913baa7aed7504a0f5bb6f3400e51a67bf0960f0eef28993c03688ffcf"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/all_seasons.json"
-hash = "6d90a937e970d1c34b8f9fbce1731ff9e395ded45c1d81aef6dc29f42955688c"
+hash = "0ed93c7c2b6b9671d33700973146c418bd71bd55c962194b7a3061a2c050fd8e"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/average_humid.json"
@@ -1034,7 +1106,7 @@ hash = "8fc4b011f66c72b25b72fa967756e7d90eba8eacfd6d03f7e8d8aa0caec7cd22"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/minecraft/recipe/map.json"
-hash = "a4ba91f942ab43ed6f1cd52a0d6e9a04458828fc448bbbb0f3c311a5af763200"
+hash = "f68a0e36fd5b614305b7c6a35bde5f2fef914bc7a99253f700d2b64bc42042c5"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/minecraft/recipe/smoker.json"
@@ -1094,7 +1166,11 @@ hash = "0dd42d385bcfd0da49344aa56bdfd38709dd51c070c27cc5440ecaa039d76a29"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/reliable_requiem/tags/item/retained_on_death.json"
-hash = "bc81f81f1fccaf8e5166cdb106ad466f5595273456caf4390e2a530124e985da"
+hash = "ba79952e50975bc47f85447b4afe9c74261775f000ade07c31c2cfc1acbc20ad"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/snowyspirit/loot_table/chests/present_villager.json"
+hash = "8199a429f9d74b5f210c7e9d2d57a83169af71a074949c7efc542ac7d9ba7ec7"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/spelunkery/recipe/lodestone.json"
@@ -1741,6 +1817,10 @@ file = "config/paxi/resourcepacks/00_deer/assets/architects_palette/lang/en_us.j
 hash = "14c79e951f66b9e01e01bc7963fe11034c7da11b11e83c69278d717250489fbd"
 
 [[files]]
+file = "config/paxi/resourcepacks/00_deer/assets/beachparty/lang/en_us.json"
+hash = "db23c0f6b2a6a9a75ba1cf12338c5f6fb5e53533df3828999607d55d353bc6f7"
+
+[[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/betterarcheology/lang/en_us.json"
 hash = "6147b1b9c35907a2e5dcedbdcb95b4a7f9188400082192c31be3c215592901fc"
 
@@ -1786,11 +1866,11 @@ hash = "6175e499cc4e4e07b70f57f4ef649153f59fe289fb855671e5d8193ee2a9ad20"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/cluttered/lang/en_us.json"
-hash = "e2459d2b31a56cc46ed9979170f7bbbcb11f4b24d8d0c5e91fd8fa5e7eebbd8b"
+hash = "3b5a81bfcb2875684aa4f718850b4e4e89c960311a2973db45d599565c2fcf3d"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/deerscape/lang/en_us.json"
-hash = "14bf5b377b808780404aac32bf66f16c710acb34f7a97cf91465bd55b77f02f7"
+hash = "e331e68c6e0696f83520c47b10784ffe28b2bdc117a16c2bcbe91cb55598ec5b"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/eclipticseasons/lang/en_us.json"
@@ -2853,6 +2933,10 @@ file = "config/reliable_recipes/crushing.json"
 hash = "b85bf472e0c5e12efa939f5cdf59345d781bc274cee7cf35151202c5ddcc4ea5"
 
 [[files]]
+file = "config/reliable_recipes/fire_ring.json"
+hash = "2d1eb2463ddfa0f60b829b01d886e126f76332b989acd63f2d8e5009e7f456eb"
+
+[[files]]
 file = "config/reliable_recipes/pebbles.json"
 hash = "3f831730d8a2676beb36610a1400a8d064aad56611cbb7f9d7d49553f62ee7b6"
 
@@ -3174,7 +3258,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "e30c904f2ea54869f913171cd9a2aebf4ca8fff1ca1a0aa778ce5165e0ec7a03"
+hash = "040f96e562d7605340feb9403fd738bb066d0e5d38696bcca51dac3d9158807a"
 metafile = true
 
 [[files]]
@@ -3295,11 +3379,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
-metafile = true
-
-[[files]]
-file = "mods/immersive-overlays.pw.toml"
-hash = "4ce9a1521d439d393f79988859c97157a8ba4b5fcb38f4043adde2da48761560"
 metafile = true
 
 [[files]]
@@ -3478,11 +3557,6 @@ hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
 
 [[files]]
-file = "mods/power-grid.pw.toml"
-hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
@@ -3529,7 +3603,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "277aa1553681632c46c6dc3689d8eacc6f6ea378462f11129a8c7da019c88a6f"
+hash = "0e94c7219cf36079d3974a8659b98ae301d9be104a62613c9c1b4b451d9859e8"
 metafile = true
 
 [[files]]
