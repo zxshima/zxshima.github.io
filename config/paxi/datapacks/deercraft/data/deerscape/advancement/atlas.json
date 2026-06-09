@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ],
+  "rewards": {
+    "loot": [
+      "deerscape:gifts/atlas"
+    ]
+  },
+  "sends_telemetry_event": true
+}

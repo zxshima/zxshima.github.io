@@ -6,6 +6,13 @@
     { "id": "integrated_stronghold:music_disc_sight", "required": false },
     { "id": "integrated_stronghold:music_disc_forlorn", "required": false },
     { "id": "eclipticseasons:snowless_hometown", "required": false },
-    { "id": "betterarcheology:music_disc_swings", "required": false }
+    { "id": "betterarcheology:music_disc_swings", "required": false },
+    { "id": "minecraft:music_disc_bounce", "required": false },
+    { "id": "beachparty:overgrown_disc", "required": false },
+    { "id": "beachparty:music_disc_beachparty", "required": false },
+    { "id": "beachparty:music_disc_caribbean_beach", "required": false },
+    { "id": "beachparty:music_disc_pridelands", "required": false },
+    { "id": "beachparty:music_disc_vocalista", "required": false },
+    { "id": "beachparty:music_disc_wild_veins", "required": false }
   ]
 }

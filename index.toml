@@ -3094,6 +3094,11 @@ hash = "e712d7fe5bbc4b48c3425a9a199a512fab6e14985104a36e870c52bddca468d8"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 hash = "558dc7ce93ddb5fe848d2d8a746174752c67f1f954d19e1030dce6a2a587c6b5"
 metafile = true
@@ -3115,7 +3120,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "57e8ff6c2bf41c7556f727251fda72946ebd8d849e5e83c141a679387a559dbc"
+hash = "19f3a244bf8ffca1aa53621524681f98c680e8395323e7fa50c93169a6851a74"
 metafile = true
 
 [[files]]
@@ -3214,7 +3219,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "736613662e361dcba8de82f71f1503341ff5b9d42d6c67735b0465b197433504"
+hash = "688cbfbaac97d3c9089bf2afa43bfd920ae8f4d210ad892b8ea52177bed67949"
 metafile = true
 
 [[files]]
@@ -3229,7 +3234,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
+hash = "f45d1795101a99dbc95442df14201cf341da89ed2a52bf9177348defd1141f1a"
 metafile = true
 
 [[files]]
@@ -3343,8 +3348,13 @@ hash = "726db7188e981261a180bf82cc5b94d9dc93ccbdc0a5866ecb9092b57fbf4725"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
@@ -3360,6 +3370,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
 
 [[files]]
@@ -3394,7 +3409,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
+hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
 metafile = true
 
 [[files]]
@@ -3409,7 +3424,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "2480da9a1833cdb52f5fb0c3495c36644cc2efa63408e4e2db61774115bc67a0"
+hash = "9db3684522a5a84ffd6df4e1a985aeebaa3dbcda054f05f7bad87656d5cdbc75"
 metafile = true
 
 [[files]]
@@ -3558,6 +3573,11 @@ hash = "7218a06fa27c0bfaa0e6f7db00842b1de5d45aa2a3573bc76cb11930a075d76b"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "96b64b2096ea8ee1144025b52cb769bfcd001db8fb38f72a4b5828a719a2196c"
 metafile = true
@@ -3654,12 +3674,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "de1c3ce98add2a76db8756ff390ea05dbed4b60f9c4d6cd81eaf01c25aed9f5e"
+hash = "692eaba1dfc193086bf08a50d0dae5128d0d0f2516ffa1298d7e7c06af93aa34"
 metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "e73ba1fc4574456c9603def3ccad9848b294e42ca817dd50e38a2c434d8b016d"
+hash = "1105dc42c007824d4bbe71d30b449c6f38364835de3677094dfdbdd8971bc184"
 metafile = true
 
 [[files]]

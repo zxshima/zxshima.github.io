@@ -6,7 +6,8 @@
         "supplementaries:wrench",
         "supplementaries:slingshot",
         "quark:trowel",
-        "betterarcheology:iron_brush"
+        "betterarcheology:iron_brush",
+        "piglinproliferation:buckler"
     ],
     "patch": {
         "minecraft:max_damage": 384

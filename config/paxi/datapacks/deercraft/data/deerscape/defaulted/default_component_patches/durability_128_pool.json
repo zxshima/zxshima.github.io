@@ -7,7 +7,9 @@
         "overweight_farming:straw_hat",
         "minecraft:carrot_on_a_stick",
         "minecraft:warped_fungus_on_a_stick",
-        "tide:golden_fishing_rod"
+        "tide:golden_fishing_rod",
+        "betterarcheology:torrent_totem",
+        "betterarcheology:soul_totem"
     ],
     "patch": {
         "minecraft:max_damage": 128

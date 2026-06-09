@@ -34,6 +34,6 @@
   "block.cluttered.flowering_willow_wainscoting": "Flowering Willow Wainscoting",
   "cluttered.hand_drill.tooltip": "§7Can be used to change detail on certain blocks.\n§7Crouch to rotate blocks instead.\n§7Sprite by EyeSeeDee!",
   "cluttered.garland.tooltip": "§7Can be moved left and right with the hand drill.",
-  "cluttered.bracket.tooltip": "§7Can be placed on fences.",
+  "cluttered.bracket.tooltip": "§7§oCan be placed on fences",
   "cluttered.polaroid_camera.tooltip": "§7Try inserting paper!"
 }

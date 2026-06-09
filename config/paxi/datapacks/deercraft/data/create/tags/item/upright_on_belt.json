@@ -1,6 +1,15 @@
 {
   "replace": false,
   "values": [
-    { "id": "#c:drinks", "required": false }
+    { "id": "#c:drinks", "required": false },
+    { "id": "brewinandchewin:sweet_berry_jam", "required": false },
+    { "id": "brewinandchewin:glow_berry_marmalade", "required": false },
+    { "id": "brewinandchewin:apple_jelly", "required": false },
+    { "id": "beachparty:coconut_cocktail", "required": false },
+    { "id": "beachparty:sweetberries_cocktail", "required": false },
+    { "id": "beachparty:cocoa_cocktail", "required": false },
+    { "id": "beachparty:pumpkin_cocktail", "required": false },
+    { "id": "beachparty:melon_cocktail", "required": false },
+    { "id": "beachparty:honey_cocktail", "required": false }
   ]
 }

@@ -102,6 +102,10 @@
     {
       "id": "cluttered:fly_agaric",
       "required": false
+    },
+    {
+      "id": "beachparty:palm_sprout",
+      "required": false
     }
   ]
 }

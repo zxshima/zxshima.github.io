@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "beachparty:coconut_open"
+    },
+    {
+      "tag": "deerscape:ice"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "results": [
+    {
+      "id": "beachparty:coconut_cocktail"
+    }
+  ]
+}
