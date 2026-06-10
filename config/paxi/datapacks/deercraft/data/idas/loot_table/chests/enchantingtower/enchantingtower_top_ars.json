@@ -211,7 +211,7 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "create:experience_nugget",
+          "name": "minecraft:quartz",
           "functions": [
             {
               "function": "minecraft:limit_count",

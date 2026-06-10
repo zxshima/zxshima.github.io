@@ -1,6 +1,6 @@
 [
   {
-    "inputs": [ "nomansland:seashells" ],
+    "inputs": [ "nomansland:seashells", "beachparty:seashell_block" ],
     "outputs": [ "nomansland:pebbles", "minecraft:air" ],
     "neighbors": {
         "down": "minecraft:stone"

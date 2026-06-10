@@ -60,7 +60,7 @@
         {
           "type": "minecraft:item",
           "weight": 25,
-          "name": "create:experience_nugget",
+          "name": "minecraft:quartz",
           "functions": [
             {
               "function": "minecraft:set_count",

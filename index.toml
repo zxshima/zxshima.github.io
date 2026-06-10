@@ -3063,6 +3063,11 @@ hash = "c62eea66c7ebac3cc27e4d566af551fbc403185b5c7dc928e1be708f1e6bde7f"
 metafile = true
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "ab7f09184e83abf8da1ae27fcfad48f896963e23ae244b00eb6577fcce298bed"
 metafile = true
@@ -3213,6 +3218,21 @@ hash = "a29ffaf830f4ac94a8a867f2bd05b453d7f60e38e58c3fe5e05ec8946c5e854a"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "166d312672116bc62648572337c66018be6e794eb12e25fb2b508f686fdd58e5"
+metafile = true
+
+[[files]]
+file = "mods/create-redstone-link-gui.pw.toml"
+hash = "16f8726002e571f8df1f830379023250f1c2a4a1c100c5b739a2043eccd20e65"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam-tuning-wrench.pw.toml"
 hash = "941f681fb3a3f9d76e8fff6a56c423bc6436693b261f285490e091f864b718bd"
 metafile = true
@@ -3262,13 +3282,18 @@ hash = "040f96e562d7605340feb9403fd738bb066d0e5d38696bcca51dac3d9158807a"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons-bundles.pw.toml"
-hash = "c293622610053cca1c0600368946df494f7344e4cdce4084ead247e4315541fc"
+hash = "95ced069b7fdec1c2a0f541106036f917950c5744bee3e1a803fa81f875fbb42"
 metafile = true
 
 [[files]]
@@ -3278,7 +3303,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "339e9a9886cfcf208f251be2f47d8e8333e7de9a5ee3d300b0b62ff5b4553488"
+hash = "7bc77a62fbdc6daf351b13c91eba2ff40b319daafd51c11be39707f5a6397364"
 metafile = true
 
 [[files]]
@@ -3313,12 +3338,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
-hash = "2ca112cf02d77db5e3bef5f3d18cd0d1393135bd75410989662dda0a9d43ab83"
+hash = "b40cc00f088d863533439e8c16b6b9faa01b5b25ccd6fef7ff255fc3aafbc3a9"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "f45d1795101a99dbc95442df14201cf341da89ed2a52bf9177348defd1141f1a"
+hash = "28c29922378fa19f4edf1d16fffb48287a87be159a3378647073bbdebd2a2196"
 metafile = true
 
 [[files]]
@@ -3432,6 +3457,11 @@ hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
 
 [[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "dc60a6e206bfd63faa85e420d94deab4efb8948b52960d01ba929f12f4ceb94f"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
@@ -3483,7 +3513,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
+hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
 metafile = true
 
 [[files]]
@@ -3598,7 +3628,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "b0cd8366e924b041c7c93921efa9a250848b2770a6df43e79bead0170af63b64"
+hash = "7011d810ccc739d5413cf5c6f9d3c3beb43f9a14dcf42a873f1c3b22723d31d5"
 metafile = true
 
 [[files]]
@@ -3619,6 +3649,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/responsive-knockback.pw.toml"
+hash = "8d08e2f3a114b4fe5473a875f9ab1bc4d3e5ef69b4a6db9ebe3c9c105db97e17"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.pw.toml"
+hash = "6085325b661e439e982a471eddc3a390918db9be3dcd198e6faeb33f6d9aaff0"
 metafile = true
 
 [[files]]
@@ -3748,12 +3788,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "692eaba1dfc193086bf08a50d0dae5128d0d0f2516ffa1298d7e7c06af93aa34"
+hash = "cd666e68048ec2234d12c87582b8d21d8ee4cfb084707b606e5c5ac1b81c0565"
 metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "1105dc42c007824d4bbe71d30b449c6f38364835de3677094dfdbdd8971bc184"
+hash = "68d909ad78c01deb1e67a31311e4b42287440db81bc86d0575e9046a7dcd835f"
 metafile = true
 
 [[files]]

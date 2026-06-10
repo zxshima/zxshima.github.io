@@ -1,6 +1,6 @@
 [
   {
-    "inputs": [ "nomansland:seashells" ],
+    "inputs": [ "nomansland:seashells", "beachparty:seashell_block" ],
     "outputs": [ "minecraft:air" ],
     "min_y": "65",
     "max_y": "320",
