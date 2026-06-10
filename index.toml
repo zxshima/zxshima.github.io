@@ -13,10 +13,6 @@ file = "config/backpacked.backpack.toml"
 hash = "88e97a1c12634febbc8d083b1947930582b17a41f9f2ef80802830b338117516"
 
 [[files]]
-file = "config/beachparty-common.toml"
-hash = "f3640bbad398f85eca15116bd463fa91c44d7f821e50da1a9d0eab3e411badd1"
-
-[[files]]
 file = "config/betterarcheology.jsonc"
 hash = "054ffa16404fb0971b4df092da5eb7e2e8f24591d307aacfc70b32da06becb15"
 
@@ -51,10 +47,6 @@ hash = "02bcffef995aeebd0616c8abdb656d038fc3128db4a825efd616e43c189b008c"
 [[files]]
 file = "config/enchdesc.json"
 hash = "e85404558243cd73ec963a0f53954ca5884acd4bee252215928c6178ea08a15b"
-
-[[files]]
-file = "config/everycomp-entries.toml"
-hash = "8fe7e6061cdef0f41586211bdd343f544c0a5ad28d9efb974dafc8756664cce0"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -383,6 +375,10 @@ hash = "21459d1f864cbdbe47d7b7a001af20cee3a82fb33f1025ba6f5221a04c832370"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/beachparty/recipe/palm_bar_mixing/sweetberries_cocktail.json"
 hash = "5985d65fd520df04133bd20a73d5ea8a1292b7f59c2aaa3422b63b6eab58c8b2"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/beachparty/worldgen/configured_feature/seashells.json"
+hash = "9b28198ff7c9e000548a4e3f24f699d2bebb28779bd211ab1533ddaaa30b01e1"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/c/tags/item/buckets/entity_water.json"
@@ -1078,11 +1074,11 @@ hash = "a64fe5cc21a5c30803d2f16aa46e187a091deb1a0b6a73e4511f82527656f04e"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/enchantingtower/enchantingtower_basic_ars.json"
-hash = "05b596aaa9a7352df043c36bab8520856b23eb5453c694531869c51b6a07548f"
+hash = "6bb94b7aeb502b39ec7cd63e93dd87c4bfa52b291b14c687f47fc3bbf1c473ea"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/enchantingtower/enchantingtower_top_ars.json"
-hash = "5be9b1dc6584d40da80b454b0c0d949204cf493fd506c4a810a079377874c37c"
+hash = "a5bbbfe4e2d4cbc1c0c656c11648f5222dd47e2a65fb7108d7c6f7445af3f305"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/haunted_manor/if_haunted_manor.json"
@@ -1090,7 +1086,7 @@ hash = "d0d2c53c52cc4788907ca296ac542682f580484c5e2101d1d7e1985cbe7dc8b9"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/idas/loot_table/chests/labyrinth/if_labyrinth_tomb.json"
-hash = "09a3ca9aedfad7d8f36c9db86b53d50675135f0ce1b23210b6cca03260250f10"
+hash = "527824f68aa64e5332d73fed34c185d9c54718079737c2b34f409f35aaa32b7e"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/integrated_api/tags/worldgen/structure/disabled_structures.json"
@@ -1133,6 +1129,18 @@ file = "config/paxi/datapacks/deercraft/data/minecraft/worldgen/processor_list/r
 hash = "aa7891edb420b7b94567c8cd3fb0d583c49dcd4d2914ded545abcceb8ebb22e6"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/neapolitan/remolders/village_plains_house.json"
+hash = "867c57d753a6218c94c123d0504b7fc6be76f4dcc502464eb89c60588bfefba0"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/neapolitan/remolders/village_savanna_house.json"
+hash = "4608cfe644012b8ba6cb249315c2d72ef696f5340a8aaca177a584e1ad05e485"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/neapolitan/remolders/village_snowy_house.json"
+hash = "dc56a8316c32b215efdfb076eec737112922518dac34be9f46798347ce222216"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/neapolitan/tags/worldgen/biome/has_feature/banana_plant/rare.json"
 hash = "85e5daa15a34cedc82161c04acb20172d1dc5a34f734fc39dc64eaf184e960d3"
 
@@ -1159,6 +1167,10 @@ hash = "2af9ace04c06b8ec8371ce279427f6331f86c3174c499691d979876905074bf9"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/nomansland/tags/worldgen/biome/has_dense_fog.json"
 hash = "cf9e7f2323e4809993d43a6843c72ad88f723dccdd3e8ed3bbfeeb40a51e5359"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/nomansland/worldgen/configured_feature/seashells.json"
+hash = "b6c89c8714ab9c70c77c40abf24f8075d4d9c61820d20b782acbd2c88417b1f3"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/overweight_farming/recipe/cutting/breakdown_nether_wart.json"
@@ -1789,12 +1801,264 @@ file = "config/paxi/datapacks/deercraft_chipped/pack.mcmeta"
 hash = "cc7c83b9e00b6c77d078e76a7df6aa3c84ab7ed8ebeeba96331bbc93244e01a9"
 
 [[files]]
-file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/data/integrated_stronghold/worldgen/template_pool/portal_room/portal_room.json"
-hash = "71b5b31bcdd5441dd84ea810bfe71a5134b881d8fc4fe7a05b15ea34a1048080"
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/abandonedhouse/abandonedhouse.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
 
 [[files]]
-file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2/pack.mcmeta"
-hash = "f2a8e346d069eeec93e2f5f8058742f266cec2d55e0bdcfd7e50a4d8be9b5ed1"
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/abandonedhouse/abandonedhouse_create.json"
+hash = "252ad3314ddfabfe6ea2120ee18e420b76cf1871c32f3644a8c85c06532e47f7"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ancient_mines/minesbasic.json"
+hash = "2bb1754813240bd3940e5a3b425769d0534b1e08c64b73dee8d29a42aeaab9ec"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ancient_mines/minescreate.json"
+hash = "252ad3314ddfabfe6ea2120ee18e420b76cf1871c32f3644a8c85c06532e47f7"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ancient_mines/mineshall.json"
+hash = "12a6b6e1108e9bd7cde77408c6959f72117355b032a46de1445c9e5ea25b11ac"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ancient_statue/ancient_statue_jungle.json"
+hash = "f3a889b8173ee302ccfb8bdd80914e76bcbb8c0e4c8991243a3f41e67a36b23c"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ancient_statue/ancient_statue_treasure_jungle.json"
+hash = "8e407cd534932f9ad81a67460cde787977a8c0237d12a6201b3b9134d913f34b"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ancient_statue/ancient_statue_treasure_plains.json"
+hash = "b72e6b0f8e166a3187c73ed6353c64f3e494c4f40bbcfd030b9531399866f46f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/apothecary_abode/apothecary_abode.json"
+hash = "cc5d012a931416cde763916862674a1f43d43094eadcd047771ba91bc2589b38"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/bazaar/bazaar.json"
+hash = "8b1c5ad7e551cea4e1b0bca5dac3eb41b2c3f65e8163f9cbebaa6e91efda7420"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/botanist/botanist.json"
+hash = "3d63a580b7150279d387a5da3f0344a1787fe41e881d73d62b63a835a6bf4245"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/brickhouse/brickhouse.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/brickhouse/brickhouse_windmill.json"
+hash = "371cd55770443ec8adc5416d76fe91c605a8211913f1f6bc290fd5d6cf49be2d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/castle/castle.json"
+hash = "9fda8f214c18aa1649780f2a7e4e1529aa53eca2180eeb2d439a1fc6919d3e8f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/castle/castle_throne.json"
+hash = "e5d1c8e5a9a54881f1320ce4d14cf042b12f90e5f39cf05dab0036ea9b2a8905"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/collectors_museum/museum_basic.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/collectors_museum/museum_farm.json"
+hash = "3d63a580b7150279d387a5da3f0344a1787fe41e881d73d62b63a835a6bf4245"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/collectors_museum/museum_jail.json"
+hash = "d6a76b02afa2890877dbf8b78bc946632919223b5281a76274f1b189a121b427"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/collectors_museum/museum_space.json"
+hash = "a2999d1ed8115cb0196fe7310a640cecff89d69889a934ea0e48ee5c0c81660e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/collectors_museum/museum_treasure.json"
+hash = "e5d1c8e5a9a54881f1320ce4d14cf042b12f90e5f39cf05dab0036ea9b2a8905"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/desert_pyramid/desert_pyramid_surface.json"
+hash = "d3e1ec8712efa7524c074ae468584a44340d6fad9e53e15cc6631a3a7c803d6d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/desert_pyramid/desert_pyramid_tomb.json"
+hash = "63a9295ddc5d50263cffb7810c6e5756ac5014d4e240c61d008f38bab0b47733"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/desert_pyramid/desert_pyramid_treasure.json"
+hash = "e8a10f147a76a5754fb695274d09c95a869bc84289573a7b19ce38cf3943d92e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/dig_site/dig_site_treasure.json"
+hash = "dce86282395bd134d287c3641c875a26bb7aa1b3f1ebb468fe0ec3aa80438236"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/enchantingtower/enchantingtower_basic.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/enchantingtower/enchantingtower_top.json"
+hash = "a199cb96237c83e821d4fb5a1163147efad4c1ce4464380263ab07eefabd7737"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/farmhouse/farmhouse.json"
+hash = "3d63a580b7150279d387a5da3f0344a1787fe41e881d73d62b63a835a6bf4245"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/farmhouse/farmhouse_mill.json"
+hash = "371cd55770443ec8adc5416d76fe91c605a8211913f1f6bc290fd5d6cf49be2d"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/fishermans_lodge/fishermans_lodge.json"
+hash = "da0ae85b076afa4a16292a23998b4ac1ee06c882d83e2397b34f3df70f374d22"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/frozen_crypt/frozen_crypt.json"
+hash = "4d8851fba7522e823cee8f25c7a388869952f46247be156be0415c0a1e5f335e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/haunted_manor/haunted_manor_treasure.json"
+hash = "38821cc85e23f555c2c8a2a8cbcce069a312cbbde5ee45414f6410a83ce54d90"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/hunters_cabin/hunters_cabin.json"
+hash = "5bd7b576d6c29e59ea1929dd9293dc6596030b4c623f351f319901c5417a313e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/labyrinth/labyrinth_tomb.json"
+hash = "a3d2da6e7c84c33876d91f85c70854d055f16009d9895a3757a2865e0a270500"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/labyrinth/labyrinth_treasure.json"
+hash = "e5d1c8e5a9a54881f1320ce4d14cf042b12f90e5f39cf05dab0036ea9b2a8905"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/necromancers_spire/necromancers_spire.json"
+hash = "d65fe56a2f9192764fa213b72af8b7232a71a9b315c72c64c7f8aa544c450bf2"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/nexus/nexus.json"
+hash = "2d9c94ed80ea04e801a9a3e9218895ed982bd93ca43d624f4a23a927c3fe39e9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/pillager_camp/pillager_camp.json"
+hash = "9ab12e2aa92d8da2eda4cebd259cf8ed1724988c69c99bad5115b3fe88de85de"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/pillager_fortress/pillager_basic.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/pillager_fortress/pillager_jail.json"
+hash = "d6a76b02afa2890877dbf8b78bc946632919223b5281a76274f1b189a121b427"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/redhorn_guild/redhorn_guild.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ruined_church/ruined_church.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ruined_fort/ruined_fort.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ruins_of_the_deep/ruins_basic.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ruins_of_the_deep/ruins_create.json"
+hash = "17f40f4916a44ebeea83f43d5fd7e5fce38663cdbbbd4178f83e4f9115762182"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ruins_of_the_deep/ruins_ocean.json"
+hash = "e6d2601fe6939e6a8a409d7e1cf69ee9ad7c73dabbf4fb1f938431964c24376f"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/ruins_of_the_deep/ruins_treasure.json"
+hash = "03ba29e12afef146b66359d7a42bc67411b1434e25a39598f3788ff27af8ac2a"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/sirens_cove/sirens_cove.json"
+hash = "10aef1f78f00237f6bfbeba448c043e8eb3c08204f615f49584fd8edacb08888"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/sunken_ship/sunken_ship_treasure.json"
+hash = "72d875523942b277cdbd284eaed9e6a2fac6a55c897a2c41c01b3956546cf763"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/the_log/the_log.json"
+hash = "5bd7b576d6c29e59ea1929dd9293dc6596030b4c623f351f319901c5417a313e"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tinkers_citadel/tinkers_citadel.json"
+hash = "da50683effdd8c77ff2021721a391d0bc0b1b8d7844594915935666d42d7b484"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tinkers_citadel/tinkers_citadel_create.json"
+hash = "17f40f4916a44ebeea83f43d5fd7e5fce38663cdbbbd4178f83e4f9115762182"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tinkers_citadel/tinkers_citadel_vault.json"
+hash = "eebbee888467ffdb34f4b8f9cf32532e044f07f113f8bef9baa802acea80e6e9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tinkers_workshop/tinkers_workshop.json"
+hash = "17f40f4916a44ebeea83f43d5fd7e5fce38663cdbbbd4178f83e4f9115762182"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tinkers_workshop/tinkers_workshop_basic.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tinkers_workshop/tinkers_workshop_vault.json"
+hash = "eebbee888467ffdb34f4b8f9cf32532e044f07f113f8bef9baa802acea80e6e9"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/train_ruins/train_ruins.json"
+hash = "fb8dba3a8fdb1e025a52d7d08e4964c2cb6eda63a5c8c66bc18dc4d9290514f6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/train_ruins/train_ruins_create.json"
+hash = "12bb4dae9eef58c0ef3c927952bf44405f576df219c86448fedbe92d6eb8c498"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/treetop_tavern/treetop_tavern.json"
+hash = "93d892c5c8317585171598294019a8759e3ab5fbe91bdcf9ad7388ca50ed711b"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/tudor_pub/tudor_pub_treasure.json"
+hash = "b07e6ac85daabd6cd60536e42de541c72b164387d78e3d7399116c29a326a2f6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/windswept_shrine/windswept_shrine.json"
+hash = "e90eb65f52d89a8fd785613582d3ae25708fa7a4648c5aef47efb7bdc38595ef"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/winter_wagon/winter_wagon.json"
+hash = "becffbd1fe374b2e9a5668288cafdcfb8b8e1bfe6a2c75c41cb53b2f1d4d2d64"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/witches_treestump/witches_treestump.json"
+hash = "cf2452cf04a2f747204ccbccefd408e4f9a47c4b465f34b059bdac591922f2af"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/wizardtower/wizardtower_basic.json"
+hash = "7e94930d163d6859559318966a986c34592f2851ad155a3616513cf257684204"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/data/idas/loot_table/chests/wizardtower/wizardtower_top.json"
+hash = "a199cb96237c83e821d4fb5a1163147efad4c1ce4464380263ab07eefabd7737"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft_loot/pack.mcmeta"
+hash = "253c6d935104f1f492e50cf40d500eab886a798eccaefbcf6afbb664ca90c76b"
 
 [[files]]
 file = "config/paxi/datapacks/morejungle/data/minecraft/loot_table/blocks/jungle_leaves.json"
@@ -1818,7 +2082,7 @@ hash = "14c79e951f66b9e01e01bc7963fe11034c7da11b11e83c69278d717250489fbd"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/beachparty/lang/en_us.json"
-hash = "db23c0f6b2a6a9a75ba1cf12338c5f6fb5e53533df3828999607d55d353bc6f7"
+hash = "f5b2a259d45a5f1823105e64461601e3a7f085e87e87d0b9bc98b904cbf9b232"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/betterarcheology/lang/en_us.json"
@@ -1915,10 +2179,6 @@ hash = "3328fb6bf92fb78e7d1a0e340c9b81edf3ec36a0febad23c118d7f502c41c070"
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/endrem/lang/en_us.json"
 hash = "a591e774c11576c1082344d443ce3a8929f86b52c1de749573dd900c63d88581"
-
-[[files]]
-file = "config/paxi/resourcepacks/00_deer/assets/everycomp/lang/en_us.json"
-hash = "558d8a9f6399a7c45154eb2fecc318be5abf3706a6f63db913e5f2b14a0434c6"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/farmersdelight/lang/en_us.json"
@@ -2717,10 +2977,6 @@ file = "config/paxi/resourcepacks/00_deer/pack.png"
 hash = "9c401c9ea8e6dd8ac4144b23b5bb107eac2b1ef30af92afb4d2b94aed403d01d"
 
 [[files]]
-file = "config/paxi/resourcepacks/DerpWood.zip"
-hash = "82f7ac4584760319b8c89484f3d62fe69f60ab2fbd0840f617884268ce2cea8a"
-
-[[files]]
 file = "config/paxi/resourcepacks/Redstone Backport/assets/create/models/block/diodes/latch_on.json"
 hash = "68be035b543200d00b1521ba00009a019bfedbe88d6aabddfe75ea4150de431e"
 
@@ -2958,7 +3214,7 @@ hash = "0b186a316ccea41b991602fd56d9d32216a5b3ef1884ddf51770c5834578886d"
 
 [[files]]
 file = "config/reliable_remover/comp.json"
-hash = "50dc8f0bceded34d96989cd44550af1f222ec73de40a313f7affdc88d86d49a8"
+hash = "2dcd973f479173743287585a66a75ab06b61ea1193f394e17127579adc220448"
 
 [[files]]
 file = "config/reliable_remover/copper_nugget.json"
@@ -3006,27 +3262,35 @@ hash = "620cd1632c5e3d07011de69015bbd9cc8d50d8dbb15958ba3f90bc21b617468b"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_at_all.json"
-hash = "36c4946ce06b0800a47300ddc5c0d281374d5dc62637d5b170c8ea14f3d9b1cd"
+hash = "874709ef37919e05558d795cee00e9809ae276171a21073e02cea36bc336c275"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_grass.json"
-hash = "412b7cccb5aaf83e12a5385274455a95cd9a3ecf9cbc1c84908ccf27eb3f5104"
+hash = "916f71af49b1f52658d093aae55971b97d6a70b1bf0c174aeacd4aad7c8f3735"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_gravel.json"
-hash = "41a121fee3caa52756775fcc7d594dae854b49fba64c001844e7c94b46b40210"
+hash = "a8d9f20fab0dab7c337d6ec0f8ad2970b5c826e344172a34806a049895809d2b"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_snow.json"
-hash = "687ec53c749e1128481a80d988bf83d013839e4b710974c258b5f905ceaedaaa"
+hash = "d032835bc40b4ac5d9f299e2fb86d79c0d004c17fb8dbce45d315efd427f7c92"
 
 [[files]]
 file = "config/reliable_replacer/no_seashells_on_stone.json"
-hash = "1eb768b682ad7f6329c7382abfc27dc6ed2506946cfd1f8176a8ce069861fef5"
+hash = "2887111a7f3e20e03dc99426b7c80eda3ba5751ab95d523ace882cd9cec85427"
 
 [[files]]
 file = "config/reliable_requiem.json"
 hash = "7e7992f786e70a82ba19171c96522ffe013329f884bd986cd92ee7b09230a8bf"
+
+[[files]]
+file = "config/responsive-shields.toml"
+hash = "e303e90dc4e098a99f0087c6b707b1250e471e0a40ea982439ecee81cb1b011e"
+
+[[files]]
+file = "config/sablebarehanded-server.json"
+hash = "cf48a52eebb57f144bb998416b3acdc96d3d4680c80829ea489ab2ca426b1b26"
 
 [[files]]
 file = "config/smoothskies.json"
@@ -3064,7 +3328,7 @@ metafile = true
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
-hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
+hash = "0d793c21a8b23063a045abd8cab5dba9097ae50c325291d556549e2e5cc76742"
 metafile = true
 
 [[files]]
@@ -3282,11 +3546,6 @@ hash = "040f96e562d7605340feb9403fd738bb066d0e5d38696bcca51dac3d9158807a"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "20b1a4c590adf3bf74644d5558f446d04dd692fbcbe1ca7f6f2fadf1ad9033ae"
 metafile = true
@@ -3324,11 +3583,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "688cbfbaac97d3c9089bf2afa43bfd920ae8f4d210ad892b8ea52177bed67949"
 metafile = true
 
 [[files]]
@@ -3653,12 +3907,12 @@ metafile = true
 
 [[files]]
 file = "mods/responsive-knockback.pw.toml"
-hash = "8d08e2f3a114b4fe5473a875f9ab1bc4d3e5ef69b4a6db9ebe3c9c105db97e17"
+hash = "45e0077bacbad4aaa902d4048bc59a5209095292ae57fb16f305cb9d5682bb2b"
 metafile = true
 
 [[files]]
 file = "mods/responsiveshields.pw.toml"
-hash = "6085325b661e439e982a471eddc3a390918db9be3dcd198e6faeb33f6d9aaff0"
+hash = "159ebf21146d6624bb9de04466210ec0144d99225335f1e823325eaac2cae772"
 metafile = true
 
 [[files]]
@@ -3744,11 +3998,6 @@ metafile = true
 [[files]]
 file = "mods/stoat.pw.toml"
 hash = "21d617ff2c762149531476491f0db598bd7eeeb6fa6ab60bb73eed9870013cc7"
-metafile = true
-
-[[files]]
-file = "mods/stone-zone.pw.toml"
-hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
 metafile = true
 
 [[files]]
