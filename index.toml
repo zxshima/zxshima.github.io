@@ -317,6 +317,146 @@ file = "config/paxi/datapacks/cascades-source-v1.0.4.1-1.21.x/pack.png"
 hash = "1365e74650124b938fcda0eb4c5e48ae423c58ab5f0ac02ba676cb85a3a9827f"
 
 [[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/amethyst_block.json"
+hash = "1baa0c8f2bf9b378cca42556606eab31e66bf2d0542f0c75d2f1d33d4042b0a0"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/asurine.json"
+hash = "abc5e95dc85481b148bdf82278b4a086f868a4d0e3350fe4e33b29a5d7a32f51"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/blaze_cake_base.json"
+hash = "d268cafa687c328b70fa95910a367796ae8993ec4e98c0c65ad976b385979497"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/cobbled_deepslate.json"
+hash = "6a6b0c1e69b81b480d32b4c41ea012e5f65f0102fd985eb654369ea6159d73d0"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/crimsite.json"
+hash = "a47df150a698dbac2463176313f6c98e0e3c01fb6baa8b7c4c2e27d5ef5f7931"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/diamond.json"
+hash = "cc13d596f5758eb78ab26f792ad95841c094dea08f52cea498c69bec02bf257c"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/end_stone.json"
+hash = "a7d25584beeeea44fbeda444532d2e80df336cb2b112576a70300b49ac451e36"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/netherrack.json"
+hash = "ea65beaa4b5154553b7bb5b3c9bc049baa281e5f9c2edd3d247ee83aab044d51"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/ochrum.json"
+hash = "bb751cbcdfdca546086016c3bcd6da37b21a9f4f4ce9dec8b3569ad2b5f15994"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/tuff.json"
+hash = "8e68eb898a19ef29da7ce5bc3715c974b5ffceef84b3fcf64cc260e64fc10763"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/compacting/veridium.json"
+hash = "5b17ac83410c1ef543b0f7ddb217706fe3c97afa311c59a5521cbffcb5056e28"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/black_wool.json"
+hash = "c78129027ed5c61c834aa5cc8e332cf567ec1e5d1b93d5d3d895a293e8d11b2c"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/blue_wool.json"
+hash = "96bea83e13e405acd4b05ff557f9f68b88fada356cf9ea53a476455350123ca0"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/brown_wool.json"
+hash = "81d0660b0af42ba775f6e38f1ef8231f18fb5f4c6dededff58f6e70e60f9804c"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/cyan_wool.json"
+hash = "7ea30571d839e84fac111c448fb40daa6f66a0b05843b47ce9b0b6a7ae22fb9a"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/gray_wool.json"
+hash = "f4e838aa1d02f46670944352f8e2a3ffe3083f5573e10cf892e1b6e1c2811a41"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/green_wool.json"
+hash = "de47d8702734cb6d274eb7b5eff028a4df5b302f9179bb31c4394db2f327d317"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/light_blue_wool.json"
+hash = "d62608b527f8c67b1a51e4981784bb9685391c2e172ca8d1a8421c9aeade72e0"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/light_gray_wool.json"
+hash = "a9f1354741360be9c7e5bc1174b9b1fe7cb319039054fb145a63aaaab2a83384"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/lime_wool.json"
+hash = "45e322f977fe486095fa381a94bf7a37ee3219463febb67bcae1a015b556b1ac"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/magenta_wool.json"
+hash = "2e8e64e26450bf2662de5a4f86316e3b1926283a2948b53ed36d3cd28df5d26c"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/orange_wool.json"
+hash = "de1b0f253f73fa7c0a55e01c70bd3fa8d4b3d90dc5d6edf90767a2074f69f9e5"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/pink_wool.json"
+hash = "9de16e6c38c7643a13a3f53afc9012e9384823d3628a0f8d329c6b532868bbda"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/purple_wool.json"
+hash = "4d66db0f6398a62becc48ecdab4e541cbfaf6a4c624bd505e8593254dcb7744d"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/red_wool.json"
+hash = "6dd500e0ed78e80b1ee3f11c7d7162f4f137160e7395f7d59532f4b6bd17b7f6"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/scorchia.json"
+hash = "0cc90b27a768b5e64f47b4ff61404312b16646d24f900fa6d925fe50fa832c25"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/crushing/yellow_wool.json"
+hash = "b5653493cdb07c7753bd3d1071af85154e95e931a1cc392a61c3f2992bb3cb6e"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/cutting/dripstone_block.json"
+hash = "b14a4a9f072904b85beb90007cebf1a2e54f5f77aa401e2dc64c89b16ddf7aec"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/filling/ink_sac.json"
+hash = "d92360b90bbe7d22bff255836f2ce32c3a38ca23d59f70cb10200f183038dcf1"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/haunting/crying_obsidian.json"
+hash = "62175b17986b77cf1e9f773dd56a8ac839abfd11ee5eee47c776b3d8727f6e7f"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/milling/glow_berries_to_dust.json"
+hash = "3cb7fd9920a8e8e9f098f82e0c0b11f7063aeb64b507f0d634f59a0a9c72eebc"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/mixing/calcite.json"
+hash = "25ec68c038ce197311a69b854a63381bb0a305aa7bc7901c3bac50deb45f8d0b"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/mixing/lapis.json"
+hash = "fda40362d14347f24750e2da992ce081473b148bae1940210842e7b7efb8a449"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/data/create/recipe/mixing/rooted_dirt.json"
+hash = "cf9eb6f581911b7b650aea716abe2c7ea49105def9527d84d4db717aebbc5d31"
+
+[[files]]
+file = "config/paxi/datapacks/create-balanced-recipes-1.0.1/pack.mcmeta"
+hash = "e47f4dd11cc0db1791fd868f87c134ea1ca8d146890dff99ab35101641b6b2a2"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/abnormals_delight/recipe/maple_cookie.json"
 hash = "d0e7f3c6f873924c973e3de054b3bcd5c70e2bdfe43fee6213ddfbbffda6fb45"
 
@@ -741,6 +881,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/neoforge/biome_modifier/s
 hash = "aef8e0dd06725ceba16c0a21d26b171f0163b0233f3397e7a330fcddb9e685ce"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/compacting/leather.json"
+hash = "9ac84e43b3094ed322c5ebdb76840fe47c5c071ef37c6da21f71f4497e132030"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/recipe/crushing/andesite_coal_ore.json"
 hash = "c5339f842ac121ea92b24d8b3c3f8c3ba963ee7fca7fda8a876460ba90fb3ab0"
 
@@ -949,6 +1093,10 @@ file = "config/paxi/datapacks/deercraft/data/deerscape/tags/block/metal_blocks.j
 hash = "69ec17ab12678186c3cdcd8a16097b91fdd8ec99e253943d0274ccecdb284c20"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/coaster.json"
+hash = "5fca82be3f32822bc8fc54fc72292378bbfb9c0e90b84855474830c2749d0f3b"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft/data/deerscape/tags/item/copper_blocks.json"
 hash = "353d4ca31021959184cfb7c5c401f28a953d6ca6e137e1427a8cd6964447f19c"
 
@@ -1011,6 +1159,18 @@ hash = "d202ab0c10231607e2b18bcdde7d5d67ff79680919c18c71a4fc6b655477a782"
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/eclipticseasons/tags/item/crops/unaffected_by_humidity.json"
 hash = "1c9c7c871583fc506f7d6adfe0f755242cece8efbbe01c465eae7a38c0f8ec71"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/farmersdelight/recipe/cooking/stuffed_pumpkin_block.json"
+hash = "36629ff79885e3a02a91c8fbf2dd95138bb12c61fa342aad19608cc0b0295d67"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/farmersdelight/recipe/milk_bottle.json"
+hash = "9f337cb4da32798683031ae74ca09cb059281a80de760928b419a0508d5ef3d6"
+
+[[files]]
+file = "config/paxi/datapacks/deercraft/data/farmersdelight/recipe/milk_bucket_from_bottles.json"
+hash = "a94ccf79a14f4211bb07a8f40f209883fe2cc5ebfc16c09a4cf44721ba31a819"
 
 [[files]]
 file = "config/paxi/datapacks/deercraft/data/friendsandfoes/loot_table/chests/iceologer_cabin.json"
@@ -1789,6 +1949,10 @@ file = "config/paxi/datapacks/deercraft_chipped/data/nomansland/worldgen/configu
 hash = "0b27d50997d51cb21152bb4ec6b72145faf1f8add4f2074204a85c7dda63afef"
 
 [[files]]
+file = "config/paxi/datapacks/deercraft_chipped/data/reintegrated_chipped/lithostitched/worldgen_modifier/desert_obelisk.json"
+hash = "848fd9d384b6852ecf66d379ddb0d00da5da90cad841185993f5bd28ed580284"
+
+[[files]]
 file = "config/paxi/datapacks/deercraft_chipped/data/reintegrated_chipped/lithostitched/worldgen_modifier/desert_well.json"
 hash = "0a337e29490098421bf4e08af9f401ecb23f40834a8eed3b246dd34b8ea1bfd5"
 
@@ -2134,7 +2298,7 @@ hash = "3b5a81bfcb2875684aa4f718850b4e4e89c960311a2973db45d599565c2fcf3d"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/deerscape/lang/en_us.json"
-hash = "e331e68c6e0696f83520c47b10784ffe28b2bdc117a16c2bcbe91cb55598ec5b"
+hash = "c649f46236d567ac204ff85fb559b4d6c38355a10aa74ab3b52b695f5625afd9"
 
 [[files]]
 file = "config/paxi/resourcepacks/00_deer/assets/eclipticseasons/lang/en_us.json"
@@ -3174,7 +3338,7 @@ hash = "bde1d774f9370546f95b053b9b17f0d268d92e4a3620fa2d61fc89e8f5838c64"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "ba050c4337adbcbce80e714e05e8a3db15a7e0416800364458da41c333527fd6"
+hash = "3b234b494b28b89ce7dcda5329d10c5f60b2d8ca1285bc51b48afe0b7c679174"
 
 [[files]]
 file = "config/reliable_advancements_layout.json"
@@ -3191,6 +3355,10 @@ hash = "b85bf472e0c5e12efa939f5cdf59345d781bc274cee7cf35151202c5ddcc4ea5"
 [[files]]
 file = "config/reliable_recipes/fire_ring.json"
 hash = "2d1eb2463ddfa0f60b829b01d886e126f76332b989acd63f2d8e5009e7f456eb"
+
+[[files]]
+file = "config/reliable_recipes/leather.json"
+hash = "056ce7f55473ecb4b012ee30ecd51a1cb210743d8b83e9a858f3a4bb09c6019e"
 
 [[files]]
 file = "config/reliable_recipes/pebbles.json"
@@ -3469,11 +3637,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
-metafile = true
-
-[[files]]
-file = "mods/create-balanced-recipes.pw.toml"
-hash = "7ea513d33b8a38e6f6e67b80a3974764a4b3725c21891c713b58d11da42e949e"
 metafile = true
 
 [[files]]
