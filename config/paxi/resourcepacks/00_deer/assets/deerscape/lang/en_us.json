@@ -5,6 +5,7 @@
   "tag.item.deerscape.gold_blocks": "Gold Blocks",
   "tag.item.deerscape.grass": "Grass",
   "tag.item.deerscape.ice": "Ice",
+  "tag.item.deerscape.coaster": "Displayable On Coasters",
   "tag.item.deerscape.iron_blocks": "Iron Blocks",
   "tag.item.deerscape.metal_blocks": "Metal Blocks",
   "tag.item.minecraft.bundles": "Bundles",
@@ -42,5 +43,6 @@
   "tag.item.create_vibrant_vaults.colored_horizontal_basic_shipping_containers": "Colored Horizontal Basic Shipping Containers",
   "farmersdelight.tooltip.cooking_pot.empty": "Empty",
   "farmersdelight.tooltip.cooking_pot.single_serving": "Holds 1 serving of:",
-  "farmersdelight.tooltip.cooking_pot.many_servings": "Holds %s servings of:"
+  "farmersdelight.tooltip.cooking_pot.many_servings": "Holds %s servings of:",
+  "wood_type.cluttered.willow": "Moonlit Willow"
 }

@@ -1,0 +1,21 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        [
+            {
+                "item": "spelunkery:salt"
+            },
+            {
+                "item": "spelunkery:saltpeter"
+            }
+        ]
+    ],
+    "results": [
+        {
+            "id": "minecraft:leather"
+        }
+    ]
+}
